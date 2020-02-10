@@ -1,10 +1,11 @@
 # neighbor-talk
-本システムでは、4℃サイトで、sotaを使った隣人対話を実行するものです。
+本システムは、4℃サイトで、sotaを使った隣人対話を実行するものです。
 
 準備
-* 以下のサイトの手順に従って、electronの実行環境を作ります。  
+1. 以下のサイトの手順に従って、electronの実行環境を作ります。  
 https://toragramming.com/programming/electron/electron-env/
-* githubのStateHandler_javaのファイルをダウンロードします。  
+2. このリポジトリ内の4docフォルダをダウンロードし、フォルダ内に、1で作成したnode_modulesフォルダのみを移動させます。
+3. githubのStateHandler_javaのファイルをダウンロードします。  
 
 以下、実行の手順を示します。  
 1. Blackboardを開く  
