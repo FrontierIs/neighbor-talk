@@ -1,0 +1,8 @@
+sota;scenarioInit
+sota;nonverbalListening:true
+sota;addAction:motion:homePose
+sota;addAction:posture:homePosture
+sota;addAction:eyeColor:blue
+
+#sota;addAction:wait:15000
+#sota;addAction:requestMessage:sh;timeoutForSilentWait
