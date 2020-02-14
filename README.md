@@ -3,23 +3,25 @@
 で、sotaを使った隣人対話を実行するものです。
 
 ## 準備
-1. 以下のサイトの手順に従って、electronの実行環境を作る  
-https://qiita.com/TigRig/items/64d55b5fc5483b01c3b5
-2. このリポジトリ内の4docフォルダをダウンロードし、フォルダ内に、1で作成したnode_modulesフォルダのみを移動させる
-3. githubのStateHandler_javaのファイルをダウンロードする
+1.以下のサイトの二つある緑のボタンのうち、左側のボタンをクリックし、node.jsをインストールする。  
+https://nodejs.org/en/  
+2. 以下のサイトの手順に従って、electronの実行環境を作る。(**実行コマンドはすべて、灰色で書いてあるものを実行**)    
+https://toragramming.com/programming/electron/electron-env/  
+3. このリポジトリ内のフォルダを全てダウンロードし、展開した後4docフォルダ内のファイルを全てコピーする。それを2で作成したelectron-testフォルダ(node_modulesと同列のフォルダ)の中に貼り付ける。  
+4. githubのStateHandler_javaのファイルをダウンロードする。
 
 ## 実行手順 
-1. Blackboardを開く  
-2. Activitymanegerを起動する  
-3. sotaを起動し、IPアドレスを確認する  
-4. teratermを起動し、ホスト欄にIPアドレスを入力する  
-5. その後、ユーザ名　root パスフレーズ edison00 を入力してOKボタンを押す　　
-6. cd SotaSample/binを実行する  　　
-7. ./java_run.sh jp/vstone/frontierisHotel/Rinjinを実行する    
-8. sotaをもう一台起動し、4-7をもう一度実行する  　　
-9. コマンドプロンプトを起動する  
-10. 4docのファイルの場所まで移動する  
-11. C:\Users\4docの状態で、「.\node_modules\.bin\electron .」を入力し、実行する
+1. Blackboardを開く。  
+2. Activitymanegerを起動する。  
+3. sotaを起動し、IPアドレスを確認する。  
+4. teratermを起動し、ホスト欄にIPアドレスを入力する。  
+5. その後、ユーザ名　root パスフレーズ edison00 を入力してOKボタンを押す。　　
+6. cd SotaSample/binを実行する。  　　
+7. ./java_run.sh jp/vstone/frontierisHotel/Rinjinを実行する。    
+8. sotaをもう一台起動し、4-7をもう一度実行する。  　　
+9. コマンドプロンプトを起動する。  
+10. 4docのファイルの場所まで移動する。  
+11. C:\Users\4docの状態で、「.\node_modules\.bin\electron .」を入力し、実行する。
 
 ## 主要プログラム説明
 主要プログラムについて簡単に説明する。
