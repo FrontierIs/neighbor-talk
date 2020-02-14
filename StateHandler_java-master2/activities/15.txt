@@ -1,0 +1,17 @@
+
+sota2;addAction:motionWith:pose:700:-900:0:900:0:0:0:0:700
+sota2;addAction:say:いいイヤリング見つかった?:rate=10:pitch=1:intonation=8
+sota2;waitForCommandEnd
+sota;addAction:motionWith:homePose
+sota;addAction:say:僕が見た100個のイヤリングの中で15番が一番いいね
+sota;waitForCommandEnd
+sota2;addAction:motionWith:homePose
+sota2;addAction:say:女性らしい印象のルビーのイヤリングだね:rate=10:pitch=1:intonation=8
+sota2;waitForCommandEnd
+sota;addAction:say:ルビーは美しさと気品を引き出すと言われているんだ、しかもちょうどよい長さでつけやすい
+sota;waitForCommandEnd
+sota2;addAction:motionWith:bodyPose:0:300:-500:900:0:1000
+sota2;addAction:say:15番良さそう、良さそう:rate=10:pitch=1:intonation=8
+sota2;waitForCommandEnd
+
+

@@ -1,0 +1,13 @@
+sota;waitForCommandEnd
+sota;addAction:say:あのイヤリングすごく良さそうじゃない?
+sota;waitForCommandEnd
+sota2;waitForCommandEnd
+sota2;addAction:say:何番、何番?:rate=10:pitch=1:intonation=8
+sota2;waitForCommandEnd
+sota;addAction:say:27番、フープ型が特徴的だね、しかもシルバーが大人っぽい印象を与えてる
+sota;waitForCommandEnd
+sota2;addAction:motionWith:bodyPose:0:300:-500:900:0:1000
+sota2;addAction:say:耳元から女性らしさをアップさせてくれそう:rate=10:pitch=1:intonation=8
+sota2;waitForCommandEnd
+sota;addAction:say:27番、つける人の印象を大きく変えてくれそう、かなり良いね
+sota;waitForCommandEnd

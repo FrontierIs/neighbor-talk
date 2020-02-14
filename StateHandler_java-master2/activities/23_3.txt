@@ -1,0 +1,12 @@
+sota2;addAction:motionWith:pose:700:-900:0:900:0:0:0:0:700
+sota2;addAction:say:いいイヤリング見つかった?:rate=10:pitch=1:intonation=8
+sota2;waitForCommandEnd
+sota;addAction:say:23番のイヤリングすごく良さそう
+sota;waitForCommandEnd
+sota2;addAction:say:見る人を引き付ける輝きの、ジルコニアのイヤリングだね:rate=10:pitch=1:intonation=8
+sota2;waitForCommandEnd
+sota;addAction:say:輝きと清楚な色合いが絶妙だよね
+sota;waitForCommandEnd
+sota2;addAction:motionWith:bodyPose:0:300:-500:900:0:1000
+sota2;addAction:say:23番めちゃめちゃ良さそう:rate=10:pitch=1:intonation=8
+sota2;waitForCommandEnd

@@ -1,0 +1,15 @@
+sota;addAction:motionWith:pose:-1200:-900:0:900:0:0:0:0:500
+sota;addAction:say:僕が一番気に入っているイヤリングあるんだけど、言ってもいい?
+sota;waitForCommandEnd
+sota2;addAction:motionWith:pose:1200:-900:0:900:0:0:0:0:500
+sota2;addAction:say:何番、何番?:rate=10:pitch=1:intonation=8
+sota2;waitForCommandEnd
+sota;addAction:say:12番、シンプルな感じとかわいらしさがあって、一番いいね
+sota;waitForCommandEnd
+sota2;addAction:motionWith:bodyPose:0:300:-500:900:0:1000
+sota2;addAction:say:なるほど、しかもワンポイントの水色がまたキュートだね:rate=10:pitch=1:intonation=8
+sota2;waitForCommandEnd
+sota;addAction:say:12番、キュートさと大人っぽさを兼ね備えてて、喜んでくれること間違いないね
+sota;waitForCommandEnd
+
+

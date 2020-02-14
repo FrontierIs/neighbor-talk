@@ -1,0 +1,16 @@
+sota2;addAction:motionWith:pose:700:-900:0:900:0:0:0:0:700
+sota2;addAction:say:いいイヤリング見つかった?:rate=10:pitch=1:intonation=8
+sota2;waitForCommandEnd
+sota;addAction:motionWith:homePose
+sota;addAction:say:僕が見た100個のイヤリングの中で14番が一番いいね
+sota;waitForCommandEnd
+sota2;addAction:motionWith:homePose
+sota2;addAction:say:しずく型のイヤリングだね、柔らかなラインで女性らしさが引き立ちそうだね:rate=10:pitch=1:intonation=8
+sota2;waitForCommandEnd
+sota;addAction:say:4ドシーだけの限定モチーフだから、オリジナルティーもだせるね
+sota;waitForCommandEnd
+sota2;addAction:motionWith:bodyPose:0:300:-500:900:0:1000
+sota2;addAction:say:14番めちゃめちゃ良さそう:rate=10:pitch=1:intonation=8
+sota2;waitForCommandEnd
+
+

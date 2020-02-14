@@ -1,0 +1,15 @@
+sota;addAction:motionWith:pose:-1200:-900:0:900:0:-400:0:0:700
+sota;addAction:say:あのイヤリング良さそうじゃない?
+sota;waitForCommandEnd
+sota2;addAction:motionWith:pose:700:-900:0:900:0:0:0:0:700
+sota2;addAction:say:何番、何番?:rate=10:pitch=1:intonation=8
+sota2;waitForCommandEnd
+sota;addAction:say:1番、華やかで長さがあっていいと思うんだ
+sota;waitForCommandEnd
+sota2;addAction:motionWith:bodyPose:0:300:-500:900:0:1000
+sota2;addAction:say:長いものは、揺れるたびに光を反射するから輝いて見えるし、今人気だね:rate=10:pitch=1:intonation=8
+sota2;waitForCommandEnd
+sota;addAction:say:1番、色合いもいいし喜んでくれること間違いないね
+sota;waitForCommandEnd
+
+

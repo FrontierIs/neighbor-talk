@@ -1,0 +1,15 @@
+sota;addAction:motionWith:homePose
+sota;addAction:say:僕が一番気に入っているイヤリングあるんだけど、言ってもいい?
+sota;waitForCommandEnd
+sota2;addAction:motionWith:homePose
+sota2;addAction:say:何番、何番?:rate=10:pitch=1:intonation=8
+sota2;waitForCommandEnd
+sota;addAction:say:16番、シンプルな感じと上品さでどんな人も身につけやすいのが特徴だよ
+sota;waitForCommandEnd
+sota2;addAction:motionWith:bodyPose:0:300:-500:900:0:1000
+sota2;addAction:say:確かに女性らしさがあって素敵だね、しかもちょうどよい長さだね:rate=10:pitch=1:intonation=8
+sota2;waitForCommandEnd
+sota;addAction:say:16番、つけやすいし、喜んでくれること間違いないね
+sota;waitForCommandEnd
+
+
