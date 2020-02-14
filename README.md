@@ -1,9 +1,9 @@
 # neighbor-talk
-本システムは、4℃サイトで、sotaを使った隣人対話を実行するものです。
+本システムは、4℃サイト(https://jewelry-boutique.jp/products?item=13)で、sotaを使った隣人対話を実行するものです。
 
 ## 準備
 1. 以下のサイトの手順に従って、electronの実行環境を作る  
-https://toragramming.com/programming/electron/electron-env/
+https://qiita.com/TigRig/items/64d55b5fc5483b01c3b5
 2. このリポジトリ内の4docフォルダをダウンロードし、フォルダ内に、1で作成したnode_modulesフォルダのみを移動させる
 3. githubのStateHandler_javaのファイルをダウンロードする
 
