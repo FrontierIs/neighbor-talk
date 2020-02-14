@@ -1,0 +1,1279 @@
+Sat Dec 14 19:29:07 JST 2019: @@@ RUN STAMP @@@ -- Frontier-is
+Sat Dec 14 19:29:07 JST 2019: Connect with /100.80.194.226, ID: 10
+Sat Dec 14 19:29:07 JST 2019: Connect with /100.80.194.226, ID: 16
+Sat Dec 14 19:29:07 JST 2019: Register name as: 'sh' (/100.80.194.226, ID:16)
+Sat Dec 14 19:29:13 JST 2019: Connect with /100.80.194.226, ID: 19
+Sat Dec 14 19:29:13 JST 2019: Register name as: 'pp' (/100.80.194.226, ID:19)
+Sat Dec 14 19:29:17 JST 2019: send msg: [heart] to 'sh' (/100.80.194.226, ID:16)
+Sat Dec 14 19:29:17 JST 2019: send msg: [heart] to 'am' (/100.80.194.226, ID:10)
+Sat Dec 14 19:29:17 JST 2019: Could not find name: 'sota'
+Sat Dec 14 19:29:17 JST 2019: Could not find name: 'sota'
+Sat Dec 14 19:29:17 JST 2019: Could not find name: 'sota'
+Sat Dec 14 19:29:23 JST 2019: Connect with /100.80.194.248, ID: 27
+Sat Dec 14 19:29:23 JST 2019: Connect with /100.80.194.247, ID: 29
+Sat Dec 14 19:29:23 JST 2019: Register name as: 'sota2' (/100.80.194.248, ID:27)
+Sat Dec 14 19:29:23 JST 2019: Register name as: 'sota' (/100.80.194.247, ID:29)
+Sat Dec 14 19:29:45 JST 2019: disconnect with: 'pp' (/100.80.194.226,19)
+Sat Dec 14 19:29:51 JST 2019: disconnect with: 'sota2' (/100.80.194.248,27)
+Sat Dec 14 19:29:56 JST 2019: disconnect with: 'sota' (/100.80.194.247,29)
+Sat Dec 14 19:29:59 JST 2019: Connect with /100.80.194.248, ID: 36
+Sat Dec 14 19:29:59 JST 2019: Register name as: 'sota2' (/100.80.194.248, ID:36)
+Sat Dec 14 19:30:05 JST 2019: Connect with /100.80.194.247, ID: 39
+Sat Dec 14 19:30:05 JST 2019: Register name as: 'sota' (/100.80.194.247, ID:39)
+Sat Dec 14 19:30:39 JST 2019: Connect with /100.80.194.226, ID: 42
+Sat Dec 14 19:30:39 JST 2019: Register name as: 'pp' (/100.80.194.226, ID:42)
+Sat Dec 14 19:30:42 JST 2019: send msg: [heart] to 'sh' (/100.80.194.226, ID:16)
+Sat Dec 14 19:30:42 JST 2019: send msg: [heart] to 'am' (/100.80.194.226, ID:10)
+Sat Dec 14 19:30:42 JST 2019: send msg: [wait:4000] to 'sota' (/100.80.194.247, ID:39)
+Sat Dec 14 19:30:42 JST 2019: send msg: [addAction:say:プレゼント選び、難しいよね] to 'sota' (/100.80.194.247, ID:39)
+Sat Dec 14 19:30:42 JST 2019: send msg: [addAction:requestMessage:am;193042240] to 'sota' (/100.80.194.247, ID:39)
+Sat Dec 14 19:30:49 JST 2019: send msg: [193042240] to 'am' (/100.80.194.226, ID:10)
+Sat Dec 14 19:30:49 JST 2019: send msg: [addAction:motionWith:pose:1200:-900:0:900:0:0:0:0:700] to 'sota2' (/100.80.194.248, ID:36)
+Sat Dec 14 19:30:49 JST 2019: send msg: [addAction:say:難しい、失敗したくない:rate=10:pitch=1:intonation=8] to 'sota2' (/100.80.194.248, ID:36)
+Sat Dec 14 19:30:49 JST 2019: send msg: [addAction:requestMessage:am;193049156] to 'sota2' (/100.80.194.248, ID:36)
+Sat Dec 14 19:30:50 JST 2019: send msg: [1_2] to 'sh' (/100.80.194.226, ID:16)
+Sat Dec 14 19:30:50 JST 2019: send msg: [1_2] to 'am' (/100.80.194.226, ID:10)
+Sat Dec 14 19:30:50 JST 2019: send msg: [addAction:motionWith:pose:-1200:-900:0:900:0:-400:0:0:700] to 'sota' (/100.80.194.247, ID:39)
+Sat Dec 14 19:30:50 JST 2019: send msg: [addAction:say:僕が一番気に入っているイヤリングあるんだけど、言ってもいい?] to 'sota' (/100.80.194.247, ID:39)
+Sat Dec 14 19:30:50 JST 2019: send msg: [addAction:requestMessage:am;193050719] to 'sota' (/100.80.194.247, ID:39)
+Sat Dec 14 19:30:52 JST 2019: send msg: [193049156] to 'am' (/100.80.194.226, ID:10)
+Sat Dec 14 19:30:55 JST 2019: send msg: [193050719] to 'am' (/100.80.194.226, ID:10)
+Sat Dec 14 19:31:04 JST 2019: send msg: [1_2] to 'sh' (/100.80.194.226, ID:16)
+Sat Dec 14 19:31:04 JST 2019: send msg: [1_2] to 'am' (/100.80.194.226, ID:10)
+Sat Dec 14 19:31:04 JST 2019: send msg: [addAction:motionWith:pose:-1200:-900:0:900:0:-400:0:0:700] to 'sota' (/100.80.194.247, ID:39)
+Sat Dec 14 19:31:04 JST 2019: send msg: [addAction:say:僕が一番気に入っているイヤリングあるんだけど、言ってもいい?] to 'sota' (/100.80.194.247, ID:39)
+Sat Dec 14 19:31:04 JST 2019: send msg: [addAction:requestMessage:am;19314233] to 'sota' (/100.80.194.247, ID:39)
+Sat Dec 14 19:31:08 JST 2019: send msg: [19314233] to 'am' (/100.80.194.226, ID:10)
+Sat Dec 14 19:31:08 JST 2019: send msg: [addAction:motionWith:pose:700:-900:0:900:0:0:0:0:700] to 'sota2' (/100.80.194.248, ID:36)
+Sat Dec 14 19:31:08 JST 2019: send msg: [addAction:requestMessage:am;19318731] to 'sota2' (/100.80.194.248, ID:36)
+Sat Dec 14 19:31:08 JST 2019: send msg: [addAction:say:何番、何番?:rate=10:pitch=1:intonation=8] to 'sota2' (/100.80.194.248, ID:36)
+Sat Dec 14 19:31:11 JST 2019: send msg: [19318731] to 'am' (/100.80.194.226, ID:10)
+Sat Dec 14 19:31:11 JST 2019: send msg: [addAction:say:1番、シンプルな感じと上品さがあって、一番いいと思うんだ] to 'sota' (/100.80.194.247, ID:39)
+Sat Dec 14 19:31:13 JST 2019: send msg: [heart] to 'sh' (/100.80.194.226, ID:16)
+Sat Dec 14 19:31:13 JST 2019: send msg: [heart] to 'am' (/100.80.194.226, ID:10)
+Sat Dec 14 19:31:13 JST 2019: send msg: [wait:4000] to 'sota' (/100.80.194.247, ID:39)
+Sat Dec 14 19:31:13 JST 2019: send msg: [addAction:requestMessage:am;193113537] to 'sota' (/100.80.194.247, ID:39)
+Sat Dec 14 19:31:13 JST 2019: send msg: [addAction:say:プレゼント選び、難しいよね] to 'sota' (/100.80.194.247, ID:39)
+Sat Dec 14 19:31:20 JST 2019: send msg: [193113537] to 'am' (/100.80.194.226, ID:10)
+Sat Dec 14 19:31:20 JST 2019: send msg: [addAction:motionWith:pose:1200:-900:0:900:0:0:0:0:700] to 'sota2' (/100.80.194.248, ID:36)
+Sat Dec 14 19:31:20 JST 2019: send msg: [addAction:say:難しい、失敗したくない:rate=10:pitch=1:intonation=8] to 'sota2' (/100.80.194.248, ID:36)
+Sat Dec 14 19:31:20 JST 2019: send msg: [addAction:requestMessage:am;193120387] to 'sota2' (/100.80.194.248, ID:36)
+Sat Dec 14 19:31:23 JST 2019: send msg: [193120387] to 'am' (/100.80.194.226, ID:10)
+Sat Dec 14 19:31:23 JST 2019: send msg: [addAction:motionWith:homePose] to 'sota' (/100.80.194.247, ID:39)
+Sat Dec 14 19:31:23 JST 2019: send msg: [addAction:say:とりあえずモチーフから検索してみたら?] to 'sota' (/100.80.194.247, ID:39)
+Sat Dec 14 19:31:23 JST 2019: send msg: [addAction:requestMessage:am;193123388] to 'sota' (/100.80.194.247, ID:39)
+Sat Dec 14 19:31:26 JST 2019: send msg: [193123388] to 'am' (/100.80.194.226, ID:10)
+Sat Dec 14 19:31:26 JST 2019: send msg: [addAction:motionWith:bodyPose:0:300:-500:900:0:1000] to 'sota2' (/100.80.194.248, ID:36)
+Sat Dec 14 19:31:26 JST 2019: send msg: [addAction:say:ページ上部のモチーフのところだね:rate=10:pitch=1:intonation=8] to 'sota2' (/100.80.194.248, ID:36)
+Sat Dec 14 19:31:26 JST 2019: send msg: [addAction:requestMessage:am;193126800] to 'sota2' (/100.80.194.248, ID:36)
+Sat Dec 14 19:31:30 JST 2019: send msg: [193126800] to 'am' (/100.80.194.226, ID:10)
+Sat Dec 14 19:31:30 JST 2019: send msg: [addAction:motionWith:pose:-800:-900:0:900:0:0:0:0:700] to 'sota' (/100.80.194.247, ID:39)
+Sat Dec 14 19:31:30 JST 2019: send msg: [addAction:say:ハートとかかわいくて、良いんじゃない。] to 'sota' (/100.80.194.247, ID:39)
+Sat Dec 14 19:31:30 JST 2019: send msg: [addAction:requestMessage:am;193130259] to 'sota' (/100.80.194.247, ID:39)
+Sat Dec 14 19:31:33 JST 2019: send msg: [193130259] to 'am' (/100.80.194.226, ID:10)
+Sat Dec 14 19:31:33 JST 2019: send msg: [addAction:posture:homePosture] to 'sota2' (/100.80.194.248, ID:36)
+Sat Dec 14 19:31:33 JST 2019: send msg: [addAction:requestMessage:am;193133259] to 'sota2' (/100.80.194.248, ID:36)
+Sat Dec 14 19:31:33 JST 2019: send msg: [addAction:say:ハート、良さそうだね:rate=10:pitch=1:intonation=8] to 'sota2' (/100.80.194.248, ID:36)
+Sat Dec 14 19:31:35 JST 2019: send msg: [193133259] to 'am' (/100.80.194.226, ID:10)
+Sat Dec 14 19:50:05 JST 2019: disconnect with: 'pp' (/100.80.194.226,42)
+Sun Dec 15 00:15:25 JST 2019: disconnect with: 'sota' (/100.80.194.247,39)
+Sun Dec 15 03:57:34 JST 2019: Connect with /127.0.0.1, ID: 100
+Sun Dec 15 03:57:35 JST 2019: Register name as: 'op' (/127.0.0.1, ID:100)
+Sun Dec 15 03:57:44 JST 2019: send msg: [4doc] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 03:57:44 JST 2019: send msg: [4doc] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 03:57:44 JST 2019: Could not find name: 'sota'
+Sun Dec 15 03:57:44 JST 2019: Could not find name: 'sota'
+Sun Dec 15 03:58:19 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 03:58:19 JST 2019: send msg: [long] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 03:58:19 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 03:58:19 JST 2019: send msg: [long] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 03:58:20 JST 2019: Could not find name: 'sota'
+Sun Dec 15 03:58:20 JST 2019: send msg: [clearBehavior] to 'sota2' (/100.80.194.248, ID:36)
+Sun Dec 15 03:58:20 JST 2019: Could not find name: 'sota'
+Sun Dec 15 03:58:20 JST 2019: Could not find name: 'sota'
+Sun Dec 15 03:58:20 JST 2019: disconnect with: 'sota2' (/100.80.194.248,36)
+Sun Dec 15 03:58:54 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 03:58:54 JST 2019: send msg: [heart] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 03:58:54 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 03:58:54 JST 2019: send msg: [heart] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 03:58:54 JST 2019: Could not find name: 'sota'
+Sun Dec 15 03:58:54 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 03:58:54 JST 2019: Could not find name: 'sota'
+Sun Dec 15 03:58:54 JST 2019: Could not find name: 'sota'
+Sun Dec 15 03:58:54 JST 2019: Could not find name: 'sota'
+Sun Dec 15 03:59:29 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 03:59:29 JST 2019: send msg: [long] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 03:59:29 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 03:59:29 JST 2019: send msg: [long] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 03:59:29 JST 2019: Could not find name: 'sota'
+Sun Dec 15 03:59:29 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 03:59:29 JST 2019: Could not find name: 'sota'
+Sun Dec 15 03:59:29 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:00:04 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:00:04 JST 2019: send msg: [shizuku] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:00:04 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:00:04 JST 2019: send msg: [shizuku] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:00:04 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:00:04 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 04:00:05 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:00:05 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:00:05 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:00:39 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:00:39 JST 2019: send msg: [long] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:00:39 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:00:39 JST 2019: send msg: [long] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:00:39 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:00:39 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:00:39 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:00:39 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 04:01:14 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:01:14 JST 2019: send msg: [heart] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:01:14 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:01:14 JST 2019: send msg: [heart] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:01:14 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:01:14 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 04:01:14 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:01:14 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:01:14 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:01:49 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:01:49 JST 2019: send msg: [nega_long] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:01:49 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:01:49 JST 2019: send msg: [nega_long] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:01:49 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:01:49 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 04:01:50 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:01:50 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:01:50 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:02:24 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:02:24 JST 2019: send msg: [long] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:02:24 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:02:24 JST 2019: send msg: [long] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:02:24 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:02:24 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 04:02:24 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:02:24 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:02:59 JST 2019: send msg: [gold] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:02:59 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:02:59 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:02:59 JST 2019: send msg: [gold] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:02:59 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:02:59 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 04:02:59 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:02:59 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:03:34 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:03:34 JST 2019: send msg: [silver] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:03:34 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:03:34 JST 2019: send msg: [silver] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:03:34 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:03:34 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 04:03:34 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:03:34 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:03:34 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:04:09 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:04:09 JST 2019: send msg: [nega_long] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:04:09 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:04:09 JST 2019: send msg: [nega_long] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:04:09 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:04:09 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 04:04:09 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:04:09 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:04:09 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:04:44 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:04:44 JST 2019: send msg: [nega_long] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:04:44 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:04:44 JST 2019: send msg: [nega_long] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:04:44 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:04:44 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 04:04:44 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:04:44 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:04:44 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:05:19 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:05:19 JST 2019: send msg: [nega_long] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:05:19 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:05:19 JST 2019: send msg: [nega_long] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:05:19 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 04:05:19 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:05:19 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:05:19 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:05:19 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:05:54 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:05:54 JST 2019: send msg: [silver] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:05:54 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:05:54 JST 2019: send msg: [silver] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:05:54 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:05:54 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 04:05:54 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:05:54 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:05:54 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:06:25 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:06:25 JST 2019: send msg: [ka_heart] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:06:25 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:06:25 JST 2019: send msg: [ka_heart] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:06:25 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:06:25 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 04:06:25 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:06:25 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:09:49 JST 2019: send msg: [long] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:09:49 JST 2019: send msg: [long] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:09:49 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:09:49 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:10:04 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:10:04 JST 2019: send msg: [ka_shizuku] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:10:04 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:10:04 JST 2019: send msg: [ka_shizuku] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:10:04 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:10:04 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 04:10:04 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:10:04 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:15:10 JST 2019: send msg: [silver] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:15:10 JST 2019: send msg: [silver] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:15:10 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:15:10 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:15:10 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:15:45 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:15:45 JST 2019: send msg: [rubi] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:15:45 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:15:45 JST 2019: send msg: [rubi] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:15:45 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:15:45 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 04:15:45 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:15:45 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:15:45 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:16:20 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:16:20 JST 2019: send msg: [heart] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:16:20 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:16:20 JST 2019: send msg: [heart] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:16:20 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:16:20 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 04:16:20 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:16:20 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:16:20 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:18:41 JST 2019: send msg: [rubi] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:18:41 JST 2019: send msg: [rubi] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:18:41 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:18:41 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:18:41 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:19:16 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:19:16 JST 2019: send msg: [gold] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:19:16 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:19:16 JST 2019: send msg: [gold] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:19:16 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:19:16 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 04:19:16 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:19:16 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:19:52 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:19:52 JST 2019: send msg: [ok_gold] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:19:52 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:19:52 JST 2019: send msg: [ok_gold] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:19:52 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:19:52 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 04:19:52 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:19:52 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:25:44 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:25:44 JST 2019: send msg: [good] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:25:44 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:25:44 JST 2019: send msg: [good] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:25:44 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:25:44 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 04:25:44 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:25:44 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:26:09 JST 2019: send msg: [boost] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:26:09 JST 2019: send msg: [boost] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:26:09 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:26:09 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:26:09 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:26:59 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:26:59 JST 2019: send msg: [34] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:26:59 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:26:59 JST 2019: send msg: [34] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:26:59 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:26:59 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 04:26:59 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:26:59 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:29:58 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:29:58 JST 2019: send msg: [good] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:29:58 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:29:58 JST 2019: send msg: [good] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:29:58 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:29:58 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 04:29:58 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:29:58 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:29:58 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:30:23 JST 2019: send msg: [boost] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:30:23 JST 2019: send msg: [boost] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:30:23 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:30:23 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:30:23 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:31:03 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:31:03 JST 2019: send msg: [dis] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:31:03 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:31:03 JST 2019: send msg: [dis] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:31:03 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:31:03 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 04:31:03 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:31:03 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:31:03 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:31:35 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:31:35 JST 2019: send msg: [32] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:31:35 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:31:35 JST 2019: send msg: [32] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:31:35 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:31:35 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 04:31:35 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:31:35 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:31:53 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:31:53 JST 2019: send msg: [dis] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:31:53 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:31:53 JST 2019: send msg: [dis] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:31:53 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 04:31:53 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:31:53 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:31:53 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:31:53 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:32:30 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:32:30 JST 2019: send msg: [5] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:32:30 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:32:30 JST 2019: send msg: [5] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:32:30 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:32:30 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 04:32:30 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:32:30 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:32:30 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:33:12 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:33:12 JST 2019: send msg: [ok_gold] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:33:12 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:33:12 JST 2019: send msg: [ok_gold] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:33:12 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:33:12 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 04:33:12 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:33:12 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:36:09 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:36:09 JST 2019: send msg: [3] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:36:09 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:36:09 JST 2019: send msg: [3] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:36:09 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:36:09 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 04:36:09 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:36:09 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:36:09 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:36:34 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:36:34 JST 2019: send msg: [good] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:36:34 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:36:34 JST 2019: send msg: [good] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:36:34 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:36:34 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 04:36:34 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:36:34 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:37:03 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:37:03 JST 2019: send msg: [8] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:37:03 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:37:04 JST 2019: send msg: [8] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:37:04 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:37:04 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 04:37:04 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:37:04 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:37:09 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:37:09 JST 2019: send msg: [good] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:37:09 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:37:09 JST 2019: send msg: [good] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:37:10 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:37:10 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 04:37:10 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:37:10 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:37:10 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:37:34 JST 2019: send msg: [boost] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:37:34 JST 2019: send msg: [boost] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:37:35 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:37:35 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:37:35 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:38:47 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:38:47 JST 2019: send msg: [ok_shizuku] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:38:48 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:38:48 JST 2019: send msg: [ok_shizuku] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:38:48 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:38:48 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 04:38:48 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:38:48 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:39:18 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:39:18 JST 2019: send msg: [23] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:39:18 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:39:18 JST 2019: send msg: [23] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:39:18 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:39:18 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 04:39:18 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:39:18 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:41:35 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:41:35 JST 2019: send msg: [dis] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:41:35 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:41:35 JST 2019: send msg: [dis] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:41:35 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 04:41:35 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:41:35 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:41:35 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:41:35 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:43:33 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:43:33 JST 2019: send msg: [30] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:43:33 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:43:33 JST 2019: send msg: [30] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:43:34 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:43:34 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 04:43:34 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:43:34 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:44:32 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:44:32 JST 2019: send msg: [ok_shizuku] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:44:32 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:44:32 JST 2019: send msg: [ok_shizuku] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:44:32 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:44:32 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 04:44:32 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:44:32 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:45:41 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:45:41 JST 2019: send msg: [21] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:45:41 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:45:41 JST 2019: send msg: [21] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:45:41 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:45:41 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 04:45:41 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:45:41 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:47:15 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:47:15 JST 2019: send msg: [dis] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:47:15 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:47:15 JST 2019: send msg: [dis] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:47:15 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:47:15 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 04:47:15 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:47:15 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:47:15 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:50:15 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:50:15 JST 2019: send msg: [7] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:50:15 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:50:15 JST 2019: send msg: [7] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:50:15 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:50:15 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 04:50:15 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 04:50:15 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 04:50:15 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 04:51:13 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:51:13 JST 2019: send msg: [ok_gold] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:51:13 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:51:13 JST 2019: send msg: [ok_gold] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:51:13 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:51:13 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 04:51:13 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:51:13 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:53:57 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:53:57 JST 2019: send msg: [27] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:53:57 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:53:57 JST 2019: send msg: [27] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:53:57 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:53:57 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 04:53:57 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:53:57 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:54:05 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:54:05 JST 2019: send msg: [ok_long] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:54:05 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:54:05 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:54:05 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 04:54:18 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:54:18 JST 2019: send msg: [1] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:54:18 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:54:18 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:54:18 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 04:54:18 JST 2019: send msg: [1] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:54:18 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:54:18 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:56:08 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:56:08 JST 2019: send msg: [ok_long] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:56:08 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:56:08 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:56:08 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 04:59:33 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:59:33 JST 2019: send msg: [6] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 04:59:33 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:59:34 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:59:34 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 04:59:34 JST 2019: send msg: [6] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 04:59:34 JST 2019: Could not find name: 'sota'
+Sun Dec 15 04:59:34 JST 2019: Could not find name: 'sota'
+Sun Dec 15 05:12:20 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 05:12:20 JST 2019: send msg: [ok_heart] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 05:12:20 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 05:12:20 JST 2019: send msg: [ok_heart] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 05:12:20 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 05:12:20 JST 2019: Could not find name: 'sota'
+Sun Dec 15 05:12:20 JST 2019: Could not find name: 'sota'
+Sun Dec 15 05:12:20 JST 2019: Could not find name: 'sota'
+Sun Dec 15 05:12:33 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 05:12:33 JST 2019: send msg: [29] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 05:12:33 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 05:12:33 JST 2019: send msg: [29] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 05:12:33 JST 2019: Could not find name: 'sota'
+Sun Dec 15 05:12:33 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 05:12:33 JST 2019: Could not find name: 'sota'
+Sun Dec 15 05:12:33 JST 2019: Could not find name: 'sota'
+Sun Dec 15 05:14:22 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 05:14:22 JST 2019: send msg: [ok_heart] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 05:14:22 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 05:14:22 JST 2019: send msg: [ok_heart] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 05:14:22 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 05:14:22 JST 2019: Could not find name: 'sota'
+Sun Dec 15 05:14:22 JST 2019: Could not find name: 'sota'
+Sun Dec 15 05:14:22 JST 2019: Could not find name: 'sota'
+Sun Dec 15 05:14:52 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 05:14:52 JST 2019: send msg: [good] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 05:14:52 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 05:14:53 JST 2019: send msg: [good] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 05:14:53 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 05:14:53 JST 2019: Could not find name: 'sota'
+Sun Dec 15 05:14:53 JST 2019: Could not find name: 'sota'
+Sun Dec 15 05:14:53 JST 2019: Could not find name: 'sota'
+Sun Dec 15 05:14:53 JST 2019: Could not find name: 'sota'
+Sun Dec 15 05:15:17 JST 2019: send msg: [boost] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 05:15:17 JST 2019: send msg: [boost] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 05:15:18 JST 2019: Could not find name: 'sota'
+Sun Dec 15 05:15:18 JST 2019: Could not find name: 'sota'
+Sun Dec 15 05:15:18 JST 2019: Could not find name: 'sota'
+Sun Dec 15 05:17:17 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 05:17:17 JST 2019: send msg: [28] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 05:17:17 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 05:17:17 JST 2019: send msg: [28] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 05:17:17 JST 2019: Could not find name: 'sota'
+Sun Dec 15 05:17:17 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 05:17:17 JST 2019: Could not find name: 'sota'
+Sun Dec 15 05:17:17 JST 2019: Could not find name: 'sota'
+Sun Dec 15 05:17:30 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 05:17:30 JST 2019: send msg: [good] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 05:17:30 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 05:17:30 JST 2019: send msg: [good] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 05:17:30 JST 2019: Could not find name: 'sota'
+Sun Dec 15 05:17:30 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 05:17:30 JST 2019: Could not find name: 'sota'
+Sun Dec 15 05:17:30 JST 2019: Could not find name: 'sota'
+Sun Dec 15 05:17:55 JST 2019: send msg: [boost] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 05:17:55 JST 2019: send msg: [boost] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 05:17:55 JST 2019: Could not find name: 'sota'
+Sun Dec 15 05:17:55 JST 2019: Could not find name: 'sota'
+Sun Dec 15 05:17:55 JST 2019: Could not find name: 'sota'
+Sun Dec 15 05:21:33 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 05:21:33 JST 2019: send msg: [ok_heart] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 05:21:33 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 05:21:33 JST 2019: send msg: [ok_heart] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 05:21:33 JST 2019: Could not find name: 'sota'
+Sun Dec 15 05:21:33 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 05:21:33 JST 2019: Could not find name: 'sota'
+Sun Dec 15 05:21:33 JST 2019: Could not find name: 'sota'
+Sun Dec 15 05:26:27 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 05:26:27 JST 2019: send msg: [dis] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 05:26:27 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 05:26:27 JST 2019: send msg: [dis] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 05:26:27 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 05:26:27 JST 2019: Could not find name: 'sota'
+Sun Dec 15 05:26:27 JST 2019: Could not find name: 'sota'
+Sun Dec 15 05:26:27 JST 2019: Could not find name: 'sota'
+Sun Dec 15 05:26:27 JST 2019: Could not find name: 'sota'
+Sun Dec 15 05:27:02 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 05:27:02 JST 2019: send msg: [good] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 05:27:02 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 05:27:02 JST 2019: send msg: [good] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 05:27:02 JST 2019: Could not find name: 'sota'
+Sun Dec 15 05:27:02 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 05:27:02 JST 2019: Could not find name: 'sota'
+Sun Dec 15 05:27:02 JST 2019: Could not find name: 'sota'
+Sun Dec 15 05:27:12 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 05:27:12 JST 2019: send msg: [good] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 05:27:12 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 05:27:12 JST 2019: send msg: [good] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 05:27:12 JST 2019: Could not find name: 'sota'
+Sun Dec 15 05:27:12 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 05:27:12 JST 2019: Could not find name: 'sota'
+Sun Dec 15 05:27:12 JST 2019: Could not find name: 'sota'
+Sun Dec 15 05:27:12 JST 2019: Could not find name: 'sota'
+Sun Dec 15 05:27:20 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 05:27:20 JST 2019: send msg: [good] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 05:27:20 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 05:27:20 JST 2019: send msg: [good] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 05:27:20 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 05:27:20 JST 2019: Could not find name: 'sota'
+Sun Dec 15 05:27:20 JST 2019: Could not find name: 'sota'
+Sun Dec 15 05:27:20 JST 2019: Could not find name: 'sota'
+Sun Dec 15 05:27:45 JST 2019: send msg: [boost] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 05:27:45 JST 2019: send msg: [boost] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 05:27:45 JST 2019: Could not find name: 'sota'
+Sun Dec 15 05:27:45 JST 2019: Could not find name: 'sota'
+Sun Dec 15 05:27:45 JST 2019: Could not find name: 'sota'
+Sun Dec 15 05:29:41 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 05:29:41 JST 2019: send msg: [ok_long] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 05:29:41 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 05:29:41 JST 2019: Could not find name: 'sota'
+Sun Dec 15 05:29:41 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 05:32:14 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 05:32:14 JST 2019: send msg: [ok_gold] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 05:32:14 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 05:32:14 JST 2019: Could not find name: 'sota'
+Sun Dec 15 05:32:14 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 05:32:14 JST 2019: send msg: [ok_gold] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 05:32:14 JST 2019: Could not find name: 'sota'
+Sun Dec 15 05:32:14 JST 2019: Could not find name: 'sota'
+Sun Dec 15 05:33:00 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 05:33:00 JST 2019: send msg: [ok_gold] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 05:33:00 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 05:33:00 JST 2019: send msg: [ok_gold] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 05:33:00 JST 2019: Could not find name: 'sota'
+Sun Dec 15 05:33:00 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 05:33:00 JST 2019: Could not find name: 'sota'
+Sun Dec 15 05:33:00 JST 2019: Could not find name: 'sota'
+Sun Dec 15 05:35:24 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 05:35:24 JST 2019: send msg: [ok_long] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 05:35:24 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 05:35:24 JST 2019: Could not find name: 'sota'
+Sun Dec 15 05:35:24 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 05:35:49 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 05:35:49 JST 2019: send msg: [ok_long] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 05:35:49 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 05:35:49 JST 2019: Could not find name: 'sota'
+Sun Dec 15 05:35:49 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 05:36:56 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 05:36:56 JST 2019: send msg: [ok_long] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 05:36:56 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 05:36:56 JST 2019: Could not find name: 'sota'
+Sun Dec 15 05:36:56 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 05:38:32 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 05:38:32 JST 2019: send msg: [ok_long] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 05:38:32 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 05:38:32 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 05:38:32 JST 2019: Could not find name: 'sota'
+Sun Dec 15 05:44:21 JST 2019: disconnect with: 'op' (/127.0.0.1,100)
+Sun Dec 15 07:20:56 JST 2019: Connect with /127.0.0.1, ID: 667
+Sun Dec 15 07:20:56 JST 2019: Register name as: 'op' (/127.0.0.1, ID:667)
+Sun Dec 15 07:21:06 JST 2019: send msg: [4doc] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:21:06 JST 2019: send msg: [4doc] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:21:06 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:21:06 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:21:13 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:21:13 JST 2019: send msg: [kanren] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:21:13 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:21:13 JST 2019: send msg: [kanren] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:21:13 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:21:13 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:21:13 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:21:13 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:21:51 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:21:51 JST 2019: send msg: [ka_shizuku] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:21:51 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:21:51 JST 2019: send msg: [ka_shizuku] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:21:51 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:21:51 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:21:51 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:21:51 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:22:09 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:22:09 JST 2019: send msg: [kanren] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:22:09 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:22:09 JST 2019: send msg: [kanren] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:22:09 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:22:09 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:22:09 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:22:09 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:22:26 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:22:26 JST 2019: send msg: [ok_long] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:22:26 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:22:27 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:22:27 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:22:57 JST 2019: disconnect with: 'op' (/127.0.0.1,667)
+Sun Dec 15 07:23:32 JST 2019: Connect with /127.0.0.1, ID: 704
+Sun Dec 15 07:23:32 JST 2019: Register name as: 'op' (/127.0.0.1, ID:704)
+Sun Dec 15 07:23:45 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:23:45 JST 2019: send msg: [kanren] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:23:45 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:23:45 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:23:45 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:23:45 JST 2019: send msg: [kanren] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:23:45 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:23:45 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:23:53 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:23:53 JST 2019: send msg: [kanren] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:23:53 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:23:53 JST 2019: send msg: [kanren] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:23:53 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:23:53 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:23:53 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:23:53 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:24:05 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:24:05 JST 2019: send msg: [kanren] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:24:05 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:24:06 JST 2019: send msg: [kanren] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:24:06 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:24:06 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:24:06 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:24:06 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:24:16 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:24:16 JST 2019: send msg: [ok_long] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:24:16 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:24:16 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:24:16 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:24:29 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:24:29 JST 2019: send msg: [undefined] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:24:29 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:24:29 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:24:29 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:25:05 JST 2019: disconnect with: 'op' (/127.0.0.1,704)
+Sun Dec 15 07:27:36 JST 2019: Connect with /127.0.0.1, ID: 742
+Sun Dec 15 07:27:36 JST 2019: Register name as: 'op' (/127.0.0.1, ID:742)
+Sun Dec 15 07:27:44 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:27:44 JST 2019: send msg: [kanren] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:27:44 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:27:44 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:27:44 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:27:44 JST 2019: send msg: [kanren] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:27:44 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:27:44 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:27:56 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:27:56 JST 2019: send msg: [kanren] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:27:56 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:27:56 JST 2019: send msg: [kanren] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:27:56 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:27:56 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:27:56 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:27:56 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:28:04 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:28:04 JST 2019: send msg: [kanren] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:28:04 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:28:04 JST 2019: send msg: [kanren] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:28:04 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:28:04 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:28:04 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:28:04 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:28:16 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:28:16 JST 2019: send msg: [kanren] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:28:16 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:28:16 JST 2019: send msg: [kanren] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:28:16 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:28:16 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:28:16 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:28:16 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:28:25 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:28:25 JST 2019: send msg: [ka_heart] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:28:25 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:28:25 JST 2019: send msg: [ka_heart] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:28:25 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:28:25 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:28:25 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:28:25 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:28:37 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:28:37 JST 2019: send msg: [ok_gold] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:28:37 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:28:37 JST 2019: send msg: [ok_gold] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:28:37 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:28:37 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:28:37 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:28:37 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:28:49 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:28:49 JST 2019: send msg: [5] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:28:49 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:28:49 JST 2019: send msg: [5] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:28:49 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:28:49 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:28:49 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:28:49 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:28:49 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:29:16 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:29:16 JST 2019: send msg: [ok_shizuku] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:29:16 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:29:16 JST 2019: send msg: [ok_shizuku] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:29:16 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:29:16 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:29:16 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:29:16 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:29:45 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:29:45 JST 2019: send msg: [3] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:29:45 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:29:45 JST 2019: send msg: [3] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:29:46 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:29:46 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:29:46 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:29:46 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:30:00 JST 2019: disconnect with: 'op' (/127.0.0.1,742)
+Sun Dec 15 07:33:53 JST 2019: Connect with /127.0.0.1, ID: 819
+Sun Dec 15 07:33:53 JST 2019: Register name as: 'op' (/127.0.0.1, ID:819)
+Sun Dec 15 07:34:05 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:34:05 JST 2019: send msg: [ka_heart] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:34:05 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:34:05 JST 2019: send msg: [ka_heart] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:34:05 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:34:05 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:34:05 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:34:05 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:34:14 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:34:14 JST 2019: send msg: [kanren] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:34:14 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:34:14 JST 2019: send msg: [kanren] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:34:14 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:34:14 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:34:14 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:34:14 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:34:21 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:34:21 JST 2019: send msg: [kanren] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:34:21 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:34:21 JST 2019: send msg: [kanren] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:34:21 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:34:21 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:34:21 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:34:21 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:34:30 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:34:30 JST 2019: send msg: [ok_shizuku] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:34:30 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:34:30 JST 2019: send msg: [ok_shizuku] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:34:30 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:34:30 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:34:30 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:34:30 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:34:39 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:34:39 JST 2019: send msg: [34] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:34:39 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:34:39 JST 2019: send msg: [34] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:34:39 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:34:39 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:34:39 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:34:39 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:34:59 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:34:59 JST 2019: send msg: [32] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:34:59 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:34:59 JST 2019: send msg: [32] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:34:59 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:34:59 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:34:59 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:34:59 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:35:16 JST 2019: disconnect with: 'op' (/127.0.0.1,819)
+Sun Dec 15 07:44:30 JST 2019: Connect with /127.0.0.1, ID: 871
+Sun Dec 15 07:44:30 JST 2019: Register name as: 'op' (/127.0.0.1, ID:871)
+Sun Dec 15 07:44:42 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:44:42 JST 2019: send msg: [kanren] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:44:42 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:44:42 JST 2019: send msg: [kanren] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:44:42 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:44:42 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:44:42 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:44:42 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:45:02 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:45:02 JST 2019: send msg: [kanren] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:45:02 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:45:02 JST 2019: send msg: [kanren] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:45:02 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:45:02 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:45:02 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:45:02 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:45:15 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:45:15 JST 2019: send msg: [ok_shizuku] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:45:15 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:45:15 JST 2019: send msg: [ok_shizuku] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:45:15 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:45:15 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:45:15 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:45:15 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:45:27 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:45:27 JST 2019: send msg: [6] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:45:27 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:45:27 JST 2019: send msg: [6] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:45:27 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:45:27 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:45:27 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:45:27 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:45:40 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:45:40 JST 2019: send msg: [ok_gold] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:45:40 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:45:40 JST 2019: send msg: [ok_gold] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:45:40 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:45:40 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:45:40 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:45:40 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:45:52 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:45:52 JST 2019: send msg: [12] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:45:52 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:45:52 JST 2019: send msg: [12] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:45:52 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:45:52 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:45:52 JST 2019: send msg: [12] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:45:52 JST 2019: send msg: [12] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:45:52 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:45:52 JST 2019: send msg: [12] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:45:52 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:45:52 JST 2019: send msg: [12] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:45:52 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:45:52 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:45:52 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:45:52 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:45:52 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:45:52 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:45:52 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:45:52 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:45:52 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:45:52 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:45:52 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:45:52 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:46:37 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:46:37 JST 2019: send msg: [ok_heart] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:46:38 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:46:38 JST 2019: send msg: [ok_heart] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:46:38 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:46:38 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:46:38 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:46:38 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:46:49 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:46:49 JST 2019: send msg: [32] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:46:49 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:46:49 JST 2019: send msg: [32] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:46:49 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:46:49 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:46:49 JST 2019: send msg: [32] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:46:49 JST 2019: send msg: [32] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:46:49 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:46:49 JST 2019: send msg: [32] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:46:50 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:46:50 JST 2019: send msg: [32] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:46:50 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:46:50 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:46:50 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:46:50 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:46:50 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:46:50 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:46:50 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:46:50 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:46:50 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:46:50 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:46:50 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:46:50 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:46:59 JST 2019: disconnect with: 'op' (/127.0.0.1,871)
+Sun Dec 15 07:49:52 JST 2019: Connect with /127.0.0.1, ID: 971
+Sun Dec 15 07:49:52 JST 2019: Register name as: 'op' (/127.0.0.1, ID:971)
+Sun Dec 15 07:50:03 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:50:03 JST 2019: send msg: [ka_heart] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:50:04 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:50:04 JST 2019: send msg: [ka_heart] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:50:04 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:50:04 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:50:04 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:50:04 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:50:11 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:50:11 JST 2019: send msg: [ka_shizuku] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:50:11 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:50:11 JST 2019: send msg: [ka_shizuku] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:50:11 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:50:11 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:50:11 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:50:11 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:50:25 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:50:25 JST 2019: send msg: [kanren] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:50:25 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:50:25 JST 2019: send msg: [kanren] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:50:25 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:50:25 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:50:25 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:50:25 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:50:41 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:50:41 JST 2019: send msg: [kanren] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:50:41 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:50:41 JST 2019: send msg: [kanren] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:50:41 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:50:41 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:50:42 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:50:42 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:50:51 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:50:51 JST 2019: send msg: [ok_gold] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:50:51 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:50:51 JST 2019: send msg: [ok_gold] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:50:51 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:50:51 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:50:51 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:50:51 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:51:02 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:51:02 JST 2019: send msg: [34] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:51:02 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:51:02 JST 2019: send msg: [34] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:51:02 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:51:02 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:51:02 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:51:02 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:51:13 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:51:13 JST 2019: send msg: [good] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:51:13 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:51:14 JST 2019: send msg: [good] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:51:14 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:51:14 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:51:14 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:51:14 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:51:14 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:51:28 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:51:28 JST 2019: send msg: [33] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:51:28 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:51:28 JST 2019: send msg: [33] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:51:28 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:51:28 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:51:28 JST 2019: send msg: [33] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:51:28 JST 2019: send msg: [33] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:51:28 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:51:28 JST 2019: send msg: [33] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:51:28 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:51:28 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:51:28 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:51:28 JST 2019: send msg: [33] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:51:28 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:51:28 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:51:28 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:51:28 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:51:28 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:51:28 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:51:28 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:51:28 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:51:28 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:51:28 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:52:31 JST 2019: disconnect with: 'op' (/127.0.0.1,971)
+Sun Dec 15 07:53:25 JST 2019: Connect with /127.0.0.1, ID: 1056
+Sun Dec 15 07:53:25 JST 2019: Register name as: 'op' (/127.0.0.1, ID:1056)
+Sun Dec 15 07:53:34 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:53:34 JST 2019: send msg: [kanren] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:53:34 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:53:34 JST 2019: send msg: [kanren] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:53:34 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:53:34 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:53:34 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:53:34 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:53:49 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:53:49 JST 2019: send msg: [ka_heart] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:53:49 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:53:49 JST 2019: send msg: [ka_heart] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:53:49 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:53:49 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:53:49 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:53:49 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:53:59 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:53:59 JST 2019: send msg: [kanren] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:53:59 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:53:59 JST 2019: send msg: [kanren] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:53:59 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:53:59 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:53:59 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:53:59 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:54:08 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:54:09 JST 2019: send msg: [kanren] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:54:09 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:54:09 JST 2019: send msg: [kanren] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:54:09 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:54:09 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:54:09 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:54:09 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:54:17 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:54:17 JST 2019: send msg: [ka_shizuku] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:54:17 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:54:17 JST 2019: send msg: [ka_shizuku] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:54:17 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:54:17 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:54:17 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:54:17 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:54:27 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:54:27 JST 2019: send msg: [ok_shizuku] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:54:27 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:54:27 JST 2019: send msg: [ok_shizuku] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:54:27 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:54:27 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:54:27 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:54:27 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:54:37 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:54:37 JST 2019: send msg: [5] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:54:37 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:54:37 JST 2019: send msg: [5] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:54:37 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:54:37 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:54:37 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:54:37 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:54:37 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:54:54 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:54:54 JST 2019: send msg: [5_2] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:54:54 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:54:54 JST 2019: send msg: [5_2] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:54:54 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:54:54 JST 2019: send msg: [5_2] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:54:54 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:54:54 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:54:54 JST 2019: send msg: [5_2] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:54:54 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:54:54 JST 2019: send msg: [5_2] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:54:54 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:54:54 JST 2019: send msg: [5_2] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:54:54 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:54:54 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:54:54 JST 2019: send msg: [5_2] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:54:54 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:54:54 JST 2019: send msg: [5_2] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:54:54 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:54:54 JST 2019: send msg: [5_2] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:54:54 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:54:54 JST 2019: send msg: [5_2] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:54:54 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:54:54 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:54:54 JST 2019: send msg: [5_2] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:54:54 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:54:54 JST 2019: send msg: [5_2] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:54:54 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:54:54 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:54:54 JST 2019: send msg: [5_2] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:54:54 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:54:54 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:54:54 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:54:54 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:54:54 JST 2019: send msg: [5_2] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:54:54 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:54:54 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:54:54 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:54:54 JST 2019: send msg: [5_2] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:54:54 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:54:54 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:54:54 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:54:54 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:54:54 JST 2019: send msg: [5_2] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:54:54 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:54:54 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:54:54 JST 2019: send msg: [5_2] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:54:54 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:54:54 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:54:54 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:54:54 JST 2019: send msg: [5_2] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:54:54 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:54:54 JST 2019: send msg: [5_2] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:54:54 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:54:54 JST 2019: send msg: [5_2] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:54:54 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:54:54 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:54:54 JST 2019: send msg: [5_2] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:54:54 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:54:54 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:54:54 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:54:54 JST 2019: send msg: [5_2] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:54:54 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:54:54 JST 2019: send msg: [5_2] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:54:54 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:54:54 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:54:54 JST 2019: send msg: [5_2] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:54:54 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:54:54 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:54:54 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:54:54 JST 2019: send msg: [5_2] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:54:54 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:54:54 JST 2019: send msg: [5_2] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:54:54 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:54:54 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:54:54 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:54:54 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:54:54 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:54:54 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:54:54 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:54:54 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:54:54 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:54:54 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:54:54 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:54:54 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:54:54 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:54:54 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:54:54 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:54:54 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:54:54 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:54:54 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:55:08 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:55:08 JST 2019: send msg: [ok_heart] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:55:08 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:55:08 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:55:08 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:55:08 JST 2019: send msg: [ok_heart] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:55:08 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:55:08 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:55:22 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:55:22 JST 2019: send msg: [5_3] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:55:22 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:55:22 JST 2019: send msg: [5_3] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:55:22 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:55:22 JST 2019: send msg: [5_3] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:55:22 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:55:22 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:55:22 JST 2019: send msg: [5_3] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:55:22 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:55:22 JST 2019: send msg: [5_3] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:55:22 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:55:22 JST 2019: send msg: [5_3] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:55:22 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:55:22 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:55:22 JST 2019: send msg: [5_3] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:55:22 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:55:22 JST 2019: send msg: [5_3] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:55:22 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:55:22 JST 2019: send msg: [5_3] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:55:22 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:55:22 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:55:22 JST 2019: send msg: [5_3] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:55:22 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:55:22 JST 2019: send msg: [5_3] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:55:22 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:55:22 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:55:22 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:55:22 JST 2019: send msg: [5_3] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:55:22 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:55:22 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:55:22 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:55:22 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:55:22 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:55:22 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:55:22 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:55:22 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:55:22 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:55:22 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:55:22 JST 2019: send msg: [5_3] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:55:22 JST 2019: send msg: [5_3] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:55:22 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:55:22 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:55:22 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:55:22 JST 2019: send msg: [5_3] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:55:22 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:55:22 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:55:22 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:55:22 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:55:22 JST 2019: send msg: [5_3] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:55:22 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:55:22 JST 2019: send msg: [5_3] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:55:22 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:55:22 JST 2019: send msg: [5_3] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:55:22 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:55:22 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:55:22 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:55:22 JST 2019: send msg: [5_3] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:55:22 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:55:22 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:55:22 JST 2019: send msg: [5_3] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:55:22 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:55:22 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:55:22 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:55:22 JST 2019: send msg: [5_3] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:55:22 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:55:22 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:55:22 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:55:22 JST 2019: send msg: [5_3] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:55:22 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:55:22 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:55:22 JST 2019: send msg: [5_3] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:55:22 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:55:22 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:55:22 JST 2019: send msg: [5_3] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:55:22 JST 2019: send msg: [clear] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:55:22 JST 2019: send msg: [5_3] to 'sh' (/100.80.194.226, ID:16)
+Sun Dec 15 07:55:22 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:55:22 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:55:22 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:55:22 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:55:22 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:55:22 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:55:22 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:55:22 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:55:22 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:55:22 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:55:22 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:55:22 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:55:22 JST 2019: send msg: [clear] to 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 07:55:22 JST 2019: Could not find name: 'sota'
+Sun Dec 15 07:55:22 JST 2019: Could not find name: 'sota2'
+Sun Dec 15 07:55:58 JST 2019: disconnect with: 'op' (/127.0.0.1,1056)
