@@ -1,0 +1,216 @@
+Thu Nov 21 14:47:21 JST 2019:util.Log[126]/init -> @@@ RUN STAMP @@@ -- Frontier-is
+Thu Nov 21 14:47:21 JST 2019:util.FileManage[91]/ReadFile -> read setting.txt
+ -> util.Config[76]/init
+ -> util.Config[36]/<init>
+ -> ActivityManager[41]/handling
+ -> ActivityManager[21]/main
+Thu Nov 21 14:47:21 JST 2019:util.Config[155]/Get -> read config ipAdress_server = 100.80.194.226
+Thu Nov 21 14:47:21 JST 2019:util.Config[155]/Get -> read config portNum_server = 11000
+Thu Nov 21 14:47:21 JST 2019:ClientThreadUTF8[46]/<init> -> try to connect with 100.80.194.226 11000
+Thu Nov 21 14:47:21 JST 2019:ClientThreadUTF8[54]/<init> -> connected with 100.80.194.226 11000
+Thu Nov 21 14:47:49 JST 2019:ActivityManager[78]/handling -> Read activity: activities\narrow-gold.txt
+Thu Nov 21 14:48:34 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Thu Nov 21 14:48:34 JST 2019:MemoryManager[142]/Read -> read memory: long_history = long,long2
+Thu Nov 21 14:48:34 JST 2019:MemoryManager[181]/Clear -> clear memory: long_history = long,long2
+Thu Nov 21 14:48:34 JST 2019:MemoryManager[94]/Add -> add new memory: long_history += long in long_memory.txt
+Thu Nov 21 14:48:34 JST 2019:MemoryManager[82]/Add -> already contain: long at activity_history in short_memory.txt
+Thu Nov 21 14:48:34 JST 2019:ActivityManager[78]/handling -> Read activity: activities\long.txt
+Thu Nov 21 14:49:02 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Thu Nov 21 14:49:02 JST 2019:ActivityManager[78]/handling -> Read activity: activities\simple.txt
+Thu Nov 21 14:49:22 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Thu Nov 21 14:49:22 JST 2019:ActivityManager[78]/handling -> Read activity: activities\simple.txt
+Thu Nov 21 14:51:12 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Thu Nov 21 14:51:12 JST 2019:ActivityManager[78]/handling -> Read activity: activities\simple.txt
+Thu Nov 21 14:51:26 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Thu Nov 21 14:51:26 JST 2019:ActivityManager[78]/handling -> Read activity: activities\simple.txt
+Thu Nov 21 14:51:48 JST 2019:ActivityManager[78]/handling -> Read activity: activities\nega-long.txt
+Thu Nov 21 15:31:15 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Thu Nov 21 15:31:53 JST 2019:ActivityManager[78]/handling -> Read activity: activities\nega-long.txt
+Thu Nov 21 15:32:37 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Thu Nov 21 15:33:19 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Thu Nov 21 15:33:19 JST 2019:ActivityManager[78]/handling -> Read activity: activities\cute.txt
+Thu Nov 21 15:33:37 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Thu Nov 21 15:33:37 JST 2019:MemoryManager[139]/Read -> Could Not find 'paru_history' in long_memory.txt
+Thu Nov 21 15:33:37 JST 2019:MemoryManager[70]/Add -> add new key and memory: paru_history = paru in long_memory.txt
+Thu Nov 21 15:33:37 JST 2019:MemoryManager[94]/Add -> add new memory: activity_history += paru in short_memory.txt
+Thu Nov 21 15:33:37 JST 2019:ActivityManager[78]/handling -> Read activity: activities\paru.txt
+Thu Nov 21 15:33:57 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Thu Nov 21 15:36:15 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Thu Nov 21 15:36:15 JST 2019:ActivityManager[78]/handling -> Read activity: activities\shy.txt
+Thu Nov 21 15:36:39 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Thu Nov 21 15:36:39 JST 2019:ActivityManager[78]/handling -> Read activity: activities\dis.txt
+Thu Nov 21 15:36:54 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Thu Nov 21 15:36:54 JST 2019:ActivityManager[78]/handling -> Read activity: activities\dis.txt
+Thu Nov 21 15:37:05 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Thu Nov 21 15:37:05 JST 2019:ActivityManager[78]/handling -> Read activity: activities\dis.txt
+Thu Nov 21 15:37:18 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Thu Nov 21 15:37:18 JST 2019:MemoryManager[142]/Read -> read memory: long_history = long
+Thu Nov 21 15:37:18 JST 2019:MemoryManager[94]/Add -> add new memory: long_history += long2 in long_memory.txt
+Thu Nov 21 15:37:18 JST 2019:MemoryManager[82]/Add -> already contain: long2 at activity_history in short_memory.txt
+Thu Nov 21 15:37:18 JST 2019:ActivityManager[78]/handling -> Read activity: activities\long2.txt
+Thu Nov 21 15:38:16 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Thu Nov 21 15:38:16 JST 2019:ActivityManager[78]/handling -> Read activity: activities\dis.txt
+Thu Nov 21 15:38:37 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Thu Nov 21 15:38:37 JST 2019:ActivityManager[78]/handling -> Read activity: activities\cute.txt
+Thu Nov 21 15:38:51 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Thu Nov 21 15:38:51 JST 2019:MemoryManager[139]/Read -> Could Not find 'shizuku_history' in long_memory.txt
+Thu Nov 21 15:38:51 JST 2019:MemoryManager[70]/Add -> add new key and memory: shizuku_history = shizuku in long_memory.txt
+Thu Nov 21 15:38:51 JST 2019:MemoryManager[94]/Add -> add new memory: activity_history += shizuku in short_memory.txt
+Thu Nov 21 15:38:51 JST 2019:ActivityManager[78]/handling -> Read activity: activities\shizuku.txt
+Thu Nov 21 15:39:24 JST 2019:ActivityManager[78]/handling -> Read activity: activities\nega-long.txt
+Thu Nov 21 15:41:30 JST 2019:ActivityManager[78]/handling -> Read activity: activities\narrow-gold.txt
+Thu Nov 21 15:42:19 JST 2019:ActivityManager[78]/handling -> Read activity: activities\nega-long.txt
+Thu Nov 21 15:44:00 JST 2019:ActivityManager[78]/handling -> Read activity: activities\nega-long.txt
+Thu Nov 21 15:44:25 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Thu Nov 21 15:44:25 JST 2019:MemoryManager[142]/Read -> read memory: paru_history = paru
+Thu Nov 21 15:44:25 JST 2019:MemoryManager[94]/Add -> add new memory: paru_history += paru2 in long_memory.txt
+Thu Nov 21 15:44:25 JST 2019:MemoryManager[94]/Add -> add new memory: activity_history += paru2 in short_memory.txt
+Thu Nov 21 15:44:25 JST 2019:ActivityManager[78]/handling -> Read activity: activities\paru2.txt
+Thu Nov 21 15:45:05 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Thu Nov 21 15:45:05 JST 2019:ActivityManager[78]/handling -> Read activity: activities\paru2.txt
+Thu Nov 21 15:57:44 JST 2019:ActivityManager[78]/handling -> Read activity: activities\narrow-gold.txt
+Thu Nov 21 15:58:24 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Thu Nov 21 15:58:24 JST 2019:ActivityManager[78]/handling -> Read activity: activities\narrow.txt
+Thu Nov 21 15:58:28 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Thu Nov 21 15:58:28 JST 2019:MemoryManager[142]/Read -> read memory: long_history = long,long2
+Thu Nov 21 15:58:28 JST 2019:MemoryManager[181]/Clear -> clear memory: long_history = long,long2
+Thu Nov 21 15:58:28 JST 2019:MemoryManager[94]/Add -> add new memory: long_history += long2 in long_memory.txt
+Thu Nov 21 15:58:28 JST 2019:MemoryManager[82]/Add -> already contain: long2 at activity_history in short_memory.txt
+Thu Nov 21 15:58:28 JST 2019:ActivityManager[78]/handling -> Read activity: activities\long2.txt
+Thu Nov 21 15:58:47 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Thu Nov 21 15:58:47 JST 2019:ActivityManager[78]/handling -> Read activity: activities\simple.txt
+Thu Nov 21 15:59:07 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Thu Nov 21 15:59:07 JST 2019:MemoryManager[142]/Read -> read memory: shizuku_history = shizuku
+Thu Nov 21 15:59:07 JST 2019:MemoryManager[94]/Add -> add new memory: shizuku_history += shizuku2 in long_memory.txt
+Thu Nov 21 15:59:07 JST 2019:MemoryManager[94]/Add -> add new memory: activity_history += shizuku2 in short_memory.txt
+Thu Nov 21 15:59:07 JST 2019:ActivityManager[78]/handling -> Read activity: activities\shizuku2.txt
+Thu Nov 21 15:59:07 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 15594343
+Thu Nov 21 15:59:13 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 15597926
+Thu Nov 21 15:59:23 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Thu Nov 21 15:59:23 JST 2019:ActivityManager[78]/handling -> Read activity: activities\shizuku2.txt
+Thu Nov 21 15:59:43 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Thu Nov 21 15:59:43 JST 2019:ActivityManager[78]/handling -> Read activity: activities\shy.txt
+Thu Nov 21 16:00:06 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Thu Nov 21 16:00:06 JST 2019:ActivityManager[78]/handling -> Read activity: activities\dis.txt
+Thu Nov 21 16:00:29 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Thu Nov 21 16:00:29 JST 2019:ActivityManager[78]/handling -> Read activity: activities\dis.txt
+Thu Nov 21 16:00:52 JST 2019:ActivityManager[78]/handling -> Read activity: activities\nega-long.txt
+Thu Nov 21 16:01:03 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Thu Nov 21 16:01:03 JST 2019:ActivityManager[78]/handling -> Read activity: activities\cute.txt
+Thu Nov 21 16:01:23 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Thu Nov 21 16:01:23 JST 2019:ActivityManager[78]/handling -> Read activity: activities\shizuku2.txt
+Thu Nov 21 16:02:00 JST 2019:ActivityManager[78]/handling -> Read activity: activities\nega-long.txt
+Thu Nov 21 16:02:05 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Thu Nov 21 16:02:05 JST 2019:ActivityManager[78]/handling -> Read activity: activities\shizuku2.txt
+Thu Nov 21 16:57:39 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Thu Nov 21 16:57:39 JST 2019:ActivityManager[78]/handling -> Read activity: activities\hade.txt
+Thu Nov 21 16:58:53 JST 2019:ActivityManager[78]/handling -> Read activity: activities\narrow-gold.txt
+Thu Nov 21 16:59:35 JST 2019:ActivityManager[78]/handling -> Read activity: activities\nega-long.txt
+Thu Nov 21 16:59:43 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Thu Nov 21 16:59:43 JST 2019:MemoryManager[142]/Read -> read memory: paru_history = paru,paru2
+Thu Nov 21 16:59:43 JST 2019:MemoryManager[181]/Clear -> clear memory: paru_history = paru,paru2
+Thu Nov 21 16:59:43 JST 2019:MemoryManager[94]/Add -> add new memory: paru_history += paru in long_memory.txt
+Thu Nov 21 16:59:43 JST 2019:MemoryManager[82]/Add -> already contain: paru at activity_history in short_memory.txt
+Thu Nov 21 16:59:43 JST 2019:ActivityManager[78]/handling -> Read activity: activities\paru.txt
+Thu Nov 21 17:00:07 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Thu Nov 21 17:00:07 JST 2019:ActivityManager[78]/handling -> Read activity: activities\paru2.txt
+Thu Nov 21 17:00:35 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Thu Nov 21 17:00:36 JST 2019:ActivityManager[78]/handling -> Read activity: activities\shy.txt
+Thu Nov 21 17:00:45 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Thu Nov 21 17:00:45 JST 2019:ActivityManager[78]/handling -> Read activity: activities\paru2.txt
+Thu Nov 21 17:00:55 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Thu Nov 21 17:00:55 JST 2019:ActivityManager[78]/handling -> Read activity: activities\paru2.txt
+Thu Nov 21 17:01:18 JST 2019:ActivityManager[78]/handling -> Read activity: activities\nega-long.txt
+Thu Nov 21 17:01:34 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Thu Nov 21 17:01:34 JST 2019:ActivityManager[78]/handling -> Read activity: activities\hade.txt
+Thu Nov 21 17:02:14 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Thu Nov 21 17:02:14 JST 2019:MemoryManager[142]/Read -> read memory: long_history = long2
+Thu Nov 21 17:02:14 JST 2019:MemoryManager[94]/Add -> add new memory: long_history += long in long_memory.txt
+Thu Nov 21 17:02:14 JST 2019:MemoryManager[82]/Add -> already contain: long at activity_history in short_memory.txt
+Thu Nov 21 17:02:14 JST 2019:ActivityManager[78]/handling -> Read activity: activities\long.txt
+Thu Nov 21 17:03:01 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Thu Nov 21 17:03:02 JST 2019:ActivityManager[78]/handling -> Read activity: activities\cute.txt
+Thu Nov 21 17:03:41 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Thu Nov 21 17:03:41 JST 2019:ActivityManager[78]/handling -> Read activity: activities\long2.txt
+Thu Nov 21 17:04:08 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Thu Nov 21 17:04:08 JST 2019:ActivityManager[78]/handling -> Read activity: activities\dis.txt
+Thu Nov 21 17:04:40 JST 2019:ActivityManager[78]/handling -> Read activity: activities\nega-long.txt
+Thu Nov 21 17:05:01 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Thu Nov 21 17:05:01 JST 2019:ActivityManager[78]/handling -> Read activity: activities\simple.txt
+Thu Nov 21 17:05:59 JST 2019:ActivityManager[78]/handling -> Read activity: activities\nega-long.txt
+Thu Nov 21 17:06:12 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Thu Nov 21 17:06:12 JST 2019:MemoryManager[142]/Read -> read memory: shizuku_history = shizuku,shizuku2
+Thu Nov 21 17:06:12 JST 2019:MemoryManager[181]/Clear -> clear memory: shizuku_history = shizuku,shizuku2
+Thu Nov 21 17:06:12 JST 2019:MemoryManager[94]/Add -> add new memory: shizuku_history += shizuku in long_memory.txt
+Thu Nov 21 17:06:12 JST 2019:MemoryManager[82]/Add -> already contain: shizuku at activity_history in short_memory.txt
+Thu Nov 21 17:06:12 JST 2019:ActivityManager[78]/handling -> Read activity: activities\shizuku.txt
+Thu Nov 21 17:06:59 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Thu Nov 21 17:06:59 JST 2019:ActivityManager[78]/handling -> Read activity: activities\simple.txt
+Thu Nov 21 17:07:26 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Thu Nov 21 17:07:26 JST 2019:ActivityManager[78]/handling -> Read activity: activities\shizuku2.txt
+Thu Nov 21 17:07:59 JST 2019:ActivityManager[78]/handling -> Read activity: activities\nega-long.txt
+Thu Nov 21 17:08:05 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Thu Nov 21 17:08:05 JST 2019:ActivityManager[78]/handling -> Read activity: activities\shizuku2.txt
+Thu Nov 21 17:08:27 JST 2019:ActivityManager[78]/handling -> Read activity: activities\nega-long.txt
+Thu Nov 21 17:08:32 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Thu Nov 21 17:08:32 JST 2019:ActivityManager[78]/handling -> Read activity: activities\cute.txt
+Thu Nov 21 17:09:02 JST 2019:ActivityManager[78]/handling -> Read activity: activities\nega-long.txt
+Thu Nov 21 17:09:42 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Thu Nov 21 17:09:42 JST 2019:ActivityManager[78]/handling -> Read activity: activities\narrow-heart.txt
+Thu Nov 21 17:57:37 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Thu Nov 21 17:57:37 JST 2019:MemoryManager[142]/Read -> read memory: long_history = long2,long
+Thu Nov 21 17:57:37 JST 2019:MemoryManager[181]/Clear -> clear memory: long_history = long2,long
+Thu Nov 21 17:57:37 JST 2019:MemoryManager[94]/Add -> add new memory: long_history += long2 in long_memory.txt
+Thu Nov 21 17:57:37 JST 2019:MemoryManager[82]/Add -> already contain: long2 at activity_history in short_memory.txt
+Thu Nov 21 17:57:37 JST 2019:ActivityManager[78]/handling -> Read activity: activities\long2.txt
+Thu Nov 21 17:57:44 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Thu Nov 21 17:57:44 JST 2019:MemoryManager[142]/Read -> read memory: paru_history = paru
+Thu Nov 21 17:57:44 JST 2019:MemoryManager[94]/Add -> add new memory: paru_history += paru2 in long_memory.txt
+Thu Nov 21 17:57:44 JST 2019:MemoryManager[82]/Add -> already contain: paru2 at activity_history in short_memory.txt
+Thu Nov 21 17:57:44 JST 2019:ActivityManager[78]/handling -> Read activity: activities\paru2.txt
+Thu Nov 21 17:57:58 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Thu Nov 21 17:57:58 JST 2019:MemoryManager[142]/Read -> read memory: shizuku_history = shizuku
+Thu Nov 21 17:57:58 JST 2019:MemoryManager[94]/Add -> add new memory: shizuku_history += shizuku2 in long_memory.txt
+Thu Nov 21 17:57:58 JST 2019:MemoryManager[82]/Add -> already contain: shizuku2 at activity_history in short_memory.txt
+Thu Nov 21 17:57:58 JST 2019:ActivityManager[78]/handling -> Read activity: activities\shizuku2.txt
+Thu Nov 21 17:58:08 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Thu Nov 21 17:58:08 JST 2019:ActivityManager[78]/handling -> Read activity: activities\shy.txt
+Thu Nov 21 17:58:17 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Thu Nov 21 17:58:17 JST 2019:ActivityManager[78]/handling -> Read activity: activities\paru2.txt
+Thu Nov 21 18:06:26 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Thu Nov 21 18:06:26 JST 2019:MemoryManager[142]/Read -> read memory: long_history = long2
+Thu Nov 21 18:06:26 JST 2019:MemoryManager[94]/Add -> add new memory: long_history += long in long_memory.txt
+Thu Nov 21 18:06:27 JST 2019:MemoryManager[82]/Add -> already contain: long at activity_history in short_memory.txt
+Thu Nov 21 18:06:27 JST 2019:ActivityManager[78]/handling -> Read activity: activities\long.txt
+Thu Nov 21 18:06:33 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Thu Nov 21 18:06:33 JST 2019:MemoryManager[142]/Read -> read memory: shizuku_history = shizuku,shizuku2
+Thu Nov 21 18:06:33 JST 2019:MemoryManager[181]/Clear -> clear memory: shizuku_history = shizuku,shizuku2
+Thu Nov 21 18:06:33 JST 2019:MemoryManager[94]/Add -> add new memory: shizuku_history += shizuku in long_memory.txt
+Thu Nov 21 18:06:33 JST 2019:MemoryManager[82]/Add -> already contain: shizuku at activity_history in short_memory.txt
+Thu Nov 21 18:06:33 JST 2019:ActivityManager[78]/handling -> Read activity: activities\shizuku.txt
+Thu Nov 21 18:06:43 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Thu Nov 21 18:06:43 JST 2019:ActivityManager[78]/handling -> Read activity: activities\shy.txt
+Thu Nov 21 18:07:04 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Thu Nov 21 18:07:04 JST 2019:ActivityManager[78]/handling -> Read activity: activities\dis.txt
+Thu Nov 21 18:07:13 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Thu Nov 21 18:07:13 JST 2019:ActivityManager[78]/handling -> Read activity: activities\dis.txt
+Thu Nov 21 18:07:21 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Thu Nov 21 18:07:21 JST 2019:MemoryManager[142]/Read -> read memory: paru_history = paru,paru2
+Thu Nov 21 18:07:21 JST 2019:MemoryManager[181]/Clear -> clear memory: paru_history = paru,paru2
+Thu Nov 21 18:07:21 JST 2019:MemoryManager[94]/Add -> add new memory: paru_history += paru in long_memory.txt
+Thu Nov 21 18:07:21 JST 2019:MemoryManager[82]/Add -> already contain: paru at activity_history in short_memory.txt
+Thu Nov 21 18:07:21 JST 2019:ActivityManager[78]/handling -> Read activity: activities\paru.txt
+Thu Nov 21 18:07:34 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Thu Nov 21 18:07:35 JST 2019:ActivityManager[78]/handling -> Read activity: activities\dis.txt
+Thu Nov 21 18:07:41 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Thu Nov 21 18:07:41 JST 2019:ActivityManager[78]/handling -> Read activity: activities\paru2.txt
+Thu Nov 21 18:07:50 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Thu Nov 21 18:07:50 JST 2019:ActivityManager[78]/handling -> Read activity: activities\dis.txt
+Thu Nov 21 18:08:11 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Thu Nov 21 18:08:11 JST 2019:ActivityManager[78]/handling -> Read activity: activities\dis.txt
+Thu Nov 21 18:08:18 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Thu Nov 21 18:08:18 JST 2019:ActivityManager[78]/handling -> Read activity: activities\hade.txt
+Thu Nov 21 18:08:29 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Thu Nov 21 18:08:29 JST 2019:ActivityManager[78]/handling -> Read activity: activities\dis.txt
+Thu Nov 21 18:08:29 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 18827367
+Thu Nov 21 18:08:31 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 18829768

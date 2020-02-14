@@ -1,0 +1,34 @@
+Fri Nov 08 13:55:57 JST 2019:util.Log[126]/init -> @@@ RUN STAMP @@@ -- Frontier-is
+Fri Nov 08 13:55:57 JST 2019:util.FileManage[91]/ReadFile -> read setting.txt
+ -> util.Config[76]/init
+ -> util.Config[36]/<init>
+ -> ActivityManager[41]/handling
+ -> ActivityManager[21]/main
+Fri Nov 08 13:55:57 JST 2019:util.Config[155]/Get -> read config ipAdress_server = 100.80.194.226
+Fri Nov 08 13:55:57 JST 2019:util.Config[155]/Get -> read config portNum_server = 11000
+Fri Nov 08 13:55:57 JST 2019:ClientThreadUTF8[46]/<init> -> try to connect with 100.80.194.226 11000
+Fri Nov 08 13:55:57 JST 2019:ClientThreadUTF8[54]/<init> -> connected with 100.80.194.226 11000
+Fri Nov 08 13:56:13 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Fri Nov 08 13:56:13 JST 2019:ActivityManager[78]/handling -> Read activity: activities\long.txt
+Fri Nov 08 13:59:05 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Fri Nov 08 13:59:06 JST 2019:ActivityManager[78]/handling -> Read activity: activities\long.txt
+Fri Nov 08 13:59:28 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Fri Nov 08 13:59:28 JST 2019:ActivityManager[78]/handling -> Read activity: activities\long.txt
+Fri Nov 08 14:00:28 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Fri Nov 08 14:00:28 JST 2019:ActivityManager[78]/handling -> Read activity: activities\nega-long.txt
+Fri Nov 08 14:02:22 JST 2019:ActivityManager[78]/handling -> Read activity: activities\narrow.txt
+Fri Nov 08 14:03:29 JST 2019:ActivityManager[78]/handling -> Read activity: activities\narrow-gold.txt
+Fri Nov 08 16:23:15 JST 2019:ActivityManager[78]/handling -> Read activity: activities\narrow.txt
+Fri Nov 08 16:26:40 JST 2019:ActivityManager[78]/handling -> Read activity: activities\cute.txt
+Fri Nov 08 16:30:59 JST 2019:ActivityManager[78]/handling -> Read activity: activities\cute.txt
+Fri Nov 08 16:31:18 JST 2019:ActivityManager[78]/handling -> Read activity: activities\narrow.txt
+Fri Nov 08 16:57:18 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Fri Nov 08 16:57:18 JST 2019:ActivityManager[78]/handling -> Read activity: activities\target.txt
+Fri Nov 08 16:57:42 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Fri Nov 08 16:57:42 JST 2019:ActivityManager[78]/handling -> Read activity: activities\target.txt
+Fri Nov 08 16:58:43 JST 2019:ActivityManager[78]/handling -> Read activity: activities\narrow-gold.txt
+Fri Nov 08 16:59:33 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Fri Nov 08 16:59:33 JST 2019:ActivityManager[78]/handling -> Read activity: activities\narrow.txt
+Fri Nov 08 17:17:50 JST 2019:ActivityManager[78]/handling -> Read activity: activities\narrow-gold.txt
+Fri Nov 08 17:18:40 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Fri Nov 08 17:18:40 JST 2019:ActivityManager[78]/handling -> Read activity: activities\nega-long.txt

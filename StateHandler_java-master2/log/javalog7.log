@@ -1,0 +1,23 @@
+Wed Nov 06 18:02:09 JST 2019:util.Log[126]/init -> @@@ RUN STAMP @@@ -- Frontier-is
+Wed Nov 06 18:02:09 JST 2019:util.FileManage[91]/ReadFile -> read setting.txt
+ -> util.Config[76]/init
+ -> util.Config[36]/<init>
+ -> ActivityManager[41]/handling
+ -> ActivityManager[21]/main
+Wed Nov 06 18:02:09 JST 2019:util.Config[155]/Get -> read config ipAdress_server = 100.80.194.226
+Wed Nov 06 18:02:09 JST 2019:util.Config[155]/Get -> read config portNum_server = 11000
+Wed Nov 06 18:02:09 JST 2019:ClientThreadUTF8[46]/<init> -> try to connect with 100.80.194.226 11000
+Wed Nov 06 18:02:09 JST 2019:ClientThreadUTF8[54]/<init> -> connected with 100.80.194.226 11000
+Wed Nov 06 18:02:42 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Wed Nov 06 18:02:42 JST 2019:ActivityManager[78]/handling -> Read activity: activities\target.txt
+Wed Nov 06 18:15:07 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Wed Nov 06 18:15:07 JST 2019:ActivityManager[78]/handling -> Read activity: activities\cute.txt
+Wed Nov 06 18:15:17 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Wed Nov 06 18:15:17 JST 2019:ActivityManager[78]/handling -> Read activity: activities\target.txt
+Wed Nov 06 18:16:29 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Wed Nov 06 18:16:29 JST 2019:ActivityManager[78]/handling -> Read activity: activities\chikin.txt
+Wed Nov 06 18:18:50 JST 2019:ActivityManager[78]/handling -> Read activity: activities\4doc.txt
+Wed Nov 06 18:19:25 JST 2019:ActivityManager[78]/handling -> Read activity: activities\4doc.txt
+Wed Nov 06 18:19:52 JST 2019:ActivityManager[78]/handling -> Read activity: activities\4doc.txt
+Wed Nov 06 18:20:47 JST 2019:ActivityManager[78]/handling -> Read activity: activities\4doc.txt
+Wed Nov 06 18:21:14 JST 2019:ActivityManager[78]/handling -> Read activity: activities\4doc.txt

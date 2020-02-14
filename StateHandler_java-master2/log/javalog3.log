@@ -1,0 +1,20 @@
+Mon Oct 28 11:17:15 JST 2019:util.Log[126]/init -> @@@ RUN STAMP @@@ -- Frontier-is
+Mon Oct 28 11:17:15 JST 2019:util.FileManage[91]/ReadFile -> read setting.txt
+ -> util.Config[76]/init
+ -> util.Config[36]/<init>
+ -> ActivityManager[41]/handling
+ -> ActivityManager[21]/main
+Mon Oct 28 11:17:15 JST 2019:util.Config[155]/Get -> read config ipAdress_server = 100.80.194.226
+Mon Oct 28 11:17:15 JST 2019:util.Config[155]/Get -> read config portNum_server = 11000
+Mon Oct 28 11:17:15 JST 2019:ClientThreadUTF8[46]/<init> -> try to connect with 100.80.194.226 11000
+Mon Oct 28 11:17:15 JST 2019:ClientThreadUTF8[54]/<init> -> connected with 100.80.194.226 11000
+Mon Oct 28 11:17:36 JST 2019:ActivityManager[78]/handling -> Read activity: activities\narrow.txt
+Mon Oct 28 11:18:06 JST 2019:ActivityManager[78]/handling -> Read activity: activities\nega-long.txt
+Mon Oct 28 11:18:08 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 11186465
+Mon Oct 28 11:18:09 JST 2019:ActivityManager[78]/handling -> Read activity: activities\simple.txt
+Mon Oct 28 11:18:12 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 11186693
+Mon Oct 28 11:18:15 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 11189902
+Mon Oct 28 11:32:45 JST 2019:ActivityManager[78]/handling -> Read activity: activities\narrow.txt
+Mon Oct 28 11:33:34 JST 2019:ActivityManager[78]/handling -> Read activity: activities\narrow-heart.txt
+Mon Oct 28 11:34:04 JST 2019:ActivityManager[78]/handling -> Read activity: activities\nega-long.txt
+Mon Oct 28 12:09:20 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: na
