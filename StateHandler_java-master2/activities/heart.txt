@@ -1,0 +1,13 @@
+sota;wait:4000
+sota;addAction:say:プレゼント選び、難しいよね
+sota;waitForCommandEnd
+loadActivity:aizuchi
+sota2;addAction:motionWith:pose:1200:-900:0:900:0:0:0:0:700
+sota2;addAction:say:難しい、失敗したくない:rate=10:pitch=1:intonation=8
+sota2;waitForCommandEnd
+sota;addAction:motionWith:homePose
+sota;addAction:say:モチーフから探すやり方もあるね
+sota;waitForCommandEnd
+sota2;addAction:posture:homePosture
+sota2;addAction:say:そうだね、ハートのイヤリングもあるのかあ:rate=10:pitch=1:intonation=8
+sota2;waitForCommandEnd

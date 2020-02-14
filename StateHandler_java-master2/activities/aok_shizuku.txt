@@ -1,0 +1,16 @@
+
+sota;addAction:say:このしずく型のやつすごくいいデザインだね
+sota;waitForCommandEnd
+sota2;addAction:say:シンプルなデザインだけど、個性的で存在感があるね:rate=10:pitch=1:intonation=8
+loadActivity:katari
+sota2;waitForCommandEnd
+sota;addAction:say:しずくは水のイメージで、すごく女性らしい、ナチュラルな感じが出るね
+sota;waitForCommandEnd
+sota2;addAction:motionWith:bodyPose:0:300:-500:900:0:1000
+sota2;addAction:say:これすごくセンスいいね:rate=10:pitch=1:intonation=8
+loadActivity:katari
+sota2;waitForCommandEnd
+sota;addAction:say:見れば見る程、いいイヤリングだなあ
+sota;waitForCommandEnd
+
+

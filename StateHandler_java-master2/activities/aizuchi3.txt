@@ -1,0 +1,2 @@
+
+sota2;addAction:say:‚¤‚ñA‚»‚¤‚¾‚Ë:rate=10:pitch=1:intonation=8

@@ -1,0 +1,17 @@
+sota;addAction:motionWith:homePose
+sota;addAction:say:キュートなイヤリングだね
+sota;waitForCommandEnd
+sota2;addAction:motionWith:homePose
+sota2;addAction:say:そうだね、華やかさもあるね:rate=10:pitch=1:intonation=8
+sota2;waitForCommandEnd
+sota;addAction:say:ファッションを選ばずに合わせられそうだね
+sota;waitForCommandEnd
+loadActivity:aizuchi
+sota2;addAction:say:もう少し、他のも見てみたいなあ:rate=10:pitch=1:intonation=8
+sota2;waitForCommandEnd
+sota;addAction:wait:1500
+sota;addAction:motionWith:bodyPose:0:-900:0:-400:300:1000
+sota;addAction:say:長いイヤリングは存在感があって女性に人気みたいだよ
+sota;waitForCommandEnd
+
+

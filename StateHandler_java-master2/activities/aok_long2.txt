@@ -1,0 +1,15 @@
+sota;addAction:motionWith:homePose
+sota;addAction:say:これはすごく女性らしくていいイヤリングだよ
+sota;waitForCommandEnd
+sota2;addAction:motionWith:homePose
+sota2;addAction:say:華やかさのある、長いイヤリングはやっぱりいいよね:rate=10:pitch=1:intonation=8
+loadActivity:katari
+sota2;waitForCommandEnd
+sota;addAction:say:長いものは揺れるたびに光を反射するから輝いて見えるね
+sota;waitForCommandEnd
+sota2;addAction:motionWith:bodyPose:0:300:-500:900:0:1000
+sota2;addAction:say:セクシーでセンスいいね:rate=10:pitch=1:intonation=8
+loadActivity:katari
+sota2;waitForCommandEnd
+sota;addAction:say:こんないいイヤリングよく見つけたなあ
+sota;waitForCommandEnd

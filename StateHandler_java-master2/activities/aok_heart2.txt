@@ -1,0 +1,15 @@
+sota;addAction:motionWith:homePose
+sota;addAction:say:すごく女性らしくていいイヤリングだね
+sota;waitForCommandEnd
+sota2;addAction:motionWith:homePose
+sota2;addAction:say:シンプルなデザインの中に、ちょっとしたキュートさがあっていいね:rate=10:pitch=1:intonation=8
+loadActivity:katari
+sota2;waitForCommandEnd
+sota;addAction:say:大人っぽいフェミニンな印象を与えることができそうだね
+sota;waitForCommandEnd
+sota2;addAction:motionWith:bodyPose:0:300:-500:900:0:1000
+sota2;addAction:say:すごくセンスいいね:rate=10:pitch=1:intonation=8
+loadActivity:katari
+sota2;waitForCommandEnd
+sota;addAction:say:こんないいイヤリングよく見つけたなあ
+sota;waitForCommandEnd

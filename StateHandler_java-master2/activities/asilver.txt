@@ -1,0 +1,12 @@
+
+sota;addAction:motionWith:pose:-1200:-900:0:900:0:-400:0:0:700
+sota;addAction:say:シルバーを使ったイヤリングはどうだい?
+loadActivity:sotakatari
+sota;waitForCommandEnd
+sota2;addAction:motionWith:pose:1200:-900:0:900:0:0:0:0:700
+sota2;addAction:say:シルバーはアレルギーを起こしにくい金属なんだよ:rate=10:pitch=1:intonation=8
+sota2;waitForCommandEnd
+sota;addAction:motionWith:homePose
+sota;addAction:say:へー、どんな相手にも贈りやすそうだね
+sota;waitForCommandEnd
+

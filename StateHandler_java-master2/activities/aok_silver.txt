@@ -1,0 +1,17 @@
+sota;addAction:motionWith:homePose
+sota;addAction:say:このシルバーのやつすごくいいデザインだね
+sota;waitForCommandEnd
+sota2;addAction:motionWith:homePose
+sota2;addAction:say:シンプルなデザインで、しかもシルバーだからじょうひんな感じがでるね:rate=10:pitch=1:intonation=8
+loadActivity:katari
+sota2;waitForCommandEnd
+sota;addAction:say:ちょっとおしゃれをしたいときに、つけやすそうだね
+sota;waitForCommandEnd
+sota2;addAction:motionWith:bodyPose:0:300:-500:900:0:1000
+sota2;addAction:say:さらにシルバーは幸運とまよけの効果があるとされているんだって:rate=10:pitch=1:intonation=8
+loadActivity:katari
+sota2;waitForCommandEnd
+sota;addAction:say:見れば見る程、いいイヤリングだなあ
+sota;waitForCommandEnd
+
+

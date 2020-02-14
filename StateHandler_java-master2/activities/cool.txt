@@ -1,0 +1,13 @@
+sota;addAction:motionWith:homePose
+sota;addAction:say:イヤリング選ぶの種類も多くて大変そうだね
+sota;waitForCommandEnd
+sota2;addAction:motionWith:homePose
+sota2;addAction:say:うん、大変そう:rate=10:pitch=1:intonation=8
+sota2;waitForCommandEnd
+sota;addAction:say:でも真剣に選んだら、きっと相手の女性も喜んでくれるよね!
+sota;waitForCommandEnd
+sota2;addAction:motionWith:bodyPose:0:300:-500:900:0:1000
+sota2;addAction:say:うん、うん、間違いないよ:rate=10:pitch=1:intonation=8
+sota2;waitForCommandEnd
+sota;addAction:say:女性のためにプレゼントをあげる男性はやっぱり、かっこいいね!
+sota;waitForCommandEnd

@@ -1,0 +1,12 @@
+
+sota;addAction:motionWith:homePose
+sota;addAction:say:イヤリング素材もいろいろあるよね
+sota;waitForCommandEnd
+sota2;addAction:motionWith:pose:1200:-900:0:900:0:0:0:0:700
+sota2;addAction:say:パールは光沢が強くて、冬らしさがあるね:rate=10:pitch=1:intonation=8
+loadActivity:katari
+sota2;waitForCommandEnd
+sota;addAction:motionWith:pose:-1200:-900:0:900:0:0:0:0:300
+sota;addAction:say:そうだね、お手入れすれば常に輝いて見えるね
+sota;waitForCommandEnd
+
