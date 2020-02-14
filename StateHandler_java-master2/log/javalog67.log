@@ -1,0 +1,122 @@
+Tue Jan 07 14:16:11 JST 2020:util.Log[126]/init -> @@@ RUN STAMP @@@ -- Frontier-is
+Tue Jan 07 14:16:11 JST 2020:util.Config[155]/Get -> read config ipAdress_server = 100.80.194.226
+Tue Jan 07 14:16:11 JST 2020:util.Config[155]/Get -> read config portNum_server = 11000
+Tue Jan 07 14:16:11 JST 2020:ScenarioUpdater[55]/update -> Scenario Update
+Tue Jan 07 14:16:11 JST 2020:ClientThreadUTF8[46]/<init> -> try to connect with 100.80.194.226 11000
+Tue Jan 07 14:16:11 JST 2020:ScenarioUpdater[66]/update -> Delete news: news201912280.txt
+Tue Jan 07 14:16:11 JST 2020:ScenarioUpdater[66]/update -> Delete news: news201912281.txt
+Tue Jan 07 14:16:11 JST 2020:ScenarioUpdater[66]/update -> Delete news: news201912282.txt
+Tue Jan 07 14:16:11 JST 2020:ScenarioUpdater[66]/update -> Delete news: news201912283.txt
+Tue Jan 07 14:16:11 JST 2020:ScenarioUpdater[66]/update -> Delete news: news201912284.txt
+Tue Jan 07 14:16:11 JST 2020:ScenarioUpdater[66]/update -> Delete news: news201912285.txt
+Tue Jan 07 14:16:11 JST 2020:ScenarioUpdater[66]/update -> Delete news: news201912286.txt
+Tue Jan 07 14:16:12 JST 2020:StateHandler[202]/handling -> wait for re-connecting: 1.5 second
+Tue Jan 07 14:16:13 JST 2020:util.FileManage[91]/ReadFile -> read setting.txt
+ -> util.Config[76]/init
+ -> util.Config[36]/<init>
+ -> StateHandler[40]/handling
+ -> StateHandler[18]/main
+Tue Jan 07 14:16:13 JST 2020:util.Config[155]/Get -> read config ipAdress_server = 100.80.194.226
+Tue Jan 07 14:16:13 JST 2020:util.Config[155]/Get -> read config portNum_server = 11000
+Tue Jan 07 14:16:13 JST 2020:ClientThreadUTF8[46]/<init> -> try to connect with 100.80.194.226 11000
+Tue Jan 07 14:16:13 JST 2020:ScenarioUpdater[186]/makeActivity_news -> Make New File : C:\Users\Frontier-is\Desktop\StateHandler_java-master\activities\news2020170.txt
+Tue Jan 07 14:16:13 JST 2020:ScenarioUpdater[186]/makeActivity_news -> Make New File : C:\Users\Frontier-is\Desktop\StateHandler_java-master\activities\news2020171.txt
+Tue Jan 07 14:16:13 JST 2020:ScenarioUpdater[186]/makeActivity_news -> Make New File : C:\Users\Frontier-is\Desktop\StateHandler_java-master\activities\news2020172.txt
+Tue Jan 07 14:16:13 JST 2020:ScenarioUpdater[186]/makeActivity_news -> Make New File : C:\Users\Frontier-is\Desktop\StateHandler_java-master\activities\news2020173.txt
+Tue Jan 07 14:16:13 JST 2020:ScenarioUpdater[186]/makeActivity_news -> Make New File : C:\Users\Frontier-is\Desktop\StateHandler_java-master\activities\news2020174.txt
+Tue Jan 07 14:16:13 JST 2020:ScenarioUpdater[186]/makeActivity_news -> Make New File : C:\Users\Frontier-is\Desktop\StateHandler_java-master\activities\news2020175.txt
+Tue Jan 07 14:16:13 JST 2020:ScenarioUpdater[186]/makeActivity_news -> Make New File : C:\Users\Frontier-is\Desktop\StateHandler_java-master\activities\news2020176.txt
+Tue Jan 07 14:16:13 JST 2020:MemoryManager[142]/Read -> read memory: newnews = false
+Tue Jan 07 14:16:13 JST 2020:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Jan 07 14:16:13 JST 2020:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Jan 07 14:16:13 JST 2020:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Jan 07 14:16:13 JST 2020:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Jan 07 14:16:13 JST 2020:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Jan 07 14:16:13 JST 2020:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Jan 07 14:16:13 JST 2020:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Jan 07 14:16:13 JST 2020:MemoryManager[260]/Contain -> Not Contained!: true at newnews in long_memory.txt
+Tue Jan 07 14:16:14 JST 2020:StateHandler[202]/handling -> wait for re-connecting: 3.0 second
+Tue Jan 07 14:16:14 JST 2020:MemoryManager[260]/Contain -> Not Contained!: 2020 at year in long_memory.txt
+Tue Jan 07 14:16:14 JST 2020:MemoryManager[181]/Clear -> clear memory: year = 2019
+Tue Jan 07 14:16:14 JST 2020:MemoryManager[94]/Add -> add new memory: year += 2020 in long_memory.txt
+Tue Jan 07 14:16:14 JST 2020:MemoryManager[260]/Contain -> Not Contained!: 1 at month in long_memory.txt
+Tue Jan 07 14:16:14 JST 2020:MemoryManager[181]/Clear -> clear memory: month = 12
+Tue Jan 07 14:16:14 JST 2020:MemoryManager[94]/Add -> add new memory: month += 1 in long_memory.txt
+Tue Jan 07 14:16:14 JST 2020:MemoryManager[260]/Contain -> Not Contained!: 7 at day in long_memory.txt
+Tue Jan 07 14:16:14 JST 2020:MemoryManager[181]/Clear -> clear memory: day = 28
+Tue Jan 07 14:16:14 JST 2020:MemoryManager[94]/Add -> add new memory: day += 7 in long_memory.txt
+Tue Jan 07 14:16:14 JST 2020:MemoryManager[260]/Contain -> Not Contained!: 3 at day_of_week in long_memory.txt
+Tue Jan 07 14:16:14 JST 2020:MemoryManager[181]/Clear -> clear memory: day_of_week = 7
+Tue Jan 07 14:16:14 JST 2020:MemoryManager[94]/Add -> add new memory: day_of_week += 3 in long_memory.txt
+Tue Jan 07 14:16:14 JST 2020:MemoryManager[260]/Contain -> Not Contained!: 14 at hour in long_memory.txt
+Tue Jan 07 14:16:14 JST 2020:MemoryManager[181]/Clear -> clear memory: hour = 10
+Tue Jan 07 14:16:14 JST 2020:MemoryManager[94]/Add -> add new memory: hour += 14 in long_memory.txt
+Tue Jan 07 14:16:17 JST 2020:util.FileManage[91]/ReadFile -> read setting.txt
+ -> util.Config[76]/init
+ -> util.Config[36]/<init>
+ -> StateHandler[40]/handling
+ -> StateHandler[18]/main
+Tue Jan 07 14:16:17 JST 2020:util.Config[155]/Get -> read config ipAdress_server = 100.80.194.226
+Tue Jan 07 14:16:17 JST 2020:util.Config[155]/Get -> read config portNum_server = 11000
+Tue Jan 07 14:16:17 JST 2020:ClientThreadUTF8[46]/<init> -> try to connect with 100.80.194.226 11000
+Tue Jan 07 14:16:18 JST 2020:StateHandler[202]/handling -> wait for re-connecting: 5.5 second
+Tue Jan 07 14:16:23 JST 2020:util.FileManage[91]/ReadFile -> read setting.txt
+ -> util.Config[76]/init
+ -> util.Config[36]/<init>
+ -> StateHandler[40]/handling
+ -> StateHandler[18]/main
+Tue Jan 07 14:16:23 JST 2020:util.Config[155]/Get -> read config ipAdress_server = 100.80.194.226
+Tue Jan 07 14:16:23 JST 2020:util.Config[155]/Get -> read config portNum_server = 11000
+Tue Jan 07 14:16:23 JST 2020:ClientThreadUTF8[46]/<init> -> try to connect with 100.80.194.226 11000
+Tue Jan 07 14:16:24 JST 2020:StateHandler[202]/handling -> wait for re-connecting: 9.0 second
+Tue Jan 07 14:16:33 JST 2020:util.FileManage[91]/ReadFile -> read setting.txt
+ -> util.Config[76]/init
+ -> util.Config[36]/<init>
+ -> StateHandler[40]/handling
+ -> StateHandler[18]/main
+Tue Jan 07 14:16:33 JST 2020:util.Config[155]/Get -> read config ipAdress_server = 100.80.194.226
+Tue Jan 07 14:16:33 JST 2020:util.Config[155]/Get -> read config portNum_server = 11000
+Tue Jan 07 14:16:33 JST 2020:ClientThreadUTF8[46]/<init> -> try to connect with 100.80.194.226 11000
+Tue Jan 07 14:16:34 JST 2020:StateHandler[202]/handling -> wait for re-connecting: 13.5 second
+Tue Jan 07 14:16:47 JST 2020:util.FileManage[91]/ReadFile -> read setting.txt
+ -> util.Config[76]/init
+ -> util.Config[36]/<init>
+ -> StateHandler[40]/handling
+ -> StateHandler[18]/main
+Tue Jan 07 14:16:47 JST 2020:util.Config[155]/Get -> read config ipAdress_server = 100.80.194.226
+Tue Jan 07 14:16:47 JST 2020:util.Config[155]/Get -> read config portNum_server = 11000
+Tue Jan 07 14:16:47 JST 2020:ClientThreadUTF8[46]/<init> -> try to connect with 100.80.194.226 11000
+Tue Jan 07 14:16:48 JST 2020:StateHandler[202]/handling -> wait for re-connecting: 19.0 second
+Tue Jan 07 14:17:07 JST 2020:util.FileManage[91]/ReadFile -> read setting.txt
+ -> util.Config[76]/init
+ -> util.Config[36]/<init>
+ -> StateHandler[40]/handling
+ -> StateHandler[18]/main
+Tue Jan 07 14:17:07 JST 2020:util.Config[155]/Get -> read config ipAdress_server = 100.80.194.226
+Tue Jan 07 14:17:07 JST 2020:util.Config[155]/Get -> read config portNum_server = 11000
+Tue Jan 07 14:17:07 JST 2020:ClientThreadUTF8[46]/<init> -> try to connect with 100.80.194.226 11000
+Tue Jan 07 14:17:08 JST 2020:StateHandler[202]/handling -> wait for re-connecting: 25.5 second
+Tue Jan 07 14:17:14 JST 2020:ScenarioUpdater[55]/update -> Scenario Update
+Tue Jan 07 14:17:14 JST 2020:MemoryManager[142]/Read -> read memory: newnews = false
+Tue Jan 07 14:17:14 JST 2020:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Jan 07 14:17:14 JST 2020:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Jan 07 14:17:14 JST 2020:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Jan 07 14:17:14 JST 2020:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Jan 07 14:17:14 JST 2020:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Jan 07 14:17:14 JST 2020:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Jan 07 14:17:14 JST 2020:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Jan 07 14:17:14 JST 2020:MemoryManager[260]/Contain -> Not Contained!: true at newnews in long_memory.txt
+Tue Jan 07 14:17:15 JST 2020:MemoryManager[255]/Contain -> Contained!: 2020 at year in long_memory.txt
+Tue Jan 07 14:17:15 JST 2020:MemoryManager[255]/Contain -> Contained!: 1 at month in long_memory.txt
+Tue Jan 07 14:17:15 JST 2020:MemoryManager[255]/Contain -> Contained!: 7 at day in long_memory.txt
+Tue Jan 07 14:17:15 JST 2020:MemoryManager[255]/Contain -> Contained!: 3 at day_of_week in long_memory.txt
+Tue Jan 07 14:17:15 JST 2020:MemoryManager[255]/Contain -> Contained!: 14 at hour in long_memory.txt
+Tue Jan 07 14:17:33 JST 2020:util.FileManage[91]/ReadFile -> read setting.txt
+ -> util.Config[76]/init
+ -> util.Config[36]/<init>
+ -> StateHandler[40]/handling
+ -> StateHandler[18]/main
+Tue Jan 07 14:17:33 JST 2020:util.Config[155]/Get -> read config ipAdress_server = 100.80.194.226
+Tue Jan 07 14:17:33 JST 2020:util.Config[155]/Get -> read config portNum_server = 11000
+Tue Jan 07 14:17:33 JST 2020:ClientThreadUTF8[46]/<init> -> try to connect with 100.80.194.226 11000
+Tue Jan 07 14:17:34 JST 2020:StateHandler[202]/handling -> wait for re-connecting: 33.0 second

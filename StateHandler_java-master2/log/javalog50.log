@@ -1,0 +1,92 @@
+Tue Dec 17 23:15:51 JST 2019:util.Log[126]/init -> @@@ RUN STAMP @@@ -- Frontier-is
+Tue Dec 17 23:15:51 JST 2019:util.FileManage[91]/ReadFile -> read setting.txt
+ -> util.Config[76]/init
+ -> util.Config[36]/<init>
+ -> ActivityManager[41]/handling
+ -> ActivityManager[21]/main
+Tue Dec 17 23:15:51 JST 2019:util.Config[155]/Get -> read config ipAdress_server = 100.80.194.226
+Tue Dec 17 23:15:51 JST 2019:util.Config[155]/Get -> read config portNum_server = 11000
+Tue Dec 17 23:15:51 JST 2019:ClientThreadUTF8[46]/<init> -> try to connect with 100.80.194.226 11000
+Tue Dec 17 23:15:51 JST 2019:ClientThreadUTF8[54]/<init> -> connected with 100.80.194.226 11000
+Tue Dec 17 23:16:45 JST 2019:MemoryManager[139]/Read -> Could Not find 'ok_long_history' in long_memory.txt
+Tue Dec 17 23:16:45 JST 2019:MemoryManager[70]/Add -> add new key and memory: ok_long_history = ok_long2 in long_memory.txt
+Tue Dec 17 23:16:45 JST 2019:MemoryManager[94]/Add -> add new memory: activity_history += ok_long2 in short_memory.txt
+Tue Dec 17 23:16:45 JST 2019:MemoryManager[142]/Read -> read memory: ok_long_history = ok_long2
+Tue Dec 17 23:16:45 JST 2019:MemoryManager[94]/Add -> add new memory: ok_long_history += ok_long in long_memory.txt
+Tue Dec 17 23:16:45 JST 2019:MemoryManager[94]/Add -> add new memory: activity_history += ok_long in short_memory.txt
+Tue Dec 17 23:16:45 JST 2019:ActivityManager[316]/ReadBehaviors -> Load Activity: ok_long
+Tue Dec 17 23:16:45 JST 2019:ActivityManager[316]/ReadBehaviors -> Load Activity: ok_long
+Tue Dec 17 23:16:45 JST 2019:ActivityManager[78]/handling -> Read activity: activities\ok_long2.txt
+Tue Dec 17 23:16:45 JST 2019:MemoryManager[142]/Read -> read memory: ok_long_history = ok_long2,ok_long
+Tue Dec 17 23:16:45 JST 2019:MemoryManager[181]/Clear -> clear memory: ok_long_history = ok_long2,ok_long
+Tue Dec 17 23:16:45 JST 2019:MemoryManager[94]/Add -> add new memory: ok_long_history += ok_long2 in long_memory.txt
+Tue Dec 17 23:16:45 JST 2019:MemoryManager[82]/Add -> already contain: ok_long2 at activity_history in short_memory.txt
+Tue Dec 17 23:16:45 JST 2019:MemoryManager[142]/Read -> read memory: ok_long_history = ok_long2
+Tue Dec 17 23:16:45 JST 2019:MemoryManager[94]/Add -> add new memory: ok_long_history += ok_long in long_memory.txt
+Tue Dec 17 23:16:45 JST 2019:MemoryManager[82]/Add -> already contain: ok_long at activity_history in short_memory.txt
+Tue Dec 17 23:16:45 JST 2019:ActivityManager[316]/ReadBehaviors -> Load Activity: ok_long
+Tue Dec 17 23:16:45 JST 2019:ActivityManager[316]/ReadBehaviors -> Load Activity: ok_long
+Tue Dec 17 23:16:45 JST 2019:ActivityManager[78]/handling -> Read activity: activities\ok_long2.txt
+Tue Dec 17 23:16:49 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 231645701
+Tue Dec 17 23:16:52 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 231645754
+Tue Dec 17 23:18:38 JST 2019:ActivityManager[316]/ReadBehaviors -> Load Activity: aizuchi
+Tue Dec 17 23:18:38 JST 2019:ActivityManager[78]/handling -> Read activity: activities\ok_long2.txt
+Tue Dec 17 23:18:38 JST 2019:ActivityManager[316]/ReadBehaviors -> Load Activity: aizuchi
+Tue Dec 17 23:18:38 JST 2019:ActivityManager[78]/handling -> Read activity: activities\ok_long2.txt
+Tue Dec 17 23:18:42 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 231838473
+Tue Dec 17 23:18:45 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 231838484
+Tue Dec 17 23:18:58 JST 2019:ActivityManager[316]/ReadBehaviors -> Load Activity: aizuchi
+Tue Dec 17 23:18:58 JST 2019:ActivityManager[78]/handling -> Read activity: activities\ok_long2.txt
+Tue Dec 17 23:18:58 JST 2019:ActivityManager[316]/ReadBehaviors -> Load Activity: aizuchi
+Tue Dec 17 23:18:58 JST 2019:ActivityManager[78]/handling -> Read activity: activities\ok_long2.txt
+Tue Dec 17 23:19:02 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 231858887
+Tue Dec 17 23:19:05 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 231858995
+Tue Dec 17 23:19:11 JST 2019:ActivityManager[316]/ReadBehaviors -> Load Activity: aizuchi
+Tue Dec 17 23:19:11 JST 2019:ActivityManager[78]/handling -> Read activity: activities\ok_long2.txt
+Tue Dec 17 23:19:11 JST 2019:ActivityManager[316]/ReadBehaviors -> Load Activity: aizuchi
+Tue Dec 17 23:19:11 JST 2019:ActivityManager[78]/handling -> Read activity: activities\ok_long2.txt
+Tue Dec 17 23:19:15 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 231911566
+Tue Dec 17 23:19:18 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 231911586
+Tue Dec 17 23:19:46 JST 2019:ActivityManager[316]/ReadBehaviors -> Load Activity: aizuchi
+Tue Dec 17 23:19:46 JST 2019:ActivityManager[78]/handling -> Read activity: activities\ok_long2.txt
+Tue Dec 17 23:19:47 JST 2019:ActivityManager[316]/ReadBehaviors -> Load Activity: aizuchi
+Tue Dec 17 23:19:47 JST 2019:ActivityManager[78]/handling -> Read activity: activities\ok_long2.txt
+Tue Dec 17 23:19:50 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 2319470
+Tue Dec 17 23:19:54 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 231947111
+Tue Dec 17 23:21:04 JST 2019:ActivityManager[78]/handling -> Read activity: activities\ok_long2.txt
+Tue Dec 17 23:21:05 JST 2019:ActivityManager[78]/handling -> Read activity: activities\ok_long2.txt
+Tue Dec 17 23:21:08 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 23214898
+Tue Dec 17 23:21:12 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 232154
+Tue Dec 17 23:22:12 JST 2019:MemoryManager[142]/Read -> read memory: ok_long_history = ok_long2,ok_long
+Tue Dec 17 23:22:12 JST 2019:MemoryManager[181]/Clear -> clear memory: ok_long_history = ok_long2,ok_long
+Tue Dec 17 23:22:12 JST 2019:MemoryManager[94]/Add -> add new memory: ok_long_history += ok_long2 in long_memory.txt
+Tue Dec 17 23:22:12 JST 2019:MemoryManager[82]/Add -> already contain: ok_long2 at activity_history in short_memory.txt
+Tue Dec 17 23:22:12 JST 2019:ActivityManager[78]/handling -> Read activity: activities\ok_long2.txt
+Tue Dec 17 23:22:12 JST 2019:MemoryManager[142]/Read -> read memory: ok_long_history = ok_long2
+Tue Dec 17 23:22:12 JST 2019:MemoryManager[94]/Add -> add new memory: ok_long_history += ok_long in long_memory.txt
+Tue Dec 17 23:22:12 JST 2019:MemoryManager[82]/Add -> already contain: ok_long at activity_history in short_memory.txt
+Tue Dec 17 23:22:12 JST 2019:ActivityManager[78]/handling -> Read activity: activities\ok_long.txt
+Tue Dec 17 23:22:16 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 232212602
+Tue Dec 17 23:22:18 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 232212625
+Tue Dec 17 23:22:29 JST 2019:MemoryManager[142]/Read -> read memory: ok_long_history = ok_long2,ok_long
+Tue Dec 17 23:22:29 JST 2019:MemoryManager[181]/Clear -> clear memory: ok_long_history = ok_long2,ok_long
+Tue Dec 17 23:22:29 JST 2019:MemoryManager[94]/Add -> add new memory: ok_long_history += ok_long in long_memory.txt
+Tue Dec 17 23:22:29 JST 2019:MemoryManager[82]/Add -> already contain: ok_long at activity_history in short_memory.txt
+Tue Dec 17 23:22:29 JST 2019:ActivityManager[78]/handling -> Read activity: activities\ok_long.txt
+Tue Dec 17 23:22:29 JST 2019:MemoryManager[142]/Read -> read memory: ok_long_history = ok_long
+Tue Dec 17 23:22:29 JST 2019:MemoryManager[94]/Add -> add new memory: ok_long_history += ok_long2 in long_memory.txt
+Tue Dec 17 23:22:29 JST 2019:MemoryManager[82]/Add -> already contain: ok_long2 at activity_history in short_memory.txt
+Tue Dec 17 23:22:29 JST 2019:ActivityManager[78]/handling -> Read activity: activities\ok_long2.txt
+Tue Dec 17 23:22:32 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 232229266
+Tue Dec 17 23:22:35 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 232229296
+Tue Dec 17 23:23:18 JST 2019:MemoryManager[142]/Read -> read memory: ok_long_history = ok_long,ok_long2
+Tue Dec 17 23:23:18 JST 2019:MemoryManager[181]/Clear -> clear memory: ok_long_history = ok_long,ok_long2
+Tue Dec 17 23:23:18 JST 2019:MemoryManager[94]/Add -> add new memory: ok_long_history += ok_long2 in long_memory.txt
+Tue Dec 17 23:23:18 JST 2019:MemoryManager[82]/Add -> already contain: ok_long2 at activity_history in short_memory.txt
+Tue Dec 17 23:23:18 JST 2019:ActivityManager[78]/handling -> Read activity: activities\ok_long2.txt
+Tue Dec 17 23:23:19 JST 2019:MemoryManager[142]/Read -> read memory: ok_long_history = ok_long2
+Tue Dec 17 23:23:19 JST 2019:MemoryManager[94]/Add -> add new memory: ok_long_history += ok_long in long_memory.txt
+Tue Dec 17 23:23:19 JST 2019:MemoryManager[82]/Add -> already contain: ok_long at activity_history in short_memory.txt
+Tue Dec 17 23:23:19 JST 2019:ActivityManager[78]/handling -> Read activity: activities\ok_long.txt
+Tue Dec 17 23:23:22 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 232318997
+Tue Dec 17 23:23:25 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 232319114

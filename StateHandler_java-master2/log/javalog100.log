@@ -1,0 +1,52 @@
+Mon Oct 21 14:50:53 JST 2019:util.Log[126]/init -> @@@ RUN STAMP @@@ -- Frontier-is
+Mon Oct 21 14:50:53 JST 2019:util.FileManage[91]/ReadFile -> read setting.txt
+ -> util.Config[76]/init
+ -> util.Config[36]/<init>
+ -> ActivityManager[41]/handling
+ -> ActivityManager[21]/main
+Mon Oct 21 14:50:53 JST 2019:util.Config[155]/Get -> read config ipAdress_server = 100.80.194.226
+Mon Oct 21 14:50:53 JST 2019:util.Config[155]/Get -> read config portNum_server = 11000
+Mon Oct 21 14:50:53 JST 2019:ClientThreadUTF8[46]/<init> -> try to connect with 100.80.194.226 11000
+Mon Oct 21 14:50:53 JST 2019:ClientThreadUTF8[54]/<init> -> connected with 100.80.194.226 11000
+Mon Oct 21 14:51:08 JST 2019:ActivityManager[78]/handling -> Read activity: activities\simple.txt
+Mon Oct 21 14:51:18 JST 2019:ActivityManager[78]/handling -> Read activity: activities\narrow.txt
+Mon Oct 21 14:51:20 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 145117635
+Mon Oct 21 14:51:25 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 145118404
+Mon Oct 21 14:52:18 JST 2019:ActivityManager[78]/handling -> Read activity: activities\narrow-heart.txt
+Mon Oct 21 14:53:18 JST 2019:ActivityManager[78]/handling -> Read activity: activities\narrow-heart.txt
+Mon Oct 21 14:54:18 JST 2019:ActivityManager[78]/handling -> Read activity: activities\narrow-heart.txt
+Mon Oct 21 14:58:20 JST 2019:ActivityManager[78]/handling -> Read activity: activities\simple.txt
+Mon Oct 21 14:58:30 JST 2019:ActivityManager[78]/handling -> Read activity: activities\narrow.txt
+Mon Oct 21 14:58:32 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 145829618
+Mon Oct 21 14:58:37 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 145830691
+Mon Oct 21 15:01:26 JST 2019:ActivityManager[78]/handling -> Read activity: activities\simple.txt
+Mon Oct 21 15:01:36 JST 2019:ActivityManager[78]/handling -> Read activity: activities\narrow.txt
+Mon Oct 21 15:01:38 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 15135384
+Mon Oct 21 15:01:43 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 15136524
+Mon Oct 21 15:18:46 JST 2019:ActivityManager[78]/handling -> Read activity: activities\simple.txt
+Mon Oct 21 15:18:56 JST 2019:ActivityManager[78]/handling -> Read activity: activities\narrow.txt
+Mon Oct 21 15:18:58 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 151855267
+Mon Oct 21 15:19:03 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 151856451
+Mon Oct 21 15:26:06 JST 2019:ActivityManager[78]/handling -> Read activity: activities\simple.txt
+Mon Oct 21 15:26:16 JST 2019:ActivityManager[78]/handling -> Read activity: activities\narrow.txt
+Mon Oct 21 15:26:18 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 152615343
+Mon Oct 21 15:26:23 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 152616406
+Mon Oct 21 15:34:44 JST 2019:ActivityManager[78]/handling -> Read activity: activities\narrow.txt
+Mon Oct 21 15:36:09 JST 2019:ActivityManager[78]/handling -> Read activity: activities\tsunagi.txt
+Mon Oct 21 15:36:09 JST 2019:ActivityManager[78]/handling -> Read activity: activities\narrow.txt
+Mon Oct 21 15:36:11 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 15369776
+Mon Oct 21 15:36:14 JST 2019:ActivityManager[78]/handling -> Read activity: activities\nega-long.txt
+Mon Oct 21 15:36:18 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 15369884
+Mon Oct 21 15:36:24 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 153614673
+Mon Oct 21 15:36:52 JST 2019:ActivityManager[78]/handling -> Read activity: activities\cute.txt
+Mon Oct 21 15:37:02 JST 2019:ActivityManager[78]/handling -> Read activity: activities\narrow.txt
+Mon Oct 21 15:37:03 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 1537123
+Mon Oct 21 15:37:09 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 15372232
+Mon Oct 21 15:37:16 JST 2019:ActivityManager[78]/handling -> Read activity: activities\narrow.txt
+Mon Oct 21 15:37:40 JST 2019:ActivityManager[78]/handling -> Read activity: activities\narrow.txt
+Mon Oct 21 15:37:44 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 153738911
+Mon Oct 21 15:37:51 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 153740706
+Mon Oct 21 19:51:05 JST 2019:ActivityManager[78]/handling -> Read activity: activities\narrow.txt
+Mon Oct 21 19:51:35 JST 2019:ActivityManager[78]/handling -> Read activity: activities\nega-long.txt
+Mon Oct 21 19:52:05 JST 2019:ActivityManager[78]/handling -> Read activity: activities\nega-long.txt
+Mon Oct 21 19:52:35 JST 2019:ActivityManager[78]/handling -> Read activity: activities\narrow-heart.txt

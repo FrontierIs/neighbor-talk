@@ -1,0 +1,47 @@
+Mon Dec 02 06:26:37 JST 2019:util.Log[126]/init -> @@@ RUN STAMP @@@ -- Frontier-is
+Mon Dec 02 06:26:37 JST 2019:util.FileManage[91]/ReadFile -> read setting.txt
+ -> util.Config[76]/init
+ -> util.Config[36]/<init>
+ -> ActivityManager[41]/handling
+ -> ActivityManager[21]/main
+Mon Dec 02 06:26:37 JST 2019:util.Config[155]/Get -> read config ipAdress_server = 100.80.194.226
+Mon Dec 02 06:26:37 JST 2019:util.Config[155]/Get -> read config portNum_server = 11000
+Mon Dec 02 06:26:37 JST 2019:ClientThreadUTF8[46]/<init> -> try to connect with 100.80.194.226 11000
+Mon Dec 02 06:26:37 JST 2019:ClientThreadUTF8[54]/<init> -> connected with 100.80.194.226 11000
+Mon Dec 02 06:31:17 JST 2019:ActivityManager[78]/handling -> Read activity: activities\narrow-gold.txt
+Mon Dec 02 06:31:57 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 02 06:31:57 JST 2019:ActivityManager[78]/handling -> Read activity: activities\narrow-heart.txt
+Mon Dec 02 06:32:37 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 02 06:32:37 JST 2019:ActivityManager[78]/handling -> Read activity: activities\narrow.txt
+Mon Dec 02 06:33:17 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 02 06:33:17 JST 2019:ActivityManager[78]/handling -> Read activity: activities\narrow-heart.txt
+Mon Dec 02 06:33:57 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 02 06:33:57 JST 2019:ActivityManager[78]/handling -> Read activity: activities\narrow-heart.txt
+Mon Dec 02 06:34:37 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 02 06:34:37 JST 2019:ActivityManager[78]/handling -> Read activity: activities\nega-long.txt
+Mon Dec 02 06:35:17 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 02 06:35:17 JST 2019:ActivityManager[78]/handling -> Read activity: activities\narrow.txt
+Mon Dec 02 06:35:57 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 02 06:35:57 JST 2019:ActivityManager[78]/handling -> Read activity: activities\narrow.txt
+Mon Dec 02 06:36:37 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 02 06:36:37 JST 2019:ActivityManager[78]/handling -> Read activity: activities\nega-long.txt
+Mon Dec 02 06:37:12 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 02 06:37:12 JST 2019:MemoryManager[142]/Read -> read memory: shizuku_history = shizuku,shizuku2
+Mon Dec 02 06:37:12 JST 2019:MemoryManager[181]/Clear -> clear memory: shizuku_history = shizuku,shizuku2
+Mon Dec 02 06:37:12 JST 2019:MemoryManager[94]/Add -> add new memory: shizuku_history += shizuku2 in long_memory.txt
+Mon Dec 02 06:37:12 JST 2019:MemoryManager[82]/Add -> already contain: shizuku2 at activity_history in short_memory.txt
+Mon Dec 02 06:37:13 JST 2019:ActivityManager[78]/handling -> Read activity: activities\shizuku2.txt
+Mon Dec 02 06:37:50 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 02 06:37:50 JST 2019:ActivityManager[78]/handling -> Read activity: activities\nega-long.txt
+Mon Dec 02 06:39:11 JST 2019:ActivityManager[78]/handling -> Read activity: activities\narrow-gold.txt
+Mon Dec 02 06:40:31 JST 2019:ActivityManager[78]/handling -> Read activity: activities\narrow-gold.txt
+Mon Dec 02 06:41:07 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 02 06:41:07 JST 2019:ActivityManager[78]/handling -> Read activity: activities\simple.txt
+Mon Dec 02 07:06:56 JST 2019:ActivityManager[78]/handling -> Read activity: activities\narrow-gold.txt
+Mon Dec 02 07:07:33 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 02 07:07:33 JST 2019:ActivityManager[78]/handling -> Read activity: activities\good.txt
+Mon Dec 02 07:08:13 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 02 07:08:13 JST 2019:MemoryManager[142]/Read -> read memory: shizuku_history = shizuku2
+Mon Dec 02 07:08:13 JST 2019:MemoryManager[94]/Add -> add new memory: shizuku_history += shizuku in long_memory.txt
+Mon Dec 02 07:08:13 JST 2019:MemoryManager[82]/Add -> already contain: shizuku at activity_history in short_memory.txt
+Mon Dec 02 07:08:13 JST 2019:ActivityManager[78]/handling -> Read activity: activities\shizuku.txt

@@ -1,0 +1,83 @@
+Tue Dec 10 16:58:42 JST 2019:util.Log[126]/init -> @@@ RUN STAMP @@@ -- Frontier-is
+Tue Dec 10 16:58:42 JST 2019:util.FileManage[91]/ReadFile -> read setting.txt
+ -> util.Config[76]/init
+ -> util.Config[36]/<init>
+ -> ActivityManager[41]/handling
+ -> ActivityManager[21]/main
+Tue Dec 10 16:58:42 JST 2019:util.Config[155]/Get -> read config ipAdress_server = 100.80.194.226
+Tue Dec 10 16:58:42 JST 2019:util.Config[155]/Get -> read config portNum_server = 11000
+Tue Dec 10 16:58:42 JST 2019:ClientThreadUTF8[46]/<init> -> try to connect with 100.80.194.226 11000
+Tue Dec 10 16:58:42 JST 2019:ClientThreadUTF8[54]/<init> -> connected with 100.80.194.226 11000
+Tue Dec 10 16:59:37 JST 2019:ActivityManager[78]/handling -> Read activity: activities\4doc.txt
+Tue Dec 10 17:00:11 JST 2019:ActivityManager[78]/handling -> Read activity: activities\4doc.txt
+Tue Dec 10 17:00:46 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Dec 10 17:00:46 JST 2019:ActivityManager[78]/handling -> Read activity: activities\nega_long.txt
+Tue Dec 10 17:01:16 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Dec 10 17:01:16 JST 2019:MemoryManager[142]/Read -> read memory: kanren_history = kanren3,kanren,kanren4,kanren2
+Tue Dec 10 17:01:16 JST 2019:MemoryManager[181]/Clear -> clear memory: kanren_history = kanren3,kanren,kanren4,kanren2
+Tue Dec 10 17:01:16 JST 2019:MemoryManager[94]/Add -> add new memory: kanren_history += kanren4 in long_memory.txt
+Tue Dec 10 17:01:16 JST 2019:MemoryManager[82]/Add -> already contain: kanren4 at activity_history in short_memory.txt
+Tue Dec 10 17:01:16 JST 2019:ActivityManager[78]/handling -> Read activity: activities\kanren4.txt
+Tue Dec 10 17:01:49 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Dec 10 17:01:49 JST 2019:MemoryManager[142]/Read -> read memory: kanren_history = kanren4
+Tue Dec 10 17:01:49 JST 2019:MemoryManager[94]/Add -> add new memory: kanren_history += kanren in long_memory.txt
+Tue Dec 10 17:01:49 JST 2019:MemoryManager[82]/Add -> already contain: kanren at activity_history in short_memory.txt
+Tue Dec 10 17:01:49 JST 2019:ActivityManager[78]/handling -> Read activity: activities\kanren.txt
+Tue Dec 10 17:02:16 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Dec 10 17:02:16 JST 2019:MemoryManager[142]/Read -> read memory: kanren_history = kanren4,kanren
+Tue Dec 10 17:02:16 JST 2019:MemoryManager[94]/Add -> add new memory: kanren_history += kanren2 in long_memory.txt
+Tue Dec 10 17:02:16 JST 2019:MemoryManager[82]/Add -> already contain: kanren2 at activity_history in short_memory.txt
+Tue Dec 10 17:02:16 JST 2019:ActivityManager[78]/handling -> Read activity: activities\kanren2.txt
+Tue Dec 10 17:02:49 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Dec 10 17:02:49 JST 2019:MemoryManager[142]/Read -> read memory: kanren_history = kanren4,kanren,kanren2
+Tue Dec 10 17:02:49 JST 2019:MemoryManager[94]/Add -> add new memory: kanren_history += kanren3 in long_memory.txt
+Tue Dec 10 17:02:49 JST 2019:MemoryManager[82]/Add -> already contain: kanren3 at activity_history in short_memory.txt
+Tue Dec 10 17:02:49 JST 2019:ActivityManager[78]/handling -> Read activity: activities\kanren3.txt
+Tue Dec 10 17:03:14 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Dec 10 17:03:14 JST 2019:MemoryManager[142]/Read -> read memory: good_history = good4,good3,good
+Tue Dec 10 17:03:14 JST 2019:MemoryManager[94]/Add -> add new memory: good_history += good2 in long_memory.txt
+Tue Dec 10 17:03:14 JST 2019:MemoryManager[82]/Add -> already contain: good2 at activity_history in short_memory.txt
+Tue Dec 10 17:03:14 JST 2019:ActivityManager[78]/handling -> Read activity: activities\good2.txt
+Tue Dec 10 17:04:13 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Dec 10 17:04:13 JST 2019:ActivityManager[78]/handling -> Read activity: activities\9.txt
+Tue Dec 10 17:04:31 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Dec 10 17:04:31 JST 2019:MemoryManager[142]/Read -> read memory: good_history = good4,good3,good,good2
+Tue Dec 10 17:04:31 JST 2019:MemoryManager[181]/Clear -> clear memory: good_history = good4,good3,good,good2
+Tue Dec 10 17:04:31 JST 2019:MemoryManager[94]/Add -> add new memory: good_history += good3 in long_memory.txt
+Tue Dec 10 17:04:31 JST 2019:MemoryManager[82]/Add -> already contain: good3 at activity_history in short_memory.txt
+Tue Dec 10 17:04:31 JST 2019:ActivityManager[78]/handling -> Read activity: activities\good3.txt
+Tue Dec 10 17:05:02 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Dec 10 17:05:02 JST 2019:MemoryManager[139]/Read -> Could Not find 'dis_history' in long_memory.txt
+Tue Dec 10 17:05:02 JST 2019:MemoryManager[70]/Add -> add new key and memory: dis_history = dis in long_memory.txt
+Tue Dec 10 17:05:02 JST 2019:MemoryManager[94]/Add -> add new memory: activity_history += dis in short_memory.txt
+Tue Dec 10 17:05:02 JST 2019:ActivityManager[78]/handling -> Read activity: activities\dis.txt
+Tue Dec 10 17:05:40 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Dec 10 17:05:40 JST 2019:ActivityManager[78]/handling -> Read activity: activities\9.txt
+Tue Dec 10 17:06:04 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Dec 10 17:06:04 JST 2019:MemoryManager[142]/Read -> read memory: good_history = good3
+Tue Dec 10 17:06:04 JST 2019:MemoryManager[94]/Add -> add new memory: good_history += good in long_memory.txt
+Tue Dec 10 17:06:04 JST 2019:MemoryManager[82]/Add -> already contain: good at activity_history in short_memory.txt
+Tue Dec 10 17:06:04 JST 2019:ActivityManager[78]/handling -> Read activity: activities\good.txt
+Tue Dec 10 17:06:49 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Dec 10 17:06:49 JST 2019:ActivityManager[78]/handling -> Read activity: activities\9.txt
+Tue Dec 10 17:07:59 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Dec 10 17:07:59 JST 2019:ActivityManager[78]/handling -> Read activity: activities\12.txt
+Tue Dec 10 17:08:16 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Dec 10 17:08:16 JST 2019:MemoryManager[142]/Read -> read memory: good_history = good3,good
+Tue Dec 10 17:08:16 JST 2019:MemoryManager[94]/Add -> add new memory: good_history += good4 in long_memory.txt
+Tue Dec 10 17:08:16 JST 2019:MemoryManager[82]/Add -> already contain: good4 at activity_history in short_memory.txt
+Tue Dec 10 17:08:16 JST 2019:ActivityManager[78]/handling -> Read activity: activities\good4.txt
+Tue Dec 10 17:11:04 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Dec 10 17:11:04 JST 2019:ActivityManager[78]/handling -> Read activity: activities\9.txt
+Tue Dec 10 17:16:17 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Dec 10 17:16:18 JST 2019:MemoryManager[142]/Read -> read memory: dis_history = dis
+Tue Dec 10 17:16:18 JST 2019:MemoryManager[94]/Add -> add new memory: dis_history += dis2 in long_memory.txt
+Tue Dec 10 17:16:18 JST 2019:MemoryManager[94]/Add -> add new memory: activity_history += dis2 in short_memory.txt
+Tue Dec 10 17:16:18 JST 2019:ActivityManager[78]/handling -> Read activity: activities\dis2.txt
+Tue Dec 10 17:16:37 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Dec 10 17:16:37 JST 2019:ActivityManager[78]/handling -> Read activity: activities\34.txt
+Tue Dec 10 17:18:30 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Dec 10 17:18:30 JST 2019:MemoryManager[142]/Read -> read memory: good_history = good3,good,good4
+Tue Dec 10 17:18:30 JST 2019:MemoryManager[94]/Add -> add new memory: good_history += good2 in long_memory.txt
+Tue Dec 10 17:18:30 JST 2019:MemoryManager[82]/Add -> already contain: good2 at activity_history in short_memory.txt
+Tue Dec 10 17:18:30 JST 2019:ActivityManager[78]/handling -> Read activity: activities\good2.txt

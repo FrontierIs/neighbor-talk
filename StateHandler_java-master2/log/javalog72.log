@@ -1,0 +1,18 @@
+Wed Jan 08 18:48:32 JST 2020:util.Log[126]/init -> @@@ RUN STAMP @@@ -- Frontier-is
+Wed Jan 08 18:48:32 JST 2020:util.FileManage[91]/ReadFile -> read setting.txt
+ -> util.Config[76]/init
+ -> util.Config[36]/<init>
+ -> ActivityManager[41]/handling
+ -> ActivityManager[21]/main
+Wed Jan 08 18:48:32 JST 2020:util.Config[155]/Get -> read config ipAdress_server = localhost
+Wed Jan 08 18:48:32 JST 2020:util.Config[155]/Get -> read config portNum_server = 11000
+Wed Jan 08 18:48:32 JST 2020:ClientThreadUTF8[46]/<init> -> try to connect with localhost 11000
+Wed Jan 08 18:48:32 JST 2020:ClientThreadUTF8[54]/<init> -> connected with localhost 11000
+Wed Jan 08 18:49:41 JST 2020:ActivityManager[78]/handling -> Read activity: activities\4doc.txt
+Wed Jan 08 18:49:42 JST 2020:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 184941118
+Wed Jan 08 18:49:42 JST 2020:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 18494267
+Wed Jan 08 18:50:16 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Wed Jan 08 18:50:16 JST 2020:ActivityManager[78]/handling -> Read activity: activities\shizuku.txt
+Wed Jan 08 18:50:20 JST 2020:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 185016246
+Wed Jan 08 18:50:23 JST 2020:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 185020976
+Wed Jan 08 18:50:24 JST 2020:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 185016247

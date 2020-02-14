@@ -1,0 +1,50 @@
+Sat Dec 14 19:24:22 JST 2019:util.Log[126]/init -> @@@ RUN STAMP @@@ -- Frontier-is
+Sat Dec 14 19:24:22 JST 2019:util.FileManage[91]/ReadFile -> read setting.txt
+ -> util.Config[76]/init
+ -> util.Config[36]/<init>
+ -> ActivityManager[41]/handling
+ -> ActivityManager[21]/main
+Sat Dec 14 19:24:22 JST 2019:util.Config[155]/Get -> read config ipAdress_server = 100.80.194.226
+Sat Dec 14 19:24:22 JST 2019:util.Config[155]/Get -> read config portNum_server = 11000
+Sat Dec 14 19:24:22 JST 2019:ClientThreadUTF8[46]/<init> -> try to connect with 100.80.194.226 11000
+Sat Dec 14 19:24:22 JST 2019:ClientThreadUTF8[54]/<init> -> connected with 100.80.194.226 11000
+Sat Dec 14 19:24:46 JST 2019:ActivityManager[78]/handling -> Read activity: activities\1_2.txt
+Sat Dec 14 19:24:46 JST 2019:ActivityManager[78]/handling -> Read activity: activities\1_2.txt
+Sat Dec 14 19:24:51 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 192446476
+Sat Dec 14 19:24:54 JST 2019:ActivityManager[78]/handling -> Read activity: activities\heart.txt
+Sat Dec 14 19:24:55 JST 2019:ActivityManager[78]/handling -> Read activity: activities\heart.txt
+Sat Dec 14 19:24:55 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 192446488
+Sat Dec 14 19:25:01 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 192454996
+Sat Dec 14 19:25:05 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 1924551
+Sat Dec 14 19:25:21 JST 2019:ActivityManager[78]/handling -> Read activity: activities\1_2.txt
+Sat Dec 14 19:25:21 JST 2019:ActivityManager[78]/handling -> Read activity: activities\1_2.txt
+Sat Dec 14 19:25:26 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 192521770
+Sat Dec 14 19:25:30 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 192521874
+Sat Dec 14 19:25:31 JST 2019:MemoryManager[142]/Read -> read memory: 1_history = 10
+Sat Dec 14 19:25:31 JST 2019:MemoryManager[94]/Add -> add new memory: 1_history += 14 in long_memory.txt
+Sat Dec 14 19:25:31 JST 2019:MemoryManager[94]/Add -> add new memory: activity_history += 14 in short_memory.txt
+Sat Dec 14 19:25:31 JST 2019:ActivityManager[78]/handling -> Read activity: activities\14.txt
+Sat Dec 14 19:25:31 JST 2019:MemoryManager[142]/Read -> read memory: 1_history = 10,14
+Sat Dec 14 19:25:31 JST 2019:MemoryManager[94]/Add -> add new memory: 1_history += 19 in long_memory.txt
+Sat Dec 14 19:25:31 JST 2019:MemoryManager[94]/Add -> add new memory: activity_history += 19 in short_memory.txt
+Sat Dec 14 19:25:31 JST 2019:ActivityManager[78]/handling -> Read activity: activities\19.txt
+Sat Dec 14 19:25:34 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 192531944
+Sat Dec 14 19:25:36 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 192531982
+Sat Dec 14 19:25:47 JST 2019:MemoryManager[142]/Read -> read memory: 1_history = 10,14,19
+Sat Dec 14 19:25:47 JST 2019:MemoryManager[94]/Add -> add new memory: 1_history += 17 in long_memory.txt
+Sat Dec 14 19:25:47 JST 2019:MemoryManager[94]/Add -> add new memory: activity_history += 17 in short_memory.txt
+Sat Dec 14 19:25:47 JST 2019:ActivityManager[78]/handling -> Read activity: activities\17.txt
+Sat Dec 14 19:25:47 JST 2019:MemoryManager[142]/Read -> read memory: 1_history = 10,14,19,17
+Sat Dec 14 19:25:47 JST 2019:MemoryManager[94]/Add -> add new memory: 1_history += 11 in long_memory.txt
+Sat Dec 14 19:25:47 JST 2019:MemoryManager[94]/Add -> add new memory: activity_history += 11 in short_memory.txt
+Sat Dec 14 19:25:47 JST 2019:ActivityManager[78]/handling -> Read activity: activities\11.txt
+Sat Dec 14 19:25:52 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 192547864
+Sat Dec 14 19:25:56 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 192547895
+Sat Dec 14 19:26:11 JST 2019:ActivityManager[78]/handling -> Read activity: activities\heart.txt
+Sat Dec 14 19:26:11 JST 2019:ActivityManager[78]/handling -> Read activity: activities\heart.txt
+Sat Dec 14 19:26:18 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 192611767
+Sat Dec 14 19:26:22 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 192611774
+Sat Dec 14 19:27:12 JST 2019:ActivityManager[78]/handling -> Read activity: activities\heart.txt
+Sat Dec 14 19:27:12 JST 2019:ActivityManager[78]/handling -> Read activity: activities\heart.txt
+Sat Dec 14 19:27:19 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 192712567
+Sat Dec 14 19:27:23 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 192712570

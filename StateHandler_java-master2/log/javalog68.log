@@ -1,0 +1,74 @@
+Tue Jan 07 14:25:50 JST 2020:util.Log[126]/init -> @@@ RUN STAMP @@@ -- Frontier-is
+Tue Jan 07 14:25:50 JST 2020:util.FileManage[91]/ReadFile -> read setting.txt
+ -> util.Config[76]/init
+ -> util.Config[36]/<init>
+ -> ActivityManager[41]/handling
+ -> ActivityManager[21]/main
+Tue Jan 07 14:25:50 JST 2020:util.Config[155]/Get -> read config ipAdress_server = localhost
+Tue Jan 07 14:25:50 JST 2020:util.Config[155]/Get -> read config portNum_server = 11000
+Tue Jan 07 14:25:50 JST 2020:ClientThreadUTF8[46]/<init> -> try to connect with localhost 11000
+Tue Jan 07 14:25:50 JST 2020:ClientThreadUTF8[54]/<init> -> connected with localhost 11000
+Tue Jan 07 14:26:12 JST 2020:ActivityManager[78]/handling -> Read activity: activities\4doc.txt
+Tue Jan 07 14:26:29 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 07 14:26:29 JST 2020:MemoryManager[139]/Read -> Could Not find 'aka_shizuku_history' in long_memory.txt
+Tue Jan 07 14:26:29 JST 2020:MemoryManager[70]/Add -> add new key and memory: aka_shizuku_history = aka_shizuku2 in long_memory.txt
+Tue Jan 07 14:26:29 JST 2020:MemoryManager[94]/Add -> add new memory: activity_history += aka_shizuku2 in short_memory.txt
+Tue Jan 07 14:26:29 JST 2020:MemoryManager[142]/Read -> read memory: aizuchi_history = aizuchi,aizuchi4,aizuchi2
+Tue Jan 07 14:26:29 JST 2020:MemoryManager[94]/Add -> add new memory: aizuchi_history += aizuchi3 in long_memory.txt
+Tue Jan 07 14:26:30 JST 2020:MemoryManager[82]/Add -> already contain: aizuchi3 at activity_history in short_memory.txt
+Tue Jan 07 14:26:30 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: aizuchi
+Tue Jan 07 14:26:30 JST 2020:MemoryManager[142]/Read -> read memory: sotakatari_history = sotakatari4
+Tue Jan 07 14:26:30 JST 2020:MemoryManager[94]/Add -> add new memory: sotakatari_history += sotakatari in long_memory.txt
+Tue Jan 07 14:26:30 JST 2020:MemoryManager[82]/Add -> already contain: sotakatari at activity_history in short_memory.txt
+Tue Jan 07 14:26:30 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: sotakatari
+Tue Jan 07 14:26:30 JST 2020:MemoryManager[142]/Read -> read memory: katari_history = katari2
+Tue Jan 07 14:26:30 JST 2020:MemoryManager[94]/Add -> add new memory: katari_history += katari4 in long_memory.txt
+Tue Jan 07 14:26:30 JST 2020:MemoryManager[82]/Add -> already contain: katari4 at activity_history in short_memory.txt
+Tue Jan 07 14:26:30 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: katari
+Tue Jan 07 14:26:30 JST 2020:ActivityManager[78]/handling -> Read activity: activities\aka_shizuku2.txt
+Tue Jan 07 14:27:02 JST 2020:ActivityManager[78]/handling -> Read activity: activities\nega_long.txt
+Tue Jan 07 14:27:03 JST 2020:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 142657974
+Tue Jan 07 14:27:08 JST 2020:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 14272769
+Tue Jan 07 15:06:26 JST 2020:ActivityManager[78]/handling -> Read activity: activities\4doc.txt
+Tue Jan 07 15:07:01 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 07 15:07:01 JST 2020:MemoryManager[142]/Read -> read memory: aizuchi_history = aizuchi,aizuchi4,aizuchi2,aizuchi3
+Tue Jan 07 15:07:01 JST 2020:MemoryManager[181]/Clear -> clear memory: aizuchi_history = aizuchi,aizuchi4,aizuchi2,aizuchi3
+Tue Jan 07 15:07:01 JST 2020:MemoryManager[94]/Add -> add new memory: aizuchi_history += aizuchi4 in long_memory.txt
+Tue Jan 07 15:07:01 JST 2020:MemoryManager[82]/Add -> already contain: aizuchi4 at activity_history in short_memory.txt
+Tue Jan 07 15:07:01 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: aizuchi
+Tue Jan 07 15:07:01 JST 2020:ActivityManager[78]/handling -> Read activity: activities\heart.txt
+Tue Jan 07 15:07:08 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 07 15:07:08 JST 2020:MemoryManager[142]/Read -> read memory: kanren_history = kanren,kanren2
+Tue Jan 07 15:07:08 JST 2020:MemoryManager[94]/Add -> add new memory: kanren_history += kanren3 in long_memory.txt
+Tue Jan 07 15:07:08 JST 2020:MemoryManager[82]/Add -> already contain: kanren3 at activity_history in short_memory.txt
+Tue Jan 07 15:07:08 JST 2020:MemoryManager[142]/Read -> read memory: aizuchi_history = aizuchi4
+Tue Jan 07 15:07:08 JST 2020:MemoryManager[94]/Add -> add new memory: aizuchi_history += aizuchi3 in long_memory.txt
+Tue Jan 07 15:07:08 JST 2020:MemoryManager[82]/Add -> already contain: aizuchi3 at activity_history in short_memory.txt
+Tue Jan 07 15:07:08 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: aizuchi
+Tue Jan 07 15:07:08 JST 2020:ActivityManager[78]/handling -> Read activity: activities\kanren3.txt
+Tue Jan 07 15:10:11 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 07 15:10:11 JST 2020:MemoryManager[142]/Read -> read memory: kanren_history = kanren,kanren2,kanren3
+Tue Jan 07 15:10:11 JST 2020:MemoryManager[94]/Add -> add new memory: kanren_history += kanren4 in long_memory.txt
+Tue Jan 07 15:10:11 JST 2020:MemoryManager[82]/Add -> already contain: kanren4 at activity_history in short_memory.txt
+Tue Jan 07 15:10:11 JST 2020:MemoryManager[142]/Read -> read memory: aizuchi_history = aizuchi4,aizuchi3
+Tue Jan 07 15:10:11 JST 2020:MemoryManager[94]/Add -> add new memory: aizuchi_history += aizuchi2 in long_memory.txt
+Tue Jan 07 15:10:11 JST 2020:MemoryManager[82]/Add -> already contain: aizuchi2 at activity_history in short_memory.txt
+Tue Jan 07 15:10:11 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: aizuchi
+Tue Jan 07 15:10:11 JST 2020:MemoryManager[142]/Read -> read memory: sotaaizuchi_history = sotaaizuchi2,sotaaizuchi
+Tue Jan 07 15:10:11 JST 2020:MemoryManager[94]/Add -> add new memory: sotaaizuchi_history += sotaaizuchi4 in long_memory.txt
+Tue Jan 07 15:10:11 JST 2020:MemoryManager[94]/Add -> add new memory: activity_history += sotaaizuchi4 in short_memory.txt
+Tue Jan 07 15:10:11 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: sotaaizuchi
+Tue Jan 07 15:10:11 JST 2020:ActivityManager[78]/handling -> Read activity: activities\kanren4.txt
+Tue Jan 07 15:11:00 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 07 15:11:00 JST 2020:MemoryManager[142]/Read -> read memory: kanren_history = kanren,kanren2,kanren3,kanren4
+Tue Jan 07 15:11:00 JST 2020:MemoryManager[181]/Clear -> clear memory: kanren_history = kanren,kanren2,kanren3,kanren4
+Tue Jan 07 15:11:00 JST 2020:MemoryManager[94]/Add -> add new memory: kanren_history += kanren in long_memory.txt
+Tue Jan 07 15:11:00 JST 2020:MemoryManager[82]/Add -> already contain: kanren at activity_history in short_memory.txt
+Tue Jan 07 15:11:00 JST 2020:MemoryManager[142]/Read -> read memory: aizuchi_history = aizuchi4,aizuchi3,aizuchi2
+Tue Jan 07 15:11:00 JST 2020:MemoryManager[94]/Add -> add new memory: aizuchi_history += aizuchi in long_memory.txt
+Tue Jan 07 15:11:00 JST 2020:MemoryManager[82]/Add -> already contain: aizuchi at activity_history in short_memory.txt
+Tue Jan 07 15:11:00 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: aizuchi
+Tue Jan 07 15:11:00 JST 2020:ActivityManager[78]/handling -> Read activity: activities\kanren.txt
+Tue Jan 07 15:12:04 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 07 15:12:43 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 07 15:12:43 JST 2020:ActivityManager[78]/handling -> Read activity: activities\28.txt

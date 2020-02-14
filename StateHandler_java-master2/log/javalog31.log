@@ -1,0 +1,1820 @@
+Tue Dec 10 15:55:16 JST 2019:util.Log[126]/init -> @@@ RUN STAMP @@@ -- Frontier-is
+Tue Dec 10 15:55:16 JST 2019:util.Config[155]/Get -> read config ipAdress_server = 100.80.194.226
+Tue Dec 10 15:55:16 JST 2019:ScenarioUpdater[55]/update -> Scenario Update
+Tue Dec 10 15:55:16 JST 2019:util.Config[155]/Get -> read config portNum_server = 11000
+Tue Dec 10 15:55:16 JST 2019:ClientThreadUTF8[46]/<init> -> try to connect with 100.80.194.226 11000
+Tue Dec 10 15:55:16 JST 2019:ClientThreadUTF8[54]/<init> -> connected with 100.80.194.226 11000
+Tue Dec 10 15:55:16 JST 2019:util.Config[155]/Get -> read config init_message = name;sh
+Tue Dec 10 15:55:16 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 15:55:16 JST 2019:util.Config[110]/Set -> Not change config ipAdress_server = 100.80.194.226
+Tue Dec 10 15:55:16 JST 2019:util.Config[110]/Set -> Not change config portNum_server = 11000
+Tue Dec 10 15:55:16 JST 2019:util.Config[110]/Set -> Not change config init_message = name;sh
+Tue Dec 10 15:55:16 JST 2019:util.Config[110]/Set -> Not change config scenario_file = room.txt
+Tue Dec 10 15:55:16 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 15:55:16 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[65]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 15:55:16 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 15:55:16 JST 2019:StateHandler[66]/handling -> Load room.txt
+Tue Dec 10 15:55:19 JST 2019:MemoryManager[142]/Read -> read memory: newnews = false
+Tue Dec 10 15:55:19 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 15:55:19 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 15:55:19 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 15:55:19 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 15:55:19 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 15:55:19 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 15:55:19 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 15:55:19 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 15:55:19 JST 2019:MemoryManager[260]/Contain -> Not Contained!: true at newnews in long_memory.txt
+Tue Dec 10 15:55:20 JST 2019:MemoryManager[255]/Contain -> Contained!: 2019 at year in long_memory.txt
+Tue Dec 10 15:55:20 JST 2019:MemoryManager[255]/Contain -> Contained!: 12 at month in long_memory.txt
+Tue Dec 10 15:55:20 JST 2019:MemoryManager[255]/Contain -> Contained!: 10 at day in long_memory.txt
+Tue Dec 10 15:55:20 JST 2019:MemoryManager[255]/Contain -> Contained!: 3 at day_of_week in long_memory.txt
+Tue Dec 10 15:55:20 JST 2019:MemoryManager[255]/Contain -> Contained!: 15 at hour in long_memory.txt
+Tue Dec 10 15:55:30 JST 2019:StateHandler[80]/handling -> received: 4doc (current state: start )
+Tue Dec 10 15:55:30 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 15:55:30 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 15:55:30 JST 2019:StateHandler[172]/handling -> Read transition: start:4doc:start:4doc:na
+Tue Dec 10 15:56:05 JST 2019:StateHandler[80]/handling -> received: clear (current state: start )
+Tue Dec 10 15:56:05 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 15:56:05 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 15:56:05 JST 2019:StateHandler[172]/handling -> Read transition: start:clear:start:clear:na
+Tue Dec 10 15:56:05 JST 2019:StateHandler[80]/handling -> received: shizuku (current state: start )
+Tue Dec 10 15:56:05 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 15:56:05 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 15:56:05 JST 2019:StateHandler[172]/handling -> Read transition: start:shizuku:start:shizuku:na
+Tue Dec 10 15:56:20 JST 2019:ScenarioUpdater[55]/update -> Scenario Update
+Tue Dec 10 15:56:20 JST 2019:MemoryManager[142]/Read -> read memory: newnews = false
+Tue Dec 10 15:56:20 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 15:56:20 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 15:56:20 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 15:56:20 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 15:56:20 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 15:56:20 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 15:56:20 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 15:56:20 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 15:56:20 JST 2019:MemoryManager[260]/Contain -> Not Contained!: true at newnews in long_memory.txt
+Tue Dec 10 15:56:20 JST 2019:MemoryManager[255]/Contain -> Contained!: 2019 at year in long_memory.txt
+Tue Dec 10 15:56:20 JST 2019:MemoryManager[255]/Contain -> Contained!: 12 at month in long_memory.txt
+Tue Dec 10 15:56:20 JST 2019:MemoryManager[255]/Contain -> Contained!: 10 at day in long_memory.txt
+Tue Dec 10 15:56:20 JST 2019:MemoryManager[255]/Contain -> Contained!: 3 at day_of_week in long_memory.txt
+Tue Dec 10 15:56:20 JST 2019:MemoryManager[255]/Contain -> Contained!: 15 at hour in long_memory.txt
+Tue Dec 10 15:56:40 JST 2019:StateHandler[80]/handling -> received: clear (current state: start )
+Tue Dec 10 15:56:40 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 15:56:40 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 15:56:40 JST 2019:StateHandler[172]/handling -> Read transition: start:clear:start:clear:na
+Tue Dec 10 15:56:40 JST 2019:StateHandler[80]/handling -> received: nega_long (current state: start )
+Tue Dec 10 15:56:40 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 15:56:40 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 15:56:40 JST 2019:StateHandler[172]/handling -> Read transition: start:nega_long:start:nega_long:na
+Tue Dec 10 15:57:06 JST 2019:StateHandler[80]/handling -> received: clear (current state: start )
+Tue Dec 10 15:57:06 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 15:57:06 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 15:57:06 JST 2019:StateHandler[172]/handling -> Read transition: start:clear:start:clear:na
+Tue Dec 10 15:57:06 JST 2019:StateHandler[80]/handling -> received: kanren (current state: start )
+Tue Dec 10 15:57:06 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 15:57:06 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 15:57:06 JST 2019:StateHandler[172]/handling -> Read transition: start:kanren:start:kanren:na
+Tue Dec 10 15:57:20 JST 2019:ScenarioUpdater[55]/update -> Scenario Update
+Tue Dec 10 15:57:20 JST 2019:MemoryManager[142]/Read -> read memory: newnews = false
+Tue Dec 10 15:57:20 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 15:57:20 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 15:57:20 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 15:57:20 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 15:57:20 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 15:57:20 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 15:57:20 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 15:57:20 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 15:57:20 JST 2019:MemoryManager[260]/Contain -> Not Contained!: true at newnews in long_memory.txt
+Tue Dec 10 15:57:20 JST 2019:MemoryManager[255]/Contain -> Contained!: 2019 at year in long_memory.txt
+Tue Dec 10 15:57:20 JST 2019:MemoryManager[255]/Contain -> Contained!: 12 at month in long_memory.txt
+Tue Dec 10 15:57:20 JST 2019:MemoryManager[255]/Contain -> Contained!: 10 at day in long_memory.txt
+Tue Dec 10 15:57:20 JST 2019:MemoryManager[255]/Contain -> Contained!: 3 at day_of_week in long_memory.txt
+Tue Dec 10 15:57:20 JST 2019:MemoryManager[255]/Contain -> Contained!: 15 at hour in long_memory.txt
+Tue Dec 10 15:57:53 JST 2019:StateHandler[80]/handling -> received: shizuku (current state: start )
+Tue Dec 10 15:57:53 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 15:57:53 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 15:57:53 JST 2019:StateHandler[172]/handling -> Read transition: start:shizuku:start:shizuku:na
+Tue Dec 10 15:58:17 JST 2019:StateHandler[80]/handling -> received: clear (current state: start )
+Tue Dec 10 15:58:17 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 15:58:17 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 15:58:17 JST 2019:StateHandler[172]/handling -> Read transition: start:clear:start:clear:na
+Tue Dec 10 15:58:17 JST 2019:StateHandler[80]/handling -> received: kanren (current state: start )
+Tue Dec 10 15:58:17 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 15:58:17 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 15:58:17 JST 2019:StateHandler[172]/handling -> Read transition: start:kanren:start:kanren:na
+Tue Dec 10 15:58:20 JST 2019:ScenarioUpdater[55]/update -> Scenario Update
+Tue Dec 10 15:58:20 JST 2019:MemoryManager[142]/Read -> read memory: newnews = false
+Tue Dec 10 15:58:20 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 15:58:20 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 15:58:20 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 15:58:20 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 15:58:20 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 15:58:20 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 15:58:20 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 15:58:20 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 15:58:20 JST 2019:MemoryManager[260]/Contain -> Not Contained!: true at newnews in long_memory.txt
+Tue Dec 10 15:58:21 JST 2019:MemoryManager[255]/Contain -> Contained!: 2019 at year in long_memory.txt
+Tue Dec 10 15:58:21 JST 2019:MemoryManager[255]/Contain -> Contained!: 12 at month in long_memory.txt
+Tue Dec 10 15:58:21 JST 2019:MemoryManager[255]/Contain -> Contained!: 10 at day in long_memory.txt
+Tue Dec 10 15:58:21 JST 2019:MemoryManager[255]/Contain -> Contained!: 3 at day_of_week in long_memory.txt
+Tue Dec 10 15:58:21 JST 2019:MemoryManager[255]/Contain -> Contained!: 15 at hour in long_memory.txt
+Tue Dec 10 15:58:43 JST 2019:StateHandler[80]/handling -> received: clear (current state: start )
+Tue Dec 10 15:58:43 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 15:58:43 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 15:58:43 JST 2019:StateHandler[172]/handling -> Read transition: start:clear:start:clear:na
+Tue Dec 10 15:58:43 JST 2019:StateHandler[80]/handling -> received: kanren (current state: start )
+Tue Dec 10 15:58:43 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 15:58:43 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 15:58:43 JST 2019:StateHandler[172]/handling -> Read transition: start:kanren:start:kanren:na
+Tue Dec 10 15:58:52 JST 2019:StateHandler[80]/handling -> received: rubi (current state: start )
+Tue Dec 10 15:58:52 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 15:58:52 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 15:58:52 JST 2019:StateHandler[172]/handling -> Read transition: start:rubi:start:rubi:na
+Tue Dec 10 15:59:14 JST 2019:StateHandler[80]/handling -> received: clear (current state: start )
+Tue Dec 10 15:59:14 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 15:59:14 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 15:59:14 JST 2019:StateHandler[172]/handling -> Read transition: start:clear:start:clear:na
+Tue Dec 10 15:59:14 JST 2019:StateHandler[80]/handling -> received: kanren (current state: start )
+Tue Dec 10 15:59:14 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 15:59:14 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 15:59:14 JST 2019:StateHandler[172]/handling -> Read transition: start:kanren:start:kanren:na
+Tue Dec 10 15:59:21 JST 2019:ScenarioUpdater[55]/update -> Scenario Update
+Tue Dec 10 15:59:21 JST 2019:MemoryManager[142]/Read -> read memory: newnews = false
+Tue Dec 10 15:59:21 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 15:59:21 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 15:59:21 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 15:59:21 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 15:59:21 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 15:59:21 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 15:59:21 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 15:59:21 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 15:59:21 JST 2019:MemoryManager[260]/Contain -> Not Contained!: true at newnews in long_memory.txt
+Tue Dec 10 15:59:21 JST 2019:MemoryManager[255]/Contain -> Contained!: 2019 at year in long_memory.txt
+Tue Dec 10 15:59:21 JST 2019:MemoryManager[255]/Contain -> Contained!: 12 at month in long_memory.txt
+Tue Dec 10 15:59:21 JST 2019:MemoryManager[255]/Contain -> Contained!: 10 at day in long_memory.txt
+Tue Dec 10 15:59:21 JST 2019:MemoryManager[255]/Contain -> Contained!: 3 at day_of_week in long_memory.txt
+Tue Dec 10 15:59:21 JST 2019:MemoryManager[255]/Contain -> Contained!: 15 at hour in long_memory.txt
+Tue Dec 10 15:59:48 JST 2019:StateHandler[80]/handling -> received: gold (current state: start )
+Tue Dec 10 15:59:48 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 15:59:48 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 15:59:48 JST 2019:StateHandler[172]/handling -> Read transition: start:gold:start:gold:na
+Tue Dec 10 16:00:21 JST 2019:ScenarioUpdater[55]/update -> Scenario Update
+Tue Dec 10 16:00:21 JST 2019:MemoryManager[142]/Read -> read memory: newnews = false
+Tue Dec 10 16:00:21 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:00:21 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:00:21 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:00:21 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:00:21 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:00:21 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:00:21 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:00:21 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:00:21 JST 2019:MemoryManager[260]/Contain -> Not Contained!: true at newnews in long_memory.txt
+Tue Dec 10 16:00:21 JST 2019:MemoryManager[255]/Contain -> Contained!: 2019 at year in long_memory.txt
+Tue Dec 10 16:00:21 JST 2019:MemoryManager[255]/Contain -> Contained!: 12 at month in long_memory.txt
+Tue Dec 10 16:00:21 JST 2019:MemoryManager[255]/Contain -> Contained!: 10 at day in long_memory.txt
+Tue Dec 10 16:00:21 JST 2019:MemoryManager[255]/Contain -> Contained!: 3 at day_of_week in long_memory.txt
+Tue Dec 10 16:00:21 JST 2019:MemoryManager[260]/Contain -> Not Contained!: 16 at hour in long_memory.txt
+Tue Dec 10 16:00:21 JST 2019:MemoryManager[181]/Clear -> clear memory: hour = 15
+Tue Dec 10 16:00:21 JST 2019:MemoryManager[94]/Add -> add new memory: hour += 16 in long_memory.txt
+Tue Dec 10 16:00:22 JST 2019:StateHandler[80]/handling -> received: clear (current state: start )
+Tue Dec 10 16:00:22 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:00:22 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:00:22 JST 2019:StateHandler[172]/handling -> Read transition: start:clear:start:clear:na
+Tue Dec 10 16:00:22 JST 2019:StateHandler[80]/handling -> received: kanren (current state: start )
+Tue Dec 10 16:00:22 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:00:22 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:00:22 JST 2019:StateHandler[172]/handling -> Read transition: start:kanren:start:kanren:na
+Tue Dec 10 16:00:39 JST 2019:StateHandler[80]/handling -> received: heart (current state: start )
+Tue Dec 10 16:00:39 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:00:39 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:00:39 JST 2019:StateHandler[172]/handling -> Read transition: start:heart:start:heart:na
+Tue Dec 10 16:00:45 JST 2019:StateHandler[80]/handling -> received: clear (current state: start )
+Tue Dec 10 16:00:45 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:00:45 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:00:45 JST 2019:StateHandler[172]/handling -> Read transition: start:clear:start:clear:na
+Tue Dec 10 16:00:45 JST 2019:StateHandler[80]/handling -> received: good (current state: start )
+Tue Dec 10 16:00:45 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:00:45 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:00:45 JST 2019:StateHandler[172]/handling -> Read transition: start:good:start:good:na
+Tue Dec 10 16:01:11 JST 2019:StateHandler[80]/handling -> received: clear (current state: start )
+Tue Dec 10 16:01:11 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:01:11 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:01:11 JST 2019:StateHandler[172]/handling -> Read transition: start:clear:start:clear:na
+Tue Dec 10 16:01:11 JST 2019:StateHandler[80]/handling -> received: 10 (current state: start )
+Tue Dec 10 16:01:11 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:01:11 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:01:11 JST 2019:StateHandler[172]/handling -> Read transition: start:10:start:10:na
+Tue Dec 10 16:01:21 JST 2019:ScenarioUpdater[55]/update -> Scenario Update
+Tue Dec 10 16:01:21 JST 2019:MemoryManager[142]/Read -> read memory: newnews = false
+Tue Dec 10 16:01:21 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:01:21 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:01:21 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:01:21 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:01:21 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:01:21 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:01:21 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:01:21 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:01:21 JST 2019:MemoryManager[260]/Contain -> Not Contained!: true at newnews in long_memory.txt
+Tue Dec 10 16:01:22 JST 2019:MemoryManager[255]/Contain -> Contained!: 2019 at year in long_memory.txt
+Tue Dec 10 16:01:22 JST 2019:MemoryManager[255]/Contain -> Contained!: 12 at month in long_memory.txt
+Tue Dec 10 16:01:22 JST 2019:MemoryManager[255]/Contain -> Contained!: 10 at day in long_memory.txt
+Tue Dec 10 16:01:22 JST 2019:MemoryManager[255]/Contain -> Contained!: 3 at day_of_week in long_memory.txt
+Tue Dec 10 16:01:22 JST 2019:MemoryManager[255]/Contain -> Contained!: 16 at hour in long_memory.txt
+Tue Dec 10 16:01:37 JST 2019:StateHandler[80]/handling -> received: clear (current state: start )
+Tue Dec 10 16:01:37 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:01:37 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:01:37 JST 2019:StateHandler[172]/handling -> Read transition: start:clear:start:clear:na
+Tue Dec 10 16:01:37 JST 2019:StateHandler[80]/handling -> received: 8 (current state: start )
+Tue Dec 10 16:01:37 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:01:37 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:01:37 JST 2019:StateHandler[172]/handling -> Read transition: start:8:start:8:na
+Tue Dec 10 16:02:22 JST 2019:ScenarioUpdater[55]/update -> Scenario Update
+Tue Dec 10 16:02:22 JST 2019:ScenarioUpdater[186]/makeActivity_news -> Make New File : C:\Users\Frontier-is\Desktop\StateHandler_java-master\activities\news201912108.txt
+Tue Dec 10 16:02:22 JST 2019:MemoryManager[142]/Read -> read memory: newnews = false
+Tue Dec 10 16:02:22 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:02:22 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:02:22 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:02:22 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:02:22 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:02:22 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:02:22 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:02:22 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:02:22 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:02:22 JST 2019:MemoryManager[260]/Contain -> Not Contained!: true at newnews in long_memory.txt
+Tue Dec 10 16:02:22 JST 2019:MemoryManager[255]/Contain -> Contained!: 2019 at year in long_memory.txt
+Tue Dec 10 16:02:22 JST 2019:MemoryManager[255]/Contain -> Contained!: 12 at month in long_memory.txt
+Tue Dec 10 16:02:22 JST 2019:MemoryManager[255]/Contain -> Contained!: 10 at day in long_memory.txt
+Tue Dec 10 16:02:22 JST 2019:MemoryManager[255]/Contain -> Contained!: 3 at day_of_week in long_memory.txt
+Tue Dec 10 16:02:22 JST 2019:MemoryManager[255]/Contain -> Contained!: 16 at hour in long_memory.txt
+Tue Dec 10 16:02:37 JST 2019:StateHandler[80]/handling -> received: clear (current state: start )
+Tue Dec 10 16:02:37 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:02:37 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:02:37 JST 2019:StateHandler[172]/handling -> Read transition: start:clear:start:clear:na
+Tue Dec 10 16:02:37 JST 2019:StateHandler[80]/handling -> received: good (current state: start )
+Tue Dec 10 16:02:37 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:02:37 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:02:37 JST 2019:StateHandler[172]/handling -> Read transition: start:good:start:good:na
+Tue Dec 10 16:03:06 JST 2019:StateHandler[80]/handling -> received: clear (current state: start )
+Tue Dec 10 16:03:06 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:03:06 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:03:06 JST 2019:StateHandler[172]/handling -> Read transition: start:clear:start:clear:na
+Tue Dec 10 16:03:06 JST 2019:StateHandler[80]/handling -> received: good (current state: start )
+Tue Dec 10 16:03:06 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:03:06 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:03:06 JST 2019:StateHandler[172]/handling -> Read transition: start:good:start:good:na
+Tue Dec 10 16:03:22 JST 2019:ScenarioUpdater[55]/update -> Scenario Update
+Tue Dec 10 16:03:22 JST 2019:MemoryManager[142]/Read -> read memory: newnews = false
+Tue Dec 10 16:03:22 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:03:22 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:03:22 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:03:22 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:03:22 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:03:22 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:03:22 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:03:22 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:03:22 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:03:22 JST 2019:MemoryManager[260]/Contain -> Not Contained!: true at newnews in long_memory.txt
+Tue Dec 10 16:03:22 JST 2019:MemoryManager[255]/Contain -> Contained!: 2019 at year in long_memory.txt
+Tue Dec 10 16:03:22 JST 2019:MemoryManager[255]/Contain -> Contained!: 12 at month in long_memory.txt
+Tue Dec 10 16:03:22 JST 2019:MemoryManager[255]/Contain -> Contained!: 10 at day in long_memory.txt
+Tue Dec 10 16:03:22 JST 2019:MemoryManager[255]/Contain -> Contained!: 3 at day_of_week in long_memory.txt
+Tue Dec 10 16:03:22 JST 2019:MemoryManager[255]/Contain -> Contained!: 16 at hour in long_memory.txt
+Tue Dec 10 16:03:39 JST 2019:StateHandler[80]/handling -> received: clear (current state: start )
+Tue Dec 10 16:03:39 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:03:39 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:03:39 JST 2019:StateHandler[172]/handling -> Read transition: start:clear:start:clear:na
+Tue Dec 10 16:03:39 JST 2019:StateHandler[80]/handling -> received: good (current state: start )
+Tue Dec 10 16:03:39 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:03:39 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:03:39 JST 2019:StateHandler[172]/handling -> Read transition: start:good:start:good:na
+Tue Dec 10 16:04:22 JST 2019:ScenarioUpdater[55]/update -> Scenario Update
+Tue Dec 10 16:04:22 JST 2019:MemoryManager[142]/Read -> read memory: newnews = false
+Tue Dec 10 16:04:22 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:04:22 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:04:22 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:04:22 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:04:22 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:04:22 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:04:22 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:04:22 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:04:22 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:04:22 JST 2019:MemoryManager[260]/Contain -> Not Contained!: true at newnews in long_memory.txt
+Tue Dec 10 16:04:23 JST 2019:MemoryManager[255]/Contain -> Contained!: 2019 at year in long_memory.txt
+Tue Dec 10 16:04:23 JST 2019:MemoryManager[255]/Contain -> Contained!: 12 at month in long_memory.txt
+Tue Dec 10 16:04:23 JST 2019:MemoryManager[255]/Contain -> Contained!: 10 at day in long_memory.txt
+Tue Dec 10 16:04:23 JST 2019:MemoryManager[255]/Contain -> Contained!: 3 at day_of_week in long_memory.txt
+Tue Dec 10 16:04:23 JST 2019:MemoryManager[255]/Contain -> Contained!: 16 at hour in long_memory.txt
+Tue Dec 10 16:04:33 JST 2019:StateHandler[80]/handling -> received: clear (current state: start )
+Tue Dec 10 16:04:33 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:04:33 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:04:33 JST 2019:StateHandler[172]/handling -> Read transition: start:clear:start:clear:na
+Tue Dec 10 16:04:33 JST 2019:StateHandler[80]/handling -> received: 5 (current state: start )
+Tue Dec 10 16:04:33 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:04:33 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:04:33 JST 2019:StateHandler[172]/handling -> Read transition: start:5:start:5:na
+Tue Dec 10 16:05:23 JST 2019:ScenarioUpdater[55]/update -> Scenario Update
+Tue Dec 10 16:05:23 JST 2019:MemoryManager[142]/Read -> read memory: newnews = false
+Tue Dec 10 16:05:23 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:05:23 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:05:23 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:05:23 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:05:23 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:05:23 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:05:23 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:05:23 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:05:23 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:05:23 JST 2019:MemoryManager[260]/Contain -> Not Contained!: true at newnews in long_memory.txt
+Tue Dec 10 16:05:23 JST 2019:MemoryManager[255]/Contain -> Contained!: 2019 at year in long_memory.txt
+Tue Dec 10 16:05:23 JST 2019:MemoryManager[255]/Contain -> Contained!: 12 at month in long_memory.txt
+Tue Dec 10 16:05:23 JST 2019:MemoryManager[255]/Contain -> Contained!: 10 at day in long_memory.txt
+Tue Dec 10 16:05:23 JST 2019:MemoryManager[255]/Contain -> Contained!: 3 at day_of_week in long_memory.txt
+Tue Dec 10 16:05:23 JST 2019:MemoryManager[255]/Contain -> Contained!: 16 at hour in long_memory.txt
+Tue Dec 10 16:06:23 JST 2019:ScenarioUpdater[55]/update -> Scenario Update
+Tue Dec 10 16:06:23 JST 2019:MemoryManager[142]/Read -> read memory: newnews = false
+Tue Dec 10 16:06:23 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:06:23 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:06:23 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:06:23 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:06:23 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:06:23 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:06:23 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:06:23 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:06:23 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:06:23 JST 2019:MemoryManager[260]/Contain -> Not Contained!: true at newnews in long_memory.txt
+Tue Dec 10 16:06:23 JST 2019:MemoryManager[255]/Contain -> Contained!: 2019 at year in long_memory.txt
+Tue Dec 10 16:06:23 JST 2019:MemoryManager[255]/Contain -> Contained!: 12 at month in long_memory.txt
+Tue Dec 10 16:06:23 JST 2019:MemoryManager[255]/Contain -> Contained!: 10 at day in long_memory.txt
+Tue Dec 10 16:06:23 JST 2019:MemoryManager[255]/Contain -> Contained!: 3 at day_of_week in long_memory.txt
+Tue Dec 10 16:06:23 JST 2019:MemoryManager[255]/Contain -> Contained!: 16 at hour in long_memory.txt
+Tue Dec 10 16:07:23 JST 2019:ScenarioUpdater[55]/update -> Scenario Update
+Tue Dec 10 16:07:23 JST 2019:MemoryManager[142]/Read -> read memory: newnews = false
+Tue Dec 10 16:07:23 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:07:23 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:07:23 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:07:23 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:07:23 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:07:23 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:07:23 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:07:23 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:07:23 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:07:23 JST 2019:MemoryManager[260]/Contain -> Not Contained!: true at newnews in long_memory.txt
+Tue Dec 10 16:07:23 JST 2019:MemoryManager[255]/Contain -> Contained!: 2019 at year in long_memory.txt
+Tue Dec 10 16:07:24 JST 2019:MemoryManager[255]/Contain -> Contained!: 12 at month in long_memory.txt
+Tue Dec 10 16:07:24 JST 2019:MemoryManager[255]/Contain -> Contained!: 10 at day in long_memory.txt
+Tue Dec 10 16:07:24 JST 2019:MemoryManager[255]/Contain -> Contained!: 3 at day_of_week in long_memory.txt
+Tue Dec 10 16:07:24 JST 2019:MemoryManager[255]/Contain -> Contained!: 16 at hour in long_memory.txt
+Tue Dec 10 16:08:24 JST 2019:ScenarioUpdater[55]/update -> Scenario Update
+Tue Dec 10 16:08:24 JST 2019:MemoryManager[142]/Read -> read memory: newnews = false
+Tue Dec 10 16:08:24 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:08:24 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:08:24 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:08:24 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:08:24 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:08:24 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:08:24 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:08:24 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:08:24 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:08:24 JST 2019:MemoryManager[260]/Contain -> Not Contained!: true at newnews in long_memory.txt
+Tue Dec 10 16:08:24 JST 2019:MemoryManager[255]/Contain -> Contained!: 2019 at year in long_memory.txt
+Tue Dec 10 16:08:24 JST 2019:MemoryManager[255]/Contain -> Contained!: 12 at month in long_memory.txt
+Tue Dec 10 16:08:24 JST 2019:MemoryManager[255]/Contain -> Contained!: 10 at day in long_memory.txt
+Tue Dec 10 16:08:24 JST 2019:MemoryManager[255]/Contain -> Contained!: 3 at day_of_week in long_memory.txt
+Tue Dec 10 16:08:24 JST 2019:MemoryManager[255]/Contain -> Contained!: 16 at hour in long_memory.txt
+Tue Dec 10 16:09:24 JST 2019:ScenarioUpdater[55]/update -> Scenario Update
+Tue Dec 10 16:09:24 JST 2019:MemoryManager[142]/Read -> read memory: newnews = false
+Tue Dec 10 16:09:24 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:09:24 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:09:24 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:09:24 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:09:24 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:09:24 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:09:24 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:09:24 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:09:24 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:09:24 JST 2019:MemoryManager[260]/Contain -> Not Contained!: true at newnews in long_memory.txt
+Tue Dec 10 16:09:24 JST 2019:MemoryManager[255]/Contain -> Contained!: 2019 at year in long_memory.txt
+Tue Dec 10 16:09:24 JST 2019:MemoryManager[255]/Contain -> Contained!: 12 at month in long_memory.txt
+Tue Dec 10 16:09:24 JST 2019:MemoryManager[255]/Contain -> Contained!: 10 at day in long_memory.txt
+Tue Dec 10 16:09:24 JST 2019:MemoryManager[255]/Contain -> Contained!: 3 at day_of_week in long_memory.txt
+Tue Dec 10 16:09:24 JST 2019:MemoryManager[255]/Contain -> Contained!: 16 at hour in long_memory.txt
+Tue Dec 10 16:10:00 JST 2019:StateHandler[80]/handling -> received: 4doc (current state: start )
+Tue Dec 10 16:10:00 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:10:00 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:10:00 JST 2019:StateHandler[172]/handling -> Read transition: start:4doc:start:4doc:na
+Tue Dec 10 16:10:24 JST 2019:ScenarioUpdater[55]/update -> Scenario Update
+Tue Dec 10 16:10:24 JST 2019:MemoryManager[142]/Read -> read memory: newnews = false
+Tue Dec 10 16:10:24 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:10:24 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:10:24 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:10:24 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:10:24 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:10:24 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:10:24 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:10:24 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:10:24 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:10:24 JST 2019:MemoryManager[260]/Contain -> Not Contained!: true at newnews in long_memory.txt
+Tue Dec 10 16:10:24 JST 2019:MemoryManager[255]/Contain -> Contained!: 2019 at year in long_memory.txt
+Tue Dec 10 16:10:24 JST 2019:MemoryManager[255]/Contain -> Contained!: 12 at month in long_memory.txt
+Tue Dec 10 16:10:24 JST 2019:MemoryManager[255]/Contain -> Contained!: 10 at day in long_memory.txt
+Tue Dec 10 16:10:24 JST 2019:MemoryManager[255]/Contain -> Contained!: 3 at day_of_week in long_memory.txt
+Tue Dec 10 16:10:24 JST 2019:MemoryManager[255]/Contain -> Contained!: 16 at hour in long_memory.txt
+Tue Dec 10 16:10:35 JST 2019:StateHandler[80]/handling -> received: clear (current state: start )
+Tue Dec 10 16:10:35 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:10:35 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:10:35 JST 2019:StateHandler[172]/handling -> Read transition: start:clear:start:clear:na
+Tue Dec 10 16:10:35 JST 2019:StateHandler[80]/handling -> received: gold (current state: start )
+Tue Dec 10 16:10:35 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:10:35 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:10:35 JST 2019:StateHandler[172]/handling -> Read transition: start:gold:start:gold:na
+Tue Dec 10 16:11:01 JST 2019:StateHandler[80]/handling -> received: clear (current state: start )
+Tue Dec 10 16:11:01 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:11:01 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:11:02 JST 2019:StateHandler[172]/handling -> Read transition: start:clear:start:clear:na
+Tue Dec 10 16:11:02 JST 2019:StateHandler[80]/handling -> received: kanren (current state: start )
+Tue Dec 10 16:11:02 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:11:02 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:11:02 JST 2019:StateHandler[172]/handling -> Read transition: start:kanren:start:kanren:na
+Tue Dec 10 16:11:24 JST 2019:ScenarioUpdater[55]/update -> Scenario Update
+Tue Dec 10 16:11:24 JST 2019:MemoryManager[142]/Read -> read memory: newnews = false
+Tue Dec 10 16:11:24 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:11:24 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:11:24 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:11:24 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:11:24 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:11:24 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:11:24 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:11:24 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:11:24 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:11:24 JST 2019:MemoryManager[260]/Contain -> Not Contained!: true at newnews in long_memory.txt
+Tue Dec 10 16:11:25 JST 2019:MemoryManager[255]/Contain -> Contained!: 2019 at year in long_memory.txt
+Tue Dec 10 16:11:25 JST 2019:MemoryManager[255]/Contain -> Contained!: 12 at month in long_memory.txt
+Tue Dec 10 16:11:25 JST 2019:MemoryManager[255]/Contain -> Contained!: 10 at day in long_memory.txt
+Tue Dec 10 16:11:25 JST 2019:MemoryManager[255]/Contain -> Contained!: 3 at day_of_week in long_memory.txt
+Tue Dec 10 16:11:25 JST 2019:MemoryManager[255]/Contain -> Contained!: 16 at hour in long_memory.txt
+Tue Dec 10 16:11:29 JST 2019:StateHandler[80]/handling -> received: gold (current state: start )
+Tue Dec 10 16:11:29 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:11:29 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:11:29 JST 2019:StateHandler[172]/handling -> Read transition: start:gold:start:gold:na
+Tue Dec 10 16:12:04 JST 2019:StateHandler[80]/handling -> received: clear (current state: start )
+Tue Dec 10 16:12:04 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:12:04 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:12:04 JST 2019:StateHandler[172]/handling -> Read transition: start:clear:start:clear:na
+Tue Dec 10 16:12:04 JST 2019:StateHandler[80]/handling -> received: nega_long (current state: start )
+Tue Dec 10 16:12:04 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:12:04 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:12:04 JST 2019:StateHandler[172]/handling -> Read transition: start:nega_long:start:nega_long:na
+Tue Dec 10 16:12:25 JST 2019:ScenarioUpdater[55]/update -> Scenario Update
+Tue Dec 10 16:12:25 JST 2019:MemoryManager[142]/Read -> read memory: newnews = false
+Tue Dec 10 16:12:25 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:12:25 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:12:25 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:12:25 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:12:25 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:12:25 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:12:25 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:12:25 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:12:25 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:12:25 JST 2019:MemoryManager[260]/Contain -> Not Contained!: true at newnews in long_memory.txt
+Tue Dec 10 16:12:25 JST 2019:MemoryManager[255]/Contain -> Contained!: 2019 at year in long_memory.txt
+Tue Dec 10 16:12:25 JST 2019:MemoryManager[255]/Contain -> Contained!: 12 at month in long_memory.txt
+Tue Dec 10 16:12:25 JST 2019:MemoryManager[255]/Contain -> Contained!: 10 at day in long_memory.txt
+Tue Dec 10 16:12:25 JST 2019:MemoryManager[255]/Contain -> Contained!: 3 at day_of_week in long_memory.txt
+Tue Dec 10 16:12:25 JST 2019:MemoryManager[255]/Contain -> Contained!: 16 at hour in long_memory.txt
+Tue Dec 10 16:12:43 JST 2019:StateHandler[80]/handling -> received: paru (current state: start )
+Tue Dec 10 16:12:43 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:12:43 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:12:43 JST 2019:StateHandler[172]/handling -> Read transition: start:paru:start:paru:na
+Tue Dec 10 16:12:49 JST 2019:StateHandler[80]/handling -> received: clear (current state: start )
+Tue Dec 10 16:12:49 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:12:49 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:12:49 JST 2019:StateHandler[172]/handling -> Read transition: start:clear:start:clear:na
+Tue Dec 10 16:12:49 JST 2019:StateHandler[80]/handling -> received: kanren (current state: start )
+Tue Dec 10 16:12:49 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:12:49 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:12:49 JST 2019:StateHandler[172]/handling -> Read transition: start:kanren:start:kanren:na
+Tue Dec 10 16:13:14 JST 2019:StateHandler[80]/handling -> received: silver (current state: start )
+Tue Dec 10 16:13:14 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:13:14 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:13:14 JST 2019:StateHandler[172]/handling -> Read transition: start:silver:start:silver:na
+Tue Dec 10 16:13:25 JST 2019:ScenarioUpdater[55]/update -> Scenario Update
+Tue Dec 10 16:13:25 JST 2019:ScenarioUpdater[186]/makeActivity_news -> Make New File : C:\Users\Frontier-is\Desktop\StateHandler_java-master\activities\news201912109.txt
+Tue Dec 10 16:13:25 JST 2019:MemoryManager[142]/Read -> read memory: newnews = false
+Tue Dec 10 16:13:25 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:13:25 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:13:25 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:13:25 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:13:25 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:13:25 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:13:25 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:13:25 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:13:25 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:13:25 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:13:25 JST 2019:MemoryManager[260]/Contain -> Not Contained!: true at newnews in long_memory.txt
+Tue Dec 10 16:13:25 JST 2019:MemoryManager[255]/Contain -> Contained!: 2019 at year in long_memory.txt
+Tue Dec 10 16:13:25 JST 2019:MemoryManager[255]/Contain -> Contained!: 12 at month in long_memory.txt
+Tue Dec 10 16:13:25 JST 2019:MemoryManager[255]/Contain -> Contained!: 10 at day in long_memory.txt
+Tue Dec 10 16:13:25 JST 2019:MemoryManager[255]/Contain -> Contained!: 3 at day_of_week in long_memory.txt
+Tue Dec 10 16:13:25 JST 2019:MemoryManager[255]/Contain -> Contained!: 16 at hour in long_memory.txt
+Tue Dec 10 16:13:39 JST 2019:StateHandler[80]/handling -> received: clear (current state: start )
+Tue Dec 10 16:13:39 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:13:39 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:13:39 JST 2019:StateHandler[172]/handling -> Read transition: start:clear:start:clear:na
+Tue Dec 10 16:13:39 JST 2019:StateHandler[80]/handling -> received: kanren (current state: start )
+Tue Dec 10 16:13:39 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:13:39 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:13:39 JST 2019:StateHandler[172]/handling -> Read transition: start:kanren:start:kanren:na
+Tue Dec 10 16:14:04 JST 2019:StateHandler[80]/handling -> received: paru (current state: start )
+Tue Dec 10 16:14:04 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:14:04 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:14:04 JST 2019:StateHandler[172]/handling -> Read transition: start:paru:start:paru:na
+Tue Dec 10 16:14:25 JST 2019:ScenarioUpdater[55]/update -> Scenario Update
+Tue Dec 10 16:14:25 JST 2019:MemoryManager[142]/Read -> read memory: newnews = false
+Tue Dec 10 16:14:25 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:14:25 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:14:25 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:14:25 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:14:25 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:14:25 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:14:25 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:14:25 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:14:25 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:14:25 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:14:25 JST 2019:MemoryManager[260]/Contain -> Not Contained!: true at newnews in long_memory.txt
+Tue Dec 10 16:14:25 JST 2019:MemoryManager[255]/Contain -> Contained!: 2019 at year in long_memory.txt
+Tue Dec 10 16:14:25 JST 2019:MemoryManager[255]/Contain -> Contained!: 12 at month in long_memory.txt
+Tue Dec 10 16:14:25 JST 2019:MemoryManager[255]/Contain -> Contained!: 10 at day in long_memory.txt
+Tue Dec 10 16:14:25 JST 2019:MemoryManager[255]/Contain -> Contained!: 3 at day_of_week in long_memory.txt
+Tue Dec 10 16:14:25 JST 2019:MemoryManager[255]/Contain -> Contained!: 16 at hour in long_memory.txt
+Tue Dec 10 16:14:39 JST 2019:StateHandler[80]/handling -> received: clear (current state: start )
+Tue Dec 10 16:14:39 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:14:39 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:14:39 JST 2019:StateHandler[172]/handling -> Read transition: start:clear:start:clear:na
+Tue Dec 10 16:14:39 JST 2019:StateHandler[80]/handling -> received: nega_long (current state: start )
+Tue Dec 10 16:14:39 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:14:39 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:14:39 JST 2019:StateHandler[172]/handling -> Read transition: start:nega_long:start:nega_long:na
+Tue Dec 10 16:15:05 JST 2019:StateHandler[80]/handling -> received: clear (current state: start )
+Tue Dec 10 16:15:05 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:15:05 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:15:05 JST 2019:StateHandler[172]/handling -> Read transition: start:clear:start:clear:na
+Tue Dec 10 16:15:05 JST 2019:StateHandler[80]/handling -> received: good (current state: start )
+Tue Dec 10 16:15:05 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:15:05 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:15:05 JST 2019:StateHandler[172]/handling -> Read transition: start:good:start:good:na
+Tue Dec 10 16:15:25 JST 2019:ScenarioUpdater[55]/update -> Scenario Update
+Tue Dec 10 16:15:25 JST 2019:ScenarioUpdater[186]/makeActivity_news -> Make New File : C:\Users\Frontier-is\Desktop\StateHandler_java-master\activities\news2019121010.txt
+Tue Dec 10 16:15:25 JST 2019:MemoryManager[142]/Read -> read memory: newnews = false
+Tue Dec 10 16:15:25 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:15:25 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:15:25 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:15:25 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:15:25 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:15:25 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:15:25 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:15:25 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:15:25 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:15:25 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:15:25 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:15:25 JST 2019:MemoryManager[260]/Contain -> Not Contained!: true at newnews in long_memory.txt
+Tue Dec 10 16:15:26 JST 2019:MemoryManager[255]/Contain -> Contained!: 2019 at year in long_memory.txt
+Tue Dec 10 16:15:26 JST 2019:MemoryManager[255]/Contain -> Contained!: 12 at month in long_memory.txt
+Tue Dec 10 16:15:26 JST 2019:MemoryManager[255]/Contain -> Contained!: 10 at day in long_memory.txt
+Tue Dec 10 16:15:26 JST 2019:MemoryManager[255]/Contain -> Contained!: 3 at day_of_week in long_memory.txt
+Tue Dec 10 16:15:26 JST 2019:MemoryManager[255]/Contain -> Contained!: 16 at hour in long_memory.txt
+Tue Dec 10 16:15:31 JST 2019:StateHandler[80]/handling -> received: clear (current state: start )
+Tue Dec 10 16:15:31 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:15:31 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:15:31 JST 2019:StateHandler[172]/handling -> Read transition: start:clear:start:clear:na
+Tue Dec 10 16:15:31 JST 2019:StateHandler[80]/handling -> received: 5 (current state: start )
+Tue Dec 10 16:15:31 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:15:31 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:15:31 JST 2019:StateHandler[172]/handling -> Read transition: start:5:start:5:na
+Tue Dec 10 16:16:26 JST 2019:ScenarioUpdater[55]/update -> Scenario Update
+Tue Dec 10 16:16:26 JST 2019:MemoryManager[142]/Read -> read memory: newnews = false
+Tue Dec 10 16:16:26 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:16:26 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:16:26 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:16:26 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:16:26 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:16:26 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:16:26 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:16:26 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:16:26 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:16:26 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:16:26 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:16:26 JST 2019:MemoryManager[260]/Contain -> Not Contained!: true at newnews in long_memory.txt
+Tue Dec 10 16:16:26 JST 2019:MemoryManager[255]/Contain -> Contained!: 2019 at year in long_memory.txt
+Tue Dec 10 16:16:26 JST 2019:MemoryManager[255]/Contain -> Contained!: 12 at month in long_memory.txt
+Tue Dec 10 16:16:26 JST 2019:MemoryManager[255]/Contain -> Contained!: 10 at day in long_memory.txt
+Tue Dec 10 16:16:26 JST 2019:MemoryManager[255]/Contain -> Contained!: 3 at day_of_week in long_memory.txt
+Tue Dec 10 16:16:26 JST 2019:MemoryManager[255]/Contain -> Contained!: 16 at hour in long_memory.txt
+Tue Dec 10 16:17:26 JST 2019:ScenarioUpdater[55]/update -> Scenario Update
+Tue Dec 10 16:17:26 JST 2019:MemoryManager[142]/Read -> read memory: newnews = false
+Tue Dec 10 16:17:26 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:17:26 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:17:26 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:17:26 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:17:26 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:17:26 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:17:26 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:17:26 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:17:26 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:17:26 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:17:26 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:17:26 JST 2019:MemoryManager[260]/Contain -> Not Contained!: true at newnews in long_memory.txt
+Tue Dec 10 16:17:26 JST 2019:MemoryManager[255]/Contain -> Contained!: 2019 at year in long_memory.txt
+Tue Dec 10 16:17:26 JST 2019:MemoryManager[255]/Contain -> Contained!: 12 at month in long_memory.txt
+Tue Dec 10 16:17:26 JST 2019:MemoryManager[255]/Contain -> Contained!: 10 at day in long_memory.txt
+Tue Dec 10 16:17:26 JST 2019:MemoryManager[255]/Contain -> Contained!: 3 at day_of_week in long_memory.txt
+Tue Dec 10 16:17:26 JST 2019:MemoryManager[255]/Contain -> Contained!: 16 at hour in long_memory.txt
+Tue Dec 10 16:18:26 JST 2019:ScenarioUpdater[55]/update -> Scenario Update
+Tue Dec 10 16:18:26 JST 2019:MemoryManager[142]/Read -> read memory: newnews = false
+Tue Dec 10 16:18:26 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:18:26 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:18:26 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:18:26 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:18:26 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:18:26 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:18:26 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:18:26 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:18:26 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:18:26 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:18:26 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:18:26 JST 2019:MemoryManager[260]/Contain -> Not Contained!: true at newnews in long_memory.txt
+Tue Dec 10 16:18:27 JST 2019:MemoryManager[255]/Contain -> Contained!: 2019 at year in long_memory.txt
+Tue Dec 10 16:18:27 JST 2019:MemoryManager[255]/Contain -> Contained!: 12 at month in long_memory.txt
+Tue Dec 10 16:18:27 JST 2019:MemoryManager[255]/Contain -> Contained!: 10 at day in long_memory.txt
+Tue Dec 10 16:18:27 JST 2019:MemoryManager[255]/Contain -> Contained!: 3 at day_of_week in long_memory.txt
+Tue Dec 10 16:18:27 JST 2019:MemoryManager[255]/Contain -> Contained!: 16 at hour in long_memory.txt
+Tue Dec 10 16:19:27 JST 2019:ScenarioUpdater[55]/update -> Scenario Update
+Tue Dec 10 16:19:27 JST 2019:ScenarioUpdater[186]/makeActivity_news -> Make New File : C:\Users\Frontier-is\Desktop\StateHandler_java-master\activities\news2019121011.txt
+Tue Dec 10 16:19:27 JST 2019:MemoryManager[142]/Read -> read memory: newnews = false
+Tue Dec 10 16:19:27 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:19:27 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:19:27 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:19:27 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:19:27 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:19:27 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:19:27 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:19:27 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:19:27 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:19:27 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:19:27 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:19:27 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:19:27 JST 2019:MemoryManager[260]/Contain -> Not Contained!: true at newnews in long_memory.txt
+Tue Dec 10 16:19:27 JST 2019:MemoryManager[255]/Contain -> Contained!: 2019 at year in long_memory.txt
+Tue Dec 10 16:19:27 JST 2019:MemoryManager[255]/Contain -> Contained!: 12 at month in long_memory.txt
+Tue Dec 10 16:19:27 JST 2019:MemoryManager[255]/Contain -> Contained!: 10 at day in long_memory.txt
+Tue Dec 10 16:19:27 JST 2019:MemoryManager[255]/Contain -> Contained!: 3 at day_of_week in long_memory.txt
+Tue Dec 10 16:19:27 JST 2019:MemoryManager[255]/Contain -> Contained!: 16 at hour in long_memory.txt
+Tue Dec 10 16:20:27 JST 2019:ScenarioUpdater[55]/update -> Scenario Update
+Tue Dec 10 16:20:27 JST 2019:MemoryManager[142]/Read -> read memory: newnews = false
+Tue Dec 10 16:20:27 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:20:27 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:20:27 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:20:27 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:20:27 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:20:27 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:20:27 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:20:27 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:20:27 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:20:27 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:20:27 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:20:27 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:20:27 JST 2019:MemoryManager[260]/Contain -> Not Contained!: true at newnews in long_memory.txt
+Tue Dec 10 16:20:27 JST 2019:MemoryManager[255]/Contain -> Contained!: 2019 at year in long_memory.txt
+Tue Dec 10 16:20:27 JST 2019:MemoryManager[255]/Contain -> Contained!: 12 at month in long_memory.txt
+Tue Dec 10 16:20:27 JST 2019:MemoryManager[255]/Contain -> Contained!: 10 at day in long_memory.txt
+Tue Dec 10 16:20:27 JST 2019:MemoryManager[255]/Contain -> Contained!: 3 at day_of_week in long_memory.txt
+Tue Dec 10 16:20:27 JST 2019:MemoryManager[255]/Contain -> Contained!: 16 at hour in long_memory.txt
+Tue Dec 10 16:21:27 JST 2019:ScenarioUpdater[55]/update -> Scenario Update
+Tue Dec 10 16:21:27 JST 2019:MemoryManager[142]/Read -> read memory: newnews = false
+Tue Dec 10 16:21:27 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:21:27 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:21:27 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:21:27 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:21:27 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:21:27 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:21:27 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:21:27 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:21:27 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:21:27 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:21:27 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:21:27 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:21:27 JST 2019:MemoryManager[260]/Contain -> Not Contained!: true at newnews in long_memory.txt
+Tue Dec 10 16:21:27 JST 2019:MemoryManager[255]/Contain -> Contained!: 2019 at year in long_memory.txt
+Tue Dec 10 16:21:27 JST 2019:MemoryManager[255]/Contain -> Contained!: 12 at month in long_memory.txt
+Tue Dec 10 16:21:27 JST 2019:MemoryManager[255]/Contain -> Contained!: 10 at day in long_memory.txt
+Tue Dec 10 16:21:27 JST 2019:MemoryManager[255]/Contain -> Contained!: 3 at day_of_week in long_memory.txt
+Tue Dec 10 16:21:27 JST 2019:MemoryManager[255]/Contain -> Contained!: 16 at hour in long_memory.txt
+Tue Dec 10 16:22:27 JST 2019:ScenarioUpdater[55]/update -> Scenario Update
+Tue Dec 10 16:22:28 JST 2019:MemoryManager[142]/Read -> read memory: newnews = false
+Tue Dec 10 16:22:28 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:22:28 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:22:28 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:22:28 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:22:28 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:22:28 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:22:28 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:22:28 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:22:28 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:22:28 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:22:28 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:22:28 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:22:28 JST 2019:MemoryManager[260]/Contain -> Not Contained!: true at newnews in long_memory.txt
+Tue Dec 10 16:22:28 JST 2019:MemoryManager[255]/Contain -> Contained!: 2019 at year in long_memory.txt
+Tue Dec 10 16:22:28 JST 2019:MemoryManager[255]/Contain -> Contained!: 12 at month in long_memory.txt
+Tue Dec 10 16:22:28 JST 2019:MemoryManager[255]/Contain -> Contained!: 10 at day in long_memory.txt
+Tue Dec 10 16:22:28 JST 2019:MemoryManager[255]/Contain -> Contained!: 3 at day_of_week in long_memory.txt
+Tue Dec 10 16:22:28 JST 2019:MemoryManager[255]/Contain -> Contained!: 16 at hour in long_memory.txt
+Tue Dec 10 16:23:28 JST 2019:ScenarioUpdater[55]/update -> Scenario Update
+Tue Dec 10 16:23:28 JST 2019:MemoryManager[142]/Read -> read memory: newnews = false
+Tue Dec 10 16:23:28 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:23:28 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:23:28 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:23:28 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:23:28 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:23:28 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:23:28 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:23:28 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:23:28 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:23:28 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:23:28 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:23:28 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:23:28 JST 2019:MemoryManager[260]/Contain -> Not Contained!: true at newnews in long_memory.txt
+Tue Dec 10 16:23:28 JST 2019:MemoryManager[255]/Contain -> Contained!: 2019 at year in long_memory.txt
+Tue Dec 10 16:23:28 JST 2019:MemoryManager[255]/Contain -> Contained!: 12 at month in long_memory.txt
+Tue Dec 10 16:23:28 JST 2019:MemoryManager[255]/Contain -> Contained!: 10 at day in long_memory.txt
+Tue Dec 10 16:23:28 JST 2019:MemoryManager[255]/Contain -> Contained!: 3 at day_of_week in long_memory.txt
+Tue Dec 10 16:23:28 JST 2019:MemoryManager[255]/Contain -> Contained!: 16 at hour in long_memory.txt
+Tue Dec 10 16:23:53 JST 2019:StateHandler[80]/handling -> received: clear (current state: start )
+Tue Dec 10 16:23:53 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:23:53 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:23:53 JST 2019:StateHandler[172]/handling -> Read transition: start:clear:start:clear:na
+Tue Dec 10 16:23:53 JST 2019:StateHandler[80]/handling -> received: kanren (current state: start )
+Tue Dec 10 16:23:53 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:23:53 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:23:53 JST 2019:StateHandler[172]/handling -> Read transition: start:kanren:start:kanren:na
+Tue Dec 10 16:24:16 JST 2019:StateHandler[80]/handling -> received: clear (current state: start )
+Tue Dec 10 16:24:16 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:24:16 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:24:16 JST 2019:StateHandler[172]/handling -> Read transition: start:clear:start:clear:na
+Tue Dec 10 16:24:16 JST 2019:StateHandler[80]/handling -> received: kanren (current state: start )
+Tue Dec 10 16:24:16 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:24:16 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:24:16 JST 2019:StateHandler[172]/handling -> Read transition: start:kanren:start:kanren:na
+Tue Dec 10 16:24:28 JST 2019:ScenarioUpdater[55]/update -> Scenario Update
+Tue Dec 10 16:24:28 JST 2019:MemoryManager[142]/Read -> read memory: newnews = false
+Tue Dec 10 16:24:28 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:24:28 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:24:28 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:24:28 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:24:28 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:24:28 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:24:28 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:24:28 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:24:28 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:24:28 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:24:28 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:24:28 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:24:28 JST 2019:MemoryManager[260]/Contain -> Not Contained!: true at newnews in long_memory.txt
+Tue Dec 10 16:24:28 JST 2019:MemoryManager[255]/Contain -> Contained!: 2019 at year in long_memory.txt
+Tue Dec 10 16:24:28 JST 2019:MemoryManager[255]/Contain -> Contained!: 12 at month in long_memory.txt
+Tue Dec 10 16:24:28 JST 2019:MemoryManager[255]/Contain -> Contained!: 10 at day in long_memory.txt
+Tue Dec 10 16:24:28 JST 2019:MemoryManager[255]/Contain -> Contained!: 3 at day_of_week in long_memory.txt
+Tue Dec 10 16:24:28 JST 2019:MemoryManager[255]/Contain -> Contained!: 16 at hour in long_memory.txt
+Tue Dec 10 16:24:41 JST 2019:StateHandler[80]/handling -> received: clear (current state: start )
+Tue Dec 10 16:24:41 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:24:41 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:24:41 JST 2019:StateHandler[172]/handling -> Read transition: start:clear:start:clear:na
+Tue Dec 10 16:24:41 JST 2019:StateHandler[80]/handling -> received: kanren (current state: start )
+Tue Dec 10 16:24:41 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:24:41 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:24:41 JST 2019:StateHandler[172]/handling -> Read transition: start:kanren:start:kanren:na
+Tue Dec 10 16:25:11 JST 2019:StateHandler[80]/handling -> received: clear (current state: start )
+Tue Dec 10 16:25:11 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:25:11 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:25:11 JST 2019:StateHandler[172]/handling -> Read transition: start:clear:start:clear:na
+Tue Dec 10 16:25:11 JST 2019:StateHandler[80]/handling -> received: kanren (current state: start )
+Tue Dec 10 16:25:11 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:25:11 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:25:11 JST 2019:StateHandler[172]/handling -> Read transition: start:kanren:start:kanren:na
+Tue Dec 10 16:25:19 JST 2019:StateHandler[80]/handling -> received: 4doc (current state: start )
+Tue Dec 10 16:25:19 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:25:19 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:25:19 JST 2019:StateHandler[172]/handling -> Read transition: start:4doc:start:4doc:na
+Tue Dec 10 16:25:28 JST 2019:ScenarioUpdater[55]/update -> Scenario Update
+Tue Dec 10 16:25:28 JST 2019:MemoryManager[142]/Read -> read memory: newnews = false
+Tue Dec 10 16:25:28 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:25:28 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:25:28 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:25:28 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:25:28 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:25:28 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:25:28 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:25:28 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:25:28 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:25:28 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:25:28 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:25:28 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:25:28 JST 2019:MemoryManager[260]/Contain -> Not Contained!: true at newnews in long_memory.txt
+Tue Dec 10 16:25:29 JST 2019:MemoryManager[255]/Contain -> Contained!: 2019 at year in long_memory.txt
+Tue Dec 10 16:25:29 JST 2019:MemoryManager[255]/Contain -> Contained!: 12 at month in long_memory.txt
+Tue Dec 10 16:25:29 JST 2019:MemoryManager[255]/Contain -> Contained!: 10 at day in long_memory.txt
+Tue Dec 10 16:25:29 JST 2019:MemoryManager[255]/Contain -> Contained!: 3 at day_of_week in long_memory.txt
+Tue Dec 10 16:25:29 JST 2019:MemoryManager[255]/Contain -> Contained!: 16 at hour in long_memory.txt
+Tue Dec 10 16:25:36 JST 2019:StateHandler[80]/handling -> received: clear (current state: start )
+Tue Dec 10 16:25:36 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:25:36 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:25:36 JST 2019:StateHandler[172]/handling -> Read transition: start:clear:start:clear:na
+Tue Dec 10 16:25:36 JST 2019:StateHandler[80]/handling -> received: kanren (current state: start )
+Tue Dec 10 16:25:36 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:25:36 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:25:36 JST 2019:StateHandler[172]/handling -> Read transition: start:kanren:start:kanren:na
+Tue Dec 10 16:26:14 JST 2019:StateHandler[80]/handling -> received: shizuku (current state: start )
+Tue Dec 10 16:26:14 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:26:14 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:26:14 JST 2019:StateHandler[172]/handling -> Read transition: start:shizuku:start:shizuku:na
+Tue Dec 10 16:26:29 JST 2019:ScenarioUpdater[55]/update -> Scenario Update
+Tue Dec 10 16:26:29 JST 2019:MemoryManager[142]/Read -> read memory: newnews = false
+Tue Dec 10 16:26:29 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:26:29 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:26:29 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:26:29 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:26:29 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:26:29 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:26:29 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:26:29 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:26:29 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:26:29 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:26:29 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:26:29 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:26:29 JST 2019:MemoryManager[260]/Contain -> Not Contained!: true at newnews in long_memory.txt
+Tue Dec 10 16:26:29 JST 2019:MemoryManager[255]/Contain -> Contained!: 2019 at year in long_memory.txt
+Tue Dec 10 16:26:29 JST 2019:MemoryManager[255]/Contain -> Contained!: 12 at month in long_memory.txt
+Tue Dec 10 16:26:29 JST 2019:MemoryManager[255]/Contain -> Contained!: 10 at day in long_memory.txt
+Tue Dec 10 16:26:29 JST 2019:MemoryManager[255]/Contain -> Contained!: 3 at day_of_week in long_memory.txt
+Tue Dec 10 16:26:29 JST 2019:MemoryManager[255]/Contain -> Contained!: 16 at hour in long_memory.txt
+Tue Dec 10 16:26:36 JST 2019:StateHandler[80]/handling -> received: clear (current state: start )
+Tue Dec 10 16:26:36 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:26:36 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:26:36 JST 2019:StateHandler[172]/handling -> Read transition: start:clear:start:clear:na
+Tue Dec 10 16:26:36 JST 2019:StateHandler[80]/handling -> received: good (current state: start )
+Tue Dec 10 16:26:36 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:26:36 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:26:36 JST 2019:StateHandler[172]/handling -> Read transition: start:good:start:good:na
+Tue Dec 10 16:27:10 JST 2019:StateHandler[80]/handling -> received: clear (current state: start )
+Tue Dec 10 16:27:10 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:27:10 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:27:10 JST 2019:StateHandler[172]/handling -> Read transition: start:clear:start:clear:na
+Tue Dec 10 16:27:10 JST 2019:StateHandler[80]/handling -> received: 2 (current state: start )
+Tue Dec 10 16:27:10 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:27:10 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:27:10 JST 2019:StateHandler[172]/handling -> Read transition: start:2:start:2:na
+Tue Dec 10 16:27:29 JST 2019:ScenarioUpdater[55]/update -> Scenario Update
+Tue Dec 10 16:27:29 JST 2019:MemoryManager[142]/Read -> read memory: newnews = false
+Tue Dec 10 16:27:29 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:27:29 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:27:29 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:27:29 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:27:29 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:27:29 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:27:29 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:27:29 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:27:29 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:27:29 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:27:29 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:27:29 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:27:29 JST 2019:MemoryManager[260]/Contain -> Not Contained!: true at newnews in long_memory.txt
+Tue Dec 10 16:27:29 JST 2019:MemoryManager[255]/Contain -> Contained!: 2019 at year in long_memory.txt
+Tue Dec 10 16:27:29 JST 2019:MemoryManager[255]/Contain -> Contained!: 12 at month in long_memory.txt
+Tue Dec 10 16:27:29 JST 2019:MemoryManager[255]/Contain -> Contained!: 10 at day in long_memory.txt
+Tue Dec 10 16:27:29 JST 2019:MemoryManager[255]/Contain -> Contained!: 3 at day_of_week in long_memory.txt
+Tue Dec 10 16:27:29 JST 2019:MemoryManager[255]/Contain -> Contained!: 16 at hour in long_memory.txt
+Tue Dec 10 16:28:29 JST 2019:ScenarioUpdater[55]/update -> Scenario Update
+Tue Dec 10 16:28:29 JST 2019:MemoryManager[142]/Read -> read memory: newnews = false
+Tue Dec 10 16:28:29 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:28:29 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:28:29 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:28:29 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:28:29 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:28:29 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:28:29 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:28:29 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:28:29 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:28:29 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:28:29 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:28:29 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:28:29 JST 2019:MemoryManager[260]/Contain -> Not Contained!: true at newnews in long_memory.txt
+Tue Dec 10 16:28:29 JST 2019:MemoryManager[255]/Contain -> Contained!: 2019 at year in long_memory.txt
+Tue Dec 10 16:28:29 JST 2019:MemoryManager[255]/Contain -> Contained!: 12 at month in long_memory.txt
+Tue Dec 10 16:28:29 JST 2019:MemoryManager[255]/Contain -> Contained!: 10 at day in long_memory.txt
+Tue Dec 10 16:28:29 JST 2019:MemoryManager[255]/Contain -> Contained!: 3 at day_of_week in long_memory.txt
+Tue Dec 10 16:28:29 JST 2019:MemoryManager[255]/Contain -> Contained!: 16 at hour in long_memory.txt
+Tue Dec 10 16:29:29 JST 2019:ScenarioUpdater[55]/update -> Scenario Update
+Tue Dec 10 16:29:29 JST 2019:MemoryManager[142]/Read -> read memory: newnews = false
+Tue Dec 10 16:29:29 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:29:29 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:29:29 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:29:29 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:29:29 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:29:29 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:29:29 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:29:29 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:29:29 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:29:29 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:29:29 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:29:29 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:29:29 JST 2019:MemoryManager[260]/Contain -> Not Contained!: true at newnews in long_memory.txt
+Tue Dec 10 16:29:30 JST 2019:MemoryManager[255]/Contain -> Contained!: 2019 at year in long_memory.txt
+Tue Dec 10 16:29:30 JST 2019:MemoryManager[255]/Contain -> Contained!: 12 at month in long_memory.txt
+Tue Dec 10 16:29:30 JST 2019:MemoryManager[255]/Contain -> Contained!: 10 at day in long_memory.txt
+Tue Dec 10 16:29:30 JST 2019:MemoryManager[255]/Contain -> Contained!: 3 at day_of_week in long_memory.txt
+Tue Dec 10 16:29:30 JST 2019:MemoryManager[255]/Contain -> Contained!: 16 at hour in long_memory.txt
+Tue Dec 10 16:30:30 JST 2019:ScenarioUpdater[55]/update -> Scenario Update
+Tue Dec 10 16:30:30 JST 2019:MemoryManager[142]/Read -> read memory: newnews = false
+Tue Dec 10 16:30:30 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:30:30 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:30:30 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:30:30 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:30:30 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:30:30 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:30:30 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:30:30 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:30:30 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:30:30 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:30:30 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:30:30 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:30:30 JST 2019:MemoryManager[260]/Contain -> Not Contained!: true at newnews in long_memory.txt
+Tue Dec 10 16:30:30 JST 2019:MemoryManager[255]/Contain -> Contained!: 2019 at year in long_memory.txt
+Tue Dec 10 16:30:30 JST 2019:MemoryManager[255]/Contain -> Contained!: 12 at month in long_memory.txt
+Tue Dec 10 16:30:30 JST 2019:MemoryManager[255]/Contain -> Contained!: 10 at day in long_memory.txt
+Tue Dec 10 16:30:30 JST 2019:MemoryManager[255]/Contain -> Contained!: 3 at day_of_week in long_memory.txt
+Tue Dec 10 16:30:30 JST 2019:MemoryManager[255]/Contain -> Contained!: 16 at hour in long_memory.txt
+Tue Dec 10 16:31:30 JST 2019:ScenarioUpdater[55]/update -> Scenario Update
+Tue Dec 10 16:31:30 JST 2019:MemoryManager[142]/Read -> read memory: newnews = false
+Tue Dec 10 16:31:30 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:31:30 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:31:30 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:31:30 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:31:30 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:31:30 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:31:30 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:31:30 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:31:30 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:31:30 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:31:30 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:31:30 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:31:30 JST 2019:MemoryManager[260]/Contain -> Not Contained!: true at newnews in long_memory.txt
+Tue Dec 10 16:31:30 JST 2019:MemoryManager[255]/Contain -> Contained!: 2019 at year in long_memory.txt
+Tue Dec 10 16:31:30 JST 2019:MemoryManager[255]/Contain -> Contained!: 12 at month in long_memory.txt
+Tue Dec 10 16:31:30 JST 2019:MemoryManager[255]/Contain -> Contained!: 10 at day in long_memory.txt
+Tue Dec 10 16:31:30 JST 2019:MemoryManager[255]/Contain -> Contained!: 3 at day_of_week in long_memory.txt
+Tue Dec 10 16:31:30 JST 2019:MemoryManager[255]/Contain -> Contained!: 16 at hour in long_memory.txt
+Tue Dec 10 16:32:30 JST 2019:ScenarioUpdater[55]/update -> Scenario Update
+Tue Dec 10 16:32:30 JST 2019:MemoryManager[142]/Read -> read memory: newnews = false
+Tue Dec 10 16:32:30 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:32:30 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:32:30 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:32:30 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:32:30 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:32:30 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:32:30 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:32:30 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:32:30 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:32:30 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:32:30 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:32:30 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:32:30 JST 2019:MemoryManager[260]/Contain -> Not Contained!: true at newnews in long_memory.txt
+Tue Dec 10 16:32:30 JST 2019:MemoryManager[255]/Contain -> Contained!: 2019 at year in long_memory.txt
+Tue Dec 10 16:32:30 JST 2019:MemoryManager[255]/Contain -> Contained!: 12 at month in long_memory.txt
+Tue Dec 10 16:32:30 JST 2019:MemoryManager[255]/Contain -> Contained!: 10 at day in long_memory.txt
+Tue Dec 10 16:32:30 JST 2019:MemoryManager[255]/Contain -> Contained!: 3 at day_of_week in long_memory.txt
+Tue Dec 10 16:32:30 JST 2019:MemoryManager[255]/Contain -> Contained!: 16 at hour in long_memory.txt
+Tue Dec 10 16:33:30 JST 2019:ScenarioUpdater[55]/update -> Scenario Update
+Tue Dec 10 16:33:31 JST 2019:MemoryManager[142]/Read -> read memory: newnews = false
+Tue Dec 10 16:33:31 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:33:31 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:33:31 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:33:31 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:33:31 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:33:31 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:33:31 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:33:31 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:33:31 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:33:31 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:33:31 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:33:31 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:33:31 JST 2019:MemoryManager[260]/Contain -> Not Contained!: true at newnews in long_memory.txt
+Tue Dec 10 16:33:31 JST 2019:MemoryManager[255]/Contain -> Contained!: 2019 at year in long_memory.txt
+Tue Dec 10 16:33:31 JST 2019:MemoryManager[255]/Contain -> Contained!: 12 at month in long_memory.txt
+Tue Dec 10 16:33:31 JST 2019:MemoryManager[255]/Contain -> Contained!: 10 at day in long_memory.txt
+Tue Dec 10 16:33:31 JST 2019:MemoryManager[255]/Contain -> Contained!: 3 at day_of_week in long_memory.txt
+Tue Dec 10 16:33:31 JST 2019:MemoryManager[255]/Contain -> Contained!: 16 at hour in long_memory.txt
+Tue Dec 10 16:34:31 JST 2019:ScenarioUpdater[55]/update -> Scenario Update
+Tue Dec 10 16:34:31 JST 2019:MemoryManager[142]/Read -> read memory: newnews = false
+Tue Dec 10 16:34:31 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:34:31 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:34:31 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:34:31 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:34:31 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:34:31 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:34:31 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:34:31 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:34:31 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:34:31 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:34:31 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:34:31 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:34:31 JST 2019:MemoryManager[260]/Contain -> Not Contained!: true at newnews in long_memory.txt
+Tue Dec 10 16:34:31 JST 2019:MemoryManager[255]/Contain -> Contained!: 2019 at year in long_memory.txt
+Tue Dec 10 16:34:31 JST 2019:MemoryManager[255]/Contain -> Contained!: 12 at month in long_memory.txt
+Tue Dec 10 16:34:31 JST 2019:MemoryManager[255]/Contain -> Contained!: 10 at day in long_memory.txt
+Tue Dec 10 16:34:31 JST 2019:MemoryManager[255]/Contain -> Contained!: 3 at day_of_week in long_memory.txt
+Tue Dec 10 16:34:31 JST 2019:MemoryManager[255]/Contain -> Contained!: 16 at hour in long_memory.txt
+Tue Dec 10 16:35:31 JST 2019:ScenarioUpdater[55]/update -> Scenario Update
+Tue Dec 10 16:35:31 JST 2019:MemoryManager[142]/Read -> read memory: newnews = false
+Tue Dec 10 16:35:31 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:35:31 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:35:31 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:35:31 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:35:31 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:35:31 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:35:31 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:35:31 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:35:31 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:35:31 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:35:31 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:35:31 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:35:31 JST 2019:MemoryManager[260]/Contain -> Not Contained!: true at newnews in long_memory.txt
+Tue Dec 10 16:35:32 JST 2019:MemoryManager[255]/Contain -> Contained!: 2019 at year in long_memory.txt
+Tue Dec 10 16:35:32 JST 2019:MemoryManager[255]/Contain -> Contained!: 12 at month in long_memory.txt
+Tue Dec 10 16:35:32 JST 2019:MemoryManager[255]/Contain -> Contained!: 10 at day in long_memory.txt
+Tue Dec 10 16:35:32 JST 2019:MemoryManager[255]/Contain -> Contained!: 3 at day_of_week in long_memory.txt
+Tue Dec 10 16:35:32 JST 2019:MemoryManager[255]/Contain -> Contained!: 16 at hour in long_memory.txt
+Tue Dec 10 16:36:32 JST 2019:ScenarioUpdater[55]/update -> Scenario Update
+Tue Dec 10 16:36:32 JST 2019:MemoryManager[142]/Read -> read memory: newnews = false
+Tue Dec 10 16:36:32 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:36:32 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:36:32 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:36:32 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:36:32 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:36:32 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:36:32 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:36:32 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:36:32 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:36:32 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:36:32 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:36:32 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:36:32 JST 2019:MemoryManager[260]/Contain -> Not Contained!: true at newnews in long_memory.txt
+Tue Dec 10 16:36:32 JST 2019:MemoryManager[255]/Contain -> Contained!: 2019 at year in long_memory.txt
+Tue Dec 10 16:36:32 JST 2019:MemoryManager[255]/Contain -> Contained!: 12 at month in long_memory.txt
+Tue Dec 10 16:36:32 JST 2019:MemoryManager[255]/Contain -> Contained!: 10 at day in long_memory.txt
+Tue Dec 10 16:36:32 JST 2019:MemoryManager[255]/Contain -> Contained!: 3 at day_of_week in long_memory.txt
+Tue Dec 10 16:36:32 JST 2019:MemoryManager[255]/Contain -> Contained!: 16 at hour in long_memory.txt
+Tue Dec 10 16:37:01 JST 2019:StateHandler[80]/handling -> received: 4doc (current state: start )
+Tue Dec 10 16:37:01 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:37:01 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:37:01 JST 2019:StateHandler[172]/handling -> Read transition: start:4doc:start:4doc:na
+Tue Dec 10 16:37:13 JST 2019:StateHandler[80]/handling -> received: clear (current state: start )
+Tue Dec 10 16:37:13 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:37:13 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:37:13 JST 2019:StateHandler[172]/handling -> Read transition: start:clear:start:clear:na
+Tue Dec 10 16:37:13 JST 2019:StateHandler[80]/handling -> received: kanren (current state: start )
+Tue Dec 10 16:37:13 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:37:13 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:37:13 JST 2019:StateHandler[172]/handling -> Read transition: start:kanren:start:kanren:na
+Tue Dec 10 16:37:32 JST 2019:ScenarioUpdater[55]/update -> Scenario Update
+Tue Dec 10 16:37:32 JST 2019:MemoryManager[142]/Read -> read memory: newnews = false
+Tue Dec 10 16:37:32 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:37:32 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:37:32 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:37:32 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:37:32 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:37:32 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:37:32 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:37:32 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:37:32 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:37:32 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:37:32 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:37:32 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:37:32 JST 2019:MemoryManager[260]/Contain -> Not Contained!: true at newnews in long_memory.txt
+Tue Dec 10 16:37:32 JST 2019:MemoryManager[255]/Contain -> Contained!: 2019 at year in long_memory.txt
+Tue Dec 10 16:37:32 JST 2019:MemoryManager[255]/Contain -> Contained!: 12 at month in long_memory.txt
+Tue Dec 10 16:37:32 JST 2019:MemoryManager[255]/Contain -> Contained!: 10 at day in long_memory.txt
+Tue Dec 10 16:37:32 JST 2019:MemoryManager[255]/Contain -> Contained!: 3 at day_of_week in long_memory.txt
+Tue Dec 10 16:37:32 JST 2019:MemoryManager[255]/Contain -> Contained!: 16 at hour in long_memory.txt
+Tue Dec 10 16:38:17 JST 2019:StateHandler[80]/handling -> received: clear (current state: start )
+Tue Dec 10 16:38:17 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:38:17 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:38:17 JST 2019:StateHandler[172]/handling -> Read transition: start:clear:start:clear:na
+Tue Dec 10 16:38:17 JST 2019:StateHandler[80]/handling -> received: kanren (current state: start )
+Tue Dec 10 16:38:17 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:38:17 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:38:17 JST 2019:StateHandler[172]/handling -> Read transition: start:kanren:start:kanren:na
+Tue Dec 10 16:38:32 JST 2019:ScenarioUpdater[55]/update -> Scenario Update
+Tue Dec 10 16:38:32 JST 2019:MemoryManager[142]/Read -> read memory: newnews = false
+Tue Dec 10 16:38:32 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:38:32 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:38:32 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:38:32 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:38:32 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:38:32 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:38:32 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:38:32 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:38:32 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:38:32 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:38:32 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:38:32 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:38:32 JST 2019:MemoryManager[260]/Contain -> Not Contained!: true at newnews in long_memory.txt
+Tue Dec 10 16:38:32 JST 2019:MemoryManager[255]/Contain -> Contained!: 2019 at year in long_memory.txt
+Tue Dec 10 16:38:32 JST 2019:MemoryManager[255]/Contain -> Contained!: 12 at month in long_memory.txt
+Tue Dec 10 16:38:32 JST 2019:MemoryManager[255]/Contain -> Contained!: 10 at day in long_memory.txt
+Tue Dec 10 16:38:32 JST 2019:MemoryManager[255]/Contain -> Contained!: 3 at day_of_week in long_memory.txt
+Tue Dec 10 16:38:32 JST 2019:MemoryManager[255]/Contain -> Contained!: 16 at hour in long_memory.txt
+Tue Dec 10 16:39:22 JST 2019:StateHandler[80]/handling -> received: clear (current state: start )
+Tue Dec 10 16:39:22 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:39:22 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:39:22 JST 2019:StateHandler[172]/handling -> Read transition: start:clear:start:clear:na
+Tue Dec 10 16:39:22 JST 2019:StateHandler[80]/handling -> received: kanren (current state: start )
+Tue Dec 10 16:39:22 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:39:22 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:39:22 JST 2019:StateHandler[172]/handling -> Read transition: start:kanren:start:kanren:na
+Tue Dec 10 16:39:32 JST 2019:StateHandler[80]/handling -> received: 4doc (current state: start )
+Tue Dec 10 16:39:32 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:39:32 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:39:32 JST 2019:StateHandler[172]/handling -> Read transition: start:4doc:start:4doc:na
+Tue Dec 10 16:39:32 JST 2019:ScenarioUpdater[55]/update -> Scenario Update
+Tue Dec 10 16:39:33 JST 2019:MemoryManager[142]/Read -> read memory: newnews = false
+Tue Dec 10 16:39:33 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:39:33 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:39:33 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:39:33 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:39:33 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:39:33 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:39:33 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:39:33 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:39:33 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:39:33 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:39:33 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:39:33 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:39:33 JST 2019:MemoryManager[260]/Contain -> Not Contained!: true at newnews in long_memory.txt
+Tue Dec 10 16:39:33 JST 2019:MemoryManager[255]/Contain -> Contained!: 2019 at year in long_memory.txt
+Tue Dec 10 16:39:33 JST 2019:MemoryManager[255]/Contain -> Contained!: 12 at month in long_memory.txt
+Tue Dec 10 16:39:33 JST 2019:MemoryManager[255]/Contain -> Contained!: 10 at day in long_memory.txt
+Tue Dec 10 16:39:33 JST 2019:MemoryManager[255]/Contain -> Contained!: 3 at day_of_week in long_memory.txt
+Tue Dec 10 16:39:33 JST 2019:MemoryManager[255]/Contain -> Contained!: 16 at hour in long_memory.txt
+Tue Dec 10 16:40:07 JST 2019:StateHandler[80]/handling -> received: clear (current state: start )
+Tue Dec 10 16:40:07 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:40:07 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:40:07 JST 2019:StateHandler[172]/handling -> Read transition: start:clear:start:clear:na
+Tue Dec 10 16:40:07 JST 2019:StateHandler[80]/handling -> received: rubi (current state: start )
+Tue Dec 10 16:40:07 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:40:07 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:40:07 JST 2019:StateHandler[172]/handling -> Read transition: start:rubi:start:rubi:na
+Tue Dec 10 16:40:33 JST 2019:ScenarioUpdater[55]/update -> Scenario Update
+Tue Dec 10 16:40:33 JST 2019:MemoryManager[142]/Read -> read memory: newnews = false
+Tue Dec 10 16:40:33 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:40:33 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:40:33 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:40:33 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:40:33 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:40:33 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:40:33 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:40:33 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:40:33 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:40:33 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:40:33 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:40:33 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:40:33 JST 2019:MemoryManager[260]/Contain -> Not Contained!: true at newnews in long_memory.txt
+Tue Dec 10 16:40:33 JST 2019:MemoryManager[255]/Contain -> Contained!: 2019 at year in long_memory.txt
+Tue Dec 10 16:40:33 JST 2019:MemoryManager[255]/Contain -> Contained!: 12 at month in long_memory.txt
+Tue Dec 10 16:40:33 JST 2019:MemoryManager[255]/Contain -> Contained!: 10 at day in long_memory.txt
+Tue Dec 10 16:40:33 JST 2019:MemoryManager[255]/Contain -> Contained!: 3 at day_of_week in long_memory.txt
+Tue Dec 10 16:40:33 JST 2019:MemoryManager[255]/Contain -> Contained!: 16 at hour in long_memory.txt
+Tue Dec 10 16:40:44 JST 2019:StateHandler[80]/handling -> received: clear (current state: start )
+Tue Dec 10 16:40:44 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:40:44 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:40:44 JST 2019:StateHandler[172]/handling -> Read transition: start:clear:start:clear:na
+Tue Dec 10 16:40:44 JST 2019:StateHandler[80]/handling -> received: kanren (current state: start )
+Tue Dec 10 16:40:44 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:40:44 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:40:44 JST 2019:StateHandler[172]/handling -> Read transition: start:kanren:start:kanren:na
+Tue Dec 10 16:40:53 JST 2019:StateHandler[80]/handling -> received: 4doc (current state: start )
+Tue Dec 10 16:40:53 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:40:53 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:40:53 JST 2019:StateHandler[172]/handling -> Read transition: start:4doc:start:4doc:na
+Tue Dec 10 16:41:32 JST 2019:StateHandler[80]/handling -> received: clear (current state: start )
+Tue Dec 10 16:41:32 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:41:32 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:41:32 JST 2019:StateHandler[172]/handling -> Read transition: start:clear:start:clear:na
+Tue Dec 10 16:41:32 JST 2019:StateHandler[80]/handling -> received: kanren (current state: start )
+Tue Dec 10 16:41:32 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:41:32 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:41:32 JST 2019:StateHandler[172]/handling -> Read transition: start:kanren:start:kanren:na
+Tue Dec 10 16:41:33 JST 2019:ScenarioUpdater[55]/update -> Scenario Update
+Tue Dec 10 16:41:33 JST 2019:MemoryManager[142]/Read -> read memory: newnews = false
+Tue Dec 10 16:41:33 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:41:33 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:41:33 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:41:33 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:41:33 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:41:33 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:41:33 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:41:33 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:41:33 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:41:33 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:41:33 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:41:33 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:41:33 JST 2019:MemoryManager[260]/Contain -> Not Contained!: true at newnews in long_memory.txt
+Tue Dec 10 16:41:33 JST 2019:MemoryManager[255]/Contain -> Contained!: 2019 at year in long_memory.txt
+Tue Dec 10 16:41:33 JST 2019:MemoryManager[255]/Contain -> Contained!: 12 at month in long_memory.txt
+Tue Dec 10 16:41:33 JST 2019:MemoryManager[255]/Contain -> Contained!: 10 at day in long_memory.txt
+Tue Dec 10 16:41:34 JST 2019:MemoryManager[255]/Contain -> Contained!: 3 at day_of_week in long_memory.txt
+Tue Dec 10 16:41:34 JST 2019:MemoryManager[255]/Contain -> Contained!: 16 at hour in long_memory.txt
+Tue Dec 10 16:41:59 JST 2019:StateHandler[80]/handling -> received: clear (current state: start )
+Tue Dec 10 16:41:59 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:41:59 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:41:59 JST 2019:StateHandler[172]/handling -> Read transition: start:clear:start:clear:na
+Tue Dec 10 16:41:59 JST 2019:StateHandler[80]/handling -> received: kanren (current state: start )
+Tue Dec 10 16:41:59 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:41:59 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:41:59 JST 2019:StateHandler[172]/handling -> Read transition: start:kanren:start:kanren:na
+Tue Dec 10 16:42:24 JST 2019:StateHandler[80]/handling -> received: 4doc (current state: start )
+Tue Dec 10 16:42:24 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:42:24 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:42:24 JST 2019:StateHandler[172]/handling -> Read transition: start:4doc:start:4doc:na
+Tue Dec 10 16:42:34 JST 2019:ScenarioUpdater[55]/update -> Scenario Update
+Tue Dec 10 16:42:34 JST 2019:MemoryManager[142]/Read -> read memory: newnews = false
+Tue Dec 10 16:42:34 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:42:34 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:42:34 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:42:34 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:42:34 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:42:34 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:42:34 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:42:34 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:42:34 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:42:34 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:42:34 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:42:34 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:42:34 JST 2019:MemoryManager[260]/Contain -> Not Contained!: true at newnews in long_memory.txt
+Tue Dec 10 16:42:34 JST 2019:MemoryManager[255]/Contain -> Contained!: 2019 at year in long_memory.txt
+Tue Dec 10 16:42:34 JST 2019:MemoryManager[255]/Contain -> Contained!: 12 at month in long_memory.txt
+Tue Dec 10 16:42:34 JST 2019:MemoryManager[255]/Contain -> Contained!: 10 at day in long_memory.txt
+Tue Dec 10 16:42:34 JST 2019:MemoryManager[255]/Contain -> Contained!: 3 at day_of_week in long_memory.txt
+Tue Dec 10 16:42:34 JST 2019:MemoryManager[255]/Contain -> Contained!: 16 at hour in long_memory.txt
+Tue Dec 10 16:43:34 JST 2019:ScenarioUpdater[55]/update -> Scenario Update
+Tue Dec 10 16:43:34 JST 2019:MemoryManager[142]/Read -> read memory: newnews = false
+Tue Dec 10 16:43:34 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:43:34 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:43:34 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:43:34 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:43:34 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:43:34 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:43:34 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:43:34 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:43:34 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:43:34 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:43:34 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:43:34 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:43:34 JST 2019:MemoryManager[260]/Contain -> Not Contained!: true at newnews in long_memory.txt
+Tue Dec 10 16:43:34 JST 2019:MemoryManager[255]/Contain -> Contained!: 2019 at year in long_memory.txt
+Tue Dec 10 16:43:34 JST 2019:MemoryManager[255]/Contain -> Contained!: 12 at month in long_memory.txt
+Tue Dec 10 16:43:34 JST 2019:MemoryManager[255]/Contain -> Contained!: 10 at day in long_memory.txt
+Tue Dec 10 16:43:34 JST 2019:MemoryManager[255]/Contain -> Contained!: 3 at day_of_week in long_memory.txt
+Tue Dec 10 16:43:34 JST 2019:MemoryManager[255]/Contain -> Contained!: 16 at hour in long_memory.txt
+Tue Dec 10 16:43:35 JST 2019:StateHandler[80]/handling -> received: clear (current state: start )
+Tue Dec 10 16:43:35 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:43:35 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:43:35 JST 2019:StateHandler[172]/handling -> Read transition: start:clear:start:clear:na
+Tue Dec 10 16:43:35 JST 2019:StateHandler[80]/handling -> received: kanren (current state: start )
+Tue Dec 10 16:43:35 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:43:35 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:43:35 JST 2019:StateHandler[172]/handling -> Read transition: start:kanren:start:kanren:na
+Tue Dec 10 16:43:50 JST 2019:StateHandler[80]/handling -> received: 4doc (current state: start )
+Tue Dec 10 16:43:50 JST 2019:util.Config[155]/Get -> read config scenario_file = room.txt
+Tue Dec 10 16:43:50 JST 2019:StateHandler[624]/ReadFile_sh -> read room.txt
+ -> StateHandler[269]/readScenario
+ -> StateHandler[119]/handling
+ -> StateHandler[18]/main
+Tue Dec 10 16:43:50 JST 2019:StateHandler[172]/handling -> Read transition: start:4doc:start:4doc:na
+Tue Dec 10 16:44:34 JST 2019:ScenarioUpdater[55]/update -> Scenario Update
+Tue Dec 10 16:44:34 JST 2019:MemoryManager[142]/Read -> read memory: newnews = false
+Tue Dec 10 16:44:34 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:44:34 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:44:34 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:44:34 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:44:34 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:44:34 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:44:34 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:44:34 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:44:34 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:44:34 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:44:34 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:44:34 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:44:34 JST 2019:MemoryManager[260]/Contain -> Not Contained!: true at newnews in long_memory.txt
+Tue Dec 10 16:44:35 JST 2019:MemoryManager[255]/Contain -> Contained!: 2019 at year in long_memory.txt
+Tue Dec 10 16:44:35 JST 2019:MemoryManager[255]/Contain -> Contained!: 12 at month in long_memory.txt
+Tue Dec 10 16:44:35 JST 2019:MemoryManager[255]/Contain -> Contained!: 10 at day in long_memory.txt
+Tue Dec 10 16:44:35 JST 2019:MemoryManager[255]/Contain -> Contained!: 3 at day_of_week in long_memory.txt
+Tue Dec 10 16:44:35 JST 2019:MemoryManager[255]/Contain -> Contained!: 16 at hour in long_memory.txt
+Tue Dec 10 16:45:35 JST 2019:ScenarioUpdater[55]/update -> Scenario Update
+Tue Dec 10 16:45:35 JST 2019:MemoryManager[142]/Read -> read memory: newnews = false
+Tue Dec 10 16:45:35 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:45:35 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:45:35 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:45:35 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:45:35 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:45:35 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:45:35 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:45:35 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:45:35 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:45:35 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:45:35 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:45:35 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:45:35 JST 2019:MemoryManager[260]/Contain -> Not Contained!: true at newnews in long_memory.txt
+Tue Dec 10 16:45:35 JST 2019:MemoryManager[255]/Contain -> Contained!: 2019 at year in long_memory.txt
+Tue Dec 10 16:45:35 JST 2019:MemoryManager[255]/Contain -> Contained!: 12 at month in long_memory.txt
+Tue Dec 10 16:45:35 JST 2019:MemoryManager[255]/Contain -> Contained!: 10 at day in long_memory.txt
+Tue Dec 10 16:45:35 JST 2019:MemoryManager[255]/Contain -> Contained!: 3 at day_of_week in long_memory.txt
+Tue Dec 10 16:45:35 JST 2019:MemoryManager[255]/Contain -> Contained!: 16 at hour in long_memory.txt
+Tue Dec 10 16:46:35 JST 2019:ScenarioUpdater[55]/update -> Scenario Update
+Tue Dec 10 16:46:35 JST 2019:MemoryManager[142]/Read -> read memory: newnews = false
+Tue Dec 10 16:46:35 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:46:35 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:46:35 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:46:35 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:46:35 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:46:35 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:46:35 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:46:35 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:46:35 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:46:35 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:46:35 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:46:35 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:46:35 JST 2019:MemoryManager[260]/Contain -> Not Contained!: true at newnews in long_memory.txt
+Tue Dec 10 16:46:35 JST 2019:MemoryManager[255]/Contain -> Contained!: 2019 at year in long_memory.txt
+Tue Dec 10 16:46:35 JST 2019:MemoryManager[255]/Contain -> Contained!: 12 at month in long_memory.txt
+Tue Dec 10 16:46:35 JST 2019:MemoryManager[255]/Contain -> Contained!: 10 at day in long_memory.txt
+Tue Dec 10 16:46:35 JST 2019:MemoryManager[255]/Contain -> Contained!: 3 at day_of_week in long_memory.txt
+Tue Dec 10 16:46:35 JST 2019:MemoryManager[255]/Contain -> Contained!: 16 at hour in long_memory.txt
+Tue Dec 10 16:47:35 JST 2019:ScenarioUpdater[55]/update -> Scenario Update
+Tue Dec 10 16:47:35 JST 2019:MemoryManager[142]/Read -> read memory: newnews = false
+Tue Dec 10 16:47:35 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:47:35 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:47:35 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:47:35 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:47:35 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:47:35 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:47:35 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:47:35 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:47:35 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:47:35 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:47:35 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:47:35 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:47:35 JST 2019:MemoryManager[260]/Contain -> Not Contained!: true at newnews in long_memory.txt
+Tue Dec 10 16:47:35 JST 2019:MemoryManager[255]/Contain -> Contained!: 2019 at year in long_memory.txt
+Tue Dec 10 16:47:35 JST 2019:MemoryManager[255]/Contain -> Contained!: 12 at month in long_memory.txt
+Tue Dec 10 16:47:35 JST 2019:MemoryManager[255]/Contain -> Contained!: 10 at day in long_memory.txt
+Tue Dec 10 16:47:35 JST 2019:MemoryManager[255]/Contain -> Contained!: 3 at day_of_week in long_memory.txt
+Tue Dec 10 16:47:35 JST 2019:MemoryManager[255]/Contain -> Contained!: 16 at hour in long_memory.txt
+Tue Dec 10 16:48:35 JST 2019:ScenarioUpdater[55]/update -> Scenario Update
+Tue Dec 10 16:48:36 JST 2019:MemoryManager[142]/Read -> read memory: newnews = false
+Tue Dec 10 16:48:36 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:48:36 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:48:36 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:48:36 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:48:36 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:48:36 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:48:36 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:48:36 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:48:36 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:48:36 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:48:36 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:48:36 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:48:36 JST 2019:MemoryManager[260]/Contain -> Not Contained!: true at newnews in long_memory.txt
+Tue Dec 10 16:48:36 JST 2019:MemoryManager[255]/Contain -> Contained!: 2019 at year in long_memory.txt
+Tue Dec 10 16:48:36 JST 2019:MemoryManager[255]/Contain -> Contained!: 12 at month in long_memory.txt
+Tue Dec 10 16:48:36 JST 2019:MemoryManager[255]/Contain -> Contained!: 10 at day in long_memory.txt
+Tue Dec 10 16:48:36 JST 2019:MemoryManager[255]/Contain -> Contained!: 3 at day_of_week in long_memory.txt
+Tue Dec 10 16:48:36 JST 2019:MemoryManager[255]/Contain -> Contained!: 16 at hour in long_memory.txt
+Tue Dec 10 16:49:36 JST 2019:ScenarioUpdater[55]/update -> Scenario Update
+Tue Dec 10 16:49:36 JST 2019:ScenarioUpdater[186]/makeActivity_news -> Make New File : C:\Users\Frontier-is\Desktop\StateHandler_java-master\activities\news2019121012.txt
+Tue Dec 10 16:49:36 JST 2019:MemoryManager[142]/Read -> read memory: newnews = false
+Tue Dec 10 16:49:36 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:49:36 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:49:36 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:49:36 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:49:36 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:49:36 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:49:36 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:49:36 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:49:36 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:49:36 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:49:36 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:49:36 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:49:36 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:49:36 JST 2019:MemoryManager[260]/Contain -> Not Contained!: true at newnews in long_memory.txt
+Tue Dec 10 16:49:36 JST 2019:MemoryManager[255]/Contain -> Contained!: 2019 at year in long_memory.txt
+Tue Dec 10 16:49:36 JST 2019:MemoryManager[255]/Contain -> Contained!: 12 at month in long_memory.txt
+Tue Dec 10 16:49:36 JST 2019:MemoryManager[255]/Contain -> Contained!: 10 at day in long_memory.txt
+Tue Dec 10 16:49:36 JST 2019:MemoryManager[255]/Contain -> Contained!: 3 at day_of_week in long_memory.txt
+Tue Dec 10 16:49:36 JST 2019:MemoryManager[255]/Contain -> Contained!: 16 at hour in long_memory.txt
+Tue Dec 10 16:50:36 JST 2019:ScenarioUpdater[55]/update -> Scenario Update
+Tue Dec 10 16:50:36 JST 2019:MemoryManager[142]/Read -> read memory: newnews = false
+Tue Dec 10 16:50:36 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:50:36 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:50:36 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:50:36 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:50:36 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:50:36 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:50:36 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:50:36 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:50:36 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:50:36 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:50:36 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:50:36 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:50:36 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:50:36 JST 2019:MemoryManager[260]/Contain -> Not Contained!: true at newnews in long_memory.txt
+Tue Dec 10 16:50:37 JST 2019:MemoryManager[255]/Contain -> Contained!: 2019 at year in long_memory.txt
+Tue Dec 10 16:50:37 JST 2019:MemoryManager[255]/Contain -> Contained!: 12 at month in long_memory.txt
+Tue Dec 10 16:50:37 JST 2019:MemoryManager[255]/Contain -> Contained!: 10 at day in long_memory.txt
+Tue Dec 10 16:50:37 JST 2019:MemoryManager[255]/Contain -> Contained!: 3 at day_of_week in long_memory.txt
+Tue Dec 10 16:50:37 JST 2019:MemoryManager[255]/Contain -> Contained!: 16 at hour in long_memory.txt
+Tue Dec 10 16:51:37 JST 2019:ScenarioUpdater[55]/update -> Scenario Update
+Tue Dec 10 16:51:37 JST 2019:MemoryManager[142]/Read -> read memory: newnews = false
+Tue Dec 10 16:51:37 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:51:37 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:51:37 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:51:37 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:51:37 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:51:37 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:51:37 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:51:37 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:51:37 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:51:37 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:51:37 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:51:37 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:51:37 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:51:37 JST 2019:MemoryManager[260]/Contain -> Not Contained!: true at newnews in long_memory.txt
+Tue Dec 10 16:51:37 JST 2019:MemoryManager[255]/Contain -> Contained!: 2019 at year in long_memory.txt
+Tue Dec 10 16:51:37 JST 2019:MemoryManager[255]/Contain -> Contained!: 12 at month in long_memory.txt
+Tue Dec 10 16:51:37 JST 2019:MemoryManager[255]/Contain -> Contained!: 10 at day in long_memory.txt
+Tue Dec 10 16:51:37 JST 2019:MemoryManager[255]/Contain -> Contained!: 3 at day_of_week in long_memory.txt
+Tue Dec 10 16:51:37 JST 2019:MemoryManager[255]/Contain -> Contained!: 16 at hour in long_memory.txt
+Tue Dec 10 16:52:37 JST 2019:ScenarioUpdater[55]/update -> Scenario Update
+Tue Dec 10 16:52:37 JST 2019:MemoryManager[142]/Read -> read memory: newnews = false
+Tue Dec 10 16:52:37 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:52:37 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:52:37 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:52:37 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:52:37 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:52:37 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:52:37 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:52:37 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:52:37 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:52:37 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:52:37 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:52:37 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:52:37 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:52:37 JST 2019:MemoryManager[260]/Contain -> Not Contained!: true at newnews in long_memory.txt
+Tue Dec 10 16:52:37 JST 2019:MemoryManager[255]/Contain -> Contained!: 2019 at year in long_memory.txt
+Tue Dec 10 16:52:37 JST 2019:MemoryManager[255]/Contain -> Contained!: 12 at month in long_memory.txt
+Tue Dec 10 16:52:37 JST 2019:MemoryManager[255]/Contain -> Contained!: 10 at day in long_memory.txt
+Tue Dec 10 16:52:37 JST 2019:MemoryManager[255]/Contain -> Contained!: 3 at day_of_week in long_memory.txt
+Tue Dec 10 16:52:37 JST 2019:MemoryManager[255]/Contain -> Contained!: 16 at hour in long_memory.txt
+Tue Dec 10 16:53:37 JST 2019:ScenarioUpdater[55]/update -> Scenario Update
+Tue Dec 10 16:53:37 JST 2019:MemoryManager[142]/Read -> read memory: newnews = false
+Tue Dec 10 16:53:37 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:53:37 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:53:37 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:53:37 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:53:37 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:53:37 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:53:37 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:53:37 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:53:37 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:53:37 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:53:37 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:53:37 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:53:37 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:53:37 JST 2019:MemoryManager[260]/Contain -> Not Contained!: true at newnews in long_memory.txt
+Tue Dec 10 16:53:37 JST 2019:MemoryManager[255]/Contain -> Contained!: 2019 at year in long_memory.txt
+Tue Dec 10 16:53:37 JST 2019:MemoryManager[255]/Contain -> Contained!: 12 at month in long_memory.txt
+Tue Dec 10 16:53:37 JST 2019:MemoryManager[255]/Contain -> Contained!: 10 at day in long_memory.txt
+Tue Dec 10 16:53:37 JST 2019:MemoryManager[255]/Contain -> Contained!: 3 at day_of_week in long_memory.txt
+Tue Dec 10 16:53:37 JST 2019:MemoryManager[255]/Contain -> Contained!: 16 at hour in long_memory.txt
+Tue Dec 10 16:54:37 JST 2019:ScenarioUpdater[55]/update -> Scenario Update
+Tue Dec 10 16:54:38 JST 2019:MemoryManager[142]/Read -> read memory: newnews = false
+Tue Dec 10 16:54:38 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:54:38 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:54:38 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:54:38 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:54:38 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:54:38 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:54:38 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:54:38 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:54:38 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:54:38 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:54:38 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:54:38 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:54:38 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:54:38 JST 2019:MemoryManager[260]/Contain -> Not Contained!: true at newnews in long_memory.txt
+Tue Dec 10 16:54:38 JST 2019:MemoryManager[255]/Contain -> Contained!: 2019 at year in long_memory.txt
+Tue Dec 10 16:54:38 JST 2019:MemoryManager[255]/Contain -> Contained!: 12 at month in long_memory.txt
+Tue Dec 10 16:54:38 JST 2019:MemoryManager[255]/Contain -> Contained!: 10 at day in long_memory.txt
+Tue Dec 10 16:54:38 JST 2019:MemoryManager[255]/Contain -> Contained!: 3 at day_of_week in long_memory.txt
+Tue Dec 10 16:54:38 JST 2019:MemoryManager[255]/Contain -> Contained!: 16 at hour in long_memory.txt
+Tue Dec 10 16:58:24 JST 2019:ScenarioUpdater[55]/update -> Scenario Update
+Tue Dec 10 16:58:24 JST 2019:MemoryManager[142]/Read -> read memory: newnews = false
+Tue Dec 10 16:58:24 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:58:24 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:58:24 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:58:24 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:58:24 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:58:24 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:58:24 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:58:24 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:58:24 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:58:24 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:58:24 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:58:24 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:58:24 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Tue Dec 10 16:58:24 JST 2019:MemoryManager[260]/Contain -> Not Contained!: true at newnews in long_memory.txt
+Tue Dec 10 16:58:25 JST 2019:MemoryManager[255]/Contain -> Contained!: 2019 at year in long_memory.txt
+Tue Dec 10 16:58:25 JST 2019:MemoryManager[255]/Contain -> Contained!: 12 at month in long_memory.txt
+Tue Dec 10 16:58:25 JST 2019:MemoryManager[255]/Contain -> Contained!: 10 at day in long_memory.txt
+Tue Dec 10 16:58:25 JST 2019:MemoryManager[255]/Contain -> Contained!: 3 at day_of_week in long_memory.txt
+Tue Dec 10 16:58:25 JST 2019:MemoryManager[255]/Contain -> Contained!: 16 at hour in long_memory.txt
