@@ -1,0 +1,30 @@
+.btn{
+  border-radius: 5px;
+  background-color: green;
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
+
+.btn2{
+  border-radius: 5px;
+  background-color: red;
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
+
+.boxa {
+  border: none;
+}
+
+.boxa ::after{
+  content: "";
+  display: block;
+  clear: both;
+}
+
+.boxa, .boxb,.boxc,.boxd {
+  float: left;
+  width: 20%;  /** 横幅50% **/
+  }
