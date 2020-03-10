@@ -28,6 +28,8 @@ https://toragramming.com/programming/electron/electron-env/
 本システムは主に4つのプログラムで作成される。
 reco2.js⇒rendere.js⇒index.js⇒blacboardの順で情報が送られる。  
 
+![イメージ図](https://i.imgur.com/mb7drF7.jpg)
+
 ### reco2.js
 システムの核となるプログラム。  
 ユーザのページ遷移を確認して、sotaが発話するシナリオをrenderer.jsへ送る   
@@ -48,6 +50,13 @@ renderer.jsから送られてきた文字列をbackboardへそのまま送る
 4℃サイトのイヤリングのアイテムの特徴量が記入されている  
 4℃サイトの掲載順が変更されると商品番号がずれるのでその都度書き直す必要がある
 
+
+## ※チャットエージェントによる隣人対話
+チャットエージェントによる隣人対話も少しだけ実装した。  
+### 動かし方
+1. 準備のときに作成したelectrontestフォルダをchatフォルダ内にコピーする。  
+2. コマンドプロンプトを起動し、chatファイルまで移動する。  
+3. 「.\node_modules\.bin\electron .」を入力し、実行する。
 
 
 
