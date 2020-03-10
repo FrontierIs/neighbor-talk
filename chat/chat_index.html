@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <link rel="stylesheet" type="text/css" href="index.css">
+  <link rel="stylesheet" type="text/css" href="list.css">
+  <title>electron-test</title>
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+</head>
+<body>
+
+  <!-- <h1 style="color: rgb(255, 91, 50)">Hello World !</h1> -->
+  <div class="boxa">
+    <button type="button" class="btn"　autofocus="true" onclick="opendev();">open dev tool</button>
+  </div>
+
+  <div class="boxa">
+    <button type="button" class="btn"　autofocus="true" onclick="back();">戻る</button>
+  </div>
+
+  <!-- <div class="boxa">
+    <button type="button" class="btn"　autofocus="true" onclick="id;">chat 追加</button>
+  </div> -->
+
+  <TABLE BORDER="0"  CELLSPACING="0" CELLPADDING="0">
+    <TR>
+    <TD id="4doc">
+    <webview id="wv" preload="chat_preload.js" src="https://jewelry-boutique.jp/products?item=13"
+           style="display:inline-flex; width:100%; height:570px"></webview>
+    </TD>
+
+    <TD id="chat">
+      <!-- <div class="containar" style="overflow-y:scroll;"> -->
+      <ol class="chat">
+        <!-- <li>chat -->
+      </ol>
+      <!-- </div> -->
+    </TD>
+    </TR>
+    </TABLE>
+  <script>
+
+
+  var testerid=1;
+  const permutation = ({ result = [], pre = [], post, n = post.length }) => {
+  if (n > 0) {
+    post.forEach((_, i) => {
+      const rest = [...post];
+      const elem = rest.splice(i, 1);
+      permutation({ result, pre: [...pre, ...elem], post: rest, n: n - 1});
+    });
+  } else {
+    result.push(pre);
+  }
+  return result;
+  };
+
+    const array = ["centerchat","rightchat","centerrecommend","rightrecommend"];
+    const schedules = permutation({ post: array });
+    var wv=document.getElementById("wv");
+
+    function back(){
+      wv.goBack()
+    }
+
+    function opendev(){
+      wv.openDevTools();
+    }
+
+  </script>
+  <script type="text/javascript" src= "chat_renderer.js"></script>
+</body>
+</html>
