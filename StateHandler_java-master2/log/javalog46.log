@@ -1,0 +1,226 @@
+Mon Dec 16 14:12:50 JST 2019:util.Log[126]/init -> @@@ RUN STAMP @@@ -- Frontier-is
+Mon Dec 16 14:12:50 JST 2019:util.FileManage[91]/ReadFile -> read setting.txt
+ -> util.Config[76]/init
+ -> util.Config[36]/<init>
+ -> ActivityManager[41]/handling
+ -> ActivityManager[21]/main
+Mon Dec 16 14:12:50 JST 2019:util.Config[155]/Get -> read config ipAdress_server = 100.80.194.226
+Mon Dec 16 14:12:50 JST 2019:util.Config[155]/Get -> read config portNum_server = 11000
+Mon Dec 16 14:12:50 JST 2019:ClientThreadUTF8[46]/<init> -> try to connect with 100.80.194.226 11000
+Mon Dec 16 14:12:50 JST 2019:ClientThreadUTF8[54]/<init> -> connected with 100.80.194.226 11000
+Mon Dec 16 14:13:06 JST 2019:ActivityManager[78]/handling -> Read activity: activities\4doc.txt
+Mon Dec 16 14:14:33 JST 2019:ActivityManager[78]/handling -> Read activity: activities\4doc.txt
+Mon Dec 16 14:14:54 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 16 14:14:54 JST 2019:MemoryManager[142]/Read -> read memory: kanren_history = kanren3,kanren2
+Mon Dec 16 14:14:54 JST 2019:MemoryManager[94]/Add -> add new memory: kanren_history += kanren4 in long_memory.txt
+Mon Dec 16 14:14:54 JST 2019:MemoryManager[82]/Add -> already contain: kanren4 at activity_history in short_memory.txt
+Mon Dec 16 14:14:54 JST 2019:ActivityManager[78]/handling -> Read activity: activities\kanren4.txt
+Mon Dec 16 14:15:42 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 16 14:15:42 JST 2019:MemoryManager[142]/Read -> read memory: kanren_history = kanren3,kanren2,kanren4
+Mon Dec 16 14:15:42 JST 2019:MemoryManager[94]/Add -> add new memory: kanren_history += kanren in long_memory.txt
+Mon Dec 16 14:15:42 JST 2019:MemoryManager[82]/Add -> already contain: kanren at activity_history in short_memory.txt
+Mon Dec 16 14:15:42 JST 2019:ActivityManager[78]/handling -> Read activity: activities\kanren.txt
+Mon Dec 16 14:16:03 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 16 14:16:03 JST 2019:ActivityManager[78]/handling -> Read activity: activities\ok_heart.txt
+Mon Dec 16 15:04:18 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 16 15:04:18 JST 2019:MemoryManager[142]/Read -> read memory: kanren_history = kanren3,kanren2,kanren4,kanren
+Mon Dec 16 15:04:18 JST 2019:MemoryManager[181]/Clear -> clear memory: kanren_history = kanren3,kanren2,kanren4,kanren
+Mon Dec 16 15:04:18 JST 2019:MemoryManager[94]/Add -> add new memory: kanren_history += kanren4 in long_memory.txt
+Mon Dec 16 15:04:18 JST 2019:MemoryManager[82]/Add -> already contain: kanren4 at activity_history in short_memory.txt
+Mon Dec 16 15:04:18 JST 2019:ActivityManager[78]/handling -> Read activity: activities\kanren4.txt
+Mon Dec 16 15:05:01 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 16 15:05:01 JST 2019:MemoryManager[142]/Read -> read memory: kanren_history = kanren4
+Mon Dec 16 15:05:01 JST 2019:MemoryManager[94]/Add -> add new memory: kanren_history += kanren3 in long_memory.txt
+Mon Dec 16 15:05:01 JST 2019:MemoryManager[82]/Add -> already contain: kanren3 at activity_history in short_memory.txt
+Mon Dec 16 15:05:01 JST 2019:ActivityManager[78]/handling -> Read activity: activities\kanren3.txt
+Mon Dec 16 15:05:37 JST 2019:ActivityManager[78]/handling -> Read activity: activities\4doc.txt
+Mon Dec 16 15:06:14 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 16 15:06:39 JST 2019:MemoryManager[142]/Read -> read memory: boost_history = boost2
+Mon Dec 16 15:06:39 JST 2019:MemoryManager[94]/Add -> add new memory: boost_history += boost in long_memory.txt
+Mon Dec 16 15:06:39 JST 2019:MemoryManager[82]/Add -> already contain: boost at activity_history in short_memory.txt
+Mon Dec 16 15:06:39 JST 2019:ActivityManager[78]/handling -> Read activity: activities\boost.txt
+Mon Dec 16 15:08:25 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 16 15:08:25 JST 2019:ActivityManager[78]/handling -> Read activity: activities\34.txt
+Mon Dec 16 15:09:03 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 16 15:09:03 JST 2019:ActivityManager[78]/handling -> Read activity: activities\ok_gold.txt
+Mon Dec 16 15:09:28 JST 2019:MemoryManager[142]/Read -> read memory: boost_history = boost2,boost
+Mon Dec 16 15:09:28 JST 2019:MemoryManager[181]/Clear -> clear memory: boost_history = boost2,boost
+Mon Dec 16 15:09:28 JST 2019:MemoryManager[94]/Add -> add new memory: boost_history += boost2 in long_memory.txt
+Mon Dec 16 15:09:28 JST 2019:MemoryManager[82]/Add -> already contain: boost2 at activity_history in short_memory.txt
+Mon Dec 16 15:09:28 JST 2019:ActivityManager[78]/handling -> Read activity: activities\boost2.txt
+Mon Dec 16 15:09:37 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 16 15:09:37 JST 2019:ActivityManager[78]/handling -> Read activity: activities\34_2.txt
+Mon Dec 16 15:12:13 JST 2019:ActivityManager[78]/handling -> Read activity: activities\4doc.txt
+Mon Dec 16 15:18:07 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 16 15:18:07 JST 2019:ActivityManager[78]/handling -> Read activity: activities\ka_heart.txt
+Mon Dec 16 15:18:44 JST 2019:ActivityManager[78]/handling -> Read activity: activities\4doc.txt
+Mon Dec 16 15:19:19 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 16 15:19:19 JST 2019:MemoryManager[142]/Read -> read memory: paru_history = paru3,paru,paru2
+Mon Dec 16 15:19:19 JST 2019:MemoryManager[181]/Clear -> clear memory: paru_history = paru3,paru,paru2
+Mon Dec 16 15:19:19 JST 2019:MemoryManager[94]/Add -> add new memory: paru_history += paru in long_memory.txt
+Mon Dec 16 15:19:19 JST 2019:MemoryManager[82]/Add -> already contain: paru at activity_history in short_memory.txt
+Mon Dec 16 15:19:19 JST 2019:ActivityManager[78]/handling -> Read activity: activities\paru.txt
+Mon Dec 16 15:19:55 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 16 15:19:55 JST 2019:MemoryManager[142]/Read -> read memory: kanren_history = kanren4,kanren3
+Mon Dec 16 15:19:55 JST 2019:MemoryManager[94]/Add -> add new memory: kanren_history += kanren2 in long_memory.txt
+Mon Dec 16 15:19:55 JST 2019:MemoryManager[82]/Add -> already contain: kanren2 at activity_history in short_memory.txt
+Mon Dec 16 15:19:55 JST 2019:ActivityManager[78]/handling -> Read activity: activities\kanren2.txt
+Mon Dec 16 15:20:26 JST 2019:ActivityManager[78]/handling -> Read activity: activities\gold.txt
+Mon Dec 16 15:20:32 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 16 15:20:32 JST 2019:MemoryManager[142]/Read -> read memory: kanren_history = kanren4,kanren3,kanren2
+Mon Dec 16 15:20:32 JST 2019:MemoryManager[94]/Add -> add new memory: kanren_history += kanren in long_memory.txt
+Mon Dec 16 15:20:32 JST 2019:MemoryManager[82]/Add -> already contain: kanren at activity_history in short_memory.txt
+Mon Dec 16 15:20:32 JST 2019:ActivityManager[78]/handling -> Read activity: activities\kanren.txt
+Mon Dec 16 15:21:10 JST 2019:ActivityManager[78]/handling -> Read activity: activities\nega_long.txt
+Mon Dec 16 15:21:15 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 16 15:21:15 JST 2019:ActivityManager[78]/handling -> Read activity: activities\ka_heart.txt
+Mon Dec 16 15:21:50 JST 2019:ActivityManager[78]/handling -> Read activity: activities\nega_long.txt
+Mon Dec 16 15:22:03 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 16 15:22:03 JST 2019:ActivityManager[78]/handling -> Read activity: activities\ok_gold.txt
+Mon Dec 16 15:22:36 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 16 15:22:36 JST 2019:ActivityManager[78]/handling -> Read activity: activities\9.txt
+Mon Dec 16 15:23:04 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 16 15:23:04 JST 2019:ActivityManager[78]/handling -> Read activity: activities\ok_heart.txt
+Mon Dec 16 15:23:39 JST 2019:MemoryManager[142]/Read -> read memory: boost_history = boost2
+Mon Dec 16 15:23:39 JST 2019:MemoryManager[94]/Add -> add new memory: boost_history += boost in long_memory.txt
+Mon Dec 16 15:23:39 JST 2019:MemoryManager[82]/Add -> already contain: boost at activity_history in short_memory.txt
+Mon Dec 16 15:23:39 JST 2019:ActivityManager[78]/handling -> Read activity: activities\boost.txt
+Mon Dec 16 16:20:15 JST 2019:ActivityManager[78]/handling -> Read activity: activities\4doc.txt
+Mon Dec 16 16:20:47 JST 2019:ActivityManager[78]/handling -> Read activity: activities\4doc.txt
+Mon Dec 16 16:21:22 JST 2019:MemoryManager[142]/Read -> read memory: paru_history = paru
+Mon Dec 16 16:21:22 JST 2019:MemoryManager[94]/Add -> add new memory: paru_history += paru2 in long_memory.txt
+Mon Dec 16 16:21:22 JST 2019:MemoryManager[82]/Add -> already contain: paru2 at activity_history in short_memory.txt
+Mon Dec 16 16:21:22 JST 2019:ActivityManager[78]/handling -> Read activity: activities\paru2.txt
+Mon Dec 16 16:21:42 JST 2019:MemoryManager[142]/Read -> read memory: paru_history = paru,paru2
+Mon Dec 16 16:21:42 JST 2019:MemoryManager[94]/Add -> add new memory: paru_history += paru3 in long_memory.txt
+Mon Dec 16 16:21:42 JST 2019:MemoryManager[82]/Add -> already contain: paru3 at activity_history in short_memory.txt
+Mon Dec 16 16:21:42 JST 2019:ActivityManager[78]/handling -> Read activity: activities\paru3.txt
+Mon Dec 16 16:21:52 JST 2019:ActivityManager[78]/handling -> Read activity: activities\long.txt
+Mon Dec 16 16:21:52 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 162149156
+Mon Dec 16 16:21:55 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 162152172
+Mon Dec 16 16:22:22 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 16 16:22:22 JST 2019:MemoryManager[142]/Read -> read memory: kanren_history = kanren4,kanren3,kanren2,kanren
+Mon Dec 16 16:22:22 JST 2019:MemoryManager[181]/Clear -> clear memory: kanren_history = kanren4,kanren3,kanren2,kanren
+Mon Dec 16 16:22:22 JST 2019:MemoryManager[94]/Add -> add new memory: kanren_history += kanren in long_memory.txt
+Mon Dec 16 16:22:22 JST 2019:MemoryManager[82]/Add -> already contain: kanren at activity_history in short_memory.txt
+Mon Dec 16 16:22:22 JST 2019:ActivityManager[78]/handling -> Read activity: activities\kanren.txt
+Mon Dec 16 16:22:33 JST 2019:ActivityManager[78]/handling -> Read activity: activities\silver.txt
+Mon Dec 16 16:22:35 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 162232361
+Mon Dec 16 16:22:37 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 162233840
+Mon Dec 16 16:23:01 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 16 16:23:01 JST 2019:MemoryManager[142]/Read -> read memory: kanren_history = kanren
+Mon Dec 16 16:23:01 JST 2019:MemoryManager[94]/Add -> add new memory: kanren_history += kanren4 in long_memory.txt
+Mon Dec 16 16:23:01 JST 2019:MemoryManager[82]/Add -> already contain: kanren4 at activity_history in short_memory.txt
+Mon Dec 16 16:23:01 JST 2019:ActivityManager[78]/handling -> Read activity: activities\kanren4.txt
+Mon Dec 16 16:23:24 JST 2019:ActivityManager[78]/handling -> Read activity: activities\silver.txt
+Mon Dec 16 16:23:25 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 162317881
+Mon Dec 16 16:23:28 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 162324498
+Mon Dec 16 16:23:43 JST 2019:ActivityManager[78]/handling -> Read activity: activities\heart.txt
+Mon Dec 16 16:24:00 JST 2019:ActivityManager[78]/handling -> Read activity: activities\gold.txt
+Mon Dec 16 16:24:02 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 1624057
+Mon Dec 16 16:24:05 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 16240315
+Mon Dec 16 16:24:18 JST 2019:ActivityManager[78]/handling -> Read activity: activities\nega_long.txt
+Mon Dec 16 16:24:28 JST 2019:ActivityManager[78]/handling -> Read activity: activities\nega_long.txt
+Mon Dec 16 16:24:32 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 162426866
+Mon Dec 16 16:24:35 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 16 16:24:35 JST 2019:ActivityManager[78]/handling -> Read activity: activities\ok_heart.txt
+Mon Dec 16 16:24:43 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 16 16:24:43 JST 2019:ActivityManager[78]/handling -> Read activity: activities\34.txt
+Mon Dec 16 16:25:01 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 16 16:25:01 JST 2019:ActivityManager[78]/handling -> Read activity: activities\ok_gold.txt
+Mon Dec 16 16:25:13 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 16 16:25:13 JST 2019:ActivityManager[78]/handling -> Read activity: activities\34_2.txt
+Mon Dec 16 16:25:34 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 16 16:25:34 JST 2019:ActivityManager[78]/handling -> Read activity: activities\34_3.txt
+Mon Dec 16 16:25:43 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 16 16:25:43 JST 2019:ActivityManager[78]/handling -> Read activity: activities\33.txt
+Mon Dec 16 16:26:46 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 16 16:26:46 JST 2019:ActivityManager[78]/handling -> Read activity: activities\ok_shizuku.txt
+Mon Dec 16 16:27:00 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 16 16:27:00 JST 2019:ActivityManager[78]/handling -> Read activity: activities\33_3.txt
+Mon Dec 16 16:27:30 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 16 16:27:30 JST 2019:ActivityManager[78]/handling -> Read activity: activities\10_2.txt
+Mon Dec 16 16:28:18 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 16 16:28:18 JST 2019:ActivityManager[78]/handling -> Read activity: activities\32.txt
+Mon Dec 16 16:28:58 JST 2019:ActivityManager[78]/handling -> Read activity: activities\4doc.txt
+Mon Dec 16 16:29:26 JST 2019:ActivityManager[78]/handling -> Read activity: activities\4doc.txt
+Mon Dec 16 16:30:01 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 16 16:30:01 JST 2019:ActivityManager[78]/handling -> Read activity: activities\gold.txt
+Mon Dec 16 16:30:23 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 16 16:30:23 JST 2019:ActivityManager[78]/handling -> Read activity: activities\ka_heart.txt
+Mon Dec 16 16:30:45 JST 2019:MemoryManager[142]/Read -> read memory: shizuku_history = shizuku,shizuku2
+Mon Dec 16 16:30:45 JST 2019:MemoryManager[181]/Clear -> clear memory: shizuku_history = shizuku,shizuku2
+Mon Dec 16 16:30:45 JST 2019:MemoryManager[94]/Add -> add new memory: shizuku_history += shizuku2 in long_memory.txt
+Mon Dec 16 16:30:45 JST 2019:MemoryManager[82]/Add -> already contain: shizuku2 at activity_history in short_memory.txt
+Mon Dec 16 16:30:45 JST 2019:ActivityManager[78]/handling -> Read activity: activities\shizuku2.txt
+Mon Dec 16 16:30:46 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 163043387
+Mon Dec 16 16:30:50 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 163045408
+Mon Dec 16 16:31:00 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 16 16:31:00 JST 2019:ActivityManager[78]/handling -> Read activity: activities\ka_heart.txt
+Mon Dec 16 16:31:30 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 16 16:31:30 JST 2019:MemoryManager[142]/Read -> read memory: kanren_history = kanren,kanren4
+Mon Dec 16 16:31:30 JST 2019:MemoryManager[94]/Add -> add new memory: kanren_history += kanren3 in long_memory.txt
+Mon Dec 16 16:31:30 JST 2019:MemoryManager[82]/Add -> already contain: kanren3 at activity_history in short_memory.txt
+Mon Dec 16 16:31:30 JST 2019:ActivityManager[78]/handling -> Read activity: activities\kanren3.txt
+Mon Dec 16 16:31:51 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 16 16:31:51 JST 2019:MemoryManager[142]/Read -> read memory: kanren_history = kanren,kanren4,kanren3
+Mon Dec 16 16:31:51 JST 2019:MemoryManager[94]/Add -> add new memory: kanren_history += kanren2 in long_memory.txt
+Mon Dec 16 16:31:51 JST 2019:MemoryManager[82]/Add -> already contain: kanren2 at activity_history in short_memory.txt
+Mon Dec 16 16:31:51 JST 2019:ActivityManager[78]/handling -> Read activity: activities\kanren2.txt
+Mon Dec 16 16:32:23 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 16 16:32:23 JST 2019:ActivityManager[78]/handling -> Read activity: activities\ok_shizuku.txt
+Mon Dec 16 16:32:53 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 16 16:32:53 JST 2019:ActivityManager[78]/handling -> Read activity: activities\ok_gold.txt
+Mon Dec 16 16:33:22 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 16 16:33:22 JST 2019:ActivityManager[78]/handling -> Read activity: activities\ok_shizuku.txt
+Mon Dec 16 16:33:53 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 16 16:33:53 JST 2019:ActivityManager[78]/handling -> Read activity: activities\ok_shizuku.txt
+Mon Dec 16 16:34:07 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 16 16:34:07 JST 2019:ActivityManager[78]/handling -> Read activity: activities\ok_shizuku.txt
+Mon Dec 16 16:34:07 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 16341587
+Mon Dec 16 16:34:10 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 16347146
+Mon Dec 16 16:58:32 JST 2019:ActivityManager[78]/handling -> Read activity: activities\4doc.txt
+Mon Dec 16 16:59:17 JST 2019:ActivityManager[78]/handling -> Read activity: activities\4doc.txt
+Mon Dec 16 16:59:52 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 16 16:59:52 JST 2019:ActivityManager[78]/handling -> Read activity: activities\silver.txt
+Mon Dec 16 17:00:27 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 16 17:00:27 JST 2019:ActivityManager[78]/handling -> Read activity: activities\heart.txt
+Mon Dec 16 17:01:02 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 16 17:01:02 JST 2019:ActivityManager[78]/handling -> Read activity: activities\long.txt
+Mon Dec 16 17:01:37 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 16 17:01:37 JST 2019:MemoryManager[142]/Read -> read memory: shizuku_history = shizuku2
+Mon Dec 16 17:01:37 JST 2019:MemoryManager[94]/Add -> add new memory: shizuku_history += shizuku in long_memory.txt
+Mon Dec 16 17:01:37 JST 2019:MemoryManager[82]/Add -> already contain: shizuku at activity_history in short_memory.txt
+Mon Dec 16 17:01:37 JST 2019:ActivityManager[78]/handling -> Read activity: activities\shizuku.txt
+Mon Dec 16 17:02:12 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 16 17:02:12 JST 2019:ActivityManager[78]/handling -> Read activity: activities\rubi.txt
+Mon Dec 16 17:02:26 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 16 17:02:26 JST 2019:MemoryManager[142]/Read -> read memory: kanren_history = kanren,kanren4,kanren3,kanren2
+Mon Dec 16 17:02:26 JST 2019:MemoryManager[181]/Clear -> clear memory: kanren_history = kanren,kanren4,kanren3,kanren2
+Mon Dec 16 17:02:26 JST 2019:MemoryManager[94]/Add -> add new memory: kanren_history += kanren in long_memory.txt
+Mon Dec 16 17:02:26 JST 2019:MemoryManager[82]/Add -> already contain: kanren at activity_history in short_memory.txt
+Mon Dec 16 17:02:26 JST 2019:ActivityManager[78]/handling -> Read activity: activities\kanren.txt
+Mon Dec 16 17:02:27 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 1722385
+Mon Dec 16 17:02:28 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 17226128
+Mon Dec 16 17:02:41 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 16 17:02:41 JST 2019:MemoryManager[142]/Read -> read memory: kanren_history = kanren
+Mon Dec 16 17:02:41 JST 2019:MemoryManager[94]/Add -> add new memory: kanren_history += kanren4 in long_memory.txt
+Mon Dec 16 17:02:41 JST 2019:MemoryManager[82]/Add -> already contain: kanren4 at activity_history in short_memory.txt
+Mon Dec 16 17:02:41 JST 2019:ActivityManager[78]/handling -> Read activity: activities\kanren4.txt
+Mon Dec 16 17:03:00 JST 2019:ActivityManager[78]/handling -> Read activity: activities\gold.txt
+Mon Dec 16 17:03:08 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 1730553
+Mon Dec 16 17:03:11 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 1730759
+Mon Dec 16 17:03:41 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 16 17:03:41 JST 2019:MemoryManager[142]/Read -> read memory: kanren_history = kanren,kanren4
+Mon Dec 16 17:03:41 JST 2019:MemoryManager[94]/Add -> add new memory: kanren_history += kanren2 in long_memory.txt
+Mon Dec 16 17:03:41 JST 2019:MemoryManager[82]/Add -> already contain: kanren2 at activity_history in short_memory.txt
+Mon Dec 16 17:03:41 JST 2019:ActivityManager[78]/handling -> Read activity: activities\kanren2.txt
+Mon Dec 16 17:04:25 JST 2019:ActivityManager[78]/handling -> Read activity: activities\heart.txt
+Mon Dec 16 17:04:52 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 16 17:04:52 JST 2019:ActivityManager[78]/handling -> Read activity: activities\ok_silver.txt
+Mon Dec 16 17:05:49 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 16 17:05:49 JST 2019:ActivityManager[78]/handling -> Read activity: activities\27_3.txt
+Mon Dec 16 17:05:58 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 16 17:05:58 JST 2019:ActivityManager[78]/handling -> Read activity: activities\10.txt
+Mon Dec 16 17:06:23 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 16 17:06:23 JST 2019:ActivityManager[78]/handling -> Read activity: activities\10_2.txt

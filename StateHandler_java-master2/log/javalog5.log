@@ -1,0 +1,126 @@
+Mon Oct 28 12:15:21 JST 2019:util.Log[126]/init -> @@@ RUN STAMP @@@ -- Frontier-is
+Mon Oct 28 12:15:21 JST 2019:util.FileManage[91]/ReadFile -> read setting.txt
+ -> util.Config[76]/init
+ -> util.Config[36]/<init>
+ -> ActivityManager[41]/handling
+ -> ActivityManager[21]/main
+Mon Oct 28 12:15:21 JST 2019:util.Config[155]/Get -> read config ipAdress_server = 100.80.194.226
+Mon Oct 28 12:15:21 JST 2019:util.Config[155]/Get -> read config portNum_server = 11000
+Mon Oct 28 12:15:21 JST 2019:ClientThreadUTF8[46]/<init> -> try to connect with 100.80.194.226 11000
+Mon Oct 28 12:15:21 JST 2019:ClientThreadUTF8[54]/<init> -> connected with 100.80.194.226 11000
+Mon Oct 28 12:15:38 JST 2019:ActivityManager[78]/handling -> Read activity: activities\narrow-gold.txt
+Mon Oct 28 12:16:20 JST 2019:ActivityManager[78]/handling -> Read activity: activities\target.txt
+Mon Oct 28 12:16:41 JST 2019:ActivityManager[78]/handling -> Read activity: activities\cute.txt
+Mon Oct 28 12:17:04 JST 2019:ActivityManager[78]/handling -> Read activity: activities\cute.txt
+Mon Oct 28 12:17:22 JST 2019:ActivityManager[78]/handling -> Read activity: activities\simple.txt
+Mon Oct 28 12:19:24 JST 2019:ActivityManager[78]/handling -> Read activity: activities\nega-long.txt
+Mon Oct 28 12:19:54 JST 2019:ActivityManager[78]/handling -> Read activity: activities\narrow.txt
+Mon Oct 28 13:58:26 JST 2019:ActivityManager[78]/handling -> Read activity: activities\cute.txt
+Mon Oct 28 13:58:46 JST 2019:ActivityManager[78]/handling -> Read activity: activities\target.txt
+Mon Oct 28 14:17:52 JST 2019:ActivityManager[78]/handling -> Read activity: activities\shizuku.txt
+Mon Oct 28 14:18:16 JST 2019:ActivityManager[78]/handling -> Read activity: activities\simple.txt
+Mon Oct 28 14:18:33 JST 2019:ActivityManager[78]/handling -> Read activity: activities\paru.txt
+Mon Oct 28 14:20:33 JST 2019:ActivityManager[78]/handling -> Read activity: activities\narrow-gold.txt
+Mon Oct 28 14:21:19 JST 2019:ActivityManager[78]/handling -> Read activity: activities\simple.txt
+Mon Oct 28 14:22:07 JST 2019:ActivityManager[78]/handling -> Read activity: activities\nega-long.txt
+Mon Oct 28 14:22:37 JST 2019:ActivityManager[78]/handling -> Read activity: activities\narrow.txt
+Mon Oct 28 14:23:07 JST 2019:ActivityManager[78]/handling -> Read activity: activities\narrow-heart.txt
+Mon Oct 28 14:23:08 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 14236512
+Mon Oct 28 14:23:11 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 14237228
+Mon Oct 28 14:23:37 JST 2019:ActivityManager[78]/handling -> Read activity: activities\narrow-heart.txt
+Mon Oct 28 14:24:07 JST 2019:ActivityManager[78]/handling -> Read activity: activities\nega-long.txt
+Mon Oct 28 14:24:30 JST 2019:ActivityManager[78]/handling -> Read activity: activities\simple.txt
+Mon Oct 28 14:24:35 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 14243036
+Mon Oct 28 14:24:38 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 14243417
+Mon Oct 28 14:24:56 JST 2019:ActivityManager[78]/handling -> Read activity: activities\nega-long.txt
+Mon Oct 28 14:34:23 JST 2019:ActivityManager[78]/handling -> Read activity: activities\narrow-gold.txt
+Mon Oct 28 14:35:13 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Oct 28 14:35:13 JST 2019:ActivityManager[78]/handling -> Read activity: activities\narrow.txt
+Mon Oct 28 14:35:21 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Oct 28 14:35:21 JST 2019:ActivityManager[78]/handling -> Read activity: activities\shizuku.txt
+Mon Oct 28 14:35:47 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Oct 28 14:35:47 JST 2019:ActivityManager[78]/handling -> Read activity: activities\hade.txt
+Mon Oct 28 14:36:52 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Oct 28 14:36:52 JST 2019:ActivityManager[78]/handling -> Read activity: activities\simple.txt
+Mon Oct 28 14:37:22 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Oct 28 14:37:22 JST 2019:ActivityManager[78]/handling -> Read activity: activities\simple.txt
+Mon Oct 28 14:37:30 JST 2019:ActivityManager[78]/handling -> Read activity: activities\target.txt
+Mon Oct 28 14:37:32 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 143729376
+Mon Oct 28 14:37:34 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 143730197
+Mon Oct 28 14:38:12 JST 2019:ActivityManager[78]/handling -> Read activity: activities\nega-long.txt
+Mon Oct 28 15:08:45 JST 2019:ActivityManager[78]/handling -> Read activity: activities\narrow-gold.txt
+Mon Oct 28 15:08:57 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Oct 28 15:08:57 JST 2019:ActivityManager[78]/handling -> Read activity: activities\simple.txt
+Mon Oct 28 15:09:13 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Oct 28 15:09:13 JST 2019:ActivityManager[78]/handling -> Read activity: activities\hade.txt
+Mon Oct 28 15:09:32 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Oct 28 15:09:32 JST 2019:ActivityManager[78]/handling -> Read activity: activities\simple.txt
+Mon Oct 28 15:09:53 JST 2019:ActivityManager[78]/handling -> Read activity: activities\nega-long.txt
+Mon Oct 28 15:10:29 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Oct 28 15:10:29 JST 2019:ActivityManager[78]/handling -> Read activity: activities\simple.txt
+Mon Oct 28 15:10:47 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Oct 28 15:10:47 JST 2019:ActivityManager[78]/handling -> Read activity: activities\shizuku.txt
+Mon Oct 28 15:11:20 JST 2019:ActivityManager[78]/handling -> Read activity: activities\nega-long.txt
+Mon Oct 28 15:12:15 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Oct 28 15:12:15 JST 2019:ActivityManager[78]/handling -> Read activity: activities\narrow-heart.txt
+Mon Oct 28 15:13:10 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Oct 28 15:13:10 JST 2019:ActivityManager[78]/handling -> Read activity: activities\narrow.txt
+Mon Oct 28 15:47:15 JST 2019:ActivityManager[78]/handling -> Read activity: activities\narrow-gold.txt
+Mon Oct 28 15:47:52 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Oct 28 15:47:52 JST 2019:ActivityManager[78]/handling -> Read activity: activities\long.txt
+Mon Oct 28 15:49:25 JST 2019:ActivityManager[78]/handling -> Read activity: activities\narrow-gold.txt
+Mon Oct 28 15:51:07 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Oct 28 15:51:07 JST 2019:ActivityManager[78]/handling -> Read activity: activities\narrow.txt
+Mon Oct 28 15:52:02 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Oct 28 15:52:02 JST 2019:ActivityManager[78]/handling -> Read activity: activities\nega-long.txt
+Mon Oct 28 15:52:13 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Oct 28 15:52:13 JST 2019:ActivityManager[78]/handling -> Read activity: activities\long.txt
+Mon Oct 28 15:52:36 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Oct 28 15:52:36 JST 2019:ActivityManager[78]/handling -> Read activity: activities\simple.txt
+Mon Oct 28 15:52:59 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Oct 28 15:52:59 JST 2019:ActivityManager[78]/handling -> Read activity: activities\simple.txt
+Mon Oct 28 15:53:31 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Oct 28 15:53:31 JST 2019:ActivityManager[78]/handling -> Read activity: activities\simple.txt
+Mon Oct 28 15:54:06 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Oct 28 15:54:06 JST 2019:ActivityManager[78]/handling -> Read activity: activities\cute.txt
+Mon Oct 28 15:54:28 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Oct 28 15:54:28 JST 2019:ActivityManager[78]/handling -> Read activity: activities\shizuku.txt
+Mon Oct 28 15:55:13 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Oct 28 15:55:13 JST 2019:ActivityManager[78]/handling -> Read activity: activities\simple.txt
+Mon Oct 28 15:55:44 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Oct 28 15:55:44 JST 2019:ActivityManager[78]/handling -> Read activity: activities\paru.txt
+Mon Oct 28 15:59:59 JST 2019:ActivityManager[78]/handling -> Read activity: activities\narrow-gold.txt
+Mon Oct 28 16:01:44 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Oct 28 16:01:44 JST 2019:ActivityManager[78]/handling -> Read activity: activities\narrow.txt
+Mon Oct 28 16:16:02 JST 2019:ActivityManager[78]/handling -> Read activity: activities\narrow-gold.txt
+Mon Oct 28 16:16:34 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Oct 28 16:16:34 JST 2019:ActivityManager[78]/handling -> Read activity: activities\shizuku.txt
+Mon Oct 28 16:16:49 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Oct 28 16:16:49 JST 2019:ActivityManager[78]/handling -> Read activity: activities\paru.txt
+Mon Oct 28 16:17:20 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Oct 28 16:17:20 JST 2019:ActivityManager[78]/handling -> Read activity: activities\paru.txt
+Mon Oct 28 16:17:56 JST 2019:ActivityManager[78]/handling -> Read activity: activities\narrow-gold.txt
+Mon Oct 28 16:19:13 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Oct 28 16:19:13 JST 2019:ActivityManager[78]/handling -> Read activity: activities\nega-long.txt
+Mon Oct 28 16:19:26 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Oct 28 16:19:26 JST 2019:ActivityManager[78]/handling -> Read activity: activities\simple.txt
+Mon Oct 28 16:19:49 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Oct 28 16:19:49 JST 2019:ActivityManager[78]/handling -> Read activity: activities\hade.txt
+Mon Oct 28 16:20:24 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Oct 28 16:20:24 JST 2019:ActivityManager[78]/handling -> Read activity: activities\long.txt
+Mon Oct 28 16:20:49 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Oct 28 16:20:49 JST 2019:ActivityManager[78]/handling -> Read activity: activities\paru.txt
+Mon Oct 28 16:21:10 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Oct 28 16:21:10 JST 2019:ActivityManager[78]/handling -> Read activity: activities\simple.txt
+Mon Oct 28 16:21:42 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Oct 28 16:21:42 JST 2019:ActivityManager[78]/handling -> Read activity: activities\simple.txt
+Mon Oct 28 16:22:53 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Oct 28 16:22:53 JST 2019:ActivityManager[78]/handling -> Read activity: activities\narrow-heart.txt
+Mon Oct 28 16:23:29 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Oct 28 16:23:29 JST 2019:ActivityManager[78]/handling -> Read activity: activities\hade.txt
+Mon Oct 28 16:24:42 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Oct 28 16:24:42 JST 2019:ActivityManager[78]/handling -> Read activity: activities\narrow.txt
+Mon Oct 28 16:24:56 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Oct 28 16:24:56 JST 2019:ActivityManager[78]/handling -> Read activity: activities\target.txt
+Mon Oct 28 16:25:16 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Oct 28 16:25:16 JST 2019:ActivityManager[78]/handling -> Read activity: activities\cute.txt

@@ -1,0 +1,16 @@
+
+sota;addAction:say:イヤリング、何選んだらいいか分からないよね
+sota;waitForCommandEnd
+sota2;addAction:say:商品がたくさんあるからね:rate=10:pitch=1:intonation=8
+sota2;waitForCommandEnd
+sota;addAction:motionWith:pose:-1200:-900:0:900:0:0:0:0:300
+sota;addAction:say:そんなときは、イヤリングの長さに着目してみるといいよ
+sota;waitForCommandEnd
+sota2;addAction:motionWith:bodyPose:1200:300:-500:900:0:1000
+sota2;addAction:say:長さだね:rate=10:pitch=1:intonation=8
+sota2;waitForCommandEnd
+sota;addAction:say:長いものは動きがあって華やかな気がするなあ
+loadActivity:sotakatari
+sota;waitForCommandEnd
+
+

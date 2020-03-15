@@ -1,0 +1,120 @@
+Sun Dec 15 08:02:38 JST 2019:util.Log[126]/init -> @@@ RUN STAMP @@@ -- Frontier-is
+Sun Dec 15 08:02:38 JST 2019:util.Config[155]/Get -> read config ipAdress_server = 100.80.194.226
+Sun Dec 15 08:02:38 JST 2019:util.Config[155]/Get -> read config portNum_server = 11000
+Sun Dec 15 08:02:38 JST 2019:ScenarioUpdater[55]/update -> Scenario Update
+Sun Dec 15 08:02:38 JST 2019:ClientThreadUTF8[46]/<init> -> try to connect with 100.80.194.226 11000
+Sun Dec 15 08:02:39 JST 2019:StateHandler[202]/handling -> wait for re-connecting: 1.5 second
+Sun Dec 15 08:02:39 JST 2019:MemoryManager[142]/Read -> read memory: newnews = false
+Sun Dec 15 08:02:39 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Sun Dec 15 08:02:39 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Sun Dec 15 08:02:39 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Sun Dec 15 08:02:39 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Sun Dec 15 08:02:39 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Sun Dec 15 08:02:39 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Sun Dec 15 08:02:39 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Sun Dec 15 08:02:39 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Sun Dec 15 08:02:39 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Sun Dec 15 08:02:39 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Sun Dec 15 08:02:39 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Sun Dec 15 08:02:39 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Sun Dec 15 08:02:39 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Sun Dec 15 08:02:39 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Sun Dec 15 08:02:39 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Sun Dec 15 08:02:39 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Sun Dec 15 08:02:39 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Sun Dec 15 08:02:39 JST 2019:MemoryManager[260]/Contain -> Not Contained!: true at newnews in long_memory.txt
+Sun Dec 15 08:02:40 JST 2019:util.FileManage[91]/ReadFile -> read setting.txt
+ -> util.Config[76]/init
+ -> util.Config[36]/<init>
+ -> StateHandler[40]/handling
+ -> StateHandler[18]/main
+Sun Dec 15 08:02:40 JST 2019:util.Config[155]/Get -> read config ipAdress_server = 100.80.194.226
+Sun Dec 15 08:02:40 JST 2019:util.Config[155]/Get -> read config portNum_server = 11000
+Sun Dec 15 08:02:40 JST 2019:ClientThreadUTF8[46]/<init> -> try to connect with 100.80.194.226 11000
+Sun Dec 15 08:02:40 JST 2019:ScenarioUpdater[456]/makeActivity_weather -> ERROR(weather): javax.script.ScriptException: TypeError: Cannot read property "dateLabel" from undefined in <eval> at line number 1
+Sun Dec 15 08:02:40 JST 2019:MemoryManager[255]/Contain -> Contained!: 2019 at year in long_memory.txt
+Sun Dec 15 08:02:40 JST 2019:MemoryManager[255]/Contain -> Contained!: 12 at month in long_memory.txt
+Sun Dec 15 08:02:40 JST 2019:MemoryManager[255]/Contain -> Contained!: 15 at day in long_memory.txt
+Sun Dec 15 08:02:40 JST 2019:MemoryManager[255]/Contain -> Contained!: 1 at day_of_week in long_memory.txt
+Sun Dec 15 08:02:40 JST 2019:MemoryManager[255]/Contain -> Contained!: 8 at hour in long_memory.txt
+Sun Dec 15 08:02:41 JST 2019:StateHandler[202]/handling -> wait for re-connecting: 3.0 second
+Sun Dec 15 08:02:44 JST 2019:util.FileManage[91]/ReadFile -> read setting.txt
+ -> util.Config[76]/init
+ -> util.Config[36]/<init>
+ -> StateHandler[40]/handling
+ -> StateHandler[18]/main
+Sun Dec 15 08:02:44 JST 2019:util.Config[155]/Get -> read config ipAdress_server = 100.80.194.226
+Sun Dec 15 08:02:44 JST 2019:util.Config[155]/Get -> read config portNum_server = 11000
+Sun Dec 15 08:02:44 JST 2019:ClientThreadUTF8[46]/<init> -> try to connect with 100.80.194.226 11000
+Sun Dec 15 08:02:45 JST 2019:StateHandler[202]/handling -> wait for re-connecting: 5.5 second
+Sun Dec 15 08:02:50 JST 2019:util.FileManage[91]/ReadFile -> read setting.txt
+ -> util.Config[76]/init
+ -> util.Config[36]/<init>
+ -> StateHandler[40]/handling
+ -> StateHandler[18]/main
+Sun Dec 15 08:02:50 JST 2019:util.Config[155]/Get -> read config ipAdress_server = 100.80.194.226
+Sun Dec 15 08:02:50 JST 2019:util.Config[155]/Get -> read config portNum_server = 11000
+Sun Dec 15 08:02:50 JST 2019:ClientThreadUTF8[46]/<init> -> try to connect with 100.80.194.226 11000
+Sun Dec 15 08:02:51 JST 2019:StateHandler[202]/handling -> wait for re-connecting: 9.0 second
+Sun Dec 15 08:03:00 JST 2019:util.FileManage[91]/ReadFile -> read setting.txt
+ -> util.Config[76]/init
+ -> util.Config[36]/<init>
+ -> StateHandler[40]/handling
+ -> StateHandler[18]/main
+Sun Dec 15 08:03:00 JST 2019:util.Config[155]/Get -> read config ipAdress_server = 100.80.194.226
+Sun Dec 15 08:03:00 JST 2019:util.Config[155]/Get -> read config portNum_server = 11000
+Sun Dec 15 08:03:00 JST 2019:ClientThreadUTF8[46]/<init> -> try to connect with 100.80.194.226 11000
+Sun Dec 15 08:03:01 JST 2019:StateHandler[202]/handling -> wait for re-connecting: 13.5 second
+Sun Dec 15 08:03:14 JST 2019:util.FileManage[91]/ReadFile -> read setting.txt
+ -> util.Config[76]/init
+ -> util.Config[36]/<init>
+ -> StateHandler[40]/handling
+ -> StateHandler[18]/main
+Sun Dec 15 08:03:14 JST 2019:util.Config[155]/Get -> read config ipAdress_server = 100.80.194.226
+Sun Dec 15 08:03:14 JST 2019:util.Config[155]/Get -> read config portNum_server = 11000
+Sun Dec 15 08:03:14 JST 2019:ClientThreadUTF8[46]/<init> -> try to connect with 100.80.194.226 11000
+Sun Dec 15 08:03:15 JST 2019:StateHandler[202]/handling -> wait for re-connecting: 19.0 second
+Sun Dec 15 08:03:34 JST 2019:util.FileManage[91]/ReadFile -> read setting.txt
+ -> util.Config[76]/init
+ -> util.Config[36]/<init>
+ -> StateHandler[40]/handling
+ -> StateHandler[18]/main
+Sun Dec 15 08:03:34 JST 2019:util.Config[155]/Get -> read config ipAdress_server = 100.80.194.226
+Sun Dec 15 08:03:34 JST 2019:util.Config[155]/Get -> read config portNum_server = 11000
+Sun Dec 15 08:03:34 JST 2019:ClientThreadUTF8[46]/<init> -> try to connect with 100.80.194.226 11000
+Sun Dec 15 08:03:35 JST 2019:StateHandler[202]/handling -> wait for re-connecting: 25.5 second
+Sun Dec 15 08:03:40 JST 2019:ScenarioUpdater[55]/update -> Scenario Update
+Sun Dec 15 08:03:40 JST 2019:MemoryManager[142]/Read -> read memory: newnews = false
+Sun Dec 15 08:03:40 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Sun Dec 15 08:03:40 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Sun Dec 15 08:03:40 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Sun Dec 15 08:03:40 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Sun Dec 15 08:03:40 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Sun Dec 15 08:03:40 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Sun Dec 15 08:03:40 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Sun Dec 15 08:03:40 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Sun Dec 15 08:03:40 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Sun Dec 15 08:03:40 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Sun Dec 15 08:03:40 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Sun Dec 15 08:03:40 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Sun Dec 15 08:03:40 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Sun Dec 15 08:03:40 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Sun Dec 15 08:03:40 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Sun Dec 15 08:03:40 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Sun Dec 15 08:03:40 JST 2019:MemoryManager[139]/Read -> Could Not find 'reported_news' in long_memory.txt
+Sun Dec 15 08:03:40 JST 2019:MemoryManager[260]/Contain -> Not Contained!: true at newnews in long_memory.txt
+Sun Dec 15 08:03:40 JST 2019:ScenarioUpdater[456]/makeActivity_weather -> ERROR(weather): javax.script.ScriptException: TypeError: Cannot read property "dateLabel" from undefined in <eval> at line number 1
+Sun Dec 15 08:03:40 JST 2019:MemoryManager[255]/Contain -> Contained!: 2019 at year in long_memory.txt
+Sun Dec 15 08:03:40 JST 2019:MemoryManager[255]/Contain -> Contained!: 12 at month in long_memory.txt
+Sun Dec 15 08:03:40 JST 2019:MemoryManager[255]/Contain -> Contained!: 15 at day in long_memory.txt
+Sun Dec 15 08:03:40 JST 2019:MemoryManager[255]/Contain -> Contained!: 1 at day_of_week in long_memory.txt
+Sun Dec 15 08:03:40 JST 2019:MemoryManager[255]/Contain -> Contained!: 8 at hour in long_memory.txt
+Sun Dec 15 08:04:00 JST 2019:util.FileManage[91]/ReadFile -> read setting.txt
+ -> util.Config[76]/init
+ -> util.Config[36]/<init>
+ -> StateHandler[40]/handling
+ -> StateHandler[18]/main
+Sun Dec 15 08:04:00 JST 2019:util.Config[155]/Get -> read config ipAdress_server = 100.80.194.226
+Sun Dec 15 08:04:00 JST 2019:util.Config[155]/Get -> read config portNum_server = 11000
+Sun Dec 15 08:04:00 JST 2019:ClientThreadUTF8[46]/<init> -> try to connect with 100.80.194.226 11000
+Sun Dec 15 08:04:01 JST 2019:StateHandler[202]/handling -> wait for re-connecting: 33.0 second

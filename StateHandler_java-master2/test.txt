@@ -1,0 +1,24 @@
+# Test.txt
+# state : trigger : next : activity : option
+
+
+# test code
+
+
+init : program_start : wait : explain_init : sendLater5000=sh;behavior_not_end
+
+
+wait : behavior_end : wait : na : sendLater5000=sh;behavior_not_end
+wait : behavior_not_end : normal&wait : kasige : na
+wait : response_not_come : normal : kasige : na
+wait : m : wait&normal&a&b&c&d&e&f : kasige : na
+wait : a : -a : kasige : na
+wait : b : -b&-c : kasige : na
+wait : d : +g&-d : kasige : na
+wait : e : -g&+d : kasige : na
+wait : be : +be : kasige : na
+wait : be : -be : kasige : na
+wait : test : normal : test : na
+
+normal : ok : wait : ok : na
+normal : response_not_come : end : ok : na

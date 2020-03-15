@@ -1,0 +1,14 @@
+sota2;addAction:motionWith:pose:700:-900:0:900:0:0:0:0:700
+sota2;addAction:say:いいイヤリング見つかった?:rate=10:pitch=1:intonation=8
+sota2;waitForCommandEnd
+sota;addAction:say:13番のイヤリングすごく良さそうだなあ
+sota;waitForCommandEnd
+sota2;addAction:say:ハート型のかわいいイヤリングだね:rate=10:pitch=1:intonation=8
+sota2;waitForCommandEnd
+sota;addAction:say:ワンポイントのシルバーがさらにかわいさを引き立ててるね
+sota;waitForCommandEnd
+sota2;addAction:motionWith:bodyPose:0:300:-500:900:0:1000
+sota2;addAction:say:着け心地もすっきりしてそうだし、13番良さそう、良さそう:rate=10:pitch=1:intonation=8
+sota2;waitForCommandEnd
+
+

@@ -1,0 +1,7 @@
+#ipAdress_server = 100.80.194.226
+ipAdress_server = localhost
+portNum_server = 11000
+init_message = name;sh
+scenario_file = room.txt
+
+

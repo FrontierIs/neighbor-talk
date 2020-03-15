@@ -1,0 +1,14 @@
+
+sota;addAction:say:僕の一番好きイヤリングあれだなあ
+sota;waitForCommandEnd
+sota2;addAction:say:何番、何番?:rate=10:pitch=1:intonation=8
+sota2;waitForCommandEnd
+sota;addAction:say:6番、シンプルな感じとさわやかさがあって、一番いいと思うんだ
+sota;waitForCommandEnd
+sota2;addAction:motionWith:bodyPose:0:300:-500:900:0:1000
+sota2;addAction:say:確かに女性らしさがあって素敵だね:rate=10:pitch=1:intonation=8
+sota2;waitForCommandEnd
+sota;addAction:say:6番、喜んでくれること間違いないね
+sota;waitForCommandEnd
+
+

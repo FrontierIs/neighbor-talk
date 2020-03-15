@@ -1,0 +1,1278 @@
+Tue Jan 14 10:12:06 JST 2020:util.Log[126]/init -> @@@ RUN STAMP @@@ -- Frontier-is
+Tue Jan 14 10:12:06 JST 2020:util.FileManage[91]/ReadFile -> read setting.txt
+ -> util.Config[76]/init
+ -> util.Config[36]/<init>
+ -> ActivityManager[41]/handling
+ -> ActivityManager[21]/main
+Tue Jan 14 10:12:06 JST 2020:util.Config[155]/Get -> read config ipAdress_server = localhost
+Tue Jan 14 10:12:06 JST 2020:util.Config[155]/Get -> read config portNum_server = 11000
+Tue Jan 14 10:12:06 JST 2020:ClientThreadUTF8[46]/<init> -> try to connect with localhost 11000
+Tue Jan 14 10:12:06 JST 2020:ClientThreadUTF8[54]/<init> -> connected with localhost 11000
+Tue Jan 14 10:15:37 JST 2020:ActivityManager[78]/handling -> Read activity: activities\4doc.txt
+Tue Jan 14 10:17:45 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 10:17:45 JST 2020:MemoryManager[142]/Read -> read memory: ka_shizuku_history = ka_shizuku2
+Tue Jan 14 10:17:45 JST 2020:MemoryManager[94]/Add -> add new memory: ka_shizuku_history += ka_shizuku in long_memory.txt
+Tue Jan 14 10:17:45 JST 2020:MemoryManager[82]/Add -> already contain: ka_shizuku at activity_history in short_memory.txt
+Tue Jan 14 10:17:45 JST 2020:MemoryManager[142]/Read -> read memory: aizuchi_history = aizuchi4,aizuchi
+Tue Jan 14 10:17:45 JST 2020:MemoryManager[94]/Add -> add new memory: aizuchi_history += aizuchi2 in long_memory.txt
+Tue Jan 14 10:17:45 JST 2020:MemoryManager[82]/Add -> already contain: aizuchi2 at activity_history in short_memory.txt
+Tue Jan 14 10:17:45 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: aizuchi
+Tue Jan 14 10:17:45 JST 2020:ActivityManager[78]/handling -> Read activity: activities\ka_shizuku.txt
+Tue Jan 14 10:21:28 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 10:21:28 JST 2020:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: cool
+Tue Jan 14 10:21:33 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 10:21:33 JST 2020:MemoryManager[142]/Read -> read memory: target_history = target,target4,target2
+Tue Jan 14 10:21:33 JST 2020:MemoryManager[94]/Add -> add new memory: target_history += target3 in long_memory.txt
+Tue Jan 14 10:21:33 JST 2020:MemoryManager[82]/Add -> already contain: target3 at activity_history in short_memory.txt
+Tue Jan 14 10:21:33 JST 2020:ActivityManager[78]/handling -> Read activity: activities\target3.txt
+Tue Jan 14 10:53:56 JST 2020:ActivityManager[78]/handling -> Read activity: activities\4doc.txt
+Tue Jan 14 10:54:17 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 10:54:17 JST 2020:MemoryManager[142]/Read -> read memory: ka_heart_history = ka_heart
+Tue Jan 14 10:54:17 JST 2020:MemoryManager[94]/Add -> add new memory: ka_heart_history += ka_heart2 in long_memory.txt
+Tue Jan 14 10:54:17 JST 2020:MemoryManager[82]/Add -> already contain: ka_heart2 at activity_history in short_memory.txt
+Tue Jan 14 10:54:17 JST 2020:MemoryManager[142]/Read -> read memory: aizuchi_history = aizuchi4,aizuchi,aizuchi2
+Tue Jan 14 10:54:17 JST 2020:MemoryManager[94]/Add -> add new memory: aizuchi_history += aizuchi3 in long_memory.txt
+Tue Jan 14 10:54:17 JST 2020:MemoryManager[82]/Add -> already contain: aizuchi3 at activity_history in short_memory.txt
+Tue Jan 14 10:54:17 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: aizuchi
+Tue Jan 14 10:54:17 JST 2020:MemoryManager[142]/Read -> read memory: aizuchi_history = aizuchi4,aizuchi,aizuchi2,aizuchi3
+Tue Jan 14 10:54:17 JST 2020:MemoryManager[181]/Clear -> clear memory: aizuchi_history = aizuchi4,aizuchi,aizuchi2,aizuchi3
+Tue Jan 14 10:54:17 JST 2020:MemoryManager[94]/Add -> add new memory: aizuchi_history += aizuchi in long_memory.txt
+Tue Jan 14 10:54:17 JST 2020:MemoryManager[82]/Add -> already contain: aizuchi at activity_history in short_memory.txt
+Tue Jan 14 10:54:17 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: aizuchi
+Tue Jan 14 10:54:17 JST 2020:ActivityManager[78]/handling -> Read activity: activities\ka_heart2.txt
+Tue Jan 14 10:54:26 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 10:54:26 JST 2020:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: cool
+Tue Jan 14 10:54:35 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 10:54:35 JST 2020:MemoryManager[142]/Read -> read memory: ok_silver_history = ok_silver3,ok_silver
+Tue Jan 14 10:54:35 JST 2020:MemoryManager[94]/Add -> add new memory: ok_silver_history += ok_silver4 in long_memory.txt
+Tue Jan 14 10:54:35 JST 2020:MemoryManager[94]/Add -> add new memory: activity_history += ok_silver4 in short_memory.txt
+Tue Jan 14 10:54:35 JST 2020:MemoryManager[142]/Read -> read memory: praisesilver_history = praisesilver3,praisesilver2,praisesilver
+Tue Jan 14 10:54:35 JST 2020:MemoryManager[94]/Add -> add new memory: praisesilver_history += praisesilver4 in long_memory.txt
+Tue Jan 14 10:54:35 JST 2020:MemoryManager[82]/Add -> already contain: praisesilver4 at activity_history in short_memory.txt
+Tue Jan 14 10:54:35 JST 2020:MemoryManager[142]/Read -> read memory: sotaaizuchi_history = sotaaizuchi3,sotaaizuchi
+Tue Jan 14 10:54:35 JST 2020:MemoryManager[94]/Add -> add new memory: sotaaizuchi_history += sotaaizuchi4 in long_memory.txt
+Tue Jan 14 10:54:35 JST 2020:MemoryManager[82]/Add -> already contain: sotaaizuchi4 at activity_history in short_memory.txt
+Tue Jan 14 10:54:35 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: sotaaizuchi
+Tue Jan 14 10:54:35 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: praisesilver
+Tue Jan 14 10:54:35 JST 2020:ActivityManager[78]/handling -> Read activity: activities\ok_silver4.txt
+Tue Jan 14 10:54:48 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 10:54:48 JST 2020:ActivityManager[78]/handling -> Read activity: activities\first.txt
+Tue Jan 14 10:54:54 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 10:54:54 JST 2020:MemoryManager[142]/Read -> read memory: ok_long_history = ok_long3,ok_long4,ok_long
+Tue Jan 14 10:54:54 JST 2020:MemoryManager[94]/Add -> add new memory: ok_long_history += ok_long2 in long_memory.txt
+Tue Jan 14 10:54:54 JST 2020:MemoryManager[82]/Add -> already contain: ok_long2 at activity_history in short_memory.txt
+Tue Jan 14 10:54:54 JST 2020:MemoryManager[142]/Read -> read memory: praisesilver_history = praisesilver3,praisesilver2,praisesilver,praisesilver4
+Tue Jan 14 10:54:54 JST 2020:MemoryManager[181]/Clear -> clear memory: praisesilver_history = praisesilver3,praisesilver2,praisesilver,praisesilver4
+Tue Jan 14 10:54:54 JST 2020:MemoryManager[94]/Add -> add new memory: praisesilver_history += praisesilver2 in long_memory.txt
+Tue Jan 14 10:54:54 JST 2020:MemoryManager[82]/Add -> already contain: praisesilver2 at activity_history in short_memory.txt
+Tue Jan 14 10:54:54 JST 2020:MemoryManager[142]/Read -> read memory: sotaaizuchi_history = sotaaizuchi3,sotaaizuchi,sotaaizuchi4
+Tue Jan 14 10:54:54 JST 2020:MemoryManager[94]/Add -> add new memory: sotaaizuchi_history += sotaaizuchi2 in long_memory.txt
+Tue Jan 14 10:54:54 JST 2020:MemoryManager[82]/Add -> already contain: sotaaizuchi2 at activity_history in short_memory.txt
+Tue Jan 14 10:54:54 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: sotaaizuchi
+Tue Jan 14 10:54:54 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: praisesilver
+Tue Jan 14 10:54:54 JST 2020:ActivityManager[78]/handling -> Read activity: activities\ok_long2.txt
+Tue Jan 14 10:55:08 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 10:55:08 JST 2020:ActivityManager[78]/handling -> Read activity: activities\first.txt
+Tue Jan 14 10:55:18 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 10:55:18 JST 2020:MemoryManager[142]/Read -> read memory: ok_long_history = ok_long3,ok_long4,ok_long,ok_long2
+Tue Jan 14 10:55:18 JST 2020:MemoryManager[181]/Clear -> clear memory: ok_long_history = ok_long3,ok_long4,ok_long,ok_long2
+Tue Jan 14 10:55:18 JST 2020:MemoryManager[94]/Add -> add new memory: ok_long_history += ok_long3 in long_memory.txt
+Tue Jan 14 10:55:18 JST 2020:MemoryManager[82]/Add -> already contain: ok_long3 at activity_history in short_memory.txt
+Tue Jan 14 10:55:18 JST 2020:MemoryManager[142]/Read -> read memory: praisesilver_history = praisesilver2
+Tue Jan 14 10:55:18 JST 2020:MemoryManager[94]/Add -> add new memory: praisesilver_history += praisesilver4 in long_memory.txt
+Tue Jan 14 10:55:18 JST 2020:MemoryManager[82]/Add -> already contain: praisesilver4 at activity_history in short_memory.txt
+Tue Jan 14 10:55:18 JST 2020:MemoryManager[142]/Read -> read memory: sotaaizuchi_history = sotaaizuchi3,sotaaizuchi,sotaaizuchi4,sotaaizuchi2
+Tue Jan 14 10:55:18 JST 2020:MemoryManager[181]/Clear -> clear memory: sotaaizuchi_history = sotaaizuchi3,sotaaizuchi,sotaaizuchi4,sotaaizuchi2
+Tue Jan 14 10:55:18 JST 2020:MemoryManager[94]/Add -> add new memory: sotaaizuchi_history += sotaaizuchi3 in long_memory.txt
+Tue Jan 14 10:55:18 JST 2020:MemoryManager[82]/Add -> already contain: sotaaizuchi3 at activity_history in short_memory.txt
+Tue Jan 14 10:55:18 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: sotaaizuchi
+Tue Jan 14 10:55:18 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: praisesilver
+Tue Jan 14 10:55:18 JST 2020:ActivityManager[78]/handling -> Read activity: activities\ok_long3.txt
+Tue Jan 14 10:55:32 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 10:55:32 JST 2020:ActivityManager[78]/handling -> Read activity: activities\24.txt
+Tue Jan 14 10:55:33 JST 2020:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 1055307
+Tue Jan 14 10:55:33 JST 2020:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 105532854
+Tue Jan 14 10:55:38 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 10:55:39 JST 2020:MemoryManager[142]/Read -> read memory: target_history = target,target4,target2,target3
+Tue Jan 14 10:55:39 JST 2020:MemoryManager[181]/Clear -> clear memory: target_history = target,target4,target2,target3
+Tue Jan 14 10:55:39 JST 2020:MemoryManager[94]/Add -> add new memory: target_history += target3 in long_memory.txt
+Tue Jan 14 10:55:39 JST 2020:MemoryManager[82]/Add -> already contain: target3 at activity_history in short_memory.txt
+Tue Jan 14 10:55:39 JST 2020:ActivityManager[78]/handling -> Read activity: activities\target3.txt
+Tue Jan 14 10:56:10 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 10:56:10 JST 2020:MemoryManager[142]/Read -> read memory: ka_shizuku_history = ka_shizuku2,ka_shizuku
+Tue Jan 14 10:56:10 JST 2020:MemoryManager[181]/Clear -> clear memory: ka_shizuku_history = ka_shizuku2,ka_shizuku
+Tue Jan 14 10:56:10 JST 2020:MemoryManager[94]/Add -> add new memory: ka_shizuku_history += ka_shizuku2 in long_memory.txt
+Tue Jan 14 10:56:10 JST 2020:MemoryManager[82]/Add -> already contain: ka_shizuku2 at activity_history in short_memory.txt
+Tue Jan 14 10:56:10 JST 2020:MemoryManager[142]/Read -> read memory: aizuchi_history = aizuchi
+Tue Jan 14 10:56:10 JST 2020:MemoryManager[94]/Add -> add new memory: aizuchi_history += aizuchi4 in long_memory.txt
+Tue Jan 14 10:56:10 JST 2020:MemoryManager[82]/Add -> already contain: aizuchi4 at activity_history in short_memory.txt
+Tue Jan 14 10:56:10 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: aizuchi
+Tue Jan 14 10:56:10 JST 2020:ActivityManager[78]/handling -> Read activity: activities\ka_shizuku2.txt
+Tue Jan 14 10:56:23 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 10:56:23 JST 2020:MemoryManager[142]/Read -> read memory: target_history = target3
+Tue Jan 14 10:56:23 JST 2020:MemoryManager[94]/Add -> add new memory: target_history += target2 in long_memory.txt
+Tue Jan 14 10:56:23 JST 2020:MemoryManager[82]/Add -> already contain: target2 at activity_history in short_memory.txt
+Tue Jan 14 10:56:23 JST 2020:ActivityManager[78]/handling -> Read activity: activities\target2.txt
+Tue Jan 14 10:56:42 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 10:56:42 JST 2020:ActivityManager[78]/handling -> Read activity: activities\1.0.txt
+Tue Jan 14 10:56:52 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 10:56:52 JST 2020:ActivityManager[78]/handling -> Read activity: activities\1_2.txt
+Tue Jan 14 10:56:58 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 10:56:58 JST 2020:MemoryManager[142]/Read -> read memory: ok_silver_history = ok_silver3,ok_silver,ok_silver4
+Tue Jan 14 10:56:58 JST 2020:MemoryManager[94]/Add -> add new memory: ok_silver_history += ok_silver2 in long_memory.txt
+Tue Jan 14 10:56:58 JST 2020:MemoryManager[82]/Add -> already contain: ok_silver2 at activity_history in short_memory.txt
+Tue Jan 14 10:56:59 JST 2020:MemoryManager[142]/Read -> read memory: praiselong_history = praiselong,praiselong3
+Tue Jan 14 10:56:59 JST 2020:MemoryManager[94]/Add -> add new memory: praiselong_history += praiselong4 in long_memory.txt
+Tue Jan 14 10:56:59 JST 2020:MemoryManager[94]/Add -> add new memory: activity_history += praiselong4 in short_memory.txt
+Tue Jan 14 10:56:59 JST 2020:MemoryManager[142]/Read -> read memory: sotaaizuchi_history = sotaaizuchi3
+Tue Jan 14 10:56:59 JST 2020:MemoryManager[94]/Add -> add new memory: sotaaizuchi_history += sotaaizuchi in long_memory.txt
+Tue Jan 14 10:56:59 JST 2020:MemoryManager[82]/Add -> already contain: sotaaizuchi at activity_history in short_memory.txt
+Tue Jan 14 10:56:59 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: sotaaizuchi
+Tue Jan 14 10:56:59 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: praiselong
+Tue Jan 14 10:56:59 JST 2020:ActivityManager[78]/handling -> Read activity: activities\ok_silver2.txt
+Tue Jan 14 10:57:17 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 10:57:17 JST 2020:MemoryManager[142]/Read -> read memory: ok_long_history = ok_long3
+Tue Jan 14 10:57:17 JST 2020:MemoryManager[94]/Add -> add new memory: ok_long_history += ok_long4 in long_memory.txt
+Tue Jan 14 10:57:17 JST 2020:MemoryManager[82]/Add -> already contain: ok_long4 at activity_history in short_memory.txt
+Tue Jan 14 10:57:17 JST 2020:MemoryManager[142]/Read -> read memory: praisesilver_history = praisesilver2,praisesilver4
+Tue Jan 14 10:57:17 JST 2020:MemoryManager[94]/Add -> add new memory: praisesilver_history += praisesilver3 in long_memory.txt
+Tue Jan 14 10:57:17 JST 2020:MemoryManager[82]/Add -> already contain: praisesilver3 at activity_history in short_memory.txt
+Tue Jan 14 10:57:17 JST 2020:MemoryManager[142]/Read -> read memory: sotaaizuchi_history = sotaaizuchi3,sotaaizuchi
+Tue Jan 14 10:57:17 JST 2020:MemoryManager[94]/Add -> add new memory: sotaaizuchi_history += sotaaizuchi4 in long_memory.txt
+Tue Jan 14 10:57:17 JST 2020:MemoryManager[82]/Add -> already contain: sotaaizuchi4 at activity_history in short_memory.txt
+Tue Jan 14 10:57:17 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: sotaaizuchi
+Tue Jan 14 10:57:17 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: praisesilver
+Tue Jan 14 10:57:17 JST 2020:ActivityManager[78]/handling -> Read activity: activities\ok_long4.txt
+Tue Jan 14 10:57:31 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 10:57:31 JST 2020:ActivityManager[78]/handling -> Read activity: activities\1.0.txt
+Tue Jan 14 10:57:42 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 10:57:42 JST 2020:MemoryManager[142]/Read -> read memory: ok_silver_history = ok_silver3,ok_silver,ok_silver4,ok_silver2
+Tue Jan 14 10:57:42 JST 2020:MemoryManager[181]/Clear -> clear memory: ok_silver_history = ok_silver3,ok_silver,ok_silver4,ok_silver2
+Tue Jan 14 10:57:42 JST 2020:MemoryManager[94]/Add -> add new memory: ok_silver_history += ok_silver2 in long_memory.txt
+Tue Jan 14 10:57:42 JST 2020:MemoryManager[82]/Add -> already contain: ok_silver2 at activity_history in short_memory.txt
+Tue Jan 14 10:57:42 JST 2020:MemoryManager[142]/Read -> read memory: praiselong_history = praiselong,praiselong3,praiselong4
+Tue Jan 14 10:57:42 JST 2020:MemoryManager[94]/Add -> add new memory: praiselong_history += praiselong2 in long_memory.txt
+Tue Jan 14 10:57:42 JST 2020:MemoryManager[82]/Add -> already contain: praiselong2 at activity_history in short_memory.txt
+Tue Jan 14 10:57:42 JST 2020:MemoryManager[142]/Read -> read memory: sotaaizuchi_history = sotaaizuchi3,sotaaizuchi,sotaaizuchi4
+Tue Jan 14 10:57:42 JST 2020:MemoryManager[94]/Add -> add new memory: sotaaizuchi_history += sotaaizuchi2 in long_memory.txt
+Tue Jan 14 10:57:42 JST 2020:MemoryManager[82]/Add -> already contain: sotaaizuchi2 at activity_history in short_memory.txt
+Tue Jan 14 10:57:42 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: sotaaizuchi
+Tue Jan 14 10:57:42 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: praiselong
+Tue Jan 14 10:57:42 JST 2020:ActivityManager[78]/handling -> Read activity: activities\ok_silver2.txt
+Tue Jan 14 10:57:57 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 10:57:57 JST 2020:MemoryManager[142]/Read -> read memory: target_history = target3,target2
+Tue Jan 14 10:57:57 JST 2020:MemoryManager[94]/Add -> add new memory: target_history += target4 in long_memory.txt
+Tue Jan 14 10:57:57 JST 2020:MemoryManager[82]/Add -> already contain: target4 at activity_history in short_memory.txt
+Tue Jan 14 10:57:57 JST 2020:ActivityManager[78]/handling -> Read activity: activities\target4.txt
+Tue Jan 14 10:58:09 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 10:58:09 JST 2020:ActivityManager[78]/handling -> Read activity: activities\24.txt
+Tue Jan 14 10:58:16 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 10:58:16 JST 2020:MemoryManager[142]/Read -> read memory: target_history = target3,target2,target4
+Tue Jan 14 10:58:16 JST 2020:MemoryManager[94]/Add -> add new memory: target_history += target in long_memory.txt
+Tue Jan 14 10:58:17 JST 2020:MemoryManager[82]/Add -> already contain: target at activity_history in short_memory.txt
+Tue Jan 14 10:58:17 JST 2020:ActivityManager[78]/handling -> Read activity: activities\target.txt
+Tue Jan 14 10:58:17 JST 2020:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 105814967
+Tue Jan 14 10:58:22 JST 2020:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 10581717
+Tue Jan 14 10:58:35 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 10:58:35 JST 2020:MemoryManager[142]/Read -> read memory: target_history = target3,target2,target4,target
+Tue Jan 14 10:58:35 JST 2020:MemoryManager[181]/Clear -> clear memory: target_history = target3,target2,target4,target
+Tue Jan 14 10:58:35 JST 2020:MemoryManager[94]/Add -> add new memory: target_history += target2 in long_memory.txt
+Tue Jan 14 10:58:35 JST 2020:MemoryManager[82]/Add -> already contain: target2 at activity_history in short_memory.txt
+Tue Jan 14 10:58:35 JST 2020:ActivityManager[78]/handling -> Read activity: activities\target2.txt
+Tue Jan 14 10:58:47 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 10:58:47 JST 2020:MemoryManager[142]/Read -> read memory: ok_silver_history = ok_silver2
+Tue Jan 14 10:58:47 JST 2020:MemoryManager[94]/Add -> add new memory: ok_silver_history += ok_silver in long_memory.txt
+Tue Jan 14 10:58:47 JST 2020:MemoryManager[82]/Add -> already contain: ok_silver at activity_history in short_memory.txt
+Tue Jan 14 10:58:47 JST 2020:MemoryManager[142]/Read -> read memory: praiselong_history = praiselong,praiselong3,praiselong4,praiselong2
+Tue Jan 14 10:58:47 JST 2020:MemoryManager[181]/Clear -> clear memory: praiselong_history = praiselong,praiselong3,praiselong4,praiselong2
+Tue Jan 14 10:58:47 JST 2020:MemoryManager[94]/Add -> add new memory: praiselong_history += praiselong in long_memory.txt
+Tue Jan 14 10:58:47 JST 2020:MemoryManager[82]/Add -> already contain: praiselong at activity_history in short_memory.txt
+Tue Jan 14 10:58:47 JST 2020:MemoryManager[142]/Read -> read memory: sotaaizuchi_history = sotaaizuchi3,sotaaizuchi,sotaaizuchi4,sotaaizuchi2
+Tue Jan 14 10:58:47 JST 2020:MemoryManager[181]/Clear -> clear memory: sotaaizuchi_history = sotaaizuchi3,sotaaizuchi,sotaaizuchi4,sotaaizuchi2
+Tue Jan 14 10:58:47 JST 2020:MemoryManager[94]/Add -> add new memory: sotaaizuchi_history += sotaaizuchi in long_memory.txt
+Tue Jan 14 10:58:47 JST 2020:MemoryManager[82]/Add -> already contain: sotaaizuchi at activity_history in short_memory.txt
+Tue Jan 14 10:58:47 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: sotaaizuchi
+Tue Jan 14 10:58:47 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: praiselong
+Tue Jan 14 10:58:47 JST 2020:ActivityManager[78]/handling -> Read activity: activities\ok_silver.txt
+Tue Jan 14 10:58:56 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 10:58:56 JST 2020:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 10585315
+Tue Jan 14 10:58:56 JST 2020:ActivityManager[78]/handling -> Read activity: activities\1.0.txt
+Tue Jan 14 10:59:03 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 10:59:04 JST 2020:MemoryManager[142]/Read -> read memory: ok_long_history = ok_long3,ok_long4
+Tue Jan 14 10:59:04 JST 2020:MemoryManager[94]/Add -> add new memory: ok_long_history += ok_long2 in long_memory.txt
+Tue Jan 14 10:59:04 JST 2020:MemoryManager[82]/Add -> already contain: ok_long2 at activity_history in short_memory.txt
+Tue Jan 14 10:59:04 JST 2020:MemoryManager[142]/Read -> read memory: praisesilver_history = praisesilver2,praisesilver4,praisesilver3
+Tue Jan 14 10:59:04 JST 2020:MemoryManager[94]/Add -> add new memory: praisesilver_history += praisesilver in long_memory.txt
+Tue Jan 14 10:59:04 JST 2020:MemoryManager[82]/Add -> already contain: praisesilver at activity_history in short_memory.txt
+Tue Jan 14 10:59:04 JST 2020:MemoryManager[142]/Read -> read memory: sotaaizuchi_history = sotaaizuchi
+Tue Jan 14 10:59:04 JST 2020:MemoryManager[94]/Add -> add new memory: sotaaizuchi_history += sotaaizuchi2 in long_memory.txt
+Tue Jan 14 10:59:04 JST 2020:MemoryManager[82]/Add -> already contain: sotaaizuchi2 at activity_history in short_memory.txt
+Tue Jan 14 10:59:04 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: sotaaizuchi
+Tue Jan 14 10:59:04 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: praisesilver
+Tue Jan 14 10:59:04 JST 2020:ActivityManager[78]/handling -> Read activity: activities\ok_long2.txt
+Tue Jan 14 10:59:26 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 10:59:26 JST 2020:ActivityManager[78]/handling -> Read activity: activities\1_3.txt
+Tue Jan 14 10:59:37 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 10:59:37 JST 2020:MemoryManager[142]/Read -> read memory: ok_long_history = ok_long3,ok_long4,ok_long2
+Tue Jan 14 10:59:37 JST 2020:MemoryManager[94]/Add -> add new memory: ok_long_history += ok_long in long_memory.txt
+Tue Jan 14 10:59:37 JST 2020:MemoryManager[82]/Add -> already contain: ok_long at activity_history in short_memory.txt
+Tue Jan 14 10:59:37 JST 2020:MemoryManager[142]/Read -> read memory: aizuchi_history = aizuchi,aizuchi4
+Tue Jan 14 10:59:37 JST 2020:MemoryManager[94]/Add -> add new memory: aizuchi_history += aizuchi3 in long_memory.txt
+Tue Jan 14 10:59:37 JST 2020:MemoryManager[82]/Add -> already contain: aizuchi3 at activity_history in short_memory.txt
+Tue Jan 14 10:59:37 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: aizuchi
+Tue Jan 14 10:59:37 JST 2020:MemoryManager[142]/Read -> read memory: praisesilver_history = praisesilver2,praisesilver4,praisesilver3,praisesilver
+Tue Jan 14 10:59:37 JST 2020:MemoryManager[181]/Clear -> clear memory: praisesilver_history = praisesilver2,praisesilver4,praisesilver3,praisesilver
+Tue Jan 14 10:59:37 JST 2020:MemoryManager[94]/Add -> add new memory: praisesilver_history += praisesilver3 in long_memory.txt
+Tue Jan 14 10:59:37 JST 2020:MemoryManager[82]/Add -> already contain: praisesilver3 at activity_history in short_memory.txt
+Tue Jan 14 10:59:37 JST 2020:MemoryManager[142]/Read -> read memory: sotaaizuchi_history = sotaaizuchi,sotaaizuchi2
+Tue Jan 14 10:59:37 JST 2020:MemoryManager[94]/Add -> add new memory: sotaaizuchi_history += sotaaizuchi4 in long_memory.txt
+Tue Jan 14 10:59:37 JST 2020:MemoryManager[82]/Add -> already contain: sotaaizuchi4 at activity_history in short_memory.txt
+Tue Jan 14 10:59:37 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: sotaaizuchi
+Tue Jan 14 10:59:37 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: praisesilver
+Tue Jan 14 10:59:37 JST 2020:ActivityManager[78]/handling -> Read activity: activities\ok_long.txt
+Tue Jan 14 10:59:47 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 10:59:47 JST 2020:MemoryManager[142]/Read -> read memory: ok_long_history = ok_long3,ok_long4,ok_long2,ok_long
+Tue Jan 14 10:59:47 JST 2020:MemoryManager[181]/Clear -> clear memory: ok_long_history = ok_long3,ok_long4,ok_long2,ok_long
+Tue Jan 14 10:59:47 JST 2020:MemoryManager[94]/Add -> add new memory: ok_long_history += ok_long3 in long_memory.txt
+Tue Jan 14 10:59:47 JST 2020:MemoryManager[82]/Add -> already contain: ok_long3 at activity_history in short_memory.txt
+Tue Jan 14 10:59:47 JST 2020:MemoryManager[142]/Read -> read memory: praisesilver_history = praisesilver3
+Tue Jan 14 10:59:47 JST 2020:MemoryManager[94]/Add -> add new memory: praisesilver_history += praisesilver2 in long_memory.txt
+Tue Jan 14 10:59:47 JST 2020:MemoryManager[82]/Add -> already contain: praisesilver2 at activity_history in short_memory.txt
+Tue Jan 14 10:59:47 JST 2020:MemoryManager[142]/Read -> read memory: sotaaizuchi_history = sotaaizuchi,sotaaizuchi2,sotaaizuchi4
+Tue Jan 14 10:59:47 JST 2020:MemoryManager[94]/Add -> add new memory: sotaaizuchi_history += sotaaizuchi3 in long_memory.txt
+Tue Jan 14 10:59:47 JST 2020:MemoryManager[82]/Add -> already contain: sotaaizuchi3 at activity_history in short_memory.txt
+Tue Jan 14 10:59:47 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: sotaaizuchi
+Tue Jan 14 10:59:47 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: praisesilver
+Tue Jan 14 10:59:47 JST 2020:ActivityManager[78]/handling -> Read activity: activities\ok_long3.txt
+Tue Jan 14 11:00:06 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 11:00:06 JST 2020:MemoryManager[142]/Read -> read memory: ok_long_history = ok_long3
+Tue Jan 14 11:00:06 JST 2020:MemoryManager[94]/Add -> add new memory: ok_long_history += ok_long2 in long_memory.txt
+Tue Jan 14 11:00:06 JST 2020:MemoryManager[82]/Add -> already contain: ok_long2 at activity_history in short_memory.txt
+Tue Jan 14 11:00:06 JST 2020:MemoryManager[142]/Read -> read memory: praisesilver_history = praisesilver3,praisesilver2
+Tue Jan 14 11:00:06 JST 2020:MemoryManager[94]/Add -> add new memory: praisesilver_history += praisesilver in long_memory.txt
+Tue Jan 14 11:00:06 JST 2020:MemoryManager[82]/Add -> already contain: praisesilver at activity_history in short_memory.txt
+Tue Jan 14 11:00:06 JST 2020:MemoryManager[142]/Read -> read memory: sotaaizuchi_history = sotaaizuchi,sotaaizuchi2,sotaaizuchi4,sotaaizuchi3
+Tue Jan 14 11:00:06 JST 2020:MemoryManager[181]/Clear -> clear memory: sotaaizuchi_history = sotaaizuchi,sotaaizuchi2,sotaaizuchi4,sotaaizuchi3
+Tue Jan 14 11:00:06 JST 2020:MemoryManager[94]/Add -> add new memory: sotaaizuchi_history += sotaaizuchi2 in long_memory.txt
+Tue Jan 14 11:00:06 JST 2020:MemoryManager[82]/Add -> already contain: sotaaizuchi2 at activity_history in short_memory.txt
+Tue Jan 14 11:00:06 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: sotaaizuchi
+Tue Jan 14 11:00:06 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: praisesilver
+Tue Jan 14 11:00:06 JST 2020:ActivityManager[78]/handling -> Read activity: activities\ok_long2.txt
+Tue Jan 14 11:00:28 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 11:00:28 JST 2020:ActivityManager[78]/handling -> Read activity: activities\1.0.txt
+Tue Jan 14 11:00:35 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 11:00:35 JST 2020:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 11033279
+Tue Jan 14 11:00:35 JST 2020:MemoryManager[142]/Read -> read memory: kanren_history = kanren2,kanren3,kanren4,kanren
+Tue Jan 14 11:00:35 JST 2020:MemoryManager[181]/Clear -> clear memory: kanren_history = kanren2,kanren3,kanren4,kanren
+Tue Jan 14 11:00:35 JST 2020:MemoryManager[94]/Add -> add new memory: kanren_history += kanren2 in long_memory.txt
+Tue Jan 14 11:00:35 JST 2020:MemoryManager[82]/Add -> already contain: kanren2 at activity_history in short_memory.txt
+Tue Jan 14 11:00:35 JST 2020:MemoryManager[142]/Read -> read memory: sotaaizuchi_history = sotaaizuchi2
+Tue Jan 14 11:00:35 JST 2020:MemoryManager[94]/Add -> add new memory: sotaaizuchi_history += sotaaizuchi3 in long_memory.txt
+Tue Jan 14 11:00:35 JST 2020:MemoryManager[82]/Add -> already contain: sotaaizuchi3 at activity_history in short_memory.txt
+Tue Jan 14 11:00:35 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: sotaaizuchi
+Tue Jan 14 11:00:35 JST 2020:ActivityManager[78]/handling -> Read activity: activities\kanren2.txt
+Tue Jan 14 11:00:51 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 11:00:51 JST 2020:MemoryManager[142]/Read -> read memory: ok_long_history = ok_long3,ok_long2
+Tue Jan 14 11:00:51 JST 2020:MemoryManager[94]/Add -> add new memory: ok_long_history += ok_long4 in long_memory.txt
+Tue Jan 14 11:00:51 JST 2020:MemoryManager[82]/Add -> already contain: ok_long4 at activity_history in short_memory.txt
+Tue Jan 14 11:00:51 JST 2020:MemoryManager[142]/Read -> read memory: praisesilver_history = praisesilver3,praisesilver2,praisesilver
+Tue Jan 14 11:00:51 JST 2020:MemoryManager[94]/Add -> add new memory: praisesilver_history += praisesilver4 in long_memory.txt
+Tue Jan 14 11:00:51 JST 2020:MemoryManager[82]/Add -> already contain: praisesilver4 at activity_history in short_memory.txt
+Tue Jan 14 11:00:51 JST 2020:MemoryManager[142]/Read -> read memory: sotaaizuchi_history = sotaaizuchi2,sotaaizuchi3
+Tue Jan 14 11:00:51 JST 2020:MemoryManager[94]/Add -> add new memory: sotaaizuchi_history += sotaaizuchi4 in long_memory.txt
+Tue Jan 14 11:00:51 JST 2020:MemoryManager[82]/Add -> already contain: sotaaizuchi4 at activity_history in short_memory.txt
+Tue Jan 14 11:00:51 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: sotaaizuchi
+Tue Jan 14 11:00:51 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: praisesilver
+Tue Jan 14 11:00:51 JST 2020:ActivityManager[78]/handling -> Read activity: activities\ok_long4.txt
+Tue Jan 14 11:01:07 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 11:01:07 JST 2020:MemoryManager[142]/Read -> read memory: ok_silver_history = ok_silver2,ok_silver
+Tue Jan 14 11:01:07 JST 2020:MemoryManager[94]/Add -> add new memory: ok_silver_history += ok_silver3 in long_memory.txt
+Tue Jan 14 11:01:07 JST 2020:MemoryManager[82]/Add -> already contain: ok_silver3 at activity_history in short_memory.txt
+Tue Jan 14 11:01:07 JST 2020:MemoryManager[142]/Read -> read memory: praiselong_history = praiselong
+Tue Jan 14 11:01:07 JST 2020:MemoryManager[94]/Add -> add new memory: praiselong_history += praiselong2 in long_memory.txt
+Tue Jan 14 11:01:07 JST 2020:MemoryManager[82]/Add -> already contain: praiselong2 at activity_history in short_memory.txt
+Tue Jan 14 11:01:07 JST 2020:MemoryManager[142]/Read -> read memory: sotaaizuchi_history = sotaaizuchi2,sotaaizuchi3,sotaaizuchi4
+Tue Jan 14 11:01:07 JST 2020:MemoryManager[94]/Add -> add new memory: sotaaizuchi_history += sotaaizuchi in long_memory.txt
+Tue Jan 14 11:01:07 JST 2020:MemoryManager[82]/Add -> already contain: sotaaizuchi at activity_history in short_memory.txt
+Tue Jan 14 11:01:07 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: sotaaizuchi
+Tue Jan 14 11:01:07 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: praiselong
+Tue Jan 14 11:01:07 JST 2020:ActivityManager[78]/handling -> Read activity: activities\ok_silver3.txt
+Tue Jan 14 11:01:15 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 11:01:15 JST 2020:MemoryManager[142]/Read -> read memory: target_history = target2
+Tue Jan 14 11:01:15 JST 2020:MemoryManager[94]/Add -> add new memory: target_history += target3 in long_memory.txt
+Tue Jan 14 11:01:15 JST 2020:MemoryManager[82]/Add -> already contain: target3 at activity_history in short_memory.txt
+Tue Jan 14 11:01:15 JST 2020:ActivityManager[78]/handling -> Read activity: activities\target3.txt
+Tue Jan 14 11:01:29 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 11:01:29 JST 2020:ActivityManager[78]/handling -> Read activity: activities\25_3.txt
+Tue Jan 14 11:01:37 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 11:01:37 JST 2020:MemoryManager[142]/Read -> read memory: ok_long_history = ok_long3,ok_long2,ok_long4
+Tue Jan 14 11:01:37 JST 2020:MemoryManager[94]/Add -> add new memory: ok_long_history += ok_long in long_memory.txt
+Tue Jan 14 11:01:37 JST 2020:MemoryManager[82]/Add -> already contain: ok_long at activity_history in short_memory.txt
+Tue Jan 14 11:01:37 JST 2020:MemoryManager[142]/Read -> read memory: aizuchi_history = aizuchi,aizuchi4,aizuchi3
+Tue Jan 14 11:01:37 JST 2020:MemoryManager[94]/Add -> add new memory: aizuchi_history += aizuchi2 in long_memory.txt
+Tue Jan 14 11:01:37 JST 2020:MemoryManager[82]/Add -> already contain: aizuchi2 at activity_history in short_memory.txt
+Tue Jan 14 11:01:37 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: aizuchi
+Tue Jan 14 11:01:37 JST 2020:MemoryManager[142]/Read -> read memory: praisesilver_history = praisesilver3,praisesilver2,praisesilver,praisesilver4
+Tue Jan 14 11:01:37 JST 2020:MemoryManager[181]/Clear -> clear memory: praisesilver_history = praisesilver3,praisesilver2,praisesilver,praisesilver4
+Tue Jan 14 11:01:37 JST 2020:MemoryManager[94]/Add -> add new memory: praisesilver_history += praisesilver4 in long_memory.txt
+Tue Jan 14 11:01:37 JST 2020:MemoryManager[82]/Add -> already contain: praisesilver4 at activity_history in short_memory.txt
+Tue Jan 14 11:01:37 JST 2020:MemoryManager[142]/Read -> read memory: sotaaizuchi_history = sotaaizuchi2,sotaaizuchi3,sotaaizuchi4,sotaaizuchi
+Tue Jan 14 11:01:37 JST 2020:MemoryManager[181]/Clear -> clear memory: sotaaizuchi_history = sotaaizuchi2,sotaaizuchi3,sotaaizuchi4,sotaaizuchi
+Tue Jan 14 11:01:37 JST 2020:MemoryManager[94]/Add -> add new memory: sotaaizuchi_history += sotaaizuchi4 in long_memory.txt
+Tue Jan 14 11:01:37 JST 2020:MemoryManager[82]/Add -> already contain: sotaaizuchi4 at activity_history in short_memory.txt
+Tue Jan 14 11:01:37 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: sotaaizuchi
+Tue Jan 14 11:01:37 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: praisesilver
+Tue Jan 14 11:01:37 JST 2020:ActivityManager[78]/handling -> Read activity: activities\ok_long.txt
+Tue Jan 14 11:01:51 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 11:01:51 JST 2020:ActivityManager[78]/handling -> Read activity: activities\25.txt
+Tue Jan 14 11:01:55 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 11:01:55 JST 2020:MemoryManager[142]/Read -> read memory: ok_long_history = ok_long3,ok_long2,ok_long4,ok_long
+Tue Jan 14 11:01:55 JST 2020:MemoryManager[181]/Clear -> clear memory: ok_long_history = ok_long3,ok_long2,ok_long4,ok_long
+Tue Jan 14 11:01:55 JST 2020:MemoryManager[94]/Add -> add new memory: ok_long_history += ok_long2 in long_memory.txt
+Tue Jan 14 11:01:55 JST 2020:MemoryManager[82]/Add -> already contain: ok_long2 at activity_history in short_memory.txt
+Tue Jan 14 11:01:55 JST 2020:MemoryManager[142]/Read -> read memory: praisesilver_history = praisesilver4
+Tue Jan 14 11:01:55 JST 2020:MemoryManager[94]/Add -> add new memory: praisesilver_history += praisesilver3 in long_memory.txt
+Tue Jan 14 11:01:55 JST 2020:MemoryManager[82]/Add -> already contain: praisesilver3 at activity_history in short_memory.txt
+Tue Jan 14 11:01:55 JST 2020:MemoryManager[142]/Read -> read memory: sotaaizuchi_history = sotaaizuchi4
+Tue Jan 14 11:01:55 JST 2020:MemoryManager[94]/Add -> add new memory: sotaaizuchi_history += sotaaizuchi in long_memory.txt
+Tue Jan 14 11:01:55 JST 2020:MemoryManager[82]/Add -> already contain: sotaaizuchi at activity_history in short_memory.txt
+Tue Jan 14 11:01:55 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: sotaaizuchi
+Tue Jan 14 11:01:55 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: praisesilver
+Tue Jan 14 11:01:55 JST 2020:ActivityManager[78]/handling -> Read activity: activities\ok_long2.txt
+Tue Jan 14 11:02:14 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 11:02:14 JST 2020:ActivityManager[78]/handling -> Read activity: activities\25_2.txt
+Tue Jan 14 11:02:23 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 11:02:23 JST 2020:MemoryManager[142]/Read -> read memory: kanren_history = kanren2
+Tue Jan 14 11:02:23 JST 2020:MemoryManager[94]/Add -> add new memory: kanren_history += kanren in long_memory.txt
+Tue Jan 14 11:02:23 JST 2020:MemoryManager[82]/Add -> already contain: kanren at activity_history in short_memory.txt
+Tue Jan 14 11:02:23 JST 2020:MemoryManager[142]/Read -> read memory: aizuchi_history = aizuchi,aizuchi4,aizuchi3,aizuchi2
+Tue Jan 14 11:02:23 JST 2020:MemoryManager[181]/Clear -> clear memory: aizuchi_history = aizuchi,aizuchi4,aizuchi3,aizuchi2
+Tue Jan 14 11:02:23 JST 2020:MemoryManager[94]/Add -> add new memory: aizuchi_history += aizuchi in long_memory.txt
+Tue Jan 14 11:02:23 JST 2020:MemoryManager[82]/Add -> already contain: aizuchi at activity_history in short_memory.txt
+Tue Jan 14 11:02:23 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: aizuchi
+Tue Jan 14 11:02:23 JST 2020:ActivityManager[78]/handling -> Read activity: activities\kanren.txt
+Tue Jan 14 11:02:38 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 11:02:38 JST 2020:ActivityManager[78]/handling -> Read activity: activities\25.txt
+Tue Jan 14 11:02:46 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 11:02:46 JST 2020:MemoryManager[142]/Read -> read memory: ok_long_history = ok_long2
+Tue Jan 14 11:02:46 JST 2020:MemoryManager[94]/Add -> add new memory: ok_long_history += ok_long in long_memory.txt
+Tue Jan 14 11:02:46 JST 2020:MemoryManager[82]/Add -> already contain: ok_long at activity_history in short_memory.txt
+Tue Jan 14 11:02:46 JST 2020:MemoryManager[142]/Read -> read memory: aizuchi_history = aizuchi
+Tue Jan 14 11:02:46 JST 2020:MemoryManager[94]/Add -> add new memory: aizuchi_history += aizuchi2 in long_memory.txt
+Tue Jan 14 11:02:46 JST 2020:MemoryManager[82]/Add -> already contain: aizuchi2 at activity_history in short_memory.txt
+Tue Jan 14 11:02:46 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: aizuchi
+Tue Jan 14 11:02:46 JST 2020:MemoryManager[142]/Read -> read memory: praisesilver_history = praisesilver4,praisesilver3
+Tue Jan 14 11:02:46 JST 2020:MemoryManager[94]/Add -> add new memory: praisesilver_history += praisesilver in long_memory.txt
+Tue Jan 14 11:02:46 JST 2020:MemoryManager[82]/Add -> already contain: praisesilver at activity_history in short_memory.txt
+Tue Jan 14 11:02:46 JST 2020:MemoryManager[142]/Read -> read memory: sotaaizuchi_history = sotaaizuchi4,sotaaizuchi
+Tue Jan 14 11:02:46 JST 2020:MemoryManager[94]/Add -> add new memory: sotaaizuchi_history += sotaaizuchi2 in long_memory.txt
+Tue Jan 14 11:02:46 JST 2020:MemoryManager[82]/Add -> already contain: sotaaizuchi2 at activity_history in short_memory.txt
+Tue Jan 14 11:02:46 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: sotaaizuchi
+Tue Jan 14 11:02:46 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: praisesilver
+Tue Jan 14 11:02:46 JST 2020:ActivityManager[78]/handling -> Read activity: activities\ok_long.txt
+Tue Jan 14 11:03:02 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 11:03:02 JST 2020:MemoryManager[142]/Read -> read memory: ok_long_history = ok_long2,ok_long
+Tue Jan 14 11:03:02 JST 2020:MemoryManager[94]/Add -> add new memory: ok_long_history += ok_long4 in long_memory.txt
+Tue Jan 14 11:03:02 JST 2020:MemoryManager[82]/Add -> already contain: ok_long4 at activity_history in short_memory.txt
+Tue Jan 14 11:03:02 JST 2020:MemoryManager[142]/Read -> read memory: praisesilver_history = praisesilver4,praisesilver3,praisesilver
+Tue Jan 14 11:03:02 JST 2020:MemoryManager[94]/Add -> add new memory: praisesilver_history += praisesilver2 in long_memory.txt
+Tue Jan 14 11:03:02 JST 2020:MemoryManager[82]/Add -> already contain: praisesilver2 at activity_history in short_memory.txt
+Tue Jan 14 11:03:02 JST 2020:MemoryManager[142]/Read -> read memory: sotaaizuchi_history = sotaaizuchi4,sotaaizuchi,sotaaizuchi2
+Tue Jan 14 11:03:02 JST 2020:MemoryManager[94]/Add -> add new memory: sotaaizuchi_history += sotaaizuchi3 in long_memory.txt
+Tue Jan 14 11:03:02 JST 2020:MemoryManager[82]/Add -> already contain: sotaaizuchi3 at activity_history in short_memory.txt
+Tue Jan 14 11:03:02 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: sotaaizuchi
+Tue Jan 14 11:03:02 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: praisesilver
+Tue Jan 14 11:03:02 JST 2020:ActivityManager[78]/handling -> Read activity: activities\ok_long4.txt
+Tue Jan 14 11:03:14 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 11:03:14 JST 2020:ActivityManager[78]/handling -> Read activity: activities\25.txt
+Tue Jan 14 11:03:25 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 11:03:25 JST 2020:MemoryManager[142]/Read -> read memory: ok_long_history = ok_long2,ok_long,ok_long4
+Tue Jan 14 11:03:25 JST 2020:MemoryManager[94]/Add -> add new memory: ok_long_history += ok_long3 in long_memory.txt
+Tue Jan 14 11:03:25 JST 2020:MemoryManager[82]/Add -> already contain: ok_long3 at activity_history in short_memory.txt
+Tue Jan 14 11:03:25 JST 2020:MemoryManager[142]/Read -> read memory: praisesilver_history = praisesilver4,praisesilver3,praisesilver,praisesilver2
+Tue Jan 14 11:03:25 JST 2020:MemoryManager[181]/Clear -> clear memory: praisesilver_history = praisesilver4,praisesilver3,praisesilver,praisesilver2
+Tue Jan 14 11:03:25 JST 2020:MemoryManager[94]/Add -> add new memory: praisesilver_history += praisesilver in long_memory.txt
+Tue Jan 14 11:03:25 JST 2020:MemoryManager[82]/Add -> already contain: praisesilver at activity_history in short_memory.txt
+Tue Jan 14 11:03:25 JST 2020:MemoryManager[142]/Read -> read memory: sotaaizuchi_history = sotaaizuchi4,sotaaizuchi,sotaaizuchi2,sotaaizuchi3
+Tue Jan 14 11:03:25 JST 2020:MemoryManager[181]/Clear -> clear memory: sotaaizuchi_history = sotaaizuchi4,sotaaizuchi,sotaaizuchi2,sotaaizuchi3
+Tue Jan 14 11:03:25 JST 2020:MemoryManager[94]/Add -> add new memory: sotaaizuchi_history += sotaaizuchi in long_memory.txt
+Tue Jan 14 11:03:25 JST 2020:MemoryManager[82]/Add -> already contain: sotaaizuchi at activity_history in short_memory.txt
+Tue Jan 14 11:03:25 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: sotaaizuchi
+Tue Jan 14 11:03:25 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: praisesilver
+Tue Jan 14 11:03:25 JST 2020:ActivityManager[78]/handling -> Read activity: activities\ok_long3.txt
+Tue Jan 14 11:03:32 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 11:03:32 JST 2020:MemoryManager[142]/Read -> read memory: ok_long_history = ok_long2,ok_long,ok_long4,ok_long3
+Tue Jan 14 11:03:32 JST 2020:MemoryManager[181]/Clear -> clear memory: ok_long_history = ok_long2,ok_long,ok_long4,ok_long3
+Tue Jan 14 11:03:32 JST 2020:MemoryManager[94]/Add -> add new memory: ok_long_history += ok_long2 in long_memory.txt
+Tue Jan 14 11:03:32 JST 2020:MemoryManager[82]/Add -> already contain: ok_long2 at activity_history in short_memory.txt
+Tue Jan 14 11:03:32 JST 2020:MemoryManager[142]/Read -> read memory: praisesilver_history = praisesilver
+Tue Jan 14 11:03:32 JST 2020:MemoryManager[94]/Add -> add new memory: praisesilver_history += praisesilver2 in long_memory.txt
+Tue Jan 14 11:03:32 JST 2020:MemoryManager[82]/Add -> already contain: praisesilver2 at activity_history in short_memory.txt
+Tue Jan 14 11:03:32 JST 2020:MemoryManager[142]/Read -> read memory: sotaaizuchi_history = sotaaizuchi
+Tue Jan 14 11:03:33 JST 2020:MemoryManager[94]/Add -> add new memory: sotaaizuchi_history += sotaaizuchi2 in long_memory.txt
+Tue Jan 14 11:03:33 JST 2020:MemoryManager[82]/Add -> already contain: sotaaizuchi2 at activity_history in short_memory.txt
+Tue Jan 14 11:03:33 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: sotaaizuchi
+Tue Jan 14 11:03:33 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: praisesilver
+Tue Jan 14 11:03:33 JST 2020:ActivityManager[78]/handling -> Read activity: activities\ok_long2.txt
+Tue Jan 14 11:03:47 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 11:03:47 JST 2020:MemoryManager[142]/Read -> read memory: target_history = target2,target3
+Tue Jan 14 11:03:47 JST 2020:MemoryManager[94]/Add -> add new memory: target_history += target4 in long_memory.txt
+Tue Jan 14 11:03:47 JST 2020:MemoryManager[82]/Add -> already contain: target4 at activity_history in short_memory.txt
+Tue Jan 14 11:03:47 JST 2020:ActivityManager[78]/handling -> Read activity: activities\target4.txt
+Tue Jan 14 11:03:56 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 11:03:56 JST 2020:MemoryManager[142]/Read -> read memory: ok_long_history = ok_long2
+Tue Jan 14 11:03:56 JST 2020:MemoryManager[94]/Add -> add new memory: ok_long_history += ok_long3 in long_memory.txt
+Tue Jan 14 11:03:56 JST 2020:MemoryManager[82]/Add -> already contain: ok_long3 at activity_history in short_memory.txt
+Tue Jan 14 11:03:56 JST 2020:MemoryManager[142]/Read -> read memory: praisesilver_history = praisesilver,praisesilver2
+Tue Jan 14 11:03:56 JST 2020:MemoryManager[94]/Add -> add new memory: praisesilver_history += praisesilver4 in long_memory.txt
+Tue Jan 14 11:03:56 JST 2020:MemoryManager[82]/Add -> already contain: praisesilver4 at activity_history in short_memory.txt
+Tue Jan 14 11:03:56 JST 2020:MemoryManager[142]/Read -> read memory: sotaaizuchi_history = sotaaizuchi,sotaaizuchi2
+Tue Jan 14 11:03:56 JST 2020:MemoryManager[94]/Add -> add new memory: sotaaizuchi_history += sotaaizuchi4 in long_memory.txt
+Tue Jan 14 11:03:56 JST 2020:MemoryManager[82]/Add -> already contain: sotaaizuchi4 at activity_history in short_memory.txt
+Tue Jan 14 11:03:56 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: sotaaizuchi
+Tue Jan 14 11:03:56 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: praisesilver
+Tue Jan 14 11:03:56 JST 2020:ActivityManager[78]/handling -> Read activity: activities\ok_long3.txt
+Tue Jan 14 11:04:06 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 11:04:06 JST 2020:MemoryManager[142]/Read -> read memory: ok_long_history = ok_long2,ok_long3
+Tue Jan 14 11:04:06 JST 2020:MemoryManager[94]/Add -> add new memory: ok_long_history += ok_long in long_memory.txt
+Tue Jan 14 11:04:06 JST 2020:MemoryManager[82]/Add -> already contain: ok_long at activity_history in short_memory.txt
+Tue Jan 14 11:04:06 JST 2020:MemoryManager[142]/Read -> read memory: aizuchi_history = aizuchi,aizuchi2
+Tue Jan 14 11:04:06 JST 2020:MemoryManager[94]/Add -> add new memory: aizuchi_history += aizuchi3 in long_memory.txt
+Tue Jan 14 11:04:06 JST 2020:MemoryManager[82]/Add -> already contain: aizuchi3 at activity_history in short_memory.txt
+Tue Jan 14 11:04:06 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: aizuchi
+Tue Jan 14 11:04:06 JST 2020:MemoryManager[142]/Read -> read memory: praisesilver_history = praisesilver,praisesilver2,praisesilver4
+Tue Jan 14 11:04:06 JST 2020:MemoryManager[94]/Add -> add new memory: praisesilver_history += praisesilver3 in long_memory.txt
+Tue Jan 14 11:04:06 JST 2020:MemoryManager[82]/Add -> already contain: praisesilver3 at activity_history in short_memory.txt
+Tue Jan 14 11:04:06 JST 2020:MemoryManager[142]/Read -> read memory: sotaaizuchi_history = sotaaizuchi,sotaaizuchi2,sotaaizuchi4
+Tue Jan 14 11:04:06 JST 2020:MemoryManager[94]/Add -> add new memory: sotaaizuchi_history += sotaaizuchi3 in long_memory.txt
+Tue Jan 14 11:04:06 JST 2020:MemoryManager[82]/Add -> already contain: sotaaizuchi3 at activity_history in short_memory.txt
+Tue Jan 14 11:04:06 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: sotaaizuchi
+Tue Jan 14 11:04:06 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: praisesilver
+Tue Jan 14 11:04:06 JST 2020:ActivityManager[78]/handling -> Read activity: activities\ok_long.txt
+Tue Jan 14 11:04:14 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 11:04:14 JST 2020:ActivityManager[78]/handling -> Read activity: activities\24.txt
+Tue Jan 14 11:04:30 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 11:04:30 JST 2020:MemoryManager[142]/Read -> read memory: target_history = target2,target3,target4
+Tue Jan 14 11:04:30 JST 2020:MemoryManager[94]/Add -> add new memory: target_history += target in long_memory.txt
+Tue Jan 14 11:04:30 JST 2020:MemoryManager[82]/Add -> already contain: target at activity_history in short_memory.txt
+Tue Jan 14 11:04:30 JST 2020:ActivityManager[78]/handling -> Read activity: activities\target.txt
+Tue Jan 14 11:04:47 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 11:04:47 JST 2020:ActivityManager[78]/handling -> Read activity: activities\24_2.txt
+Tue Jan 14 11:04:54 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 11:04:54 JST 2020:MemoryManager[142]/Read -> read memory: ok_long_history = ok_long2,ok_long3,ok_long
+Tue Jan 14 11:04:54 JST 2020:MemoryManager[94]/Add -> add new memory: ok_long_history += ok_long4 in long_memory.txt
+Tue Jan 14 11:04:54 JST 2020:MemoryManager[82]/Add -> already contain: ok_long4 at activity_history in short_memory.txt
+Tue Jan 14 11:04:54 JST 2020:MemoryManager[142]/Read -> read memory: praisesilver_history = praisesilver,praisesilver2,praisesilver4,praisesilver3
+Tue Jan 14 11:04:54 JST 2020:MemoryManager[181]/Clear -> clear memory: praisesilver_history = praisesilver,praisesilver2,praisesilver4,praisesilver3
+Tue Jan 14 11:04:54 JST 2020:MemoryManager[94]/Add -> add new memory: praisesilver_history += praisesilver3 in long_memory.txt
+Tue Jan 14 11:04:54 JST 2020:MemoryManager[82]/Add -> already contain: praisesilver3 at activity_history in short_memory.txt
+Tue Jan 14 11:04:54 JST 2020:MemoryManager[142]/Read -> read memory: sotaaizuchi_history = sotaaizuchi,sotaaizuchi2,sotaaizuchi4,sotaaizuchi3
+Tue Jan 14 11:04:54 JST 2020:MemoryManager[181]/Clear -> clear memory: sotaaizuchi_history = sotaaizuchi,sotaaizuchi2,sotaaizuchi4,sotaaizuchi3
+Tue Jan 14 11:04:54 JST 2020:MemoryManager[94]/Add -> add new memory: sotaaizuchi_history += sotaaizuchi3 in long_memory.txt
+Tue Jan 14 11:04:54 JST 2020:MemoryManager[82]/Add -> already contain: sotaaizuchi3 at activity_history in short_memory.txt
+Tue Jan 14 11:04:54 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: sotaaizuchi
+Tue Jan 14 11:04:54 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: praisesilver
+Tue Jan 14 11:04:54 JST 2020:ActivityManager[78]/handling -> Read activity: activities\ok_long4.txt
+Tue Jan 14 11:05:06 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 11:05:06 JST 2020:ActivityManager[78]/handling -> Read activity: activities\25.txt
+Tue Jan 14 11:05:12 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 11:05:12 JST 2020:MemoryManager[142]/Read -> read memory: ok_silver_history = ok_silver2,ok_silver,ok_silver3
+Tue Jan 14 11:05:12 JST 2020:MemoryManager[94]/Add -> add new memory: ok_silver_history += ok_silver4 in long_memory.txt
+Tue Jan 14 11:05:12 JST 2020:MemoryManager[82]/Add -> already contain: ok_silver4 at activity_history in short_memory.txt
+Tue Jan 14 11:05:12 JST 2020:MemoryManager[142]/Read -> read memory: praisesilver_history = praisesilver3
+Tue Jan 14 11:05:12 JST 2020:MemoryManager[94]/Add -> add new memory: praisesilver_history += praisesilver in long_memory.txt
+Tue Jan 14 11:05:12 JST 2020:MemoryManager[82]/Add -> already contain: praisesilver at activity_history in short_memory.txt
+Tue Jan 14 11:05:12 JST 2020:MemoryManager[142]/Read -> read memory: sotaaizuchi_history = sotaaizuchi3
+Tue Jan 14 11:05:12 JST 2020:MemoryManager[94]/Add -> add new memory: sotaaizuchi_history += sotaaizuchi2 in long_memory.txt
+Tue Jan 14 11:05:12 JST 2020:MemoryManager[82]/Add -> already contain: sotaaizuchi2 at activity_history in short_memory.txt
+Tue Jan 14 11:05:12 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: sotaaizuchi
+Tue Jan 14 11:05:12 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: praisesilver
+Tue Jan 14 11:05:12 JST 2020:ActivityManager[78]/handling -> Read activity: activities\ok_silver4.txt
+Tue Jan 14 11:05:22 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 11:05:22 JST 2020:ActivityManager[78]/handling -> Read activity: activities\25_2.txt
+Tue Jan 14 11:05:33 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 11:05:33 JST 2020:ActivityManager[78]/handling -> Read activity: activities\25_3.txt
+Tue Jan 14 11:05:47 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 11:05:47 JST 2020:MemoryManager[142]/Read -> read memory: ok_silver_history = ok_silver2,ok_silver,ok_silver3,ok_silver4
+Tue Jan 14 11:05:47 JST 2020:MemoryManager[181]/Clear -> clear memory: ok_silver_history = ok_silver2,ok_silver,ok_silver3,ok_silver4
+Tue Jan 14 11:05:47 JST 2020:MemoryManager[94]/Add -> add new memory: ok_silver_history += ok_silver2 in long_memory.txt
+Tue Jan 14 11:05:47 JST 2020:MemoryManager[82]/Add -> already contain: ok_silver2 at activity_history in short_memory.txt
+Tue Jan 14 11:05:47 JST 2020:MemoryManager[142]/Read -> read memory: praiselong_history = praiselong,praiselong2
+Tue Jan 14 11:05:47 JST 2020:MemoryManager[94]/Add -> add new memory: praiselong_history += praiselong3 in long_memory.txt
+Tue Jan 14 11:05:47 JST 2020:MemoryManager[82]/Add -> already contain: praiselong3 at activity_history in short_memory.txt
+Tue Jan 14 11:05:47 JST 2020:MemoryManager[142]/Read -> read memory: sotaaizuchi_history = sotaaizuchi3,sotaaizuchi2
+Tue Jan 14 11:05:47 JST 2020:MemoryManager[94]/Add -> add new memory: sotaaizuchi_history += sotaaizuchi in long_memory.txt
+Tue Jan 14 11:05:47 JST 2020:MemoryManager[82]/Add -> already contain: sotaaizuchi at activity_history in short_memory.txt
+Tue Jan 14 11:05:47 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: sotaaizuchi
+Tue Jan 14 11:05:47 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: praiselong
+Tue Jan 14 11:05:47 JST 2020:ActivityManager[78]/handling -> Read activity: activities\ok_silver2.txt
+Tue Jan 14 11:06:01 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 11:06:01 JST 2020:MemoryManager[142]/Read -> read memory: ok_long_history = ok_long2,ok_long3,ok_long,ok_long4
+Tue Jan 14 11:06:01 JST 2020:MemoryManager[181]/Clear -> clear memory: ok_long_history = ok_long2,ok_long3,ok_long,ok_long4
+Tue Jan 14 11:06:01 JST 2020:MemoryManager[94]/Add -> add new memory: ok_long_history += ok_long3 in long_memory.txt
+Tue Jan 14 11:06:01 JST 2020:MemoryManager[82]/Add -> already contain: ok_long3 at activity_history in short_memory.txt
+Tue Jan 14 11:06:01 JST 2020:MemoryManager[142]/Read -> read memory: praisesilver_history = praisesilver3,praisesilver
+Tue Jan 14 11:06:01 JST 2020:MemoryManager[94]/Add -> add new memory: praisesilver_history += praisesilver4 in long_memory.txt
+Tue Jan 14 11:06:01 JST 2020:MemoryManager[82]/Add -> already contain: praisesilver4 at activity_history in short_memory.txt
+Tue Jan 14 11:06:01 JST 2020:MemoryManager[142]/Read -> read memory: sotaaizuchi_history = sotaaizuchi3,sotaaizuchi2,sotaaizuchi
+Tue Jan 14 11:06:01 JST 2020:MemoryManager[94]/Add -> add new memory: sotaaizuchi_history += sotaaizuchi4 in long_memory.txt
+Tue Jan 14 11:06:01 JST 2020:MemoryManager[82]/Add -> already contain: sotaaizuchi4 at activity_history in short_memory.txt
+Tue Jan 14 11:06:01 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: sotaaizuchi
+Tue Jan 14 11:06:01 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: praisesilver
+Tue Jan 14 11:06:01 JST 2020:ActivityManager[78]/handling -> Read activity: activities\ok_long3.txt
+Tue Jan 14 11:06:18 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 11:06:18 JST 2020:MemoryManager[142]/Read -> read memory: ok_long_history = ok_long3
+Tue Jan 14 11:06:18 JST 2020:MemoryManager[94]/Add -> add new memory: ok_long_history += ok_long2 in long_memory.txt
+Tue Jan 14 11:06:18 JST 2020:MemoryManager[82]/Add -> already contain: ok_long2 at activity_history in short_memory.txt
+Tue Jan 14 11:06:18 JST 2020:MemoryManager[142]/Read -> read memory: praisesilver_history = praisesilver3,praisesilver,praisesilver4
+Tue Jan 14 11:06:18 JST 2020:MemoryManager[94]/Add -> add new memory: praisesilver_history += praisesilver2 in long_memory.txt
+Tue Jan 14 11:06:18 JST 2020:MemoryManager[82]/Add -> already contain: praisesilver2 at activity_history in short_memory.txt
+Tue Jan 14 11:06:18 JST 2020:MemoryManager[142]/Read -> read memory: sotaaizuchi_history = sotaaizuchi3,sotaaizuchi2,sotaaizuchi,sotaaizuchi4
+Tue Jan 14 11:06:18 JST 2020:MemoryManager[181]/Clear -> clear memory: sotaaizuchi_history = sotaaizuchi3,sotaaizuchi2,sotaaizuchi,sotaaizuchi4
+Tue Jan 14 11:06:18 JST 2020:MemoryManager[94]/Add -> add new memory: sotaaizuchi_history += sotaaizuchi in long_memory.txt
+Tue Jan 14 11:06:18 JST 2020:MemoryManager[82]/Add -> already contain: sotaaizuchi at activity_history in short_memory.txt
+Tue Jan 14 11:06:18 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: sotaaizuchi
+Tue Jan 14 11:06:18 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: praisesilver
+Tue Jan 14 11:06:18 JST 2020:ActivityManager[78]/handling -> Read activity: activities\ok_long2.txt
+Tue Jan 14 11:06:24 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 11:06:24 JST 2020:ActivityManager[78]/handling -> Read activity: activities\24.txt
+Tue Jan 14 11:06:36 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 11:06:36 JST 2020:MemoryManager[142]/Read -> read memory: ok_long_history = ok_long3,ok_long2
+Tue Jan 14 11:06:36 JST 2020:MemoryManager[94]/Add -> add new memory: ok_long_history += ok_long4 in long_memory.txt
+Tue Jan 14 11:06:36 JST 2020:MemoryManager[82]/Add -> already contain: ok_long4 at activity_history in short_memory.txt
+Tue Jan 14 11:06:36 JST 2020:MemoryManager[142]/Read -> read memory: praisesilver_history = praisesilver3,praisesilver,praisesilver4,praisesilver2
+Tue Jan 14 11:06:36 JST 2020:MemoryManager[181]/Clear -> clear memory: praisesilver_history = praisesilver3,praisesilver,praisesilver4,praisesilver2
+Tue Jan 14 11:06:36 JST 2020:MemoryManager[94]/Add -> add new memory: praisesilver_history += praisesilver3 in long_memory.txt
+Tue Jan 14 11:06:36 JST 2020:MemoryManager[82]/Add -> already contain: praisesilver3 at activity_history in short_memory.txt
+Tue Jan 14 11:06:36 JST 2020:MemoryManager[142]/Read -> read memory: sotaaizuchi_history = sotaaizuchi
+Tue Jan 14 11:06:36 JST 2020:MemoryManager[94]/Add -> add new memory: sotaaizuchi_history += sotaaizuchi3 in long_memory.txt
+Tue Jan 14 11:06:36 JST 2020:MemoryManager[82]/Add -> already contain: sotaaizuchi3 at activity_history in short_memory.txt
+Tue Jan 14 11:06:36 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: sotaaizuchi
+Tue Jan 14 11:06:36 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: praisesilver
+Tue Jan 14 11:06:36 JST 2020:ActivityManager[78]/handling -> Read activity: activities\ok_long4.txt
+Tue Jan 14 11:06:49 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 11:06:49 JST 2020:MemoryManager[142]/Read -> read memory: ok_long_history = ok_long3,ok_long2,ok_long4
+Tue Jan 14 11:06:49 JST 2020:MemoryManager[94]/Add -> add new memory: ok_long_history += ok_long in long_memory.txt
+Tue Jan 14 11:06:49 JST 2020:MemoryManager[82]/Add -> already contain: ok_long at activity_history in short_memory.txt
+Tue Jan 14 11:06:49 JST 2020:MemoryManager[142]/Read -> read memory: aizuchi_history = aizuchi,aizuchi2,aizuchi3
+Tue Jan 14 11:06:49 JST 2020:MemoryManager[94]/Add -> add new memory: aizuchi_history += aizuchi4 in long_memory.txt
+Tue Jan 14 11:06:49 JST 2020:MemoryManager[82]/Add -> already contain: aizuchi4 at activity_history in short_memory.txt
+Tue Jan 14 11:06:49 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: aizuchi
+Tue Jan 14 11:06:49 JST 2020:MemoryManager[142]/Read -> read memory: praisesilver_history = praisesilver3
+Tue Jan 14 11:06:49 JST 2020:MemoryManager[94]/Add -> add new memory: praisesilver_history += praisesilver4 in long_memory.txt
+Tue Jan 14 11:06:49 JST 2020:MemoryManager[82]/Add -> already contain: praisesilver4 at activity_history in short_memory.txt
+Tue Jan 14 11:06:49 JST 2020:MemoryManager[142]/Read -> read memory: sotaaizuchi_history = sotaaizuchi,sotaaizuchi3
+Tue Jan 14 11:06:49 JST 2020:MemoryManager[94]/Add -> add new memory: sotaaizuchi_history += sotaaizuchi2 in long_memory.txt
+Tue Jan 14 11:06:49 JST 2020:MemoryManager[82]/Add -> already contain: sotaaizuchi2 at activity_history in short_memory.txt
+Tue Jan 14 11:06:49 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: sotaaizuchi
+Tue Jan 14 11:06:49 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: praisesilver
+Tue Jan 14 11:06:49 JST 2020:ActivityManager[78]/handling -> Read activity: activities\ok_long.txt
+Tue Jan 14 11:07:00 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 11:07:00 JST 2020:ActivityManager[78]/handling -> Read activity: activities\24_3.txt
+Tue Jan 14 13:57:11 JST 2020:ActivityManager[78]/handling -> Read activity: activities\4doc.txt
+Tue Jan 14 13:57:20 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 13:57:20 JST 2020:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: cool
+Tue Jan 14 13:57:30 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 13:57:30 JST 2020:MemoryManager[142]/Read -> read memory: ok_silver_history = ok_silver2
+Tue Jan 14 13:57:30 JST 2020:MemoryManager[94]/Add -> add new memory: ok_silver_history += ok_silver in long_memory.txt
+Tue Jan 14 13:57:30 JST 2020:MemoryManager[82]/Add -> already contain: ok_silver at activity_history in short_memory.txt
+Tue Jan 14 13:57:30 JST 2020:MemoryManager[142]/Read -> read memory: praiselong_history = praiselong,praiselong2,praiselong3
+Tue Jan 14 13:57:30 JST 2020:MemoryManager[94]/Add -> add new memory: praiselong_history += praiselong4 in long_memory.txt
+Tue Jan 14 13:57:30 JST 2020:MemoryManager[82]/Add -> already contain: praiselong4 at activity_history in short_memory.txt
+Tue Jan 14 13:57:30 JST 2020:MemoryManager[142]/Read -> read memory: sotaaizuchi_history = sotaaizuchi,sotaaizuchi3,sotaaizuchi2
+Tue Jan 14 13:57:30 JST 2020:MemoryManager[94]/Add -> add new memory: sotaaizuchi_history += sotaaizuchi4 in long_memory.txt
+Tue Jan 14 13:57:30 JST 2020:MemoryManager[82]/Add -> already contain: sotaaizuchi4 at activity_history in short_memory.txt
+Tue Jan 14 13:57:30 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: sotaaizuchi
+Tue Jan 14 13:57:30 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: praiselong
+Tue Jan 14 13:57:30 JST 2020:ActivityManager[78]/handling -> Read activity: activities\ok_silver.txt
+Tue Jan 14 13:57:40 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 13:57:40 JST 2020:ActivityManager[78]/handling -> Read activity: activities\first.txt
+Tue Jan 14 13:57:48 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 13:57:48 JST 2020:MemoryManager[142]/Read -> read memory: target_history = target2,target3,target4,target
+Tue Jan 14 13:57:48 JST 2020:MemoryManager[181]/Clear -> clear memory: target_history = target2,target3,target4,target
+Tue Jan 14 13:57:48 JST 2020:MemoryManager[94]/Add -> add new memory: target_history += target2 in long_memory.txt
+Tue Jan 14 13:57:48 JST 2020:MemoryManager[82]/Add -> already contain: target2 at activity_history in short_memory.txt
+Tue Jan 14 13:57:48 JST 2020:ActivityManager[78]/handling -> Read activity: activities\target2.txt
+Tue Jan 14 13:58:00 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 13:58:00 JST 2020:MemoryManager[142]/Read -> read memory: ok_long_history = ok_long3,ok_long2,ok_long4,ok_long
+Tue Jan 14 13:58:00 JST 2020:MemoryManager[181]/Clear -> clear memory: ok_long_history = ok_long3,ok_long2,ok_long4,ok_long
+Tue Jan 14 13:58:00 JST 2020:MemoryManager[94]/Add -> add new memory: ok_long_history += ok_long3 in long_memory.txt
+Tue Jan 14 13:58:00 JST 2020:MemoryManager[82]/Add -> already contain: ok_long3 at activity_history in short_memory.txt
+Tue Jan 14 13:58:00 JST 2020:MemoryManager[142]/Read -> read memory: praisesilver_history = praisesilver3,praisesilver4
+Tue Jan 14 13:58:00 JST 2020:MemoryManager[94]/Add -> add new memory: praisesilver_history += praisesilver2 in long_memory.txt
+Tue Jan 14 13:58:00 JST 2020:MemoryManager[82]/Add -> already contain: praisesilver2 at activity_history in short_memory.txt
+Tue Jan 14 13:58:00 JST 2020:MemoryManager[142]/Read -> read memory: sotaaizuchi_history = sotaaizuchi,sotaaizuchi3,sotaaizuchi2,sotaaizuchi4
+Tue Jan 14 13:58:00 JST 2020:MemoryManager[181]/Clear -> clear memory: sotaaizuchi_history = sotaaizuchi,sotaaizuchi3,sotaaizuchi2,sotaaizuchi4
+Tue Jan 14 13:58:00 JST 2020:MemoryManager[94]/Add -> add new memory: sotaaizuchi_history += sotaaizuchi3 in long_memory.txt
+Tue Jan 14 13:58:00 JST 2020:MemoryManager[82]/Add -> already contain: sotaaizuchi3 at activity_history in short_memory.txt
+Tue Jan 14 13:58:00 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: sotaaizuchi
+Tue Jan 14 13:58:00 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: praisesilver
+Tue Jan 14 13:58:00 JST 2020:ActivityManager[78]/handling -> Read activity: activities\ok_long3.txt
+Tue Jan 14 13:58:10 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 13:58:10 JST 2020:MemoryManager[142]/Read -> read memory: ka_shizuku_history = ka_shizuku2
+Tue Jan 14 13:58:10 JST 2020:MemoryManager[94]/Add -> add new memory: ka_shizuku_history += ka_shizuku in long_memory.txt
+Tue Jan 14 13:58:10 JST 2020:MemoryManager[82]/Add -> already contain: ka_shizuku at activity_history in short_memory.txt
+Tue Jan 14 13:58:10 JST 2020:MemoryManager[142]/Read -> read memory: aizuchi_history = aizuchi,aizuchi2,aizuchi3,aizuchi4
+Tue Jan 14 13:58:10 JST 2020:MemoryManager[181]/Clear -> clear memory: aizuchi_history = aizuchi,aizuchi2,aizuchi3,aizuchi4
+Tue Jan 14 13:58:10 JST 2020:MemoryManager[94]/Add -> add new memory: aizuchi_history += aizuchi3 in long_memory.txt
+Tue Jan 14 13:58:10 JST 2020:MemoryManager[82]/Add -> already contain: aizuchi3 at activity_history in short_memory.txt
+Tue Jan 14 13:58:10 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: aizuchi
+Tue Jan 14 13:58:10 JST 2020:ActivityManager[78]/handling -> Read activity: activities\ka_shizuku.txt
+Tue Jan 14 13:58:19 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 13:58:19 JST 2020:MemoryManager[142]/Read -> read memory: ok_long_history = ok_long3
+Tue Jan 14 13:58:19 JST 2020:MemoryManager[94]/Add -> add new memory: ok_long_history += ok_long2 in long_memory.txt
+Tue Jan 14 13:58:19 JST 2020:MemoryManager[82]/Add -> already contain: ok_long2 at activity_history in short_memory.txt
+Tue Jan 14 13:58:19 JST 2020:MemoryManager[142]/Read -> read memory: praisesilver_history = praisesilver3,praisesilver4,praisesilver2
+Tue Jan 14 13:58:19 JST 2020:MemoryManager[94]/Add -> add new memory: praisesilver_history += praisesilver in long_memory.txt
+Tue Jan 14 13:58:19 JST 2020:MemoryManager[82]/Add -> already contain: praisesilver at activity_history in short_memory.txt
+Tue Jan 14 13:58:19 JST 2020:MemoryManager[142]/Read -> read memory: sotaaizuchi_history = sotaaizuchi3
+Tue Jan 14 13:58:19 JST 2020:MemoryManager[94]/Add -> add new memory: sotaaizuchi_history += sotaaizuchi in long_memory.txt
+Tue Jan 14 13:58:19 JST 2020:MemoryManager[82]/Add -> already contain: sotaaizuchi at activity_history in short_memory.txt
+Tue Jan 14 13:58:19 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: sotaaizuchi
+Tue Jan 14 13:58:19 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: praisesilver
+Tue Jan 14 13:58:19 JST 2020:ActivityManager[78]/handling -> Read activity: activities\ok_long2.txt
+Tue Jan 14 13:58:31 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 13:58:31 JST 2020:MemoryManager[142]/Read -> read memory: ok_silver_history = ok_silver2,ok_silver
+Tue Jan 14 13:58:31 JST 2020:MemoryManager[94]/Add -> add new memory: ok_silver_history += ok_silver3 in long_memory.txt
+Tue Jan 14 13:58:31 JST 2020:MemoryManager[82]/Add -> already contain: ok_silver3 at activity_history in short_memory.txt
+Tue Jan 14 13:58:31 JST 2020:MemoryManager[142]/Read -> read memory: praiselong_history = praiselong,praiselong2,praiselong3,praiselong4
+Tue Jan 14 13:58:31 JST 2020:MemoryManager[181]/Clear -> clear memory: praiselong_history = praiselong,praiselong2,praiselong3,praiselong4
+Tue Jan 14 13:58:31 JST 2020:MemoryManager[94]/Add -> add new memory: praiselong_history += praiselong2 in long_memory.txt
+Tue Jan 14 13:58:31 JST 2020:MemoryManager[82]/Add -> already contain: praiselong2 at activity_history in short_memory.txt
+Tue Jan 14 13:58:31 JST 2020:MemoryManager[142]/Read -> read memory: sotaaizuchi_history = sotaaizuchi3,sotaaizuchi
+Tue Jan 14 13:58:31 JST 2020:MemoryManager[94]/Add -> add new memory: sotaaizuchi_history += sotaaizuchi2 in long_memory.txt
+Tue Jan 14 13:58:31 JST 2020:MemoryManager[82]/Add -> already contain: sotaaizuchi2 at activity_history in short_memory.txt
+Tue Jan 14 13:58:31 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: sotaaizuchi
+Tue Jan 14 13:58:31 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: praiselong
+Tue Jan 14 13:58:31 JST 2020:ActivityManager[78]/handling -> Read activity: activities\ok_silver3.txt
+Tue Jan 14 13:58:51 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 13:58:51 JST 2020:MemoryManager[142]/Read -> read memory: ok_silver_history = ok_silver2,ok_silver,ok_silver3
+Tue Jan 14 13:58:51 JST 2020:MemoryManager[94]/Add -> add new memory: ok_silver_history += ok_silver4 in long_memory.txt
+Tue Jan 14 13:58:51 JST 2020:MemoryManager[82]/Add -> already contain: ok_silver4 at activity_history in short_memory.txt
+Tue Jan 14 13:58:51 JST 2020:MemoryManager[142]/Read -> read memory: praisesilver_history = praisesilver3,praisesilver4,praisesilver2,praisesilver
+Tue Jan 14 13:58:51 JST 2020:MemoryManager[181]/Clear -> clear memory: praisesilver_history = praisesilver3,praisesilver4,praisesilver2,praisesilver
+Tue Jan 14 13:58:51 JST 2020:MemoryManager[94]/Add -> add new memory: praisesilver_history += praisesilver in long_memory.txt
+Tue Jan 14 13:58:51 JST 2020:MemoryManager[82]/Add -> already contain: praisesilver at activity_history in short_memory.txt
+Tue Jan 14 13:58:51 JST 2020:MemoryManager[142]/Read -> read memory: sotaaizuchi_history = sotaaizuchi3,sotaaizuchi,sotaaizuchi2
+Tue Jan 14 13:58:51 JST 2020:MemoryManager[94]/Add -> add new memory: sotaaizuchi_history += sotaaizuchi4 in long_memory.txt
+Tue Jan 14 13:58:51 JST 2020:MemoryManager[82]/Add -> already contain: sotaaizuchi4 at activity_history in short_memory.txt
+Tue Jan 14 13:58:51 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: sotaaizuchi
+Tue Jan 14 13:58:51 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: praisesilver
+Tue Jan 14 13:58:51 JST 2020:ActivityManager[78]/handling -> Read activity: activities\ok_silver4.txt
+Tue Jan 14 13:58:57 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 13:58:57 JST 2020:ActivityManager[78]/handling -> Read activity: activities\24.txt
+Tue Jan 14 13:59:05 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 13:59:05 JST 2020:MemoryManager[142]/Read -> read memory: target_history = target2
+Tue Jan 14 13:59:05 JST 2020:MemoryManager[94]/Add -> add new memory: target_history += target4 in long_memory.txt
+Tue Jan 14 13:59:05 JST 2020:MemoryManager[82]/Add -> already contain: target4 at activity_history in short_memory.txt
+Tue Jan 14 13:59:05 JST 2020:ActivityManager[78]/handling -> Read activity: activities\target4.txt
+Tue Jan 14 13:59:20 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 13:59:20 JST 2020:ActivityManager[78]/handling -> Read activity: activities\24_2.txt
+Tue Jan 14 13:59:27 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 13:59:27 JST 2020:MemoryManager[142]/Read -> read memory: ok_silver_history = ok_silver2,ok_silver,ok_silver3,ok_silver4
+Tue Jan 14 13:59:27 JST 2020:MemoryManager[181]/Clear -> clear memory: ok_silver_history = ok_silver2,ok_silver,ok_silver3,ok_silver4
+Tue Jan 14 13:59:27 JST 2020:MemoryManager[94]/Add -> add new memory: ok_silver_history += ok_silver in long_memory.txt
+Tue Jan 14 13:59:27 JST 2020:MemoryManager[82]/Add -> already contain: ok_silver at activity_history in short_memory.txt
+Tue Jan 14 13:59:27 JST 2020:MemoryManager[142]/Read -> read memory: praiselong_history = praiselong2
+Tue Jan 14 13:59:27 JST 2020:MemoryManager[94]/Add -> add new memory: praiselong_history += praiselong3 in long_memory.txt
+Tue Jan 14 13:59:27 JST 2020:MemoryManager[82]/Add -> already contain: praiselong3 at activity_history in short_memory.txt
+Tue Jan 14 13:59:27 JST 2020:MemoryManager[142]/Read -> read memory: sotaaizuchi_history = sotaaizuchi3,sotaaizuchi,sotaaizuchi2,sotaaizuchi4
+Tue Jan 14 13:59:27 JST 2020:MemoryManager[181]/Clear -> clear memory: sotaaizuchi_history = sotaaizuchi3,sotaaizuchi,sotaaizuchi2,sotaaizuchi4
+Tue Jan 14 13:59:27 JST 2020:MemoryManager[94]/Add -> add new memory: sotaaizuchi_history += sotaaizuchi in long_memory.txt
+Tue Jan 14 13:59:27 JST 2020:MemoryManager[82]/Add -> already contain: sotaaizuchi at activity_history in short_memory.txt
+Tue Jan 14 13:59:27 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: sotaaizuchi
+Tue Jan 14 13:59:27 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: praiselong
+Tue Jan 14 13:59:27 JST 2020:ActivityManager[78]/handling -> Read activity: activities\ok_silver.txt
+Tue Jan 14 13:59:40 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 13:59:40 JST 2020:MemoryManager[142]/Read -> read memory: kanren_history = kanren2,kanren
+Tue Jan 14 13:59:40 JST 2020:MemoryManager[94]/Add -> add new memory: kanren_history += kanren4 in long_memory.txt
+Tue Jan 14 13:59:40 JST 2020:MemoryManager[82]/Add -> already contain: kanren4 at activity_history in short_memory.txt
+Tue Jan 14 13:59:40 JST 2020:MemoryManager[142]/Read -> read memory: aizuchi_history = aizuchi3
+Tue Jan 14 13:59:40 JST 2020:MemoryManager[94]/Add -> add new memory: aizuchi_history += aizuchi4 in long_memory.txt
+Tue Jan 14 13:59:40 JST 2020:MemoryManager[82]/Add -> already contain: aizuchi4 at activity_history in short_memory.txt
+Tue Jan 14 13:59:40 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: aizuchi
+Tue Jan 14 13:59:40 JST 2020:MemoryManager[142]/Read -> read memory: sotaaizuchi_history = sotaaizuchi
+Tue Jan 14 13:59:40 JST 2020:MemoryManager[94]/Add -> add new memory: sotaaizuchi_history += sotaaizuchi4 in long_memory.txt
+Tue Jan 14 13:59:40 JST 2020:MemoryManager[82]/Add -> already contain: sotaaizuchi4 at activity_history in short_memory.txt
+Tue Jan 14 13:59:40 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: sotaaizuchi
+Tue Jan 14 13:59:40 JST 2020:ActivityManager[78]/handling -> Read activity: activities\kanren4.txt
+Tue Jan 14 13:59:51 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 13:59:51 JST 2020:ActivityManager[78]/handling -> Read activity: activities\24.txt
+Tue Jan 14 14:00:09 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 14:00:09 JST 2020:MemoryManager[142]/Read -> read memory: kanren_history = kanren2,kanren,kanren4
+Tue Jan 14 14:00:09 JST 2020:MemoryManager[94]/Add -> add new memory: kanren_history += kanren3 in long_memory.txt
+Tue Jan 14 14:00:09 JST 2020:MemoryManager[82]/Add -> already contain: kanren3 at activity_history in short_memory.txt
+Tue Jan 14 14:00:09 JST 2020:MemoryManager[142]/Read -> read memory: aizuchi_history = aizuchi3,aizuchi4
+Tue Jan 14 14:00:09 JST 2020:MemoryManager[94]/Add -> add new memory: aizuchi_history += aizuchi in long_memory.txt
+Tue Jan 14 14:00:09 JST 2020:MemoryManager[82]/Add -> already contain: aizuchi at activity_history in short_memory.txt
+Tue Jan 14 14:00:09 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: aizuchi
+Tue Jan 14 14:00:09 JST 2020:ActivityManager[78]/handling -> Read activity: activities\kanren3.txt
+Tue Jan 14 14:00:24 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 14:00:24 JST 2020:MemoryManager[142]/Read -> read memory: ok_long_history = ok_long3,ok_long2
+Tue Jan 14 14:00:24 JST 2020:MemoryManager[94]/Add -> add new memory: ok_long_history += ok_long4 in long_memory.txt
+Tue Jan 14 14:00:24 JST 2020:MemoryManager[82]/Add -> already contain: ok_long4 at activity_history in short_memory.txt
+Tue Jan 14 14:00:24 JST 2020:MemoryManager[142]/Read -> read memory: praisesilver_history = praisesilver
+Tue Jan 14 14:00:24 JST 2020:MemoryManager[94]/Add -> add new memory: praisesilver_history += praisesilver4 in long_memory.txt
+Tue Jan 14 14:00:24 JST 2020:MemoryManager[82]/Add -> already contain: praisesilver4 at activity_history in short_memory.txt
+Tue Jan 14 14:00:24 JST 2020:MemoryManager[142]/Read -> read memory: sotaaizuchi_history = sotaaizuchi,sotaaizuchi4
+Tue Jan 14 14:00:24 JST 2020:MemoryManager[94]/Add -> add new memory: sotaaizuchi_history += sotaaizuchi3 in long_memory.txt
+Tue Jan 14 14:00:24 JST 2020:MemoryManager[82]/Add -> already contain: sotaaizuchi3 at activity_history in short_memory.txt
+Tue Jan 14 14:00:24 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: sotaaizuchi
+Tue Jan 14 14:00:24 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: praisesilver
+Tue Jan 14 14:00:24 JST 2020:ActivityManager[78]/handling -> Read activity: activities\ok_long4.txt
+Tue Jan 14 14:00:36 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 14:00:36 JST 2020:MemoryManager[142]/Read -> read memory: ok_long_history = ok_long3,ok_long2,ok_long4
+Tue Jan 14 14:00:36 JST 2020:MemoryManager[94]/Add -> add new memory: ok_long_history += ok_long in long_memory.txt
+Tue Jan 14 14:00:36 JST 2020:MemoryManager[82]/Add -> already contain: ok_long at activity_history in short_memory.txt
+Tue Jan 14 14:00:36 JST 2020:MemoryManager[142]/Read -> read memory: aizuchi_history = aizuchi3,aizuchi4,aizuchi
+Tue Jan 14 14:00:36 JST 2020:MemoryManager[94]/Add -> add new memory: aizuchi_history += aizuchi2 in long_memory.txt
+Tue Jan 14 14:00:36 JST 2020:MemoryManager[82]/Add -> already contain: aizuchi2 at activity_history in short_memory.txt
+Tue Jan 14 14:00:36 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: aizuchi
+Tue Jan 14 14:00:36 JST 2020:MemoryManager[142]/Read -> read memory: praisesilver_history = praisesilver,praisesilver4
+Tue Jan 14 14:00:36 JST 2020:MemoryManager[94]/Add -> add new memory: praisesilver_history += praisesilver2 in long_memory.txt
+Tue Jan 14 14:00:36 JST 2020:MemoryManager[82]/Add -> already contain: praisesilver2 at activity_history in short_memory.txt
+Tue Jan 14 14:00:36 JST 2020:MemoryManager[142]/Read -> read memory: sotaaizuchi_history = sotaaizuchi,sotaaizuchi4,sotaaizuchi3
+Tue Jan 14 14:00:36 JST 2020:MemoryManager[94]/Add -> add new memory: sotaaizuchi_history += sotaaizuchi2 in long_memory.txt
+Tue Jan 14 14:00:36 JST 2020:MemoryManager[82]/Add -> already contain: sotaaizuchi2 at activity_history in short_memory.txt
+Tue Jan 14 14:00:36 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: sotaaizuchi
+Tue Jan 14 14:00:36 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: praisesilver
+Tue Jan 14 14:00:36 JST 2020:ActivityManager[78]/handling -> Read activity: activities\ok_long.txt
+Tue Jan 14 14:00:41 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 14:00:41 JST 2020:ActivityManager[78]/handling -> Read activity: activities\24.txt
+Tue Jan 14 14:00:49 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 14:00:49 JST 2020:MemoryManager[142]/Read -> read memory: kanren_history = kanren2,kanren,kanren4,kanren3
+Tue Jan 14 14:00:49 JST 2020:MemoryManager[181]/Clear -> clear memory: kanren_history = kanren2,kanren,kanren4,kanren3
+Tue Jan 14 14:00:49 JST 2020:MemoryManager[94]/Add -> add new memory: kanren_history += kanren3 in long_memory.txt
+Tue Jan 14 14:00:49 JST 2020:MemoryManager[82]/Add -> already contain: kanren3 at activity_history in short_memory.txt
+Tue Jan 14 14:00:49 JST 2020:MemoryManager[142]/Read -> read memory: aizuchi_history = aizuchi3,aizuchi4,aizuchi,aizuchi2
+Tue Jan 14 14:00:49 JST 2020:MemoryManager[181]/Clear -> clear memory: aizuchi_history = aizuchi3,aizuchi4,aizuchi,aizuchi2
+Tue Jan 14 14:00:49 JST 2020:MemoryManager[94]/Add -> add new memory: aizuchi_history += aizuchi3 in long_memory.txt
+Tue Jan 14 14:00:49 JST 2020:MemoryManager[82]/Add -> already contain: aizuchi3 at activity_history in short_memory.txt
+Tue Jan 14 14:00:49 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: aizuchi
+Tue Jan 14 14:00:49 JST 2020:ActivityManager[78]/handling -> Read activity: activities\kanren3.txt
+Tue Jan 14 14:01:04 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 14:01:04 JST 2020:ActivityManager[78]/handling -> Read activity: activities\24_2.txt
+Tue Jan 14 14:01:08 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 14:01:08 JST 2020:MemoryManager[142]/Read -> read memory: ok_long_history = ok_long3,ok_long2,ok_long4,ok_long
+Tue Jan 14 14:01:08 JST 2020:MemoryManager[181]/Clear -> clear memory: ok_long_history = ok_long3,ok_long2,ok_long4,ok_long
+Tue Jan 14 14:01:08 JST 2020:MemoryManager[94]/Add -> add new memory: ok_long_history += ok_long4 in long_memory.txt
+Tue Jan 14 14:01:08 JST 2020:MemoryManager[82]/Add -> already contain: ok_long4 at activity_history in short_memory.txt
+Tue Jan 14 14:01:08 JST 2020:MemoryManager[142]/Read -> read memory: praisesilver_history = praisesilver,praisesilver4,praisesilver2
+Tue Jan 14 14:01:08 JST 2020:MemoryManager[94]/Add -> add new memory: praisesilver_history += praisesilver3 in long_memory.txt
+Tue Jan 14 14:01:08 JST 2020:MemoryManager[82]/Add -> already contain: praisesilver3 at activity_history in short_memory.txt
+Tue Jan 14 14:01:08 JST 2020:MemoryManager[142]/Read -> read memory: sotaaizuchi_history = sotaaizuchi,sotaaizuchi4,sotaaizuchi3,sotaaizuchi2
+Tue Jan 14 14:01:08 JST 2020:MemoryManager[181]/Clear -> clear memory: sotaaizuchi_history = sotaaizuchi,sotaaizuchi4,sotaaizuchi3,sotaaizuchi2
+Tue Jan 14 14:01:08 JST 2020:MemoryManager[94]/Add -> add new memory: sotaaizuchi_history += sotaaizuchi4 in long_memory.txt
+Tue Jan 14 14:01:08 JST 2020:MemoryManager[82]/Add -> already contain: sotaaizuchi4 at activity_history in short_memory.txt
+Tue Jan 14 14:01:08 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: sotaaizuchi
+Tue Jan 14 14:01:08 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: praisesilver
+Tue Jan 14 14:01:08 JST 2020:ActivityManager[78]/handling -> Read activity: activities\ok_long4.txt
+Tue Jan 14 14:01:21 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 14:01:21 JST 2020:ActivityManager[78]/handling -> Read activity: activities\24_3.txt
+Tue Jan 14 14:06:16 JST 2020:ActivityManager[78]/handling -> Read activity: activities\4doc.txt
+Tue Jan 14 15:08:37 JST 2020:ActivityManager[78]/handling -> Read activity: activities\4doc.txt
+Tue Jan 14 15:09:26 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 15:09:26 JST 2020:MemoryManager[142]/Read -> read memory: target_history = target2,target4
+Tue Jan 14 15:09:26 JST 2020:MemoryManager[94]/Add -> add new memory: target_history += target3 in long_memory.txt
+Tue Jan 14 15:09:26 JST 2020:MemoryManager[82]/Add -> already contain: target3 at activity_history in short_memory.txt
+Tue Jan 14 15:09:26 JST 2020:ActivityManager[78]/handling -> Read activity: activities\target3.txt
+Tue Jan 14 15:10:15 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 15:10:15 JST 2020:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: cool
+Tue Jan 14 15:10:26 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 15:10:26 JST 2020:ActivityManager[78]/handling -> Read activity: activities\first.txt
+Tue Jan 14 15:11:03 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 15:11:04 JST 2020:MemoryManager[142]/Read -> read memory: ok_long_history = ok_long4
+Tue Jan 14 15:11:04 JST 2020:MemoryManager[94]/Add -> add new memory: ok_long_history += ok_long2 in long_memory.txt
+Tue Jan 14 15:11:04 JST 2020:MemoryManager[82]/Add -> already contain: ok_long2 at activity_history in short_memory.txt
+Tue Jan 14 15:11:04 JST 2020:MemoryManager[142]/Read -> read memory: praisesilver_history = praisesilver,praisesilver4,praisesilver2,praisesilver3
+Tue Jan 14 15:11:04 JST 2020:MemoryManager[181]/Clear -> clear memory: praisesilver_history = praisesilver,praisesilver4,praisesilver2,praisesilver3
+Tue Jan 14 15:11:04 JST 2020:MemoryManager[94]/Add -> add new memory: praisesilver_history += praisesilver in long_memory.txt
+Tue Jan 14 15:11:04 JST 2020:MemoryManager[82]/Add -> already contain: praisesilver at activity_history in short_memory.txt
+Tue Jan 14 15:11:04 JST 2020:MemoryManager[142]/Read -> read memory: sotaaizuchi_history = sotaaizuchi4
+Tue Jan 14 15:11:04 JST 2020:MemoryManager[94]/Add -> add new memory: sotaaizuchi_history += sotaaizuchi in long_memory.txt
+Tue Jan 14 15:11:04 JST 2020:MemoryManager[82]/Add -> already contain: sotaaizuchi at activity_history in short_memory.txt
+Tue Jan 14 15:11:04 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: sotaaizuchi
+Tue Jan 14 15:11:04 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: praisesilver
+Tue Jan 14 15:11:04 JST 2020:ActivityManager[78]/handling -> Read activity: activities\ok_long2.txt
+Tue Jan 14 15:11:50 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 15:11:50 JST 2020:ActivityManager[78]/handling -> Read activity: activities\first.txt
+Tue Jan 14 15:12:13 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 15:12:13 JST 2020:MemoryManager[142]/Read -> read memory: target_history = target2,target4,target3
+Tue Jan 14 15:12:13 JST 2020:MemoryManager[94]/Add -> add new memory: target_history += target in long_memory.txt
+Tue Jan 14 15:12:13 JST 2020:MemoryManager[82]/Add -> already contain: target at activity_history in short_memory.txt
+Tue Jan 14 15:12:13 JST 2020:ActivityManager[78]/handling -> Read activity: activities\target.txt
+Tue Jan 14 15:13:02 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 15:13:02 JST 2020:MemoryManager[142]/Read -> read memory: kanren_history = kanren3
+Tue Jan 14 15:13:02 JST 2020:MemoryManager[94]/Add -> add new memory: kanren_history += kanren4 in long_memory.txt
+Tue Jan 14 15:13:02 JST 2020:MemoryManager[82]/Add -> already contain: kanren4 at activity_history in short_memory.txt
+Tue Jan 14 15:13:02 JST 2020:MemoryManager[142]/Read -> read memory: aizuchi_history = aizuchi3
+Tue Jan 14 15:13:02 JST 2020:MemoryManager[94]/Add -> add new memory: aizuchi_history += aizuchi2 in long_memory.txt
+Tue Jan 14 15:13:02 JST 2020:MemoryManager[82]/Add -> already contain: aizuchi2 at activity_history in short_memory.txt
+Tue Jan 14 15:13:02 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: aizuchi
+Tue Jan 14 15:13:02 JST 2020:MemoryManager[142]/Read -> read memory: sotaaizuchi_history = sotaaizuchi4,sotaaizuchi
+Tue Jan 14 15:13:02 JST 2020:MemoryManager[94]/Add -> add new memory: sotaaizuchi_history += sotaaizuchi3 in long_memory.txt
+Tue Jan 14 15:13:02 JST 2020:MemoryManager[82]/Add -> already contain: sotaaizuchi3 at activity_history in short_memory.txt
+Tue Jan 14 15:13:02 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: sotaaizuchi
+Tue Jan 14 15:13:02 JST 2020:ActivityManager[78]/handling -> Read activity: activities\kanren4.txt
+Tue Jan 14 15:13:51 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 15:13:51 JST 2020:MemoryManager[142]/Read -> read memory: ok_silver_history = ok_silver
+Tue Jan 14 15:13:51 JST 2020:MemoryManager[94]/Add -> add new memory: ok_silver_history += ok_silver3 in long_memory.txt
+Tue Jan 14 15:13:51 JST 2020:MemoryManager[82]/Add -> already contain: ok_silver3 at activity_history in short_memory.txt
+Tue Jan 14 15:13:51 JST 2020:MemoryManager[142]/Read -> read memory: praiselong_history = praiselong2,praiselong3
+Tue Jan 14 15:13:51 JST 2020:MemoryManager[94]/Add -> add new memory: praiselong_history += praiselong in long_memory.txt
+Tue Jan 14 15:13:51 JST 2020:MemoryManager[82]/Add -> already contain: praiselong at activity_history in short_memory.txt
+Tue Jan 14 15:13:51 JST 2020:MemoryManager[142]/Read -> read memory: sotaaizuchi_history = sotaaizuchi4,sotaaizuchi,sotaaizuchi3
+Tue Jan 14 15:13:51 JST 2020:MemoryManager[94]/Add -> add new memory: sotaaizuchi_history += sotaaizuchi2 in long_memory.txt
+Tue Jan 14 15:13:51 JST 2020:MemoryManager[82]/Add -> already contain: sotaaizuchi2 at activity_history in short_memory.txt
+Tue Jan 14 15:13:51 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: sotaaizuchi
+Tue Jan 14 15:13:51 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: praiselong
+Tue Jan 14 15:13:51 JST 2020:ActivityManager[78]/handling -> Read activity: activities\ok_silver3.txt
+Tue Jan 14 15:14:28 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 15:14:29 JST 2020:ActivityManager[78]/handling -> Read activity: activities\25.txt
+Tue Jan 14 15:14:42 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 15:14:42 JST 2020:MemoryManager[142]/Read -> read memory: target_history = target2,target4,target3,target
+Tue Jan 14 15:14:42 JST 2020:MemoryManager[181]/Clear -> clear memory: target_history = target2,target4,target3,target
+Tue Jan 14 15:14:42 JST 2020:MemoryManager[94]/Add -> add new memory: target_history += target2 in long_memory.txt
+Tue Jan 14 15:14:42 JST 2020:MemoryManager[82]/Add -> already contain: target2 at activity_history in short_memory.txt
+Tue Jan 14 15:14:42 JST 2020:ActivityManager[78]/handling -> Read activity: activities\target2.txt
+Tue Jan 14 15:15:24 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 15:15:24 JST 2020:ActivityManager[78]/handling -> Read activity: activities\25_2.txt
+Tue Jan 14 15:15:55 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 15:15:55 JST 2020:MemoryManager[142]/Read -> read memory: target_history = target2
+Tue Jan 14 15:15:55 JST 2020:MemoryManager[94]/Add -> add new memory: target_history += target3 in long_memory.txt
+Tue Jan 14 15:15:55 JST 2020:MemoryManager[82]/Add -> already contain: target3 at activity_history in short_memory.txt
+Tue Jan 14 15:15:55 JST 2020:ActivityManager[78]/handling -> Read activity: activities\target3.txt
+Tue Jan 14 15:16:35 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 15:16:35 JST 2020:ActivityManager[78]/handling -> Read activity: activities\25_3.txt
+Tue Jan 14 15:17:51 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 15:17:51 JST 2020:ActivityManager[78]/handling -> Read activity: activities\1.0.txt
+Tue Jan 14 15:18:02 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 15:18:02 JST 2020:ActivityManager[78]/handling -> Read activity: activities\1_2.txt
+Tue Jan 14 15:18:06 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 15:18:06 JST 2020:MemoryManager[142]/Read -> read memory: target_history = target2,target3
+Tue Jan 14 15:18:06 JST 2020:MemoryManager[94]/Add -> add new memory: target_history += target in long_memory.txt
+Tue Jan 14 15:18:06 JST 2020:MemoryManager[82]/Add -> already contain: target at activity_history in short_memory.txt
+Tue Jan 14 15:18:06 JST 2020:ActivityManager[78]/handling -> Read activity: activities\target.txt
+Tue Jan 14 15:18:35 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 15:18:35 JST 2020:ActivityManager[78]/handling -> Read activity: activities\1_3.txt
+Tue Jan 14 16:12:19 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 16:12:19 JST 2020:ActivityManager[78]/handling -> Read activity: activities\first.txt
+Tue Jan 14 16:14:10 JST 2020:ActivityManager[78]/handling -> Read activity: activities\4doc.txt
+Tue Jan 14 16:14:16 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 16:14:16 JST 2020:MemoryManager[142]/Read -> read memory: kanren_history = kanren3,kanren4
+Tue Jan 14 16:14:16 JST 2020:MemoryManager[94]/Add -> add new memory: kanren_history += kanren2 in long_memory.txt
+Tue Jan 14 16:14:16 JST 2020:MemoryManager[82]/Add -> already contain: kanren2 at activity_history in short_memory.txt
+Tue Jan 14 16:14:16 JST 2020:MemoryManager[142]/Read -> read memory: sotaaizuchi_history = sotaaizuchi4,sotaaizuchi,sotaaizuchi3,sotaaizuchi2
+Tue Jan 14 16:14:16 JST 2020:MemoryManager[181]/Clear -> clear memory: sotaaizuchi_history = sotaaizuchi4,sotaaizuchi,sotaaizuchi3,sotaaizuchi2
+Tue Jan 14 16:14:16 JST 2020:MemoryManager[94]/Add -> add new memory: sotaaizuchi_history += sotaaizuchi4 in long_memory.txt
+Tue Jan 14 16:14:16 JST 2020:MemoryManager[82]/Add -> already contain: sotaaizuchi4 at activity_history in short_memory.txt
+Tue Jan 14 16:14:16 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: sotaaizuchi
+Tue Jan 14 16:14:16 JST 2020:ActivityManager[78]/handling -> Read activity: activities\kanren2.txt
+Tue Jan 14 16:14:24 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 16:14:24 JST 2020:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: cool
+Tue Jan 14 17:34:01 JST 2020:ActivityManager[78]/handling -> Read activity: activities\4doc.txt
+Tue Jan 14 17:34:34 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 17:34:34 JST 2020:MemoryManager[142]/Read -> read memory: target_history = target2,target3,target
+Tue Jan 14 17:34:34 JST 2020:MemoryManager[94]/Add -> add new memory: target_history += target4 in long_memory.txt
+Tue Jan 14 17:34:34 JST 2020:MemoryManager[82]/Add -> already contain: target4 at activity_history in short_memory.txt
+Tue Jan 14 17:34:34 JST 2020:ActivityManager[78]/handling -> Read activity: activities\target4.txt
+Tue Jan 14 17:34:41 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 17:34:41 JST 2020:MemoryManager[142]/Read -> read memory: target_history = target2,target3,target,target4
+Tue Jan 14 17:34:41 JST 2020:MemoryManager[181]/Clear -> clear memory: target_history = target2,target3,target,target4
+Tue Jan 14 17:34:41 JST 2020:MemoryManager[94]/Add -> add new memory: target_history += target in long_memory.txt
+Tue Jan 14 17:34:41 JST 2020:MemoryManager[82]/Add -> already contain: target at activity_history in short_memory.txt
+Tue Jan 14 17:34:41 JST 2020:ActivityManager[78]/handling -> Read activity: activities\target.txt
+Tue Jan 14 17:35:20 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 17:35:20 JST 2020:MemoryManager[142]/Read -> read memory: ok_silver_history = ok_silver,ok_silver3
+Tue Jan 14 17:35:20 JST 2020:MemoryManager[94]/Add -> add new memory: ok_silver_history += ok_silver4 in long_memory.txt
+Tue Jan 14 17:35:20 JST 2020:MemoryManager[82]/Add -> already contain: ok_silver4 at activity_history in short_memory.txt
+Tue Jan 14 17:35:20 JST 2020:MemoryManager[142]/Read -> read memory: praisesilver_history = praisesilver
+Tue Jan 14 17:35:20 JST 2020:MemoryManager[94]/Add -> add new memory: praisesilver_history += praisesilver2 in long_memory.txt
+Tue Jan 14 17:35:20 JST 2020:MemoryManager[82]/Add -> already contain: praisesilver2 at activity_history in short_memory.txt
+Tue Jan 14 17:35:20 JST 2020:MemoryManager[142]/Read -> read memory: sotaaizuchi_history = sotaaizuchi4
+Tue Jan 14 17:35:20 JST 2020:MemoryManager[94]/Add -> add new memory: sotaaizuchi_history += sotaaizuchi3 in long_memory.txt
+Tue Jan 14 17:35:21 JST 2020:MemoryManager[82]/Add -> already contain: sotaaizuchi3 at activity_history in short_memory.txt
+Tue Jan 14 17:35:21 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: sotaaizuchi
+Tue Jan 14 17:35:21 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: praisesilver
+Tue Jan 14 17:35:21 JST 2020:ActivityManager[78]/handling -> Read activity: activities\ok_silver4.txt
+Tue Jan 14 17:35:31 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 17:35:31 JST 2020:MemoryManager[142]/Read -> read memory: kanren_history = kanren3,kanren4,kanren2
+Tue Jan 14 17:35:31 JST 2020:MemoryManager[94]/Add -> add new memory: kanren_history += kanren in long_memory.txt
+Tue Jan 14 17:35:31 JST 2020:MemoryManager[82]/Add -> already contain: kanren at activity_history in short_memory.txt
+Tue Jan 14 17:35:31 JST 2020:MemoryManager[142]/Read -> read memory: aizuchi_history = aizuchi3,aizuchi2
+Tue Jan 14 17:35:31 JST 2020:MemoryManager[94]/Add -> add new memory: aizuchi_history += aizuchi in long_memory.txt
+Tue Jan 14 17:35:31 JST 2020:MemoryManager[82]/Add -> already contain: aizuchi at activity_history in short_memory.txt
+Tue Jan 14 17:35:31 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: aizuchi
+Tue Jan 14 17:35:31 JST 2020:ActivityManager[78]/handling -> Read activity: activities\kanren.txt
+Tue Jan 14 17:35:43 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 17:35:43 JST 2020:MemoryManager[142]/Read -> read memory: ka_heart_history = ka_heart,ka_heart2
+Tue Jan 14 17:35:43 JST 2020:MemoryManager[181]/Clear -> clear memory: ka_heart_history = ka_heart,ka_heart2
+Tue Jan 14 17:35:43 JST 2020:MemoryManager[94]/Add -> add new memory: ka_heart_history += ka_heart in long_memory.txt
+Tue Jan 14 17:35:43 JST 2020:MemoryManager[82]/Add -> already contain: ka_heart at activity_history in short_memory.txt
+Tue Jan 14 17:35:43 JST 2020:MemoryManager[142]/Read -> read memory: aizuchi_history = aizuchi3,aizuchi2,aizuchi
+Tue Jan 14 17:35:43 JST 2020:MemoryManager[94]/Add -> add new memory: aizuchi_history += aizuchi4 in long_memory.txt
+Tue Jan 14 17:35:43 JST 2020:MemoryManager[82]/Add -> already contain: aizuchi4 at activity_history in short_memory.txt
+Tue Jan 14 17:35:43 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: aizuchi
+Tue Jan 14 17:35:43 JST 2020:MemoryManager[142]/Read -> read memory: aizuchi_history = aizuchi3,aizuchi2,aizuchi,aizuchi4
+Tue Jan 14 17:35:43 JST 2020:MemoryManager[181]/Clear -> clear memory: aizuchi_history = aizuchi3,aizuchi2,aizuchi,aizuchi4
+Tue Jan 14 17:35:43 JST 2020:MemoryManager[94]/Add -> add new memory: aizuchi_history += aizuchi in long_memory.txt
+Tue Jan 14 17:35:43 JST 2020:MemoryManager[82]/Add -> already contain: aizuchi at activity_history in short_memory.txt
+Tue Jan 14 17:35:43 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: aizuchi
+Tue Jan 14 17:35:43 JST 2020:ActivityManager[78]/handling -> Read activity: activities\ka_heart.txt
+Tue Jan 14 17:35:51 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 17:35:51 JST 2020:MemoryManager[142]/Read -> read memory: ok_long_history = ok_long4,ok_long2
+Tue Jan 14 17:35:51 JST 2020:MemoryManager[94]/Add -> add new memory: ok_long_history += ok_long in long_memory.txt
+Tue Jan 14 17:35:51 JST 2020:MemoryManager[82]/Add -> already contain: ok_long at activity_history in short_memory.txt
+Tue Jan 14 17:35:51 JST 2020:MemoryManager[142]/Read -> read memory: aizuchi_history = aizuchi
+Tue Jan 14 17:35:51 JST 2020:MemoryManager[94]/Add -> add new memory: aizuchi_history += aizuchi4 in long_memory.txt
+Tue Jan 14 17:35:51 JST 2020:MemoryManager[82]/Add -> already contain: aizuchi4 at activity_history in short_memory.txt
+Tue Jan 14 17:35:51 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: aizuchi
+Tue Jan 14 17:35:51 JST 2020:MemoryManager[142]/Read -> read memory: praisesilver_history = praisesilver,praisesilver2
+Tue Jan 14 17:35:51 JST 2020:MemoryManager[94]/Add -> add new memory: praisesilver_history += praisesilver3 in long_memory.txt
+Tue Jan 14 17:35:51 JST 2020:MemoryManager[82]/Add -> already contain: praisesilver3 at activity_history in short_memory.txt
+Tue Jan 14 17:35:51 JST 2020:MemoryManager[142]/Read -> read memory: sotaaizuchi_history = sotaaizuchi4,sotaaizuchi3
+Tue Jan 14 17:35:51 JST 2020:MemoryManager[94]/Add -> add new memory: sotaaizuchi_history += sotaaizuchi in long_memory.txt
+Tue Jan 14 17:35:51 JST 2020:MemoryManager[82]/Add -> already contain: sotaaizuchi at activity_history in short_memory.txt
+Tue Jan 14 17:35:51 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: sotaaizuchi
+Tue Jan 14 17:35:51 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: praisesilver
+Tue Jan 14 17:35:51 JST 2020:ActivityManager[78]/handling -> Read activity: activities\ok_long.txt
+Tue Jan 14 17:35:59 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 17:35:59 JST 2020:MemoryManager[142]/Read -> read memory: kanren_history = kanren3,kanren4,kanren2,kanren
+Tue Jan 14 17:35:59 JST 2020:MemoryManager[181]/Clear -> clear memory: kanren_history = kanren3,kanren4,kanren2,kanren
+Tue Jan 14 17:35:59 JST 2020:MemoryManager[94]/Add -> add new memory: kanren_history += kanren3 in long_memory.txt
+Tue Jan 14 17:35:59 JST 2020:MemoryManager[82]/Add -> already contain: kanren3 at activity_history in short_memory.txt
+Tue Jan 14 17:35:59 JST 2020:MemoryManager[142]/Read -> read memory: aizuchi_history = aizuchi,aizuchi4
+Tue Jan 14 17:35:59 JST 2020:MemoryManager[94]/Add -> add new memory: aizuchi_history += aizuchi3 in long_memory.txt
+Tue Jan 14 17:35:59 JST 2020:MemoryManager[82]/Add -> already contain: aizuchi3 at activity_history in short_memory.txt
+Tue Jan 14 17:35:59 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: aizuchi
+Tue Jan 14 17:35:59 JST 2020:ActivityManager[78]/handling -> Read activity: activities\kanren3.txt
+Tue Jan 14 17:36:15 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 17:36:15 JST 2020:MemoryManager[142]/Read -> read memory: ka_shizuku_history = ka_shizuku2,ka_shizuku
+Tue Jan 14 17:36:15 JST 2020:MemoryManager[181]/Clear -> clear memory: ka_shizuku_history = ka_shizuku2,ka_shizuku
+Tue Jan 14 17:36:15 JST 2020:MemoryManager[94]/Add -> add new memory: ka_shizuku_history += ka_shizuku2 in long_memory.txt
+Tue Jan 14 17:36:15 JST 2020:MemoryManager[82]/Add -> already contain: ka_shizuku2 at activity_history in short_memory.txt
+Tue Jan 14 17:36:15 JST 2020:MemoryManager[142]/Read -> read memory: aizuchi_history = aizuchi,aizuchi4,aizuchi3
+Tue Jan 14 17:36:15 JST 2020:MemoryManager[94]/Add -> add new memory: aizuchi_history += aizuchi2 in long_memory.txt
+Tue Jan 14 17:36:15 JST 2020:MemoryManager[82]/Add -> already contain: aizuchi2 at activity_history in short_memory.txt
+Tue Jan 14 17:36:15 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: aizuchi
+Tue Jan 14 17:36:15 JST 2020:ActivityManager[78]/handling -> Read activity: activities\ka_shizuku2.txt
+Tue Jan 14 17:36:39 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 17:36:39 JST 2020:MemoryManager[142]/Read -> read memory: target_history = target
+Tue Jan 14 17:36:39 JST 2020:MemoryManager[94]/Add -> add new memory: target_history += target3 in long_memory.txt
+Tue Jan 14 17:36:39 JST 2020:MemoryManager[82]/Add -> already contain: target3 at activity_history in short_memory.txt
+Tue Jan 14 17:36:39 JST 2020:ActivityManager[78]/handling -> Read activity: activities\target3.txt
+Tue Jan 14 17:36:55 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 17:36:55 JST 2020:ActivityManager[78]/handling -> Read activity: activities\25_2.txt
+Tue Jan 14 17:36:59 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 17:36:59 JST 2020:MemoryManager[142]/Read -> read memory: ok_long_history = ok_long4,ok_long2,ok_long
+Tue Jan 14 17:36:59 JST 2020:MemoryManager[94]/Add -> add new memory: ok_long_history += ok_long3 in long_memory.txt
+Tue Jan 14 17:36:59 JST 2020:MemoryManager[82]/Add -> already contain: ok_long3 at activity_history in short_memory.txt
+Tue Jan 14 17:36:59 JST 2020:MemoryManager[142]/Read -> read memory: praisesilver_history = praisesilver,praisesilver2,praisesilver3
+Tue Jan 14 17:36:59 JST 2020:MemoryManager[94]/Add -> add new memory: praisesilver_history += praisesilver4 in long_memory.txt
+Tue Jan 14 17:36:59 JST 2020:MemoryManager[82]/Add -> already contain: praisesilver4 at activity_history in short_memory.txt
+Tue Jan 14 17:36:59 JST 2020:MemoryManager[142]/Read -> read memory: sotaaizuchi_history = sotaaizuchi4,sotaaizuchi3,sotaaizuchi
+Tue Jan 14 17:36:59 JST 2020:MemoryManager[94]/Add -> add new memory: sotaaizuchi_history += sotaaizuchi2 in long_memory.txt
+Tue Jan 14 17:36:59 JST 2020:MemoryManager[82]/Add -> already contain: sotaaizuchi2 at activity_history in short_memory.txt
+Tue Jan 14 17:36:59 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: sotaaizuchi
+Tue Jan 14 17:36:59 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: praisesilver
+Tue Jan 14 17:36:59 JST 2020:ActivityManager[78]/handling -> Read activity: activities\ok_long3.txt
+Tue Jan 14 17:37:10 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 17:37:10 JST 2020:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 17376504
+Tue Jan 14 17:37:10 JST 2020:MemoryManager[142]/Read -> read memory: target_history = target,target3
+Tue Jan 14 17:37:10 JST 2020:MemoryManager[94]/Add -> add new memory: target_history += target2 in long_memory.txt
+Tue Jan 14 17:37:10 JST 2020:MemoryManager[82]/Add -> already contain: target2 at activity_history in short_memory.txt
+Tue Jan 14 17:37:10 JST 2020:ActivityManager[78]/handling -> Read activity: activities\target2.txt
+Tue Jan 14 17:37:20 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 17:37:20 JST 2020:MemoryManager[142]/Read -> read memory: ok_silver_history = ok_silver,ok_silver3,ok_silver4
+Tue Jan 14 17:37:20 JST 2020:MemoryManager[94]/Add -> add new memory: ok_silver_history += ok_silver2 in long_memory.txt
+Tue Jan 14 17:37:20 JST 2020:MemoryManager[82]/Add -> already contain: ok_silver2 at activity_history in short_memory.txt
+Tue Jan 14 17:37:20 JST 2020:MemoryManager[142]/Read -> read memory: praiselong_history = praiselong2,praiselong3,praiselong
+Tue Jan 14 17:37:20 JST 2020:MemoryManager[94]/Add -> add new memory: praiselong_history += praiselong4 in long_memory.txt
+Tue Jan 14 17:37:20 JST 2020:MemoryManager[82]/Add -> already contain: praiselong4 at activity_history in short_memory.txt
+Tue Jan 14 17:37:20 JST 2020:MemoryManager[142]/Read -> read memory: sotaaizuchi_history = sotaaizuchi4,sotaaizuchi3,sotaaizuchi,sotaaizuchi2
+Tue Jan 14 17:37:20 JST 2020:MemoryManager[181]/Clear -> clear memory: sotaaizuchi_history = sotaaizuchi4,sotaaizuchi3,sotaaizuchi,sotaaizuchi2
+Tue Jan 14 17:37:20 JST 2020:MemoryManager[94]/Add -> add new memory: sotaaizuchi_history += sotaaizuchi3 in long_memory.txt
+Tue Jan 14 17:37:20 JST 2020:MemoryManager[82]/Add -> already contain: sotaaizuchi3 at activity_history in short_memory.txt
+Tue Jan 14 17:37:20 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: sotaaizuchi
+Tue Jan 14 17:37:20 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: praiselong
+Tue Jan 14 17:37:20 JST 2020:ActivityManager[78]/handling -> Read activity: activities\ok_silver2.txt
+Tue Jan 14 17:37:20 JST 2020:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 173714981
+Tue Jan 14 17:37:23 JST 2020:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 173720494
+Tue Jan 14 17:37:32 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 17:37:32 JST 2020:MemoryManager[142]/Read -> read memory: ok_long_history = ok_long4,ok_long2,ok_long,ok_long3
+Tue Jan 14 17:37:32 JST 2020:MemoryManager[181]/Clear -> clear memory: ok_long_history = ok_long4,ok_long2,ok_long,ok_long3
+Tue Jan 14 17:37:32 JST 2020:MemoryManager[94]/Add -> add new memory: ok_long_history += ok_long3 in long_memory.txt
+Tue Jan 14 17:37:32 JST 2020:MemoryManager[82]/Add -> already contain: ok_long3 at activity_history in short_memory.txt
+Tue Jan 14 17:37:32 JST 2020:MemoryManager[142]/Read -> read memory: praisesilver_history = praisesilver,praisesilver2,praisesilver3,praisesilver4
+Tue Jan 14 17:37:32 JST 2020:MemoryManager[181]/Clear -> clear memory: praisesilver_history = praisesilver,praisesilver2,praisesilver3,praisesilver4
+Tue Jan 14 17:37:32 JST 2020:MemoryManager[94]/Add -> add new memory: praisesilver_history += praisesilver3 in long_memory.txt
+Tue Jan 14 17:37:32 JST 2020:MemoryManager[82]/Add -> already contain: praisesilver3 at activity_history in short_memory.txt
+Tue Jan 14 17:37:32 JST 2020:MemoryManager[142]/Read -> read memory: sotaaizuchi_history = sotaaizuchi3
+Tue Jan 14 17:37:32 JST 2020:MemoryManager[94]/Add -> add new memory: sotaaizuchi_history += sotaaizuchi4 in long_memory.txt
+Tue Jan 14 17:37:32 JST 2020:MemoryManager[82]/Add -> already contain: sotaaizuchi4 at activity_history in short_memory.txt
+Tue Jan 14 17:37:32 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: sotaaizuchi
+Tue Jan 14 17:37:32 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: praisesilver
+Tue Jan 14 17:37:32 JST 2020:ActivityManager[78]/handling -> Read activity: activities\ok_long3.txt
+Tue Jan 14 17:37:39 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 17:37:39 JST 2020:ActivityManager[78]/handling -> Read activity: activities\24.txt
+Tue Jan 14 17:37:43 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 17:37:43 JST 2020:MemoryManager[142]/Read -> read memory: ok_long_history = ok_long3
+Tue Jan 14 17:37:43 JST 2020:MemoryManager[94]/Add -> add new memory: ok_long_history += ok_long4 in long_memory.txt
+Tue Jan 14 17:37:43 JST 2020:MemoryManager[82]/Add -> already contain: ok_long4 at activity_history in short_memory.txt
+Tue Jan 14 17:37:43 JST 2020:MemoryManager[142]/Read -> read memory: praisesilver_history = praisesilver3
+Tue Jan 14 17:37:43 JST 2020:MemoryManager[94]/Add -> add new memory: praisesilver_history += praisesilver2 in long_memory.txt
+Tue Jan 14 17:37:43 JST 2020:MemoryManager[82]/Add -> already contain: praisesilver2 at activity_history in short_memory.txt
+Tue Jan 14 17:37:43 JST 2020:MemoryManager[142]/Read -> read memory: sotaaizuchi_history = sotaaizuchi3,sotaaizuchi4
+Tue Jan 14 17:37:43 JST 2020:MemoryManager[94]/Add -> add new memory: sotaaizuchi_history += sotaaizuchi in long_memory.txt
+Tue Jan 14 17:37:43 JST 2020:MemoryManager[82]/Add -> already contain: sotaaizuchi at activity_history in short_memory.txt
+Tue Jan 14 17:37:43 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: sotaaizuchi
+Tue Jan 14 17:37:43 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: praisesilver
+Tue Jan 14 17:37:43 JST 2020:ActivityManager[78]/handling -> Read activity: activities\ok_long4.txt
+Tue Jan 14 17:37:52 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 17:37:52 JST 2020:MemoryManager[142]/Read -> read memory: kanren_history = kanren3
+Tue Jan 14 17:37:52 JST 2020:MemoryManager[94]/Add -> add new memory: kanren_history += kanren4 in long_memory.txt
+Tue Jan 14 17:37:52 JST 2020:MemoryManager[82]/Add -> already contain: kanren4 at activity_history in short_memory.txt
+Tue Jan 14 17:37:52 JST 2020:MemoryManager[142]/Read -> read memory: aizuchi_history = aizuchi,aizuchi4,aizuchi3,aizuchi2
+Tue Jan 14 17:37:52 JST 2020:MemoryManager[181]/Clear -> clear memory: aizuchi_history = aizuchi,aizuchi4,aizuchi3,aizuchi2
+Tue Jan 14 17:37:52 JST 2020:MemoryManager[94]/Add -> add new memory: aizuchi_history += aizuchi3 in long_memory.txt
+Tue Jan 14 17:37:52 JST 2020:MemoryManager[82]/Add -> already contain: aizuchi3 at activity_history in short_memory.txt
+Tue Jan 14 17:37:52 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: aizuchi
+Tue Jan 14 17:37:52 JST 2020:MemoryManager[142]/Read -> read memory: sotaaizuchi_history = sotaaizuchi3,sotaaizuchi4,sotaaizuchi
+Tue Jan 14 17:37:52 JST 2020:MemoryManager[94]/Add -> add new memory: sotaaizuchi_history += sotaaizuchi2 in long_memory.txt
+Tue Jan 14 17:37:52 JST 2020:MemoryManager[82]/Add -> already contain: sotaaizuchi2 at activity_history in short_memory.txt
+Tue Jan 14 17:37:52 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: sotaaizuchi
+Tue Jan 14 17:37:52 JST 2020:ActivityManager[78]/handling -> Read activity: activities\kanren4.txt
+Tue Jan 14 17:38:03 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 17:38:03 JST 2020:MemoryManager[142]/Read -> read memory: ok_long_history = ok_long3,ok_long4
+Tue Jan 14 17:38:03 JST 2020:MemoryManager[94]/Add -> add new memory: ok_long_history += ok_long2 in long_memory.txt
+Tue Jan 14 17:38:03 JST 2020:MemoryManager[82]/Add -> already contain: ok_long2 at activity_history in short_memory.txt
+Tue Jan 14 17:38:03 JST 2020:MemoryManager[142]/Read -> read memory: praisesilver_history = praisesilver3,praisesilver2
+Tue Jan 14 17:38:03 JST 2020:MemoryManager[94]/Add -> add new memory: praisesilver_history += praisesilver4 in long_memory.txt
+Tue Jan 14 17:38:03 JST 2020:MemoryManager[82]/Add -> already contain: praisesilver4 at activity_history in short_memory.txt
+Tue Jan 14 17:38:03 JST 2020:MemoryManager[142]/Read -> read memory: sotaaizuchi_history = sotaaizuchi3,sotaaizuchi4,sotaaizuchi,sotaaizuchi2
+Tue Jan 14 17:38:03 JST 2020:MemoryManager[181]/Clear -> clear memory: sotaaizuchi_history = sotaaizuchi3,sotaaizuchi4,sotaaizuchi,sotaaizuchi2
+Tue Jan 14 17:38:03 JST 2020:MemoryManager[94]/Add -> add new memory: sotaaizuchi_history += sotaaizuchi4 in long_memory.txt
+Tue Jan 14 17:38:03 JST 2020:MemoryManager[82]/Add -> already contain: sotaaizuchi4 at activity_history in short_memory.txt
+Tue Jan 14 17:38:03 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: sotaaizuchi
+Tue Jan 14 17:38:03 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: praisesilver
+Tue Jan 14 17:38:03 JST 2020:ActivityManager[78]/handling -> Read activity: activities\ok_long2.txt
+Tue Jan 14 17:38:08 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 17:38:08 JST 2020:ActivityManager[78]/handling -> Read activity: activities\1.0.txt
+Tue Jan 14 17:38:23 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 17:38:23 JST 2020:MemoryManager[142]/Read -> read memory: target_history = target,target3,target2
+Tue Jan 14 17:38:23 JST 2020:MemoryManager[94]/Add -> add new memory: target_history += target4 in long_memory.txt
+Tue Jan 14 17:38:23 JST 2020:MemoryManager[82]/Add -> already contain: target4 at activity_history in short_memory.txt
+Tue Jan 14 17:38:23 JST 2020:ActivityManager[78]/handling -> Read activity: activities\target4.txt
+Tue Jan 14 17:38:39 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 17:38:39 JST 2020:ActivityManager[78]/handling -> Read activity: activities\1.0.txt
+Tue Jan 14 17:38:48 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 17:38:48 JST 2020:MemoryManager[142]/Read -> read memory: ok_silver_history = ok_silver,ok_silver3,ok_silver4,ok_silver2
+Tue Jan 14 17:38:48 JST 2020:MemoryManager[181]/Clear -> clear memory: ok_silver_history = ok_silver,ok_silver3,ok_silver4,ok_silver2
+Tue Jan 14 17:38:48 JST 2020:MemoryManager[94]/Add -> add new memory: ok_silver_history += ok_silver in long_memory.txt
+Tue Jan 14 17:38:48 JST 2020:MemoryManager[82]/Add -> already contain: ok_silver at activity_history in short_memory.txt
+Tue Jan 14 17:38:48 JST 2020:MemoryManager[142]/Read -> read memory: praiselong_history = praiselong2,praiselong3,praiselong,praiselong4
+Tue Jan 14 17:38:48 JST 2020:MemoryManager[181]/Clear -> clear memory: praiselong_history = praiselong2,praiselong3,praiselong,praiselong4
+Tue Jan 14 17:38:48 JST 2020:MemoryManager[94]/Add -> add new memory: praiselong_history += praiselong in long_memory.txt
+Tue Jan 14 17:38:48 JST 2020:MemoryManager[82]/Add -> already contain: praiselong at activity_history in short_memory.txt
+Tue Jan 14 17:38:48 JST 2020:MemoryManager[142]/Read -> read memory: sotaaizuchi_history = sotaaizuchi4
+Tue Jan 14 17:38:48 JST 2020:MemoryManager[94]/Add -> add new memory: sotaaizuchi_history += sotaaizuchi2 in long_memory.txt
+Tue Jan 14 17:38:48 JST 2020:MemoryManager[82]/Add -> already contain: sotaaizuchi2 at activity_history in short_memory.txt
+Tue Jan 14 17:38:48 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: sotaaizuchi
+Tue Jan 14 17:38:48 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: praiselong
+Tue Jan 14 17:38:48 JST 2020:ActivityManager[78]/handling -> Read activity: activities\ok_silver.txt
+Tue Jan 14 17:38:58 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 17:38:58 JST 2020:ActivityManager[78]/handling -> Read activity: activities\1_2.txt
+Tue Jan 14 17:39:08 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 17:39:08 JST 2020:MemoryManager[142]/Read -> read memory: ok_silver_history = ok_silver
+Tue Jan 14 17:39:08 JST 2020:MemoryManager[94]/Add -> add new memory: ok_silver_history += ok_silver4 in long_memory.txt
+Tue Jan 14 17:39:08 JST 2020:MemoryManager[82]/Add -> already contain: ok_silver4 at activity_history in short_memory.txt
+Tue Jan 14 17:39:08 JST 2020:MemoryManager[142]/Read -> read memory: praisesilver_history = praisesilver3,praisesilver2,praisesilver4
+Tue Jan 14 17:39:08 JST 2020:MemoryManager[94]/Add -> add new memory: praisesilver_history += praisesilver in long_memory.txt
+Tue Jan 14 17:39:08 JST 2020:MemoryManager[82]/Add -> already contain: praisesilver at activity_history in short_memory.txt
+Tue Jan 14 17:39:08 JST 2020:MemoryManager[142]/Read -> read memory: sotaaizuchi_history = sotaaizuchi4,sotaaizuchi2
+Tue Jan 14 17:39:08 JST 2020:MemoryManager[94]/Add -> add new memory: sotaaizuchi_history += sotaaizuchi3 in long_memory.txt
+Tue Jan 14 17:39:08 JST 2020:MemoryManager[82]/Add -> already contain: sotaaizuchi3 at activity_history in short_memory.txt
+Tue Jan 14 17:39:08 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: sotaaizuchi
+Tue Jan 14 17:39:08 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: praisesilver
+Tue Jan 14 17:39:08 JST 2020:ActivityManager[78]/handling -> Read activity: activities\ok_silver4.txt
+Tue Jan 14 17:39:28 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 17:39:28 JST 2020:MemoryManager[142]/Read -> read memory: target_history = target,target3,target2,target4
+Tue Jan 14 17:39:28 JST 2020:MemoryManager[181]/Clear -> clear memory: target_history = target,target3,target2,target4
+Tue Jan 14 17:39:28 JST 2020:MemoryManager[94]/Add -> add new memory: target_history += target in long_memory.txt
+Tue Jan 14 17:39:28 JST 2020:MemoryManager[82]/Add -> already contain: target at activity_history in short_memory.txt
+Tue Jan 14 17:39:28 JST 2020:ActivityManager[78]/handling -> Read activity: activities\target.txt
+Tue Jan 14 17:39:45 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 17:39:45 JST 2020:MemoryManager[142]/Read -> read memory: ok_silver_history = ok_silver,ok_silver4
+Tue Jan 14 17:39:45 JST 2020:MemoryManager[94]/Add -> add new memory: ok_silver_history += ok_silver3 in long_memory.txt
+Tue Jan 14 17:39:45 JST 2020:MemoryManager[82]/Add -> already contain: ok_silver3 at activity_history in short_memory.txt
+Tue Jan 14 17:39:45 JST 2020:MemoryManager[142]/Read -> read memory: praiselong_history = praiselong
+Tue Jan 14 17:39:45 JST 2020:MemoryManager[94]/Add -> add new memory: praiselong_history += praiselong3 in long_memory.txt
+Tue Jan 14 17:39:45 JST 2020:MemoryManager[82]/Add -> already contain: praiselong3 at activity_history in short_memory.txt
+Tue Jan 14 17:39:45 JST 2020:MemoryManager[142]/Read -> read memory: sotaaizuchi_history = sotaaizuchi4,sotaaizuchi2,sotaaizuchi3
+Tue Jan 14 17:39:45 JST 2020:MemoryManager[94]/Add -> add new memory: sotaaizuchi_history += sotaaizuchi in long_memory.txt
+Tue Jan 14 17:39:45 JST 2020:MemoryManager[82]/Add -> already contain: sotaaizuchi at activity_history in short_memory.txt
+Tue Jan 14 17:39:45 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: sotaaizuchi
+Tue Jan 14 17:39:45 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: praiselong
+Tue Jan 14 17:39:45 JST 2020:ActivityManager[78]/handling -> Read activity: activities\ok_silver3.txt
+Tue Jan 14 17:40:00 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 17:40:00 JST 2020:MemoryManager[142]/Read -> read memory: ok_long_history = ok_long3,ok_long4,ok_long2
+Tue Jan 14 17:40:00 JST 2020:MemoryManager[94]/Add -> add new memory: ok_long_history += ok_long in long_memory.txt
+Tue Jan 14 17:40:00 JST 2020:MemoryManager[82]/Add -> already contain: ok_long at activity_history in short_memory.txt
+Tue Jan 14 17:40:00 JST 2020:MemoryManager[142]/Read -> read memory: aizuchi_history = aizuchi3
+Tue Jan 14 17:40:00 JST 2020:MemoryManager[94]/Add -> add new memory: aizuchi_history += aizuchi2 in long_memory.txt
+Tue Jan 14 17:40:00 JST 2020:MemoryManager[82]/Add -> already contain: aizuchi2 at activity_history in short_memory.txt
+Tue Jan 14 17:40:00 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: aizuchi
+Tue Jan 14 17:40:00 JST 2020:MemoryManager[142]/Read -> read memory: praisesilver_history = praisesilver3,praisesilver2,praisesilver4,praisesilver
+Tue Jan 14 17:40:00 JST 2020:MemoryManager[181]/Clear -> clear memory: praisesilver_history = praisesilver3,praisesilver2,praisesilver4,praisesilver
+Tue Jan 14 17:40:00 JST 2020:MemoryManager[94]/Add -> add new memory: praisesilver_history += praisesilver2 in long_memory.txt
+Tue Jan 14 17:40:00 JST 2020:MemoryManager[82]/Add -> already contain: praisesilver2 at activity_history in short_memory.txt
+Tue Jan 14 17:40:00 JST 2020:MemoryManager[142]/Read -> read memory: sotaaizuchi_history = sotaaizuchi4,sotaaizuchi2,sotaaizuchi3,sotaaizuchi
+Tue Jan 14 17:40:00 JST 2020:MemoryManager[181]/Clear -> clear memory: sotaaizuchi_history = sotaaizuchi4,sotaaizuchi2,sotaaizuchi3,sotaaizuchi
+Tue Jan 14 17:40:00 JST 2020:MemoryManager[94]/Add -> add new memory: sotaaizuchi_history += sotaaizuchi2 in long_memory.txt
+Tue Jan 14 17:40:00 JST 2020:MemoryManager[82]/Add -> already contain: sotaaizuchi2 at activity_history in short_memory.txt
+Tue Jan 14 17:40:00 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: sotaaizuchi
+Tue Jan 14 17:40:00 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: praisesilver
+Tue Jan 14 17:40:00 JST 2020:ActivityManager[78]/handling -> Read activity: activities\ok_long.txt
+Tue Jan 14 17:40:10 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 17:40:10 JST 2020:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 17404312
+Tue Jan 14 17:40:10 JST 2020:ActivityManager[78]/handling -> Read activity: activities\24_3.txt
+Tue Jan 14 17:40:16 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 17:40:16 JST 2020:MemoryManager[142]/Read -> read memory: ka_heart_history = ka_heart
+Tue Jan 14 17:40:16 JST 2020:MemoryManager[94]/Add -> add new memory: ka_heart_history += ka_heart2 in long_memory.txt
+Tue Jan 14 17:40:16 JST 2020:MemoryManager[82]/Add -> already contain: ka_heart2 at activity_history in short_memory.txt
+Tue Jan 14 17:40:16 JST 2020:MemoryManager[142]/Read -> read memory: aizuchi_history = aizuchi3,aizuchi2
+Tue Jan 14 17:40:16 JST 2020:MemoryManager[94]/Add -> add new memory: aizuchi_history += aizuchi4 in long_memory.txt
+Tue Jan 14 17:40:16 JST 2020:MemoryManager[82]/Add -> already contain: aizuchi4 at activity_history in short_memory.txt
+Tue Jan 14 17:40:16 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: aizuchi
+Tue Jan 14 17:40:16 JST 2020:MemoryManager[142]/Read -> read memory: aizuchi_history = aizuchi3,aizuchi2,aizuchi4
+Tue Jan 14 17:40:16 JST 2020:MemoryManager[94]/Add -> add new memory: aizuchi_history += aizuchi in long_memory.txt
+Tue Jan 14 17:40:16 JST 2020:MemoryManager[82]/Add -> already contain: aizuchi at activity_history in short_memory.txt
+Tue Jan 14 17:40:16 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: aizuchi
+Tue Jan 14 17:40:16 JST 2020:ActivityManager[78]/handling -> Read activity: activities\ka_heart2.txt
+Tue Jan 14 17:40:22 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 17:40:22 JST 2020:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 174016551
+Tue Jan 14 17:40:22 JST 2020:ActivityManager[78]/handling -> Read activity: activities\25.txt
+Tue Jan 14 17:40:32 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 17:40:32 JST 2020:MemoryManager[142]/Read -> read memory: ok_silver_history = ok_silver,ok_silver4,ok_silver3
+Tue Jan 14 17:40:32 JST 2020:MemoryManager[94]/Add -> add new memory: ok_silver_history += ok_silver2 in long_memory.txt
+Tue Jan 14 17:40:32 JST 2020:MemoryManager[82]/Add -> already contain: ok_silver2 at activity_history in short_memory.txt
+Tue Jan 14 17:40:32 JST 2020:MemoryManager[142]/Read -> read memory: praiselong_history = praiselong,praiselong3
+Tue Jan 14 17:40:32 JST 2020:MemoryManager[94]/Add -> add new memory: praiselong_history += praiselong4 in long_memory.txt
+Tue Jan 14 17:40:32 JST 2020:MemoryManager[82]/Add -> already contain: praiselong4 at activity_history in short_memory.txt
+Tue Jan 14 17:40:32 JST 2020:MemoryManager[142]/Read -> read memory: sotaaizuchi_history = sotaaizuchi2
+Tue Jan 14 17:40:33 JST 2020:MemoryManager[94]/Add -> add new memory: sotaaizuchi_history += sotaaizuchi3 in long_memory.txt
+Tue Jan 14 17:40:33 JST 2020:MemoryManager[82]/Add -> already contain: sotaaizuchi3 at activity_history in short_memory.txt
+Tue Jan 14 17:40:33 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: sotaaizuchi
+Tue Jan 14 17:40:33 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: praiselong
+Tue Jan 14 17:40:33 JST 2020:ActivityManager[78]/handling -> Read activity: activities\ok_silver2.txt
+Tue Jan 14 17:40:45 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 17:40:45 JST 2020:MemoryManager[142]/Read -> read memory: ok_silver_history = ok_silver,ok_silver4,ok_silver3,ok_silver2
+Tue Jan 14 17:40:45 JST 2020:MemoryManager[181]/Clear -> clear memory: ok_silver_history = ok_silver,ok_silver4,ok_silver3,ok_silver2
+Tue Jan 14 17:40:45 JST 2020:MemoryManager[94]/Add -> add new memory: ok_silver_history += ok_silver3 in long_memory.txt
+Tue Jan 14 17:40:45 JST 2020:MemoryManager[82]/Add -> already contain: ok_silver3 at activity_history in short_memory.txt
+Tue Jan 14 17:40:45 JST 2020:MemoryManager[142]/Read -> read memory: praiselong_history = praiselong,praiselong3,praiselong4
+Tue Jan 14 17:40:45 JST 2020:MemoryManager[94]/Add -> add new memory: praiselong_history += praiselong2 in long_memory.txt
+Tue Jan 14 17:40:45 JST 2020:MemoryManager[82]/Add -> already contain: praiselong2 at activity_history in short_memory.txt
+Tue Jan 14 17:40:45 JST 2020:MemoryManager[142]/Read -> read memory: sotaaizuchi_history = sotaaizuchi2,sotaaizuchi3
+Tue Jan 14 17:40:45 JST 2020:MemoryManager[94]/Add -> add new memory: sotaaizuchi_history += sotaaizuchi4 in long_memory.txt
+Tue Jan 14 17:40:45 JST 2020:MemoryManager[82]/Add -> already contain: sotaaizuchi4 at activity_history in short_memory.txt
+Tue Jan 14 17:40:45 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: sotaaizuchi
+Tue Jan 14 17:40:45 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: praiselong
+Tue Jan 14 17:40:45 JST 2020:ActivityManager[78]/handling -> Read activity: activities\ok_silver3.txt
+Tue Jan 14 17:41:12 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 17:41:12 JST 2020:MemoryManager[142]/Read -> read memory: ok_silver_history = ok_silver3
+Tue Jan 14 17:41:12 JST 2020:MemoryManager[94]/Add -> add new memory: ok_silver_history += ok_silver in long_memory.txt
+Tue Jan 14 17:41:12 JST 2020:MemoryManager[82]/Add -> already contain: ok_silver at activity_history in short_memory.txt
+Tue Jan 14 17:41:12 JST 2020:MemoryManager[142]/Read -> read memory: praiselong_history = praiselong,praiselong3,praiselong4,praiselong2
+Tue Jan 14 17:41:12 JST 2020:MemoryManager[181]/Clear -> clear memory: praiselong_history = praiselong,praiselong3,praiselong4,praiselong2
+Tue Jan 14 17:41:12 JST 2020:MemoryManager[94]/Add -> add new memory: praiselong_history += praiselong in long_memory.txt
+Tue Jan 14 17:41:12 JST 2020:MemoryManager[82]/Add -> already contain: praiselong at activity_history in short_memory.txt
+Tue Jan 14 17:41:12 JST 2020:MemoryManager[142]/Read -> read memory: sotaaizuchi_history = sotaaizuchi2,sotaaizuchi3,sotaaizuchi4
+Tue Jan 14 17:41:12 JST 2020:MemoryManager[94]/Add -> add new memory: sotaaizuchi_history += sotaaizuchi in long_memory.txt
+Tue Jan 14 17:41:12 JST 2020:MemoryManager[82]/Add -> already contain: sotaaizuchi at activity_history in short_memory.txt
+Tue Jan 14 17:41:12 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: sotaaizuchi
+Tue Jan 14 17:41:12 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: praiselong
+Tue Jan 14 17:41:12 JST 2020:ActivityManager[78]/handling -> Read activity: activities\ok_silver.txt
+Tue Jan 14 17:41:31 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 17:41:31 JST 2020:ActivityManager[78]/handling -> Read activity: activities\1_2.txt
+Tue Jan 14 17:41:45 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 17:41:45 JST 2020:MemoryManager[142]/Read -> read memory: ok_silver_history = ok_silver3,ok_silver
+Tue Jan 14 17:41:45 JST 2020:MemoryManager[94]/Add -> add new memory: ok_silver_history += ok_silver4 in long_memory.txt
+Tue Jan 14 17:41:45 JST 2020:MemoryManager[82]/Add -> already contain: ok_silver4 at activity_history in short_memory.txt
+Tue Jan 14 17:41:45 JST 2020:MemoryManager[142]/Read -> read memory: praisesilver_history = praisesilver2
+Tue Jan 14 17:41:45 JST 2020:MemoryManager[94]/Add -> add new memory: praisesilver_history += praisesilver4 in long_memory.txt
+Tue Jan 14 17:41:45 JST 2020:MemoryManager[82]/Add -> already contain: praisesilver4 at activity_history in short_memory.txt
+Tue Jan 14 17:41:45 JST 2020:MemoryManager[142]/Read -> read memory: sotaaizuchi_history = sotaaizuchi2,sotaaizuchi3,sotaaizuchi4,sotaaizuchi
+Tue Jan 14 17:41:45 JST 2020:MemoryManager[181]/Clear -> clear memory: sotaaizuchi_history = sotaaizuchi2,sotaaizuchi3,sotaaizuchi4,sotaaizuchi
+Tue Jan 14 17:41:45 JST 2020:MemoryManager[94]/Add -> add new memory: sotaaizuchi_history += sotaaizuchi4 in long_memory.txt
+Tue Jan 14 17:41:45 JST 2020:MemoryManager[82]/Add -> already contain: sotaaizuchi4 at activity_history in short_memory.txt
+Tue Jan 14 17:41:45 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: sotaaizuchi
+Tue Jan 14 17:41:45 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: praisesilver
+Tue Jan 14 17:41:45 JST 2020:ActivityManager[78]/handling -> Read activity: activities\ok_silver4.txt
+Tue Jan 14 17:41:58 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 17:41:58 JST 2020:ActivityManager[78]/handling -> Read activity: activities\1.0.txt
+Tue Jan 14 17:42:06 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 17:42:06 JST 2020:MemoryManager[142]/Read -> read memory: target_history = target
+Tue Jan 14 17:42:06 JST 2020:MemoryManager[94]/Add -> add new memory: target_history += target3 in long_memory.txt
+Tue Jan 14 17:42:06 JST 2020:MemoryManager[82]/Add -> already contain: target3 at activity_history in short_memory.txt
+Tue Jan 14 17:42:06 JST 2020:ActivityManager[78]/handling -> Read activity: activities\target3.txt
+Tue Jan 14 17:42:19 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 17:42:19 JST 2020:MemoryManager[142]/Read -> read memory: target_history = target,target3
+Tue Jan 14 17:42:19 JST 2020:MemoryManager[94]/Add -> add new memory: target_history += target4 in long_memory.txt
+Tue Jan 14 17:42:19 JST 2020:MemoryManager[82]/Add -> already contain: target4 at activity_history in short_memory.txt
+Tue Jan 14 17:42:19 JST 2020:ActivityManager[78]/handling -> Read activity: activities\target4.txt
+Tue Jan 14 17:42:32 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 17:42:32 JST 2020:MemoryManager[142]/Read -> read memory: ok_silver_history = ok_silver3,ok_silver,ok_silver4
+Tue Jan 14 17:42:32 JST 2020:MemoryManager[94]/Add -> add new memory: ok_silver_history += ok_silver2 in long_memory.txt
+Tue Jan 14 17:42:32 JST 2020:MemoryManager[82]/Add -> already contain: ok_silver2 at activity_history in short_memory.txt
+Tue Jan 14 17:42:32 JST 2020:MemoryManager[142]/Read -> read memory: praiselong_history = praiselong
+Tue Jan 14 17:42:32 JST 2020:MemoryManager[94]/Add -> add new memory: praiselong_history += praiselong4 in long_memory.txt
+Tue Jan 14 17:42:32 JST 2020:MemoryManager[82]/Add -> already contain: praiselong4 at activity_history in short_memory.txt
+Tue Jan 14 17:42:32 JST 2020:MemoryManager[142]/Read -> read memory: sotaaizuchi_history = sotaaizuchi4
+Tue Jan 14 17:42:32 JST 2020:MemoryManager[94]/Add -> add new memory: sotaaizuchi_history += sotaaizuchi2 in long_memory.txt
+Tue Jan 14 17:42:32 JST 2020:MemoryManager[82]/Add -> already contain: sotaaizuchi2 at activity_history in short_memory.txt
+Tue Jan 14 17:42:32 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: sotaaizuchi
+Tue Jan 14 17:42:32 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: praiselong
+Tue Jan 14 17:42:32 JST 2020:ActivityManager[78]/handling -> Read activity: activities\ok_silver2.txt
+Tue Jan 14 17:42:41 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 17:42:41 JST 2020:ActivityManager[78]/handling -> Read activity: activities\25_2.txt
+Tue Jan 14 17:42:54 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 17:42:54 JST 2020:MemoryManager[142]/Read -> read memory: ok_silver_history = ok_silver3,ok_silver,ok_silver4,ok_silver2
+Tue Jan 14 17:42:54 JST 2020:MemoryManager[181]/Clear -> clear memory: ok_silver_history = ok_silver3,ok_silver,ok_silver4,ok_silver2
+Tue Jan 14 17:42:54 JST 2020:MemoryManager[94]/Add -> add new memory: ok_silver_history += ok_silver2 in long_memory.txt
+Tue Jan 14 17:42:54 JST 2020:MemoryManager[82]/Add -> already contain: ok_silver2 at activity_history in short_memory.txt
+Tue Jan 14 17:42:54 JST 2020:MemoryManager[142]/Read -> read memory: praiselong_history = praiselong,praiselong4
+Tue Jan 14 17:42:54 JST 2020:MemoryManager[94]/Add -> add new memory: praiselong_history += praiselong2 in long_memory.txt
+Tue Jan 14 17:42:54 JST 2020:MemoryManager[82]/Add -> already contain: praiselong2 at activity_history in short_memory.txt
+Tue Jan 14 17:42:54 JST 2020:MemoryManager[142]/Read -> read memory: sotaaizuchi_history = sotaaizuchi4,sotaaizuchi2
+Tue Jan 14 17:42:54 JST 2020:MemoryManager[94]/Add -> add new memory: sotaaizuchi_history += sotaaizuchi in long_memory.txt
+Tue Jan 14 17:42:54 JST 2020:MemoryManager[82]/Add -> already contain: sotaaizuchi at activity_history in short_memory.txt
+Tue Jan 14 17:42:54 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: sotaaizuchi
+Tue Jan 14 17:42:54 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: praiselong
+Tue Jan 14 17:42:54 JST 2020:ActivityManager[78]/handling -> Read activity: activities\ok_silver2.txt
+Tue Jan 14 17:43:01 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 17:43:01 JST 2020:ActivityManager[78]/handling -> Read activity: activities\1.0.txt
+Tue Jan 14 17:43:06 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 17:43:06 JST 2020:MemoryManager[142]/Read -> read memory: target_history = target,target3,target4
+Tue Jan 14 17:43:06 JST 2020:MemoryManager[94]/Add -> add new memory: target_history += target2 in long_memory.txt
+Tue Jan 14 17:43:06 JST 2020:MemoryManager[82]/Add -> already contain: target2 at activity_history in short_memory.txt
+Tue Jan 14 17:43:06 JST 2020:ActivityManager[78]/handling -> Read activity: activities\target2.txt
+Tue Jan 14 17:43:14 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 17:43:14 JST 2020:ActivityManager[78]/handling -> Read activity: activities\1_2.txt
+Tue Jan 14 17:43:27 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 17:43:27 JST 2020:MemoryManager[142]/Read -> read memory: ok_silver_history = ok_silver2
+Tue Jan 14 17:43:27 JST 2020:MemoryManager[94]/Add -> add new memory: ok_silver_history += ok_silver3 in long_memory.txt
+Tue Jan 14 17:43:27 JST 2020:MemoryManager[82]/Add -> already contain: ok_silver3 at activity_history in short_memory.txt
+Tue Jan 14 17:43:27 JST 2020:MemoryManager[142]/Read -> read memory: praiselong_history = praiselong,praiselong4,praiselong2
+Tue Jan 14 17:43:27 JST 2020:MemoryManager[94]/Add -> add new memory: praiselong_history += praiselong3 in long_memory.txt
+Tue Jan 14 17:43:27 JST 2020:MemoryManager[82]/Add -> already contain: praiselong3 at activity_history in short_memory.txt
+Tue Jan 14 17:43:27 JST 2020:MemoryManager[142]/Read -> read memory: sotaaizuchi_history = sotaaizuchi4,sotaaizuchi2,sotaaizuchi
+Tue Jan 14 17:43:27 JST 2020:MemoryManager[94]/Add -> add new memory: sotaaizuchi_history += sotaaizuchi3 in long_memory.txt
+Tue Jan 14 17:43:27 JST 2020:MemoryManager[82]/Add -> already contain: sotaaizuchi3 at activity_history in short_memory.txt
+Tue Jan 14 17:43:27 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: sotaaizuchi
+Tue Jan 14 17:43:27 JST 2020:ActivityManager[316]/ReadBehaviors -> Load Activity: praiselong
+Tue Jan 14 17:43:27 JST 2020:ActivityManager[78]/handling -> Read activity: activities\ok_silver3.txt
+Tue Jan 14 17:43:33 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 17:43:33 JST 2020:ActivityManager[78]/handling -> Read activity: activities\25.txt
+Tue Jan 14 17:43:43 JST 2020:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Tue Jan 14 17:43:43 JST 2020:ActivityManager[78]/handling -> Read activity: activities\25_2.txt

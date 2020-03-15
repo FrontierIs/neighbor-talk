@@ -1,0 +1,12 @@
+
+sota;addAction:motionWith:pose:-1200:-900:0:900:0:-400:0:0:700
+sota;addAction:say:どんな素材が使われているかで、イヤリングを選ぶほうほうもあるよ
+loadActivity:sotakatari
+sota;waitForCommandEnd
+sota2;addAction:motionWith:pose:1200:-900:0:900:0:0:0:0:700
+sota2;addAction:say:ルビーは赤い宝石で情熱的な性質を持つんだって:rate=10:pitch=1:intonation=8
+sota2;waitForCommandEnd
+sota;addAction:motionWith:homePose
+sota;addAction:say:身につける人にアクティブなエネルギーを与えるらしいよ
+sota;waitForCommandEnd
+

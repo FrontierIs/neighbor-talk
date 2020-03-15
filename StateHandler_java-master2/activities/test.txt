@@ -1,0 +1,13 @@
+sota;idleMode:kill
+
+sota;addAction:sayWith:./sound/filler1-1.wav
+sota;addAction:motion:homePose
+
+sota;addAction:wait:5000
+sota;waitForCommandEnd
+
+
+sota;addAction:motionWith:ojigi
+sota;addAction:say:Ç«Ç§Ç¢ÇΩÇµÇ‹ÇµÇƒÅB
+#sota;addAction:wait:15000
+#sota;addAction:requestMessage:sh;timeoutForReplyMode

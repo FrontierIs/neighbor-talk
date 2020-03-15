@@ -1,0 +1,73 @@
+Fri Nov 08 13:52:09 JST 2019:util.Log[126]/init -> @@@ RUN STAMP @@@ -- Frontier-is
+Fri Nov 08 13:52:09 JST 2019:util.FileManage[91]/ReadFile -> read setting.txt
+ -> util.Config[76]/init
+ -> util.Config[36]/<init>
+ -> ActivityManager[41]/handling
+ -> ActivityManager[21]/main
+Fri Nov 08 13:52:09 JST 2019:util.Config[155]/Get -> read config ipAdress_server = 100.80.194.226
+Fri Nov 08 13:52:09 JST 2019:util.Config[155]/Get -> read config portNum_server = 11000
+Fri Nov 08 13:52:09 JST 2019:ClientThreadUTF8[46]/<init> -> try to connect with 100.80.194.226 11000
+Fri Nov 08 13:52:10 JST 2019:ActivityManager[121]/handling -> wait for re-connecting: 1.5 second
+Fri Nov 08 13:52:11 JST 2019:util.FileManage[91]/ReadFile -> read setting.txt
+ -> util.Config[76]/init
+ -> util.Config[36]/<init>
+ -> ActivityManager[41]/handling
+ -> ActivityManager[21]/main
+Fri Nov 08 13:52:11 JST 2019:util.Config[155]/Get -> read config ipAdress_server = 100.80.194.226
+Fri Nov 08 13:52:11 JST 2019:util.Config[155]/Get -> read config portNum_server = 11000
+Fri Nov 08 13:52:11 JST 2019:ClientThreadUTF8[46]/<init> -> try to connect with 100.80.194.226 11000
+Fri Nov 08 13:52:12 JST 2019:ActivityManager[121]/handling -> wait for re-connecting: 3.0 second
+Fri Nov 08 13:52:15 JST 2019:util.FileManage[91]/ReadFile -> read setting.txt
+ -> util.Config[76]/init
+ -> util.Config[36]/<init>
+ -> ActivityManager[41]/handling
+ -> ActivityManager[21]/main
+Fri Nov 08 13:52:15 JST 2019:util.Config[155]/Get -> read config ipAdress_server = 100.80.194.226
+Fri Nov 08 13:52:15 JST 2019:util.Config[155]/Get -> read config portNum_server = 11000
+Fri Nov 08 13:52:15 JST 2019:ClientThreadUTF8[46]/<init> -> try to connect with 100.80.194.226 11000
+Fri Nov 08 13:52:16 JST 2019:ActivityManager[121]/handling -> wait for re-connecting: 5.5 second
+Fri Nov 08 13:52:21 JST 2019:util.FileManage[91]/ReadFile -> read setting.txt
+ -> util.Config[76]/init
+ -> util.Config[36]/<init>
+ -> ActivityManager[41]/handling
+ -> ActivityManager[21]/main
+Fri Nov 08 13:52:21 JST 2019:util.Config[155]/Get -> read config ipAdress_server = 100.80.194.226
+Fri Nov 08 13:52:21 JST 2019:util.Config[155]/Get -> read config portNum_server = 11000
+Fri Nov 08 13:52:21 JST 2019:ClientThreadUTF8[46]/<init> -> try to connect with 100.80.194.226 11000
+Fri Nov 08 13:52:22 JST 2019:ActivityManager[121]/handling -> wait for re-connecting: 9.0 second
+Fri Nov 08 13:52:31 JST 2019:util.FileManage[91]/ReadFile -> read setting.txt
+ -> util.Config[76]/init
+ -> util.Config[36]/<init>
+ -> ActivityManager[41]/handling
+ -> ActivityManager[21]/main
+Fri Nov 08 13:52:31 JST 2019:util.Config[155]/Get -> read config ipAdress_server = 100.80.194.226
+Fri Nov 08 13:52:31 JST 2019:util.Config[155]/Get -> read config portNum_server = 11000
+Fri Nov 08 13:52:31 JST 2019:ClientThreadUTF8[46]/<init> -> try to connect with 100.80.194.226 11000
+Fri Nov 08 13:52:32 JST 2019:ActivityManager[121]/handling -> wait for re-connecting: 13.5 second
+Fri Nov 08 13:52:45 JST 2019:util.FileManage[91]/ReadFile -> read setting.txt
+ -> util.Config[76]/init
+ -> util.Config[36]/<init>
+ -> ActivityManager[41]/handling
+ -> ActivityManager[21]/main
+Fri Nov 08 13:52:45 JST 2019:util.Config[155]/Get -> read config ipAdress_server = 100.80.194.226
+Fri Nov 08 13:52:45 JST 2019:util.Config[155]/Get -> read config portNum_server = 11000
+Fri Nov 08 13:52:45 JST 2019:ClientThreadUTF8[46]/<init> -> try to connect with 100.80.194.226 11000
+Fri Nov 08 13:52:46 JST 2019:ActivityManager[121]/handling -> wait for re-connecting: 19.0 second
+Fri Nov 08 13:53:05 JST 2019:util.FileManage[91]/ReadFile -> read setting.txt
+ -> util.Config[76]/init
+ -> util.Config[36]/<init>
+ -> ActivityManager[41]/handling
+ -> ActivityManager[21]/main
+Fri Nov 08 13:53:05 JST 2019:util.Config[155]/Get -> read config ipAdress_server = 100.80.194.226
+Fri Nov 08 13:53:05 JST 2019:util.Config[155]/Get -> read config portNum_server = 11000
+Fri Nov 08 13:53:05 JST 2019:ClientThreadUTF8[46]/<init> -> try to connect with 100.80.194.226 11000
+Fri Nov 08 13:53:06 JST 2019:ActivityManager[121]/handling -> wait for re-connecting: 25.5 second
+Fri Nov 08 13:53:31 JST 2019:util.FileManage[91]/ReadFile -> read setting.txt
+ -> util.Config[76]/init
+ -> util.Config[36]/<init>
+ -> ActivityManager[41]/handling
+ -> ActivityManager[21]/main
+Fri Nov 08 13:53:31 JST 2019:util.Config[155]/Get -> read config ipAdress_server = 100.80.194.226
+Fri Nov 08 13:53:31 JST 2019:util.Config[155]/Get -> read config portNum_server = 11000
+Fri Nov 08 13:53:31 JST 2019:ClientThreadUTF8[46]/<init> -> try to connect with 100.80.194.226 11000
+Fri Nov 08 13:53:32 JST 2019:ActivityManager[121]/handling -> wait for re-connecting: 33.0 second

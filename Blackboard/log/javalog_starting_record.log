@@ -1,0 +1,174 @@
+Tue Apr 09 17:46:47 JST 2019:Util.Log[69]/access$0 -> Make NEW File 'javalog_starting_record.log'
+Tue Apr 09 17:46:47 JST 2019:Util.Log[69]/access$0 -> Make New File 'logNum.log'
+Tue Apr 09 17:49:27 JST 2019:Util.Log[69]/access$0 -> read logNum.log
+Tue Apr 09 17:49:27 JST 2019:Util.Log[95]/init -> @@@ RUN STAMP @@@ -- wftjv
+Tue Apr 09 17:54:44 JST 2019: @@@ RUN STAMP @@@ -- wftjv
+Tue Apr 09 17:54:44 JST 2019: read logNum.log
+Tue Apr 09 20:01:03 JST 2019: read logNum.log
+Tue Apr 09 20:01:03 JST 2019: @@@ RUN STAMP @@@ -- wftjv
+Wed Apr 10 10:03:05 JST 2019: @@@ RUN STAMP @@@ -- wftjv
+Wed Apr 10 10:03:05 JST 2019: read logNum.log
+Wed Apr 10 11:00:02 JST 2019: read logNum.log
+Wed Apr 10 11:00:02 JST 2019: @@@ RUN STAMP @@@ -- wftjv
+Wed Apr 10 16:52:20 JST 2019: @@@ RUN STAMP @@@ -- wftjv
+Wed Apr 10 16:52:20 JST 2019: read logNum.log
+Wed Apr 10 16:57:28 JST 2019: @@@ RUN STAMP @@@ -- wftjv
+Wed Apr 10 16:57:28 JST 2019: read logNum.log
+Thu Apr 11 13:35:52 JST 2019: read logNum.log
+Thu Apr 11 13:35:52 JST 2019: @@@ RUN STAMP @@@ -- wftjv
+Fri Apr 12 10:28:41 JST 2019: read logNum.log
+Fri Apr 12 10:28:41 JST 2019: @@@ RUN STAMP @@@ -- wftjv
+Fri Apr 12 17:15:51 JST 2019: @@@ RUN STAMP @@@ -- wftjv
+Fri Apr 12 17:15:51 JST 2019: read logNum.log
+Fri May 17 13:56:10 JST 2019: @@@ RUN STAMP @@@ -- wftjv
+Fri May 17 16:59:46 JST 2019: read logNum.log
+Fri May 17 16:59:46 JST 2019: @@@ RUN STAMP @@@ -- wftjv
+Fri May 17 17:01:13 JST 2019: @@@ RUN STAMP @@@ -- wftjv
+Wed May 29 14:42:51 JST 2019: read logNum.log
+Wed May 29 14:42:51 JST 2019: @@@ RUN STAMP @@@ -- wftjv
+Thu May 30 13:07:03 JST 2019: @@@ RUN STAMP @@@ -- wftjv
+Thu May 30 13:07:03 JST 2019: read logNum.log
+Thu Jun 20 16:00:50 JST 2019: read logNum.log
+Thu Jun 20 16:00:50 JST 2019: @@@ RUN STAMP @@@ -- Frontier-is
+Thu Jun 20 17:50:42 JST 2019: @@@ RUN STAMP @@@ -- Frontier-is
+Thu Jun 20 17:50:42 JST 2019: read logNum.log
+Thu Jun 20 18:39:50 JST 2019: read logNum.log
+Thu Jun 20 18:47:57 JST 2019: @@@ RUN STAMP @@@ -- Frontier-is
+Thu Jun 20 18:47:57 JST 2019: read logNum.log
+Fri Jun 21 14:57:13 JST 2019: read logNum.log
+Fri Jun 21 14:57:13 JST 2019: @@@ RUN STAMP @@@ -- Frontier-is
+Fri Jun 21 15:04:21 JST 2019: @@@ RUN STAMP @@@ -- Frontier-is
+Fri Jun 21 15:04:21 JST 2019: read logNum.log
+Fri Jun 21 15:04:21 JST 2019: Register name as: 'sh' (/100.80.194.228, ID:10)
+Mon Jun 24 15:27:58 JST 2019: @@@ RUN STAMP @@@ -- Frontier-is
+Mon Jun 24 15:27:58 JST 2019: read logNum.log
+Mon Jun 24 17:56:12 JST 2019: @@@ RUN STAMP @@@ -- Frontier-is
+Mon Jun 24 17:56:12 JST 2019: read logNum.log
+Wed Jun 26 18:00:50 JST 2019: read logNum.log
+Wed Jun 26 18:00:50 JST 2019: @@@ RUN STAMP @@@ -- Frontier-is
+Wed Jun 26 18:14:17 JST 2019: @@@ RUN STAMP @@@ -- Frontier-is
+Wed Jun 26 18:14:17 JST 2019: read logNum.log
+Thu Jun 27 15:08:20 JST 2019: @@@ RUN STAMP @@@ -- Frontier-is
+Thu Jun 27 15:08:20 JST 2019: read logNum.log
+Fri Jun 28 15:04:57 JST 2019: read logNum.log
+Fri Jun 28 15:04:57 JST 2019: @@@ RUN STAMP @@@ -- Frontier-is
+Fri Jun 28 15:04:57 JST 2019: Register name as: 'am' (/100.80.194.228, ID:10)
+Mon Jul 01 13:59:25 JST 2019: read logNum.log
+Mon Jul 01 13:59:25 JST 2019: @@@ RUN STAMP @@@ -- Frontier-is
+Mon Jul 01 13:59:25 JST 2019: Register name as: 'am' (/100.80.194.228, ID:10)
+Wed Jul 10 18:32:22 JST 2019: @@@ RUN STAMP @@@ -- Frontier-is
+Wed Jul 10 18:32:22 JST 2019: read logNum.log
+Wed Jul 10 18:32:22 JST 2019: Register name as: 'am' (/100.80.194.228, ID:10)
+Wed Jul 31 16:42:26 JST 2019: read logNum.log
+Wed Jul 31 16:42:26 JST 2019: @@@ RUN STAMP @@@ -- Frontier-is
+Wed Jul 31 16:42:26 JST 2019: Register name as: 'am' (/100.80.194.228, ID:10)
+Thu Aug 01 10:16:25 JST 2019: read logNum.log
+Thu Aug 01 10:16:25 JST 2019: @@@ RUN STAMP @@@ -- Frontier-is
+Mon Aug 19 17:47:03 JST 2019: @@@ RUN STAMP @@@ -- Frontier-is
+Mon Aug 19 17:47:03 JST 2019: read logNum.log
+Mon Aug 26 01:12:16 JST 2019: @@@ RUN STAMP @@@ -- Frontier-is
+Mon Aug 26 01:12:16 JST 2019: read logNum.log
+Mon Aug 26 01:12:16 JST 2019: Register name as: 'sota2' (/100.80.194.129, ID:10)
+Mon Aug 26 10:28:43 JST 2019: read logNum.log
+Mon Aug 26 10:28:43 JST 2019: @@@ RUN STAMP @@@ -- Frontier-is
+Mon Aug 26 10:28:43 JST 2019: Register name as: 'am' (/100.80.194.142, ID:10)
+Mon Aug 26 10:46:40 JST 2019: read logNum.log
+Mon Aug 26 10:46:40 JST 2019: @@@ RUN STAMP @@@ -- Frontier-is
+Thu Aug 29 16:46:13 JST 2019: @@@ RUN STAMP @@@ -- Frontier-is
+Thu Aug 29 16:46:13 JST 2019: read logNum.log
+Thu Aug 29 16:46:13 JST 2019: Register name as: 'am' (/100.80.194.142, ID:10)
+Fri Aug 30 16:50:04 JST 2019: @@@ RUN STAMP @@@ -- Frontier-is
+Fri Aug 30 16:50:04 JST 2019: read logNum.log
+Fri Aug 30 16:50:04 JST 2019: Register name as: 'am' (/100.80.194.142, ID:10)
+Wed Sep 04 14:33:03 JST 2019: @@@ RUN STAMP @@@ -- Frontier-is
+Wed Sep 04 14:33:03 JST 2019: read logNum.log
+Wed Sep 04 15:02:41 JST 2019: read logNum.log
+Wed Sep 04 15:02:41 JST 2019: @@@ RUN STAMP @@@ -- Frontier-is
+Wed Sep 04 16:14:52 JST 2019: @@@ RUN STAMP @@@ -- Frontier-is
+Wed Sep 04 16:14:52 JST 2019: read logNum.log
+Wed Sep 04 16:14:52 JST 2019: Connect with /100.80.194.142, ID: 10
+Wed Sep 04 16:27:49 JST 2019: read logNum.log
+Wed Sep 04 16:27:49 JST 2019: @@@ RUN STAMP @@@ -- Frontier-is
+Wed Sep 04 17:06:47 JST 2019: @@@ RUN STAMP @@@ -- Frontier-is
+Wed Sep 04 17:06:47 JST 2019: read logNum.log
+Mon Sep 09 16:19:14 JST 2019: read logNum.log
+Mon Sep 09 16:19:14 JST 2019: @@@ RUN STAMP @@@ -- Frontier-is
+Tue Sep 17 03:48:47 JST 2019: @@@ RUN STAMP @@@ -- Frontier-is
+Tue Sep 17 03:48:47 JST 2019: read logNum.log
+Tue Sep 17 22:04:56 JST 2019: read logNum.log
+Tue Sep 17 22:04:56 JST 2019: @@@ RUN STAMP @@@ -- Frontier-is
+Tue Sep 17 22:04:56 JST 2019: Register name as: 'am' (/100.80.194.142, ID:10)
+Wed Sep 25 17:00:24 JST 2019: read logNum.log
+Wed Sep 25 17:00:24 JST 2019: @@@ RUN STAMP @@@ -- Frontier-is
+Fri Sep 27 09:55:36 JST 2019: read logNum.log
+Fri Sep 27 09:55:36 JST 2019: @@@ RUN STAMP @@@ -- Frontier-is
+Fri Sep 27 09:55:36 JST 2019: Register name as: 'am' (/100.80.194.226, ID:10)
+Fri Sep 27 15:48:53 JST 2019: @@@ RUN STAMP @@@ -- Frontier-is
+Fri Sep 27 15:48:53 JST 2019: read logNum.log
+Mon Sep 30 08:30:40 JST 2019: @@@ RUN STAMP @@@ -- Frontier-is
+Mon Sep 30 08:30:40 JST 2019: read logNum.log
+Mon Sep 30 08:30:40 JST 2019: Register name as: 'am' (/100.80.194.226, ID:10)
+Mon Sep 30 08:57:24 JST 2019: @@@ RUN STAMP @@@ -- Frontier-is
+Mon Sep 30 08:57:24 JST 2019: read logNum.log
+Mon Sep 30 09:01:26 JST 2019: @@@ RUN STAMP @@@ -- Frontier-is
+Mon Sep 30 09:01:26 JST 2019: read logNum.log
+Mon Sep 30 09:01:26 JST 2019: Register name as: 'sh' (/100.80.194.226, ID:10)
+Mon Sep 30 09:14:16 JST 2019: @@@ RUN STAMP @@@ -- Frontier-is
+Mon Sep 30 10:01:27 JST 2019: @@@ RUN STAMP @@@ -- Frontier-is
+Mon Sep 30 10:01:27 JST 2019: read logNum.log
+Mon Sep 30 10:01:27 JST 2019: Register name as: 'sh' (/100.80.194.226, ID:10)
+Fri Oct 04 13:07:53 JST 2019: read logNum.log
+Fri Oct 04 13:07:53 JST 2019: @@@ RUN STAMP @@@ -- Frontier-is
+Fri Oct 04 20:16:05 JST 2019: read logNum.log
+Fri Oct 04 20:16:05 JST 2019: @@@ RUN STAMP @@@ -- Frontier-is
+Fri Oct 11 14:23:22 JST 2019: @@@ RUN STAMP @@@ -- Frontier-is
+Fri Oct 11 14:23:22 JST 2019: read logNum.log
+Mon Oct 21 10:12:03 JST 2019: @@@ RUN STAMP @@@ -- Frontier-is
+Mon Oct 21 10:12:03 JST 2019: read logNum.log
+Fri Nov 08 13:55:57 JST 2019: @@@ RUN STAMP @@@ -- Frontier-is
+Fri Nov 08 13:55:57 JST 2019: read logNum.log
+Fri Nov 08 13:55:57 JST 2019: Register name as: 'am' (/100.80.194.226, ID:10)
+Mon Nov 18 15:41:05 JST 2019: @@@ RUN STAMP @@@ -- Frontier-is
+Mon Nov 18 15:41:05 JST 2019: read logNum.log
+Mon Nov 18 15:41:05 JST 2019: Register name as: 'am' (/100.80.194.226, ID:10)
+Mon Dec 02 06:26:37 JST 2019: read logNum.log
+Mon Dec 02 06:26:37 JST 2019: @@@ RUN STAMP @@@ -- Frontier-is
+Mon Dec 02 06:26:37 JST 2019: Register name as: 'am' (/100.80.194.226, ID:10)
+Sat Dec 14 19:29:07 JST 2019: read logNum.log
+Sat Dec 14 19:29:07 JST 2019: @@@ RUN STAMP @@@ -- Frontier-is
+Sat Dec 14 19:29:07 JST 2019: Register name as: 'am' (/100.80.194.226, ID:10)
+Sun Dec 15 08:04:23 JST 2019: @@@ RUN STAMP @@@ -- Frontier-is
+Sun Dec 15 08:04:23 JST 2019: read logNum.log
+Tue Dec 17 23:15:46 JST 2019: @@@ RUN STAMP @@@ -- Frontier-is
+Tue Dec 17 23:15:46 JST 2019: read logNum.log
+Tue Dec 17 23:15:46 JST 2019: Connect with /100.80.194.247, ID: 12
+Mon Dec 23 14:07:15 JST 2019: @@@ RUN STAMP @@@ -- Frontier-is
+Mon Dec 23 14:07:15 JST 2019: read logNum.log
+Mon Dec 23 14:07:15 JST 2019: Register name as: 'am' (/100.80.194.226, ID:10)
+Tue Jan 07 14:21:15 JST 2020: read logNum.log
+Tue Jan 07 14:21:15 JST 2020: @@@ RUN STAMP @@@ -- Frontier-is
+Mon Jan 13 14:21:51 JST 2020: read logNum.log
+Mon Jan 13 14:21:51 JST 2020: @@@ RUN STAMP @@@ -- Frontier-is
+Tue Jan 14 03:32:16 JST 2020: read logNum.log
+Tue Jan 14 03:32:16 JST 2020: @@@ RUN STAMP @@@ -- Frontier-is
+Tue Jan 14 10:12:06 JST 2020: read logNum.log
+Tue Jan 14 10:12:06 JST 2020: @@@ RUN STAMP @@@ -- Frontier-is
+Tue Jan 14 10:12:06 JST 2020: Register name as: 'am' (/127.0.0.1, ID:10)
+Wed Jan 15 08:44:23 JST 2020: read logNum.log
+Wed Jan 15 08:44:23 JST 2020: @@@ RUN STAMP @@@ -- Frontier-is
+Wed Jan 15 08:44:23 JST 2020: Register name as: 'am' (/127.0.0.1, ID:10)
+Wed Jan 15 16:08:08 JST 2020: Register name as: 'am' (/127.0.0.1, ID:10)
+Wed Jan 15 16:08:08 JST 2020: read logNum.log
+Wed Jan 15 16:08:08 JST 2020: @@@ RUN STAMP @@@ -- Frontier-is
+Wed Jan 15 16:08:08 JST 2020: Connect with /127.0.0.1, ID: 12
+Wed Jan 15 16:08:08 JST 2020: Register name as: 'sh' (/127.0.0.1, ID:12)
+Thu Jan 16 08:42:43 JST 2020: @@@ RUN STAMP @@@ -- Frontier-is
+Thu Jan 16 08:42:43 JST 2020: read logNum.log
+Thu Jan 16 08:42:43 JST 2020: Register name as: 'am' (/127.0.0.1, ID:10)
+Fri Jan 17 08:47:49 JST 2020: read logNum.log
+Fri Jan 17 08:47:49 JST 2020: @@@ RUN STAMP @@@ -- Frontier-is
+Fri Jan 17 08:47:49 JST 2020: Register name as: 'am' (/127.0.0.1, ID:10)
+Fri Jan 31 21:42:14 JST 2020: read logNum.log
+Fri Jan 31 21:42:14 JST 2020: @@@ RUN STAMP @@@ -- Frontier-is
+Mon Feb 10 19:13:08 JST 2020: @@@ RUN STAMP @@@ -- Frontier-is
+Mon Feb 10 19:13:08 JST 2020: read logNum.log

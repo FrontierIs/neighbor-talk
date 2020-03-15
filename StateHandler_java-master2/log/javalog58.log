@@ -1,0 +1,37 @@
+Tue Dec 17 23:31:22 JST 2019:util.Log[126]/init -> @@@ RUN STAMP @@@ -- Frontier-is
+Tue Dec 17 23:31:22 JST 2019:util.FileManage[91]/ReadFile -> read setting.txt
+ -> util.Config[76]/init
+ -> util.Config[36]/<init>
+ -> ActivityManager[41]/handling
+ -> ActivityManager[21]/main
+Tue Dec 17 23:31:22 JST 2019:util.Config[155]/Get -> read config ipAdress_server = 100.80.194.226
+Tue Dec 17 23:31:22 JST 2019:util.Config[155]/Get -> read config portNum_server = 11000
+Tue Dec 17 23:31:22 JST 2019:ClientThreadUTF8[46]/<init> -> try to connect with 100.80.194.226 11000
+Tue Dec 17 23:31:22 JST 2019:ClientThreadUTF8[54]/<init> -> connected with 100.80.194.226 11000
+Tue Dec 17 23:31:44 JST 2019:MemoryManager[142]/Read -> read memory: ok_long_history = ok_long2,ok_long
+Tue Dec 17 23:31:44 JST 2019:MemoryManager[181]/Clear -> clear memory: ok_long_history = ok_long2,ok_long
+Tue Dec 17 23:31:44 JST 2019:MemoryManager[94]/Add -> add new memory: ok_long_history += ok_long2 in long_memory.txt
+Tue Dec 17 23:31:44 JST 2019:MemoryManager[82]/Add -> already contain: ok_long2 at activity_history in short_memory.txt
+Tue Dec 17 23:31:44 JST 2019:ActivityManager[78]/handling -> Read activity: activities\ok_long2.txt
+Tue Dec 17 23:31:44 JST 2019:MemoryManager[142]/Read -> read memory: ok_long_history = ok_long2
+Tue Dec 17 23:31:44 JST 2019:MemoryManager[94]/Add -> add new memory: ok_long_history += ok_long in long_memory.txt
+Tue Dec 17 23:31:44 JST 2019:MemoryManager[82]/Add -> already contain: ok_long at activity_history in short_memory.txt
+Tue Dec 17 23:31:44 JST 2019:ActivityManager[78]/handling -> Read activity: activities\ok_long.txt
+Tue Dec 17 23:31:44 JST 2019:MemoryManager[142]/Read -> read memory: ok_long_history = ok_long2,ok_long
+Tue Dec 17 23:31:44 JST 2019:MemoryManager[181]/Clear -> clear memory: ok_long_history = ok_long2,ok_long
+Tue Dec 17 23:31:44 JST 2019:MemoryManager[94]/Add -> add new memory: ok_long_history += ok_long2 in long_memory.txt
+Tue Dec 17 23:31:44 JST 2019:MemoryManager[82]/Add -> already contain: ok_long2 at activity_history in short_memory.txt
+Tue Dec 17 23:31:44 JST 2019:ActivityManager[78]/handling -> Read activity: activities\ok_long2.txt
+Tue Dec 17 23:31:48 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 233144444
+Tue Dec 17 23:31:50 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 233144566
+Tue Dec 17 23:31:54 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 233144591
+Tue Dec 17 23:31:57 JST 2019:MemoryManager[142]/Read -> read memory: ok_long_history = ok_long2
+Tue Dec 17 23:31:57 JST 2019:MemoryManager[94]/Add -> add new memory: ok_long_history += ok_long in long_memory.txt
+Tue Dec 17 23:31:57 JST 2019:MemoryManager[82]/Add -> already contain: ok_long at activity_history in short_memory.txt
+Tue Dec 17 23:31:57 JST 2019:ActivityManager[78]/handling -> Read activity: activities\ok_long.txt
+Tue Dec 17 23:32:30 JST 2019:MemoryManager[142]/Read -> read memory: ok_long_history = ok_long2,ok_long
+Tue Dec 17 23:32:30 JST 2019:MemoryManager[181]/Clear -> clear memory: ok_long_history = ok_long2,ok_long
+Tue Dec 17 23:32:30 JST 2019:MemoryManager[94]/Add -> add new memory: ok_long_history += ok_long in long_memory.txt
+Tue Dec 17 23:32:30 JST 2019:MemoryManager[82]/Add -> already contain: ok_long at activity_history in short_memory.txt
+Tue Dec 17 23:32:30 JST 2019:ActivityManager[316]/ReadBehaviors -> Load Activity: aizuchi
+Tue Dec 17 23:32:30 JST 2019:ActivityManager[78]/handling -> Read activity: activities\ok_long.txt

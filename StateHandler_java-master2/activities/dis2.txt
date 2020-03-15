@@ -1,0 +1,12 @@
+sota;addAction:motionWith:pose:-1200:-900:0:900:0:-400:0:0:700
+sota;addAction:say:このイヤリングどうかな?
+sota;waitForCommandEnd
+sota2;addAction:motionWith:pose:1200:-900:0:900:0:0:0:0:700
+sota2;addAction:say:うーん、悪くはないんだけどなあ:rate=10:pitch=1:intonation=8
+sota2;waitForCommandEnd
+sota;addAction:motionWith:homePose
+sota;addAction:say:もうちょっと他のも選んでみたほうがいいかな
+sota;waitForCommandEnd
+sota2;addAction:motionWith:pose:1200:-900:0:900:0:0:0:0:700
+sota2;addAction:say:そうだね、それが良さそう:rate=10:pitch=1:intonation=8
+sota2;waitForCommandEnd

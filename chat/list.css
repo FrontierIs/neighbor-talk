@@ -1,0 +1,431 @@
+header{font-size:40px;
+       background: #BBBBBB;
+}
+
+.container{
+  display: block;
+  height: 570px;
+}
+
+.main{
+  background-color: #eeeeee;
+  margin-left: auto;
+  margin-right: auto;
+  /* padding: auto; */
+}
+TABLE {
+  width: 100%;
+  height: 100%;
+  table-layout: fixed;
+}
+TD#4doc{
+  width: 70%;
+  height:100%;
+  /* float:left; */
+}
+TD#chat{
+  width: 30%;
+  /* margin-left: 100px; */
+  height:570px;
+   /* float:left; */
+}
+/* .side {
+  background: orange;
+  width: 30%;
+} */
+
+/* td{
+  text-align:center;
+} */
+  /* body {
+     background-color: #eeeeee;
+     font-family: 'Noto Sans Japanese', sans-serif;
+     margin: 0px auto;
+     width: 100vw;
+     -webkit-text-size-adjust: auto;
+   }
+
+   .hotelname{font-size:25px;}
+   .price{font-size:23px;
+          color:red;}
+   #one,#two,#three,#four,#five,#six,#seven,#eight,#nine,#ten{background-color:white;
+      margin-bottom: 10px ;
+      margin-left: 10px;
+      /* margin-right:10px; */
+
+
+
+
+    .boxA{
+      border:none;
+    }
+
+    /* .boxA::after {
+      content: "";
+      display: block;
+      clear: both;
+    } */
+
+    .boxC {
+      border: none;
+    }
+  .boxC::after {
+    content: "";
+    display: block;
+    clear: both;
+  }
+
+    .boxA, .boxB {
+      float: left;
+      border-color: yellow;
+      width: 50%;  /** 横幅50% **/
+    }
+
+
+  .boxB{
+      border: none;
+    }
+  /* .boxB::after {
+    content: "";
+    display: block;
+    clear: both;
+  } */
+
+
+
+      ::selection{
+        background: rgba(82,179,217,0.3);
+        color: inherit;
+      }
+      a{
+        color: rgba(82,179,217,0.9);
+      }
+
+      /* M E N U */
+
+      hr{
+        border:none;
+        border-top:dashed 1px #eeeeee;
+        height:1px;
+        color:#FFFFFF;
+        width:100%;
+      }
+
+
+      .back {
+          position: absolute;
+          width: 90px;
+          height: 50px;
+          top: 0px;
+          left: 0px;
+          color: #fff;
+          line-height: 50px;
+          font-size: 30px;
+          padding-left: 10px;
+          cursor: pointer;
+      }
+      .back img {
+          position: absolute;
+          top: 5px;
+          left: 30px;
+          width: 40px;
+          height: 40px;
+          background-color: rgba(255,255,255,0.98);
+          border-radius: 100%;
+          -webkit-border-radius: 100%;
+          -moz-border-radius: 100%;
+          -ms-border-radius: 100%;
+          margin-left: 15px;
+          }
+      .back:active {
+          background: rgba(255,255,255,0.2);
+      }
+      .name{
+          width: 300px;
+          line-height: 50px;
+          top: 0;
+          bottom: 0;
+          left: 0;
+          right: 0;
+          position: relative;
+          /* margin: auto; */
+          font-family: 'Lato';
+          font-size: 20px;
+          font-weight: 300;
+          background-color: #00CC66;
+          text-align: center;
+          /* cursor: default; */
+      }
+      .last{
+          position: absolute;
+          top: 30px;
+          left: 115px;
+          font-family: 'Lato';
+          font-size: 11px;
+          font-weight: 400;
+          color: rgba(255,255,255,0.6);
+          cursor: default;
+      }
+
+      /* M E S S A G E S */
+
+      #recommend {
+          list-style: none;
+          overflow: scroll;
+          margin-left:10px;
+          /* background-color: #CCFFFF; */
+          /* height: 100vw; */
+      }
+
+      .chat {
+          list-style: none;
+          background: none;
+          margin: 0;
+          /* height 700px; */
+          height: 570px;
+          overflow: scroll;
+          margin-left:10px;
+          background-color: #CCFFFF;
+          /* height: 100vw; */
+      }
+      .chat li {
+          padding: 0.5rem;
+          overflow: hidden;
+          display: flex;
+
+      }
+      .chat .avatar {
+          width: 40px;
+          height: 40px;
+          position: relative;
+          display: block;
+          z-index: 2;
+          border-radius: 100%;
+          -webkit-border-radius: 100%;
+          -moz-border-radius: 100%;
+          -ms-border-radius: 100%;
+          background-color: rgba(100,255,255,0.9);
+      }
+      .chat .avatar img {
+          width: 40px;
+          height: 40px;
+          border-radius: 100%;
+          -webkit-border-radius: 100%;
+          -moz-border-radius: 100%;
+          -ms-border-radius: 100%;
+          background-color: rgba(255,255,255,0.9);
+          -webkit-touch-callout: none;
+      }
+
+
+      .timeline span {
+          display: flex;
+          align-items: center;
+          text-align: center; /* for no-flexbox browsers */
+          font-size: 0.8rem;
+          color: #696;
+          margin-top: 20px;
+          margin-bottom: 20px;
+      }
+
+      .timeline span:before,
+      .timeline span:after {
+          border-top: 1px dashed #777;
+          content: "";
+          display: inline; /* for IE */
+          flex-grow: 1;
+      }
+
+      .timeline span:before {
+          margin-right: 2em;
+          margin-left: 2em;
+      }
+
+      .timeline span:after {
+          margin-left: 2em;
+          margin-right: 2em;
+      }
+
+      .self {
+          justify-content: flex-end;
+          align-items: flex-end;
+      }
+      .self .msg {
+          order: 1;
+          position: relative;
+          left: -10px;
+      }
+      .self .avatar {
+          order: 2;
+      }
+      .self .avatar:after {
+          content: "";
+          position: relative;
+          display: inline-block;
+          bottom: 35px;
+          right: 10px;
+          width: 0px;
+          height: 0px;
+          border: 10px solid #66FF66;
+          border-top-color: transparent;
+          border-bottom-color: transparent;
+          border-right-color: transparent;
+      }
+      .other .msg {
+          order: 2;
+      }
+      .other:after {
+          order: 1;
+          content: "";
+          position: relative;
+          top: 10px;
+          right: 0px;
+          left: 0px;
+          width: 0px;
+          height: 0px;
+          border: 10px solid #66FF66;
+          border-top-color: transparent;
+          border-left-color: transparent;
+          border-bottom-color: transparent;
+      }
+
+      /* Role Colors */
+      .user .msg {
+          background-color: #66FF66;
+      }
+      .user.self:after {
+          border: 10px solid rgba(40,210,160,0.9);
+          border-top-color: transparent;
+          border-bottom-color: transparent;
+          border-right-color: transparent;
+      }
+      .user.other:after {
+          border: 10px solid rgba(40,210,160,0.9);
+          border-top-color: transparent;
+          border-left-color: transparent;
+          border-bottom-color: transparent;
+      }
+      .user .msg p {
+          color: #fff;
+      }
+      .user .msg time {
+          color: rgba(255,255,255,0.7);
+      }
+      .user .msg time:before {
+          color: rgba(255,255,255,0.7);
+      }
+
+      .agent .msg {
+          background-color: rgba(220,255,240,0.9);
+      }
+      .agent.friend .avatar:after {
+          border: 10px solid rgba(220,255,240,0.9);
+          border-top-color: transparent;
+          border-bottom-color: transparent;
+          border-right-color: transparent;
+      }
+      .agent.other:after {
+          border: 10px solid rgba(220,255,240,0.9);
+          border-top-color: transparent;
+          border-left-color: transparent;
+          border-bottom-color: transparent;
+      }
+      .agent .msg time {
+          color: rgba(0,0,0,0.3);
+      }
+      .agent .msg time:before {
+          color: rgba(0,0,0,0.3);
+      }
+
+
+      .msg {
+          position: relative;
+          background: #66FF66;
+          /*min-width: 50px;
+          max-width: 50vw;*/
+          left: 0px;
+          padding: 10px;
+          border-radius: 10px;
+          box-shadow: 0px 2px 0px rgba(0, 0, 0, 0.07);
+      }
+      .msg p {
+          font-size: 15px;
+          /* font-size: 0.8rem; */
+          margin: 0 0 0.2rem 0;
+          /* margin: 0 0 0.05rem 0; */
+          color: #777;
+      }
+      .msg img {
+          position: relative;
+          display: block;
+          width: 100%;
+          border-radius: 5px;
+          box-shadow: 0px 0px 3px #eee;
+          transition: all .4s cubic-bezier(0.565, -0.260, 0.255, 1.410);
+          cursor: default;
+          -webkit-touch-callout: none;
+          -webkit-user-select: none;
+          -moz-user-select: none;
+          -ms-user-select: none;
+      }
+      /* @media only screen and (min-device-width: 800px) {
+          html, body, .input_area {
+              min-width: 430px;
+              max-width: 600px;
+          }
+          .msg {
+              min-width: 50px;
+              max-width: 300px;
+          }
+      }
+      @media only screen and (max-device-width: 799px) {
+          html, body, .input_area {
+              min-width: 100vw;
+              max-width: 100vw;
+          }
+          .msg {
+              min-width: 50px;
+              max-width: 50vw;
+          }
+      } */
+
+
+
+      /* @-webikt-keyframes pulse {
+        from { opacity: 0; }
+        to { opacity: 0.5; }
+      }
+
+      ::-webkit-scrollbar {
+          min-width: 12px;
+          width: 12px;
+          max-width: 12px;
+          min-height: 12px;
+          height: 12px;
+          max-height: 12px;
+          background: #e5e5e5;
+          box-shadow: inset 0px 50px 0px rgba(82,179,217,0.9), inset 0px -52px 0px #fafafa;
+      }
+
+      ::-webkit-scrollbar-thumb {
+          background: #bbb;
+          border: none;
+          border-radius: 100px;
+          border: solid 3px #e5e5e5;
+          box-shadow: inset 0px 0px 3px #999;
+      }
+
+      ::-webkit-scrollbar-thumb:hover {
+          background: #b0b0b0;
+        box-shadow: inset 0px 0px 3px #888;
+      }
+
+      ::-webkit-scrollbar-thumb:active {
+          background: #aaa;
+        box-shadow: inset 0px 0px 3px #7f7f7f;
+      }
+
+      ::-webkit-scrollbar-button {
+          display: block;
+          height: 26px;
+      } */

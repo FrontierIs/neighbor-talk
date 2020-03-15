@@ -1,0 +1,16 @@
+sota;addAction:motionWith:homePose
+sota;addAction:say:けっこう、たくさんイヤリング見たね
+sota;waitForCommandEnd
+sota2;addAction:motionWith:homePose
+sota2;addAction:say:そうだね、いいものばかりで迷っちゃうなあ:rate=10:pitch=1:intonation=8
+sota2;waitForCommandEnd
+sota;addAction:wait:1500
+sota;addAction:say:一度、商品一覧ページに戻って、全体から考えるといいかもね
+sota;waitForCommandEnd
+loadActivity:katari
+sota2;addAction:say:ページの上の、商品一覧ページに戻る、ボタンを押すと戻れるね:rate=10:pitch=1:intonation=8
+sota2;waitForCommandEnd
+
+
+
+

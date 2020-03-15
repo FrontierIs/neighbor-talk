@@ -1,0 +1,8 @@
+sota;addAction:nonverbalListening:false
+sota;addAction:trackFace:false
+sota;addAction:eyeColor:blue
+sota;addAction:motion:pose:1200:-700:-600:700:600:0:50:0:5000
+sota;addAction:posture:homePosture
+sota;addAction:idleMode:kill
+sota;addAction:wait:300000
+sota;addAction:requestMessage:sh;clearShortMemory

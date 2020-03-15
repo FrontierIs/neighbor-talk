@@ -1,0 +1,2 @@
+sota2;addAction:motionWith:pose:1200:-900:0:900:0:0:0:0:700
+sota2;addAction:say:ŒN‚à‚»‚¤Žv‚Á‚Ä‚é‚Å‚µ‚å?:rate=10:pitch=1:intonation=8

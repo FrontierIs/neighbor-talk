@@ -1,0 +1,17 @@
+sota;addAction:motionWith:homePose
+sota;addAction:say:長さが特徴的なイヤリングだね
+sota;waitForCommandEnd
+sota2;addAction:motionWith:homePose
+sota2;addAction:say:じょうひんだし、かわいさがあるデザインだね:rate=10:pitch=1:intonation=8
+loadActivity:katari
+sota2;waitForCommandEnd
+sota;addAction:motionWith:homePose
+sota;addAction:say:やっぱり、長いものは動きがあって華やかだね
+sota;waitForCommandEnd
+sota2;addAction:motionWith:bodyPose:0:300:-500:900:0:1000
+sota2;addAction:say:女性の色気を引き出してくれそうだね:rate=10:pitch=1:intonation=8
+loadActivity:katari
+sota2;waitForCommandEnd
+sota;addAction:say:見れば見る程、センスのいいイヤリングだなあ
+sota;waitForCommandEnd
+

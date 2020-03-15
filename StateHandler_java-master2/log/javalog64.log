@@ -1,0 +1,196 @@
+Mon Dec 23 18:01:48 JST 2019:util.Log[126]/init -> @@@ RUN STAMP @@@ -- Frontier-is
+Mon Dec 23 18:01:48 JST 2019:util.FileManage[91]/ReadFile -> read setting.txt
+ -> util.Config[76]/init
+ -> util.Config[36]/<init>
+ -> ActivityManager[41]/handling
+ -> ActivityManager[21]/main
+Mon Dec 23 18:01:48 JST 2019:util.Config[155]/Get -> read config ipAdress_server = 100.80.194.226
+Mon Dec 23 18:01:48 JST 2019:util.Config[155]/Get -> read config portNum_server = 11000
+Mon Dec 23 18:01:48 JST 2019:ClientThreadUTF8[46]/<init> -> try to connect with 100.80.194.226 11000
+Mon Dec 23 18:01:48 JST 2019:ClientThreadUTF8[54]/<init> -> connected with 100.80.194.226 11000
+Mon Dec 23 18:02:56 JST 2019:MemoryManager[142]/Read -> read memory: katari_history = katari4
+Mon Dec 23 18:02:56 JST 2019:MemoryManager[94]/Add -> add new memory: katari_history += katari3 in long_memory.txt
+Mon Dec 23 18:02:57 JST 2019:MemoryManager[82]/Add -> already contain: katari3 at activity_history in short_memory.txt
+Mon Dec 23 18:02:57 JST 2019:ActivityManager[316]/ReadBehaviors -> Load Activity: katari
+Mon Dec 23 18:02:57 JST 2019:MemoryManager[142]/Read -> read memory: katari_history = katari4,katari3
+Mon Dec 23 18:02:57 JST 2019:MemoryManager[94]/Add -> add new memory: katari_history += katari5 in long_memory.txt
+Mon Dec 23 18:02:57 JST 2019:MemoryManager[82]/Add -> already contain: katari5 at activity_history in short_memory.txt
+Mon Dec 23 18:02:57 JST 2019:ActivityManager[316]/ReadBehaviors -> Load Activity: katari
+Mon Dec 23 18:02:57 JST 2019:ActivityManager[78]/handling -> Read activity: activities\a4doc.txt
+Mon Dec 23 18:07:10 JST 2019:MemoryManager[142]/Read -> read memory: katari_history = katari4,katari3,katari5
+Mon Dec 23 18:07:10 JST 2019:MemoryManager[94]/Add -> add new memory: katari_history += katari in long_memory.txt
+Mon Dec 23 18:07:10 JST 2019:MemoryManager[82]/Add -> already contain: katari at activity_history in short_memory.txt
+Mon Dec 23 18:07:10 JST 2019:ActivityManager[316]/ReadBehaviors -> Load Activity: katari
+Mon Dec 23 18:07:10 JST 2019:MemoryManager[142]/Read -> read memory: katari_history = katari4,katari3,katari5,katari
+Mon Dec 23 18:07:10 JST 2019:MemoryManager[94]/Add -> add new memory: katari_history += katari2 in long_memory.txt
+Mon Dec 23 18:07:10 JST 2019:MemoryManager[82]/Add -> already contain: katari2 at activity_history in short_memory.txt
+Mon Dec 23 18:07:10 JST 2019:ActivityManager[316]/ReadBehaviors -> Load Activity: katari
+Mon Dec 23 18:07:10 JST 2019:ActivityManager[78]/handling -> Read activity: activities\a4doc.txt
+Mon Dec 23 18:07:36 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 23 18:07:36 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 18730861
+Mon Dec 23 18:07:36 JST 2019:MemoryManager[142]/Read -> read memory: akanren_history = akanren,akanren2
+Mon Dec 23 18:07:36 JST 2019:MemoryManager[94]/Add -> add new memory: akanren_history += akanren4 in long_memory.txt
+Mon Dec 23 18:07:36 JST 2019:MemoryManager[82]/Add -> already contain: akanren4 at activity_history in short_memory.txt
+Mon Dec 23 18:07:36 JST 2019:MemoryManager[142]/Read -> read memory: sotakatari_history = sotakatari2,sotakatari4
+Mon Dec 23 18:07:36 JST 2019:MemoryManager[94]/Add -> add new memory: sotakatari_history += sotakatari3 in long_memory.txt
+Mon Dec 23 18:07:36 JST 2019:MemoryManager[82]/Add -> already contain: sotakatari3 at activity_history in short_memory.txt
+Mon Dec 23 18:07:36 JST 2019:ActivityManager[316]/ReadBehaviors -> Load Activity: sotakatari
+Mon Dec 23 18:07:36 JST 2019:MemoryManager[142]/Read -> read memory: katari_history = katari4,katari3,katari5,katari,katari2
+Mon Dec 23 18:07:36 JST 2019:MemoryManager[181]/Clear -> clear memory: katari_history = katari4,katari3,katari5,katari,katari2
+Mon Dec 23 18:07:36 JST 2019:MemoryManager[94]/Add -> add new memory: katari_history += katari3 in long_memory.txt
+Mon Dec 23 18:07:36 JST 2019:MemoryManager[82]/Add -> already contain: katari3 at activity_history in short_memory.txt
+Mon Dec 23 18:07:36 JST 2019:ActivityManager[316]/ReadBehaviors -> Load Activity: katari
+Mon Dec 23 18:07:36 JST 2019:MemoryManager[142]/Read -> read memory: katari_history = katari3
+Mon Dec 23 18:07:36 JST 2019:MemoryManager[94]/Add -> add new memory: katari_history += katari2 in long_memory.txt
+Mon Dec 23 18:07:36 JST 2019:MemoryManager[82]/Add -> already contain: katari2 at activity_history in short_memory.txt
+Mon Dec 23 18:07:36 JST 2019:ActivityManager[316]/ReadBehaviors -> Load Activity: katari
+Mon Dec 23 18:07:36 JST 2019:ActivityManager[78]/handling -> Read activity: activities\akanren4.txt
+Mon Dec 23 18:07:48 JST 2019:MemoryManager[142]/Read -> read memory: sotakatari_history = sotakatari2,sotakatari4,sotakatari3
+Mon Dec 23 18:07:48 JST 2019:MemoryManager[94]/Add -> add new memory: sotakatari_history += sotakatari in long_memory.txt
+Mon Dec 23 18:07:48 JST 2019:MemoryManager[82]/Add -> already contain: sotakatari at activity_history in short_memory.txt
+Mon Dec 23 18:07:48 JST 2019:ActivityManager[316]/ReadBehaviors -> Load Activity: sotakatari
+Mon Dec 23 18:07:48 JST 2019:ActivityManager[78]/handling -> Read activity: activities\along.txt
+Mon Dec 23 18:07:53 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 18747241
+Mon Dec 23 18:07:54 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 23 18:07:54 JST 2019:MemoryManager[142]/Read -> read memory: aka_heart_history = aka_heart
+Mon Dec 23 18:07:54 JST 2019:MemoryManager[94]/Add -> add new memory: aka_heart_history += aka_heart2 in long_memory.txt
+Mon Dec 23 18:07:54 JST 2019:MemoryManager[82]/Add -> already contain: aka_heart2 at activity_history in short_memory.txt
+Mon Dec 23 18:07:54 JST 2019:MemoryManager[142]/Read -> read memory: aizuchi_history = aizuchi,aizuchi4
+Mon Dec 23 18:07:54 JST 2019:MemoryManager[94]/Add -> add new memory: aizuchi_history += aizuchi2 in long_memory.txt
+Mon Dec 23 18:07:54 JST 2019:MemoryManager[82]/Add -> already contain: aizuchi2 at activity_history in short_memory.txt
+Mon Dec 23 18:07:54 JST 2019:ActivityManager[316]/ReadBehaviors -> Load Activity: aizuchi
+Mon Dec 23 18:07:54 JST 2019:MemoryManager[142]/Read -> read memory: katari_history = katari3,katari2
+Mon Dec 23 18:07:54 JST 2019:MemoryManager[94]/Add -> add new memory: katari_history += katari4 in long_memory.txt
+Mon Dec 23 18:07:54 JST 2019:MemoryManager[82]/Add -> already contain: katari4 at activity_history in short_memory.txt
+Mon Dec 23 18:07:54 JST 2019:ActivityManager[316]/ReadBehaviors -> Load Activity: katari
+Mon Dec 23 18:07:54 JST 2019:MemoryManager[142]/Read -> read memory: katari_history = katari3,katari2,katari4
+Mon Dec 23 18:07:54 JST 2019:MemoryManager[94]/Add -> add new memory: katari_history += katari in long_memory.txt
+Mon Dec 23 18:07:54 JST 2019:MemoryManager[82]/Add -> already contain: katari at activity_history in short_memory.txt
+Mon Dec 23 18:07:54 JST 2019:ActivityManager[316]/ReadBehaviors -> Load Activity: katari
+Mon Dec 23 18:07:54 JST 2019:ActivityManager[78]/handling -> Read activity: activities\aka_heart2.txt
+Mon Dec 23 18:08:24 JST 2019:MemoryManager[142]/Read -> read memory: sotakatari_history = sotakatari2,sotakatari4,sotakatari3,sotakatari
+Mon Dec 23 18:08:24 JST 2019:MemoryManager[181]/Clear -> clear memory: sotakatari_history = sotakatari2,sotakatari4,sotakatari3,sotakatari
+Mon Dec 23 18:08:24 JST 2019:MemoryManager[94]/Add -> add new memory: sotakatari_history += sotakatari in long_memory.txt
+Mon Dec 23 18:08:24 JST 2019:MemoryManager[82]/Add -> already contain: sotakatari at activity_history in short_memory.txt
+Mon Dec 23 18:08:24 JST 2019:ActivityManager[316]/ReadBehaviors -> Load Activity: sotakatari
+Mon Dec 23 18:08:24 JST 2019:ActivityManager[78]/handling -> Read activity: activities\asilver.txt
+Mon Dec 23 18:08:27 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 18821339
+Mon Dec 23 18:08:29 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 18824228
+Mon Dec 23 18:08:40 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 23 18:08:41 JST 2019:MemoryManager[142]/Read -> read memory: akanren_history = akanren,akanren2,akanren4
+Mon Dec 23 18:08:41 JST 2019:MemoryManager[94]/Add -> add new memory: akanren_history += akanren3 in long_memory.txt
+Mon Dec 23 18:08:41 JST 2019:MemoryManager[82]/Add -> already contain: akanren3 at activity_history in short_memory.txt
+Mon Dec 23 18:08:41 JST 2019:MemoryManager[142]/Read -> read memory: katari_history = katari3,katari2,katari4,katari
+Mon Dec 23 18:08:41 JST 2019:MemoryManager[94]/Add -> add new memory: katari_history += katari5 in long_memory.txt
+Mon Dec 23 18:08:41 JST 2019:MemoryManager[82]/Add -> already contain: katari5 at activity_history in short_memory.txt
+Mon Dec 23 18:08:41 JST 2019:ActivityManager[316]/ReadBehaviors -> Load Activity: katari
+Mon Dec 23 18:08:41 JST 2019:MemoryManager[142]/Read -> read memory: katari_history = katari3,katari2,katari4,katari,katari5
+Mon Dec 23 18:08:41 JST 2019:MemoryManager[181]/Clear -> clear memory: katari_history = katari3,katari2,katari4,katari,katari5
+Mon Dec 23 18:08:41 JST 2019:MemoryManager[94]/Add -> add new memory: katari_history += katari3 in long_memory.txt
+Mon Dec 23 18:08:41 JST 2019:MemoryManager[82]/Add -> already contain: katari3 at activity_history in short_memory.txt
+Mon Dec 23 18:08:41 JST 2019:ActivityManager[316]/ReadBehaviors -> Load Activity: katari
+Mon Dec 23 18:08:41 JST 2019:ActivityManager[78]/handling -> Read activity: activities\akanren3.txt
+Mon Dec 23 18:08:52 JST 2019:MemoryManager[142]/Read -> read memory: sotakatari_history = sotakatari
+Mon Dec 23 18:08:52 JST 2019:MemoryManager[94]/Add -> add new memory: sotakatari_history += sotakatari2 in long_memory.txt
+Mon Dec 23 18:08:52 JST 2019:MemoryManager[82]/Add -> already contain: sotakatari2 at activity_history in short_memory.txt
+Mon Dec 23 18:08:52 JST 2019:ActivityManager[316]/ReadBehaviors -> Load Activity: sotakatari
+Mon Dec 23 18:08:52 JST 2019:ActivityManager[78]/handling -> Read activity: activities\arubi.txt
+Mon Dec 23 18:08:52 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 18849101
+Mon Dec 23 18:08:59 JST 2019:ActivityManager[163]/selectActivity -> Activity ERROR: Could not find activity: 18852759
+Mon Dec 23 18:09:08 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 23 18:09:08 JST 2019:MemoryManager[142]/Read -> read memory: katari_history = katari3
+Mon Dec 23 18:09:08 JST 2019:MemoryManager[94]/Add -> add new memory: katari_history += katari2 in long_memory.txt
+Mon Dec 23 18:09:08 JST 2019:MemoryManager[82]/Add -> already contain: katari2 at activity_history in short_memory.txt
+Mon Dec 23 18:09:08 JST 2019:ActivityManager[316]/ReadBehaviors -> Load Activity: katari
+Mon Dec 23 18:09:08 JST 2019:MemoryManager[142]/Read -> read memory: katari_history = katari3,katari2
+Mon Dec 23 18:09:08 JST 2019:MemoryManager[94]/Add -> add new memory: katari_history += katari in long_memory.txt
+Mon Dec 23 18:09:08 JST 2019:MemoryManager[82]/Add -> already contain: katari at activity_history in short_memory.txt
+Mon Dec 23 18:09:08 JST 2019:ActivityManager[316]/ReadBehaviors -> Load Activity: katari
+Mon Dec 23 18:09:08 JST 2019:ActivityManager[78]/handling -> Read activity: activities\aok_gold.txt
+Mon Dec 23 18:09:23 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 23 18:09:23 JST 2019:MemoryManager[142]/Read -> read memory: sotakatari_history = sotakatari,sotakatari2
+Mon Dec 23 18:09:23 JST 2019:MemoryManager[94]/Add -> add new memory: sotakatari_history += sotakatari3 in long_memory.txt
+Mon Dec 23 18:09:23 JST 2019:MemoryManager[82]/Add -> already contain: sotakatari3 at activity_history in short_memory.txt
+Mon Dec 23 18:09:23 JST 2019:ActivityManager[316]/ReadBehaviors -> Load Activity: sotakatari
+Mon Dec 23 18:09:23 JST 2019:MemoryManager[142]/Read -> read memory: katari_history = katari3,katari2,katari
+Mon Dec 23 18:09:23 JST 2019:MemoryManager[94]/Add -> add new memory: katari_history += katari4 in long_memory.txt
+Mon Dec 23 18:09:23 JST 2019:MemoryManager[82]/Add -> already contain: katari4 at activity_history in short_memory.txt
+Mon Dec 23 18:09:23 JST 2019:ActivityManager[316]/ReadBehaviors -> Load Activity: katari
+Mon Dec 23 18:09:23 JST 2019:ActivityManager[78]/handling -> Read activity: activities\a10_2.txt
+Mon Dec 23 18:09:41 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 23 18:09:41 JST 2019:MemoryManager[142]/Read -> read memory: sotakatari_history = sotakatari,sotakatari2,sotakatari3
+Mon Dec 23 18:09:41 JST 2019:MemoryManager[94]/Add -> add new memory: sotakatari_history += sotakatari4 in long_memory.txt
+Mon Dec 23 18:09:41 JST 2019:MemoryManager[82]/Add -> already contain: sotakatari4 at activity_history in short_memory.txt
+Mon Dec 23 18:09:41 JST 2019:ActivityManager[316]/ReadBehaviors -> Load Activity: sotakatari
+Mon Dec 23 18:09:41 JST 2019:MemoryManager[142]/Read -> read memory: katari_history = katari3,katari2,katari,katari4
+Mon Dec 23 18:09:41 JST 2019:MemoryManager[94]/Add -> add new memory: katari_history += katari5 in long_memory.txt
+Mon Dec 23 18:09:41 JST 2019:MemoryManager[82]/Add -> already contain: katari5 at activity_history in short_memory.txt
+Mon Dec 23 18:09:41 JST 2019:ActivityManager[316]/ReadBehaviors -> Load Activity: katari
+Mon Dec 23 18:09:41 JST 2019:ActivityManager[78]/handling -> Read activity: activities\a10_3.txt
+Mon Dec 23 18:09:56 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 23 18:09:56 JST 2019:MemoryManager[142]/Read -> read memory: katari_history = katari3,katari2,katari,katari4,katari5
+Mon Dec 23 18:09:56 JST 2019:MemoryManager[181]/Clear -> clear memory: katari_history = katari3,katari2,katari,katari4,katari5
+Mon Dec 23 18:09:56 JST 2019:MemoryManager[94]/Add -> add new memory: katari_history += katari in long_memory.txt
+Mon Dec 23 18:09:56 JST 2019:MemoryManager[82]/Add -> already contain: katari at activity_history in short_memory.txt
+Mon Dec 23 18:09:56 JST 2019:ActivityManager[316]/ReadBehaviors -> Load Activity: katari
+Mon Dec 23 18:09:56 JST 2019:ActivityManager[78]/handling -> Read activity: activities\alist2.txt
+Mon Dec 23 18:10:10 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 23 18:10:10 JST 2019:MemoryManager[142]/Read -> read memory: aok_heart_history = aok_heart2
+Mon Dec 23 18:10:10 JST 2019:MemoryManager[94]/Add -> add new memory: aok_heart_history += aok_heart in long_memory.txt
+Mon Dec 23 18:10:11 JST 2019:MemoryManager[94]/Add -> add new memory: activity_history += aok_heart in short_memory.txt
+Mon Dec 23 18:10:11 JST 2019:MemoryManager[142]/Read -> read memory: katari_history = katari
+Mon Dec 23 18:10:11 JST 2019:MemoryManager[94]/Add -> add new memory: katari_history += katari2 in long_memory.txt
+Mon Dec 23 18:10:11 JST 2019:MemoryManager[82]/Add -> already contain: katari2 at activity_history in short_memory.txt
+Mon Dec 23 18:10:11 JST 2019:ActivityManager[316]/ReadBehaviors -> Load Activity: katari
+Mon Dec 23 18:10:11 JST 2019:MemoryManager[142]/Read -> read memory: katari_history = katari,katari2
+Mon Dec 23 18:10:11 JST 2019:MemoryManager[94]/Add -> add new memory: katari_history += katari3 in long_memory.txt
+Mon Dec 23 18:10:11 JST 2019:MemoryManager[82]/Add -> already contain: katari3 at activity_history in short_memory.txt
+Mon Dec 23 18:10:11 JST 2019:ActivityManager[316]/ReadBehaviors -> Load Activity: katari
+Mon Dec 23 18:10:11 JST 2019:ActivityManager[78]/handling -> Read activity: activities\aok_heart.txt
+Mon Dec 23 18:10:37 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 23 18:10:37 JST 2019:MemoryManager[142]/Read -> read memory: agood_history = agood4
+Mon Dec 23 18:10:37 JST 2019:MemoryManager[94]/Add -> add new memory: agood_history += agood3 in long_memory.txt
+Mon Dec 23 18:10:37 JST 2019:MemoryManager[94]/Add -> add new memory: activity_history += agood3 in short_memory.txt
+Mon Dec 23 18:10:37 JST 2019:MemoryManager[142]/Read -> read memory: sotakatari_history = sotakatari,sotakatari2,sotakatari3,sotakatari4
+Mon Dec 23 18:10:37 JST 2019:MemoryManager[181]/Clear -> clear memory: sotakatari_history = sotakatari,sotakatari2,sotakatari3,sotakatari4
+Mon Dec 23 18:10:37 JST 2019:MemoryManager[94]/Add -> add new memory: sotakatari_history += sotakatari in long_memory.txt
+Mon Dec 23 18:10:37 JST 2019:MemoryManager[82]/Add -> already contain: sotakatari at activity_history in short_memory.txt
+Mon Dec 23 18:10:37 JST 2019:ActivityManager[316]/ReadBehaviors -> Load Activity: sotakatari
+Mon Dec 23 18:10:37 JST 2019:MemoryManager[142]/Read -> read memory: sotakatari_history = sotakatari
+Mon Dec 23 18:10:37 JST 2019:MemoryManager[94]/Add -> add new memory: sotakatari_history += sotakatari4 in long_memory.txt
+Mon Dec 23 18:10:37 JST 2019:MemoryManager[82]/Add -> already contain: sotakatari4 at activity_history in short_memory.txt
+Mon Dec 23 18:10:37 JST 2019:ActivityManager[316]/ReadBehaviors -> Load Activity: sotakatari
+Mon Dec 23 18:10:37 JST 2019:MemoryManager[142]/Read -> read memory: katari_history = katari,katari2,katari3
+Mon Dec 23 18:10:37 JST 2019:MemoryManager[94]/Add -> add new memory: katari_history += katari4 in long_memory.txt
+Mon Dec 23 18:10:38 JST 2019:MemoryManager[82]/Add -> already contain: katari4 at activity_history in short_memory.txt
+Mon Dec 23 18:10:38 JST 2019:ActivityManager[316]/ReadBehaviors -> Load Activity: katari
+Mon Dec 23 18:10:38 JST 2019:ActivityManager[78]/handling -> Read activity: activities\agood3.txt
+Mon Dec 23 18:10:59 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 23 18:10:59 JST 2019:MemoryManager[142]/Read -> read memory: agood_history = agood4,agood3
+Mon Dec 23 18:10:59 JST 2019:MemoryManager[94]/Add -> add new memory: agood_history += agood2 in long_memory.txt
+Mon Dec 23 18:10:59 JST 2019:MemoryManager[94]/Add -> add new memory: activity_history += agood2 in short_memory.txt
+Mon Dec 23 18:10:59 JST 2019:MemoryManager[142]/Read -> read memory: sotakatari_history = sotakatari,sotakatari4
+Mon Dec 23 18:10:59 JST 2019:MemoryManager[94]/Add -> add new memory: sotakatari_history += sotakatari3 in long_memory.txt
+Mon Dec 23 18:10:59 JST 2019:MemoryManager[82]/Add -> already contain: sotakatari3 at activity_history in short_memory.txt
+Mon Dec 23 18:10:59 JST 2019:ActivityManager[316]/ReadBehaviors -> Load Activity: sotakatari
+Mon Dec 23 18:10:59 JST 2019:MemoryManager[142]/Read -> read memory: sotakatari_history = sotakatari,sotakatari4,sotakatari3
+Mon Dec 23 18:10:59 JST 2019:MemoryManager[94]/Add -> add new memory: sotakatari_history += sotakatari2 in long_memory.txt
+Mon Dec 23 18:10:59 JST 2019:MemoryManager[82]/Add -> already contain: sotakatari2 at activity_history in short_memory.txt
+Mon Dec 23 18:10:59 JST 2019:ActivityManager[316]/ReadBehaviors -> Load Activity: sotakatari
+Mon Dec 23 18:10:59 JST 2019:MemoryManager[142]/Read -> read memory: katari_history = katari,katari2,katari3,katari4
+Mon Dec 23 18:10:59 JST 2019:MemoryManager[94]/Add -> add new memory: katari_history += katari5 in long_memory.txt
+Mon Dec 23 18:10:59 JST 2019:MemoryManager[82]/Add -> already contain: katari5 at activity_history in short_memory.txt
+Mon Dec 23 18:10:59 JST 2019:ActivityManager[316]/ReadBehaviors -> Load Activity: katari
+Mon Dec 23 18:10:59 JST 2019:ActivityManager[78]/handling -> Read activity: activities\agood2.txt
+Mon Dec 23 18:11:18 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Dec 23 18:11:18 JST 2019:MemoryManager[142]/Read -> read memory: sotakatari_history = sotakatari,sotakatari4,sotakatari3,sotakatari2
+Mon Dec 23 18:11:18 JST 2019:MemoryManager[181]/Clear -> clear memory: sotakatari_history = sotakatari,sotakatari4,sotakatari3,sotakatari2
+Mon Dec 23 18:11:18 JST 2019:MemoryManager[94]/Add -> add new memory: sotakatari_history += sotakatari4 in long_memory.txt
+Mon Dec 23 18:11:18 JST 2019:MemoryManager[82]/Add -> already contain: sotakatari4 at activity_history in short_memory.txt
+Mon Dec 23 18:11:18 JST 2019:ActivityManager[316]/ReadBehaviors -> Load Activity: sotakatari
+Mon Dec 23 18:11:18 JST 2019:MemoryManager[142]/Read -> read memory: katari_history = katari,katari2,katari3,katari4,katari5
+Mon Dec 23 18:11:18 JST 2019:MemoryManager[181]/Clear -> clear memory: katari_history = katari,katari2,katari3,katari4,katari5
+Mon Dec 23 18:11:18 JST 2019:MemoryManager[94]/Add -> add new memory: katari_history += katari2 in long_memory.txt
+Mon Dec 23 18:11:18 JST 2019:MemoryManager[82]/Add -> already contain: katari2 at activity_history in short_memory.txt
+Mon Dec 23 18:11:18 JST 2019:ActivityManager[316]/ReadBehaviors -> Load Activity: katari
+Mon Dec 23 18:11:18 JST 2019:ActivityManager[78]/handling -> Read activity: activities\a4_3.txt

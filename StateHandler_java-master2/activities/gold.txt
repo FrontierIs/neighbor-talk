@@ -1,0 +1,17 @@
+sota;addAction:motionWith:homePose
+sota;addAction:say:イヤリングって素材もいろいろあるんだね
+sota;waitForCommandEnd
+loadActivity:aizuchi
+sota2;addAction:motionWith:homePose
+sota2;addAction:say:例えばどんな素材?:rate=10:pitch=1:intonation=8
+sota2;waitForCommandEnd
+sota;addAction:motionWith:bodyPose:0:-900:0:-400:300:1000
+sota;addAction:say:ゴールドとか
+sota;waitForCommandEnd
+sota2;addAction:posture:homePosture
+sota2;addAction:say:ゴールドだね、どんな特徴があるの?:rate=10:pitch=1:intonation=8
+sota2;waitForCommandEnd
+sota;addAction:say:じょうひんな感じでゴージャスなイメージがあるね
+sota;waitForCommandEnd
+sota2;addAction:say:なるほどなあ:rate=10:pitch=1:intonation=8
+sota2;waitForCommandEnd

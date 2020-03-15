@@ -1,0 +1,15 @@
+sota;addAction:motionWith:homePose
+sota;addAction:say:あのイヤリング良さそうじゃない?
+sota;waitForCommandEnd
+sota2;addAction:motionWith:homePose
+sota2;addAction:say:何番、何番?:rate=10:pitch=1:intonation=8
+sota2;waitForCommandEnd
+sota;addAction:say:23番、月のデザインが特徴的でいい味出してる、しかも着け心地もトップクラスにいい
+sota;waitForCommandEnd
+sota2;addAction:motionWith:bodyPose:0:300:-500:900:0:1000
+sota2;addAction:say:どんなファッションにも合わせやすそうだね:rate=10:pitch=1:intonation=8
+sota2;waitForCommandEnd
+sota;addAction:say:23番かなり良いね
+sota;waitForCommandEnd
+
+

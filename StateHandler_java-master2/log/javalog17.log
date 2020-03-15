@@ -1,0 +1,10 @@
+Mon Nov 18 15:41:05 JST 2019:util.Log[126]/init -> @@@ RUN STAMP @@@ -- Frontier-is
+Mon Nov 18 15:41:05 JST 2019:util.FileManage[91]/ReadFile -> read setting.txt
+ -> util.Config[76]/init
+ -> util.Config[36]/<init>
+ -> ActivityManager[41]/handling
+ -> ActivityManager[21]/main
+Mon Nov 18 15:41:05 JST 2019:util.Config[155]/Get -> read config ipAdress_server = 100.80.194.226
+Mon Nov 18 15:41:05 JST 2019:util.Config[155]/Get -> read config portNum_server = 11000
+Mon Nov 18 15:41:05 JST 2019:ClientThreadUTF8[46]/<init> -> try to connect with 100.80.194.226 11000
+Mon Nov 18 15:41:05 JST 2019:ClientThreadUTF8[54]/<init> -> connected with 100.80.194.226 11000

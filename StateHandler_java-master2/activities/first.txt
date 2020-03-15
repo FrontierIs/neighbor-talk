@@ -1,0 +1,17 @@
+sota;addAction:motionWith:homePose
+sota;addAction:say:ねえ知ってる?
+sota;waitForCommandEnd
+sota2;addAction:motionWith:homePose
+sota2;addAction:say:なになに?:rate=10:pitch=1:intonation=8
+sota2;waitForCommandEnd
+sota;addAction:say:イヤリングなどのジュエリーは、女性がもらってうれしいプレゼントランキングで
+sota;waitForCommandEnd
+sota2;addAction:motionWith:bodyPose:0:300:-500:900:0:1000
+sota2;addAction:say:うん、うん:rate=10:pitch=1:intonation=8
+sota2;waitForCommandEnd
+sota;addAction:say:第1位なんだって
+sota;waitForCommandEnd
+sota2;addAction:say:すごい、やっぱりジュエリーは人気だね:rate=10:pitch=1:intonation=8
+sota2;waitForCommandEnd
+
+

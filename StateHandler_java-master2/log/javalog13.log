@@ -1,0 +1,33 @@
+Mon Nov 11 15:22:18 JST 2019:util.Log[126]/init -> @@@ RUN STAMP @@@ -- Frontier-is
+Mon Nov 11 15:22:18 JST 2019:util.FileManage[91]/ReadFile -> read setting.txt
+ -> util.Config[76]/init
+ -> util.Config[36]/<init>
+ -> ActivityManager[41]/handling
+ -> ActivityManager[21]/main
+Mon Nov 11 15:22:18 JST 2019:util.Config[155]/Get -> read config ipAdress_server = 100.80.194.226
+Mon Nov 11 15:22:18 JST 2019:util.Config[155]/Get -> read config portNum_server = 11000
+Mon Nov 11 15:22:18 JST 2019:ClientThreadUTF8[46]/<init> -> try to connect with 100.80.194.226 11000
+Mon Nov 11 15:22:18 JST 2019:ClientThreadUTF8[54]/<init> -> connected with 100.80.194.226 11000
+Mon Nov 11 15:22:38 JST 2019:ActivityManager[78]/handling -> Read activity: activities\narrow-gold.txt
+Mon Nov 11 15:23:25 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Nov 11 15:23:25 JST 2019:ActivityManager[78]/handling -> Read activity: activities\shizuku.txt
+Mon Nov 11 15:23:54 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Nov 11 15:23:54 JST 2019:ActivityManager[78]/handling -> Read activity: activities\simple.txt
+Mon Nov 11 15:24:24 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Nov 11 15:24:24 JST 2019:ActivityManager[78]/handling -> Read activity: activities\simple.txt
+Mon Nov 11 15:41:14 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Nov 11 15:41:14 JST 2019:MemoryManager[139]/Read -> Could Not find 'long_history' in long_memory.txt
+Mon Nov 11 15:41:14 JST 2019:MemoryManager[70]/Add -> add new key and memory: long_history = long in long_memory.txt
+Mon Nov 11 15:41:14 JST 2019:MemoryManager[94]/Add -> add new memory: activity_history += long in short_memory.txt
+Mon Nov 11 15:41:14 JST 2019:ActivityManager[78]/handling -> Read activity: activities\long.txt
+Mon Nov 11 15:41:37 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Nov 11 15:41:37 JST 2019:ActivityManager[78]/handling -> Read activity: activities\start.txt
+Mon Nov 11 15:45:10 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Nov 11 15:45:10 JST 2019:MemoryManager[142]/Read -> read memory: long_history = long
+Mon Nov 11 15:45:10 JST 2019:MemoryManager[94]/Add -> add new memory: long_history += long2 in long_memory.txt
+Mon Nov 11 15:45:10 JST 2019:MemoryManager[94]/Add -> add new memory: activity_history += long2 in short_memory.txt
+Mon Nov 11 15:45:10 JST 2019:ActivityManager[78]/handling -> Read activity: activities\long2.txt
+Mon Nov 11 15:45:54 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Nov 11 15:45:54 JST 2019:ActivityManager[78]/handling -> Read activity: activities\long2.txt
+Mon Nov 11 15:47:01 JST 2019:ActivityManager[78]/handling -> Read activity: activities\clear.txt
+Mon Nov 11 15:47:01 JST 2019:ActivityManager[78]/handling -> Read activity: activities\long2.txt

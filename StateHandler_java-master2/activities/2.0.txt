@@ -1,0 +1,14 @@
+sota;addAction:motionWith:pose:-1200:-900:0:900:0:-400:0:0:700
+sota;addAction:say:あれ、僕一番好きだなあ?
+sota;waitForCommandEnd
+sota2;addAction:say:何番、何番?:rate=10:pitch=1:intonation=8
+sota2;waitForCommandEnd
+sota;addAction:say:2番、シンプルな感じとさわやかさがあって、一番いいと思うんだ
+sota;waitForCommandEnd
+sota2;addAction:motionWith:bodyPose:0:300:-500:900:0:1000
+sota2;addAction:say:確かに女性らしさがあって普段から身につけやすそうだね:rate=10:pitch=1:intonation=8
+sota2;waitForCommandEnd
+sota;addAction:say:2番、喜んでくれること間違いないね
+sota;waitForCommandEnd
+
+
